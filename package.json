@@ -1,0 +1,21 @@
+{
+  "name": "sanskrit-aid-chrome-plugin",
+  "version": "0.1.0",
+  "description": "Chrome extension for Sanskrit learners - word analysis, declension families, grammatical visualization",
+  "type": "module",
+  "scripts": {
+    "dev": "echo 'TODO: Add build tooling'",
+    "build": "echo 'TODO: Add build tooling'",
+    "test": "echo 'TODO: Add test runner'"
+  },
+  "keywords": [
+    "sanskrit",
+    "language-learning",
+    "chrome-extension",
+    "morphology",
+    "declension"
+  ],
+  "author": "Mahesh",
+  "license": "MIT",
+  "devDependencies": {}
+}

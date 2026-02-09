@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sanskrit Learner</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      width: 300px;
+      background: #fff;
+      color: #333;
+    }
+
+    .header {
+      background: linear-gradient(135deg, #ff9933 0%, #e67300 100%);
+      color: white;
+      padding: 16px;
+      text-align: center;
+    }
+
+    .header h1 {
+      font-size: 18px;
+      font-weight: 600;
+      margin-bottom: 4px;
+    }
+
+    .header .subtitle {
+      font-size: 12px;
+      opacity: 0.9;
+    }
+
+    .content {
+      padding: 16px;
+    }
+
+    .setting-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 12px 0;
+      border-bottom: 1px solid #eee;
+    }
+
+    .setting-row:last-child {
+      border-bottom: none;
+    }
+
+    .setting-label {
+      font-size: 14px;
+      color: #333;
+    }
+
+    .setting-description {
+      font-size: 11px;
+      color: #888;
+      margin-top: 2px;
+    }
+
+    /* Toggle switch */
+    .toggle {
+      position: relative;
+      width: 44px;
+      height: 24px;
+      flex-shrink: 0;
+    }
+
+    .toggle input {
+      opacity: 0;
+      width: 0;
+      height: 0;
+    }
+
+    .toggle-slider {
+      position: absolute;
+      cursor: pointer;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background-color: #ccc;
+      transition: 0.2s;
+      border-radius: 24px;
+    }
+
+    .toggle-slider::before {
+      position: absolute;
+      content: "";
+      height: 18px;
+      width: 18px;
+      left: 3px;
+      bottom: 3px;
+      background-color: white;
+      transition: 0.2s;
+      border-radius: 50%;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+    }
+
+    .toggle input:checked + .toggle-slider {
+      background-color: #ff9933;
+    }
+
+    .toggle input:checked + .toggle-slider::before {
+      transform: translateX(20px);
+    }
+
+    .toggle input:focus + .toggle-slider {
+      box-shadow: 0 0 0 2px rgba(255, 153, 51, 0.3);
+    }
+
+    /* Info section */
+    .info {
+      padding: 16px;
+      background: #f9f9f9;
+      border-top: 1px solid #eee;
+    }
+
+    .info-title {
+      font-size: 11px;
+      font-weight: 600;
+      color: #888;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      margin-bottom: 8px;
+    }
+
+    .info p {
+      font-size: 12px;
+      color: #666;
+      line-height: 1.5;
+      margin-bottom: 8px;
+    }
+
+    .info p:last-child {
+      margin-bottom: 0;
+    }
+
+    .version {
+      font-size: 11px;
+      color: #aaa;
+      text-align: center;
+      padding: 8px;
+      border-top: 1px solid #eee;
+    }
+
+    /* Status indicator */
+    .status {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      padding: 10px 16px;
+      background: #f0fff0;
+      border-bottom: 1px solid #e0e0e0;
+      font-size: 12px;
+      color: #2e7d32;
+    }
+
+    .status.disabled {
+      background: #fff5f5;
+      color: #c62828;
+    }
+
+    .status-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: #4caf50;
+    }
+
+    .status.disabled .status-dot {
+      background: #ef5350;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1>Sanskrit Learner</h1>
+    <div class="subtitle">Word Analysis & Declension Tables</div>
+  </div>
+
+  <div id="status" class="status">
+    <span class="status-dot"></span>
+    <span id="status-text">Extension active</span>
+  </div>
+
+  <div class="content">
+    <div class="setting-row">
+      <div>
+        <div class="setting-label">Enable Analysis</div>
+        <div class="setting-description">Show popup on Devanagari selection</div>
+      </div>
+      <label class="toggle">
+        <input type="checkbox" id="enabled-toggle" checked>
+        <span class="toggle-slider"></span>
+      </label>
+    </div>
+  </div>
+
+  <div class="info">
+    <div class="info-title">How to use</div>
+    <p>Select any Sanskrit word in Devanagari script on a webpage. A popup will appear showing:</p>
+    <p>• Grammatical analysis (case, number, gender)<br>
+       • Complete declension table with your word highlighted</p>
+  </div>
+
+  <div class="version">
+    Version <span id="version">0.1.0</span>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>

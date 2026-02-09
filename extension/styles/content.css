@@ -1,0 +1,270 @@
+/* Sanskrit Learner - Content Script Styles */
+
+/* Popup container */
+.sanskrit-popup {
+  position: absolute;
+  z-index: 2147483647;
+  background: #ffffff;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  max-width: 450px;
+  min-width: 320px;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-5px);
+  transition: opacity 0.15s ease, transform 0.15s ease, visibility 0.15s;
+}
+
+.sanskrit-popup.visible {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+/* Header */
+.sanskrit-popup-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 14px;
+  background: linear-gradient(135deg, #ff9933 0%, #e67300 100%);
+  border-radius: 8px 8px 0 0;
+  color: white;
+}
+
+.sanskrit-popup-title {
+  font-weight: 600;
+  font-size: 13px;
+  letter-spacing: 0.3px;
+}
+
+.sanskrit-popup-close {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+  padding: 0;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+  opacity: 0.8;
+  transition: opacity 0.1s, background 0.1s;
+}
+
+.sanskrit-popup-close:hover {
+  opacity: 1;
+  background: rgba(255, 255, 255, 0.2);
+}
+
+/* Content area */
+.sanskrit-popup-content {
+  padding: 14px;
+  max-height: 400px;
+  overflow-y: auto;
+}
+
+/* Loading state */
+.sanskrit-loading {
+  text-align: center;
+  color: #666;
+  padding: 20px;
+}
+
+.sanskrit-loading::before {
+  content: '';
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  border: 2px solid #ff9933;
+  border-radius: 50%;
+  border-top-color: transparent;
+  animation: sanskrit-spin 0.8s linear infinite;
+  margin-right: 8px;
+  vertical-align: middle;
+}
+
+@keyframes sanskrit-spin {
+  to { transform: rotate(360deg); }
+}
+
+/* Error state */
+.sanskrit-error {
+  text-align: center;
+  color: #d32f2f;
+  padding: 10px;
+}
+
+.sanskrit-error-detail {
+  font-size: 12px;
+  color: #666;
+  margin-top: 5px;
+}
+
+/* Word display */
+.sanskrit-word {
+  font-size: 28px;
+  font-weight: 500;
+  color: #1a1a1a;
+  margin-bottom: 10px;
+  font-family: 'Noto Sans Devanagari', 'Siddhanta', 'Sanskrit Text', sans-serif;
+}
+
+/* Stem display */
+.sanskrit-stem {
+  color: #555;
+  margin-bottom: 10px;
+  font-size: 15px;
+}
+
+.sanskrit-stem strong {
+  color: #1a1a1a;
+  font-family: 'Noto Sans Devanagari', 'Siddhanta', 'Sanskrit Text', sans-serif;
+}
+
+/* Grammar tags */
+.sanskrit-grammar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 14px;
+}
+
+.sanskrit-tag {
+  display: inline-block;
+  background: #f5f5f5;
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+  padding: 4px 8px;
+  font-size: 12px;
+  color: #444;
+}
+
+/* Section title */
+.sanskrit-section-title {
+  font-size: 12px;
+  font-weight: 600;
+  color: #666;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin: 14px 0 8px 0;
+  padding-bottom: 4px;
+  border-bottom: 1px solid #eee;
+}
+
+/* Declension table */
+.sanskrit-declension-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+  margin-top: 8px;
+}
+
+.sanskrit-declension-table th,
+.sanskrit-declension-table td {
+  padding: 6px 8px;
+  text-align: center;
+  border: 1px solid #e0e0e0;
+  font-family: 'Noto Sans Devanagari', 'Siddhanta', 'Sanskrit Text', sans-serif;
+}
+
+.sanskrit-declension-table th {
+  background: #f8f8f8;
+  font-weight: 500;
+  color: #444;
+}
+
+.sanskrit-declension-table th:first-child {
+  text-align: left;
+  width: 80px;
+}
+
+.sanskrit-declension-table tbody tr:hover {
+  background: #fafafa;
+}
+
+/* English abbreviations in table headers */
+.sanskrit-en {
+  display: block;
+  font-size: 10px;
+  color: #888;
+  font-weight: normal;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+/* Highlighted cell (current form) */
+.sanskrit-highlight {
+  background: #fff3e0 !important;
+  font-weight: 600;
+  color: #e65100;
+  position: relative;
+}
+
+.sanskrit-highlight::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border: 2px solid #ff9933;
+  border-radius: 2px;
+  pointer-events: none;
+}
+
+/* Alternatives section */
+.sanskrit-alternatives {
+  margin-top: 10px;
+}
+
+.sanskrit-alt-list {
+  margin: 0;
+  padding-left: 16px;
+  font-size: 12px;
+  color: #666;
+}
+
+.sanskrit-alt-list li {
+  margin-bottom: 4px;
+}
+
+.sanskrit-alt-list strong {
+  color: #333;
+  font-family: 'Noto Sans Devanagari', 'Siddhanta', 'Sanskrit Text', sans-serif;
+}
+
+/* Notes and hints */
+.sanskrit-note {
+  color: #666;
+  font-size: 13px;
+  margin: 10px 0;
+}
+
+.sanskrit-hint {
+  color: #888;
+  font-size: 12px;
+  font-style: italic;
+}
+
+/* Scrollbar styling */
+.sanskrit-popup-content::-webkit-scrollbar {
+  width: 6px;
+}
+
+.sanskrit-popup-content::-webkit-scrollbar-track {
+  background: #f5f5f5;
+  border-radius: 3px;
+}
+
+.sanskrit-popup-content::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 3px;
+}
+
+.sanskrit-popup-content::-webkit-scrollbar-thumb:hover {
+  background: #aaa;
+}
