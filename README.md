@@ -17,6 +17,16 @@ Select any Sanskrit word (in Devanagari script) on a webpage and get:
 - **Multiple Analyses** - When a word could have multiple interpretations, alternatives are shown
 - **Works Everywhere** - Runs on any webpage with Sanskrit text
 
+## Screenshots
+
+<p align="center">
+  <img src="docs/images/demo-tapasvi.png" alt="Analysis of तपस्वी" width="400"/>
+  &nbsp;&nbsp;
+  <img src="docs/images/demo-gunavan.png" alt="Analysis of गुणवान्" width="400"/>
+</p>
+
+*Selecting words like तपस्वी (ascetic) and गुणवान् (virtuous) shows the stem, grammatical tags, and full declension table with the current form highlighted.*
+
 ## Installation
 
 ### From Source (Developer Mode)
