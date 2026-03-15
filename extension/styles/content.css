@@ -250,6 +250,45 @@
   font-style: italic;
 }
 
+/* Compound word (समास) breakdown */
+.sanskrit-compound-label {
+  font-size: 12px;
+  font-weight: 600;
+  color: #666;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 10px;
+}
+
+.sanskrit-compound-parts {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 12px;
+}
+
+.sanskrit-compound-part {
+  background: #fff3e0;
+  border: 1px solid #ff9933;
+  border-radius: 4px;
+  padding: 6px 10px;
+  font-size: 18px;
+  font-family: 'Noto Sans Devanagari', 'Siddhanta', 'Sanskrit Text', sans-serif;
+  color: #e65100;
+  cursor: pointer;
+  transition: background 0.1s;
+}
+
+.sanskrit-compound-part:hover {
+  background: #ffe0b2;
+}
+
+.sanskrit-compound-sep {
+  color: #999;
+  font-size: 14px;
+}
+
 /* Scrollbar styling */
 .sanskrit-popup-content::-webkit-scrollbar {
   width: 6px;

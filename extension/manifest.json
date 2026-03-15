@@ -32,6 +32,7 @@
     {
       "resources": [
         "data/*.json",
+        "content/compound.js",
         "content/transliterate.js",
         "content/declension.js"
       ],
