@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "echo 'TODO: Add build tooling'",
     "build": "echo 'TODO: Add build tooling'",
-    "test": "echo 'TODO: Add test runner'"
+    "test": "vitest run",
+    "test:watch": "vitest"
   },
   "keywords": [
     "sanskrit",
@@ -17,5 +18,7 @@
   ],
   "author": "Mahesh",
   "license": "MIT",
-  "devDependencies": {}
+  "devDependencies": {
+    "vitest": "^2.0.0"
+  }
 }

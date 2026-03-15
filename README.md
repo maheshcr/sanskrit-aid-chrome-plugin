@@ -70,12 +70,14 @@ Select any Sanskrit word (in Devanagari script) on a webpage and get:
 - [x] Current form highlighting in declension table
 - [x] Enable/disable toggle in extension popup
 - [x] Response caching for faster repeated lookups
+- [x] Compound word (समास) splitting — when a word has no direct tag analysis,
+      the extension falls back to `/v1/splits` to decompose it into components.
+      Each component is clickable for individual analysis.
 
 ## In Progress / Known Issues
 
 - [ ] Declension endings need review by Sanskrit scholars (some forms may be incorrect)
 - [ ] Verb conjugation tables not yet supported
-- [ ] Sandhi splitting display not fully implemented
 - [ ] Better icons needed (currently placeholder)
 - [ ] Debug console.log statements still in code
 
@@ -103,6 +105,7 @@ Select any Sanskrit word (in Devanagari script) on a webpage and get:
 - **Manifest V3** Chrome extension
 - **API:** [sanskrit_parser](https://github.com/kmadathil/sanskrit_parser) REST API
 - **No build step** - Pure vanilla JavaScript
+- **Tests:** Vitest (`npm test`) — pure utility functions in `extension/content/compound.js`
 - **Permissions:** activeTab, storage, host_permissions for API
 
 ## Project Structure

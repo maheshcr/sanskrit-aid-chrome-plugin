@@ -7,6 +7,17 @@ console.log('Sanskrit Learner: Content script file loaded');
 let popupElement = null;
 let isEnabled = true;
 
+// Lazily-loaded compound utilities (pure functions, no Chrome deps)
+let compoundUtils = null;
+
+async function getCompoundUtils() {
+  if (!compoundUtils) {
+    const url = chrome.runtime.getURL('content/compound.js');
+    compoundUtils = await import(url);
+  }
+  return compoundUtils;
+}
+
 /**
  * Check if extension is enabled
  */
@@ -129,6 +140,20 @@ async function showPopup(word, selection) {
     console.log('Sanskrit Learner: Fetching analysis...');
     const analysis = await analyzeWord(word);
     console.log('Sanskrit Learner: Got analysis:', analysis);
+
+    const { hasNoTags, parseSplitsResponse, buildCompoundHtml } = await getCompoundUtils();
+    if (hasNoTags(analysis)) {
+      console.log('Sanskrit Learner: No tags — trying splits fallback for:', word);
+      const splitsData = await fetchSplitsForWord(word);
+      const components = parseSplitsResponse(splitsData);
+      if (components) {
+        console.log('Sanskrit Learner: Rendering compound split:', components);
+        content.innerHTML = buildCompoundHtml(word, components);
+        attachCompoundHandlers(content);
+        return;
+      }
+    }
+
     renderAnalysis(content, word, analysis);
   } catch (error) {
     console.error('Sanskrit Learner: Analysis error:', error);
@@ -151,6 +176,57 @@ function hidePopup() {
   if (popupElement) {
     popupElement.classList.remove('visible');
   }
+}
+
+/**
+ * Fetch sandhi/compound splits for a word.
+ * Called as a fallback when FETCH_TAGS returns no results.
+ */
+async function fetchSplitsForWord(word) {
+  return new Promise((resolve) => {
+    chrome.runtime.sendMessage({ type: 'FETCH_SPLITS', word }, (response) => {
+      if (chrome.runtime.lastError) {
+        console.warn('Sanskrit Learner: Could not fetch splits:', chrome.runtime.lastError.message);
+        resolve(null);
+        return;
+      }
+      resolve(response ?? null);
+    });
+  });
+}
+
+/**
+ * Attach click handlers to compound component buttons so each part
+ * can be re-analyzed individually within the same popup.
+ */
+function attachCompoundHandlers(container) {
+  container.querySelectorAll('.sanskrit-compound-part').forEach(btn => {
+    btn.addEventListener('click', async () => {
+      // Clear the page text selection so the document mouseup listener does not
+      // re-trigger handleSelection with the still-active compound word selection.
+      window.getSelection()?.removeAllRanges();
+      const componentWord = btn.dataset.word;
+      const content = popupElement.querySelector('.sanskrit-popup-content');
+      const loadingDiv = document.createElement('div');
+      loadingDiv.className = 'sanskrit-loading';
+      loadingDiv.textContent = 'Analyzing...';
+      content.replaceChildren(loadingDiv);
+      try {
+        const analysis = await analyzeWord(componentWord);
+        renderAnalysis(content, componentWord, analysis);
+      } catch (error) {
+        const errDiv = document.createElement('div');
+        errDiv.className = 'sanskrit-error';
+        const p1 = document.createElement('p');
+        p1.textContent = 'Failed to analyze component';
+        const p2 = document.createElement('p');
+        p2.className = 'sanskrit-error-detail';
+        p2.textContent = error.message;
+        errDiv.append(p1, p2);
+        content.replaceChildren(errDiv);
+      }
+    });
+  });
 }
 
 /**
