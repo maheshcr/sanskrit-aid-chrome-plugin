@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.sanskrit-tts.batch</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/maheshcr/projects/sanskrit-aid-chrome-plugin/server/venv/bin/python</string>
+        <string>/Users/maheshcr/projects/sanskrit-aid-chrome-plugin/server/batch_generate_audio.py</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/maheshcr/projects/sanskrit-aid-chrome-plugin</string>
+
+    <!-- Run daily at 2:00 AM -->
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>2</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+
+    <!-- Log output -->
+    <key>StandardOutPath</key>
+    <string>/Users/maheshcr/projects/sanskrit-aid-chrome-plugin/server/cron/batch.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/maheshcr/projects/sanskrit-aid-chrome-plugin/server/cron/batch.log</string>
+
+    <!-- Don't keep retrying if it fails -->
+    <key>StartInterval</key>
+    <false/>
+</dict>
+</plist>

@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "mAlA",
+    "deva": "माला",
+    "iast": "mālā"
+  },
+  "linga": {
+    "key": "stri",
+    "sa": "स्त्रीलिङ्ग",
+    "en": "Feminine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मालाः",
+          "iast": "mālāḥ",
+          "slp1": "mAlAH"
+        },
+        "dvi": {
+          "deva": "मालौ",
+          "iast": "mālau",
+          "slp1": "mAlO"
+        },
+        "bahu": {
+          "deva": "मालाः",
+          "iast": "mālāḥ",
+          "slp1": "mAlAH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मालाम्",
+          "iast": "mālām",
+          "slp1": "mAlAm"
+        },
+        "dvi": {
+          "deva": "मालौ",
+          "iast": "mālau",
+          "slp1": "mAlO"
+        },
+        "bahu": {
+          "deva": "मालाः",
+          "iast": "mālāḥ",
+          "slp1": "mAlAH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "माला",
+          "iast": "mālā",
+          "slp1": "mAlA"
+        },
+        "dvi": {
+          "deva": "मालाभ्याम्",
+          "iast": "mālābhyām",
+          "slp1": "mAlAByAm"
+        },
+        "bahu": {
+          "deva": "मालाभिः",
+          "iast": "mālābhiḥ",
+          "slp1": "mAlABiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मालै",
+          "iast": "mālai",
+          "slp1": "mAlE"
+        },
+        "dvi": {
+          "deva": "मालाभ्याम्",
+          "iast": "mālābhyām",
+          "slp1": "mAlAByAm"
+        },
+        "bahu": {
+          "deva": "मालाभ्यः",
+          "iast": "mālābhyaḥ",
+          "slp1": "mAlAByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मालाः",
+          "iast": "mālāḥ",
+          "slp1": "mAlAH"
+        },
+        "dvi": {
+          "deva": "मालाभ्याम्",
+          "iast": "mālābhyām",
+          "slp1": "mAlAByAm"
+        },
+        "bahu": {
+          "deva": "मालाभ्यः",
+          "iast": "mālābhyaḥ",
+          "slp1": "mAlAByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मालाः",
+          "iast": "mālāḥ",
+          "slp1": "mAlAH"
+        },
+        "dvi": {
+          "deva": "मालौः",
+          "iast": "mālauḥ",
+          "slp1": "mAlOH"
+        },
+        "bahu": {
+          "deva": "मालाम्",
+          "iast": "mālām",
+          "slp1": "mAlAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "माले",
+          "iast": "māle",
+          "slp1": "mAle"
+        },
+        "dvi": {
+          "deva": "मालौः",
+          "iast": "mālauḥ",
+          "slp1": "mAlOH"
+        },
+        "bahu": {
+          "deva": "मालासु",
+          "iast": "mālāsu",
+          "slp1": "mAlAsu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मालाः",
+          "iast": "mālāḥ",
+          "slp1": "mAlAH"
+        },
+        "dvi": {
+          "deva": "मालौ",
+          "iast": "mālau",
+          "slp1": "mAlO"
+        },
+        "bahu": {
+          "deva": "मालाः",
+          "iast": "mālāḥ",
+          "slp1": "mAlAH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "मालाः",
+      "slp1": "mAlAH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मालौ",
+      "slp1": "mAlO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मालाः",
+      "slp1": "mAlAH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मालाम्",
+      "slp1": "mAlAm",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मालौ",
+      "slp1": "mAlO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मालाः",
+      "slp1": "mAlAH",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "माला",
+      "slp1": "mAlA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मालाभ्याम्",
+      "slp1": "mAlAByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मालाभिः",
+      "slp1": "mAlABiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मालै",
+      "slp1": "mAlE",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मालाभ्याम्",
+      "slp1": "mAlAByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मालाभ्यः",
+      "slp1": "mAlAByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मालाः",
+      "slp1": "mAlAH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मालाभ्याम्",
+      "slp1": "mAlAByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मालाभ्यः",
+      "slp1": "mAlAByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मालाः",
+      "slp1": "mAlAH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मालौः",
+      "slp1": "mAlOH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मालाम्",
+      "slp1": "mAlAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "माले",
+      "slp1": "mAle",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मालौः",
+      "slp1": "mAlOH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मालासु",
+      "slp1": "mAlAsu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मालाः",
+      "slp1": "mAlAH",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मालौ",
+      "slp1": "mAlO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मालाः",
+      "slp1": "mAlAH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

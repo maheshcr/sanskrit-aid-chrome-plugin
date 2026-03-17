@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "brahman",
+    "deva": "ब्रह्मन्",
+    "iast": "brahman"
+  },
+  "linga": {
+    "key": "pum",
+    "sa": "पुल्लिङ्ग",
+    "en": "Masculine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "ब्रह्मा",
+          "iast": "brahmā",
+          "slp1": "brahmA"
+        },
+        "dvi": {
+          "deva": "ब्रह्माणौ",
+          "iast": "brahmāṇau",
+          "slp1": "brahmARO"
+        },
+        "bahu": {
+          "deva": "ब्रह्माणः",
+          "iast": "brahmāṇaḥ",
+          "slp1": "brahmARaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "ब्रह्माणम्",
+          "iast": "brahmāṇam",
+          "slp1": "brahmARam"
+        },
+        "dvi": {
+          "deva": "ब्रह्माणौ",
+          "iast": "brahmāṇau",
+          "slp1": "brahmARO"
+        },
+        "bahu": {
+          "deva": "ब्रह्मणः",
+          "iast": "brahmaṇaḥ",
+          "slp1": "brahmaRaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "ब्रह्मणा",
+          "iast": "brahmaṇā",
+          "slp1": "brahmaRA"
+        },
+        "dvi": {
+          "deva": "ब्रह्मभ्याम्",
+          "iast": "brahmabhyām",
+          "slp1": "brahmaByAm"
+        },
+        "bahu": {
+          "deva": "ब्रह्मभिः",
+          "iast": "brahmabhiḥ",
+          "slp1": "brahmaBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "ब्रह्मणे",
+          "iast": "brahmaṇe",
+          "slp1": "brahmaRe"
+        },
+        "dvi": {
+          "deva": "ब्रह्मभ्याम्",
+          "iast": "brahmabhyām",
+          "slp1": "brahmaByAm"
+        },
+        "bahu": {
+          "deva": "ब्रह्मभ्यः",
+          "iast": "brahmabhyaḥ",
+          "slp1": "brahmaByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "ब्रह्मणः",
+          "iast": "brahmaṇaḥ",
+          "slp1": "brahmaRaH"
+        },
+        "dvi": {
+          "deva": "ब्रह्मभ्याम्",
+          "iast": "brahmabhyām",
+          "slp1": "brahmaByAm"
+        },
+        "bahu": {
+          "deva": "ब्रह्मभ्यः",
+          "iast": "brahmabhyaḥ",
+          "slp1": "brahmaByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "ब्रह्मणः",
+          "iast": "brahmaṇaḥ",
+          "slp1": "brahmaRaH"
+        },
+        "dvi": {
+          "deva": "ब्रह्मणोः",
+          "iast": "brahmaṇoḥ",
+          "slp1": "brahmaRoH"
+        },
+        "bahu": {
+          "deva": "ब्रह्मणाम्",
+          "iast": "brahmaṇām",
+          "slp1": "brahmaRAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "ब्रह्मणि",
+          "iast": "brahmaṇi",
+          "slp1": "brahmaRi"
+        },
+        "dvi": {
+          "deva": "ब्रह्मणोः",
+          "iast": "brahmaṇoḥ",
+          "slp1": "brahmaRoH"
+        },
+        "bahu": {
+          "deva": "ब्रह्मसु",
+          "iast": "brahmasu",
+          "slp1": "brahmasu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "ब्रह्मन्",
+          "iast": "brahman",
+          "slp1": "brahman"
+        },
+        "dvi": {
+          "deva": "ब्रह्माणौ",
+          "iast": "brahmāṇau",
+          "slp1": "brahmARO"
+        },
+        "bahu": {
+          "deva": "ब्रह्माणः",
+          "iast": "brahmāṇaḥ",
+          "slp1": "brahmARaH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "ब्रह्मा",
+      "slp1": "brahmA",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "ब्रह्माणौ",
+      "slp1": "brahmARO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "ब्रह्माणः",
+      "slp1": "brahmARaH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "ब्रह्माणम्",
+      "slp1": "brahmARam",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "ब्रह्माणौ",
+      "slp1": "brahmARO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "ब्रह्मणः",
+      "slp1": "brahmaRaH",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "ब्रह्मणा",
+      "slp1": "brahmaRA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "ब्रह्मभ्याम्",
+      "slp1": "brahmaByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "ब्रह्मभिः",
+      "slp1": "brahmaBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "ब्रह्मणे",
+      "slp1": "brahmaRe",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "ब्रह्मभ्याम्",
+      "slp1": "brahmaByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "ब्रह्मभ्यः",
+      "slp1": "brahmaByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "ब्रह्मणः",
+      "slp1": "brahmaRaH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "ब्रह्मभ्याम्",
+      "slp1": "brahmaByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "ब्रह्मभ्यः",
+      "slp1": "brahmaByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "ब्रह्मणः",
+      "slp1": "brahmaRaH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "ब्रह्मणोः",
+      "slp1": "brahmaRoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "ब्रह्मणाम्",
+      "slp1": "brahmaRAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "ब्रह्मणि",
+      "slp1": "brahmaRi",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "ब्रह्मणोः",
+      "slp1": "brahmaRoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "ब्रह्मसु",
+      "slp1": "brahmasu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "ब्रह्मन्",
+      "slp1": "brahman",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "ब्रह्माणौ",
+      "slp1": "brahmARO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "ब्रह्माणः",
+      "slp1": "brahmARaH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

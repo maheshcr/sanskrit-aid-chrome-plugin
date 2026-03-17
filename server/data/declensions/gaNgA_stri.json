@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "gaNgA",
+    "deva": "गङ्गा",
+    "iast": "gaṅgā"
+  },
+  "linga": {
+    "key": "stri",
+    "sa": "स्त्रीलिङ्ग",
+    "en": "Feminine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "गङ्गाः",
+          "iast": "gaṅgāḥ",
+          "slp1": "gaNgAH"
+        },
+        "dvi": {
+          "deva": "गङ्गौ",
+          "iast": "gaṅgau",
+          "slp1": "gaNgO"
+        },
+        "bahu": {
+          "deva": "गङ्गाः",
+          "iast": "gaṅgāḥ",
+          "slp1": "gaNgAH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "गङ्गाम्",
+          "iast": "gaṅgām",
+          "slp1": "gaNgAm"
+        },
+        "dvi": {
+          "deva": "गङ्गौ",
+          "iast": "gaṅgau",
+          "slp1": "gaNgO"
+        },
+        "bahu": {
+          "deva": "गङ्गाः",
+          "iast": "gaṅgāḥ",
+          "slp1": "gaNgAH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "गङ्गा",
+          "iast": "gaṅgā",
+          "slp1": "gaNgA"
+        },
+        "dvi": {
+          "deva": "गङ्गाभ्याम्",
+          "iast": "gaṅgābhyām",
+          "slp1": "gaNgAByAm"
+        },
+        "bahu": {
+          "deva": "गङ्गाभिः",
+          "iast": "gaṅgābhiḥ",
+          "slp1": "gaNgABiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "गङ्गै",
+          "iast": "gaṅgai",
+          "slp1": "gaNgE"
+        },
+        "dvi": {
+          "deva": "गङ्गाभ्याम्",
+          "iast": "gaṅgābhyām",
+          "slp1": "gaNgAByAm"
+        },
+        "bahu": {
+          "deva": "गङ्गाभ्यः",
+          "iast": "gaṅgābhyaḥ",
+          "slp1": "gaNgAByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "गङ्गाः",
+          "iast": "gaṅgāḥ",
+          "slp1": "gaNgAH"
+        },
+        "dvi": {
+          "deva": "गङ्गाभ्याम्",
+          "iast": "gaṅgābhyām",
+          "slp1": "gaNgAByAm"
+        },
+        "bahu": {
+          "deva": "गङ्गाभ्यः",
+          "iast": "gaṅgābhyaḥ",
+          "slp1": "gaNgAByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "गङ्गाः",
+          "iast": "gaṅgāḥ",
+          "slp1": "gaNgAH"
+        },
+        "dvi": {
+          "deva": "गङ्गौः",
+          "iast": "gaṅgauḥ",
+          "slp1": "gaNgOH"
+        },
+        "bahu": {
+          "deva": "गङ्गाम्",
+          "iast": "gaṅgām",
+          "slp1": "gaNgAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "गङ्गे",
+          "iast": "gaṅge",
+          "slp1": "gaNge"
+        },
+        "dvi": {
+          "deva": "गङ्गौः",
+          "iast": "gaṅgauḥ",
+          "slp1": "gaNgOH"
+        },
+        "bahu": {
+          "deva": "गङ्गासु",
+          "iast": "gaṅgāsu",
+          "slp1": "gaNgAsu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "गङ्गाः",
+          "iast": "gaṅgāḥ",
+          "slp1": "gaNgAH"
+        },
+        "dvi": {
+          "deva": "गङ्गौ",
+          "iast": "gaṅgau",
+          "slp1": "gaNgO"
+        },
+        "bahu": {
+          "deva": "गङ्गाः",
+          "iast": "gaṅgāḥ",
+          "slp1": "gaNgAH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "गङ्गाः",
+      "slp1": "gaNgAH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "गङ्गौ",
+      "slp1": "gaNgO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "गङ्गाः",
+      "slp1": "gaNgAH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "गङ्गाम्",
+      "slp1": "gaNgAm",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "गङ्गौ",
+      "slp1": "gaNgO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "गङ्गाः",
+      "slp1": "gaNgAH",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "गङ्गा",
+      "slp1": "gaNgA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "गङ्गाभ्याम्",
+      "slp1": "gaNgAByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "गङ्गाभिः",
+      "slp1": "gaNgABiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "गङ्गै",
+      "slp1": "gaNgE",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "गङ्गाभ्याम्",
+      "slp1": "gaNgAByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "गङ्गाभ्यः",
+      "slp1": "gaNgAByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "गङ्गाः",
+      "slp1": "gaNgAH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "गङ्गाभ्याम्",
+      "slp1": "gaNgAByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "गङ्गाभ्यः",
+      "slp1": "gaNgAByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "गङ्गाः",
+      "slp1": "gaNgAH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "गङ्गौः",
+      "slp1": "gaNgOH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "गङ्गाम्",
+      "slp1": "gaNgAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "गङ्गे",
+      "slp1": "gaNge",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "गङ्गौः",
+      "slp1": "gaNgOH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "गङ्गासु",
+      "slp1": "gaNgAsu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "गङ्गाः",
+      "slp1": "gaNgAH",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "गङ्गौ",
+      "slp1": "gaNgO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "गङ्गाः",
+      "slp1": "gaNgAH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

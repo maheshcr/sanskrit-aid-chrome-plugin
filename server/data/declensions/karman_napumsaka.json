@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "karman",
+    "deva": "कर्मन्",
+    "iast": "karman"
+  },
+  "linga": {
+    "key": "napumsaka",
+    "sa": "नपुंसकलिङ्ग",
+    "en": "Neuter"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कर्म",
+          "iast": "karma",
+          "slp1": "karma"
+        },
+        "dvi": {
+          "deva": "कर्मणी",
+          "iast": "karmaṇī",
+          "slp1": "karmaRI"
+        },
+        "bahu": {
+          "deva": "कर्माणि",
+          "iast": "karmāṇi",
+          "slp1": "karmARi"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कर्म",
+          "iast": "karma",
+          "slp1": "karma"
+        },
+        "dvi": {
+          "deva": "कर्मणी",
+          "iast": "karmaṇī",
+          "slp1": "karmaRI"
+        },
+        "bahu": {
+          "deva": "कर्माणि",
+          "iast": "karmāṇi",
+          "slp1": "karmARi"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कर्मणा",
+          "iast": "karmaṇā",
+          "slp1": "karmaRA"
+        },
+        "dvi": {
+          "deva": "कर्मभ्याम्",
+          "iast": "karmabhyām",
+          "slp1": "karmaByAm"
+        },
+        "bahu": {
+          "deva": "कर्मभिः",
+          "iast": "karmabhiḥ",
+          "slp1": "karmaBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कर्मणे",
+          "iast": "karmaṇe",
+          "slp1": "karmaRe"
+        },
+        "dvi": {
+          "deva": "कर्मभ्याम्",
+          "iast": "karmabhyām",
+          "slp1": "karmaByAm"
+        },
+        "bahu": {
+          "deva": "कर्मभ्यः",
+          "iast": "karmabhyaḥ",
+          "slp1": "karmaByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कर्मणः",
+          "iast": "karmaṇaḥ",
+          "slp1": "karmaRaH"
+        },
+        "dvi": {
+          "deva": "कर्मभ्याम्",
+          "iast": "karmabhyām",
+          "slp1": "karmaByAm"
+        },
+        "bahu": {
+          "deva": "कर्मभ्यः",
+          "iast": "karmabhyaḥ",
+          "slp1": "karmaByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कर्मणः",
+          "iast": "karmaṇaḥ",
+          "slp1": "karmaRaH"
+        },
+        "dvi": {
+          "deva": "कर्मणोः",
+          "iast": "karmaṇoḥ",
+          "slp1": "karmaRoH"
+        },
+        "bahu": {
+          "deva": "कर्मणाम्",
+          "iast": "karmaṇām",
+          "slp1": "karmaRAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कर्मणि",
+          "iast": "karmaṇi",
+          "slp1": "karmaRi"
+        },
+        "dvi": {
+          "deva": "कर्मणोः",
+          "iast": "karmaṇoḥ",
+          "slp1": "karmaRoH"
+        },
+        "bahu": {
+          "deva": "कर्मसु",
+          "iast": "karmasu",
+          "slp1": "karmasu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कर्मन्",
+          "iast": "karman",
+          "slp1": "karman"
+        },
+        "dvi": {
+          "deva": "कर्मणी",
+          "iast": "karmaṇī",
+          "slp1": "karmaRI"
+        },
+        "bahu": {
+          "deva": "कर्माणि",
+          "iast": "karmāṇi",
+          "slp1": "karmARi"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "कर्म",
+      "slp1": "karma",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कर्मणी",
+      "slp1": "karmaRI",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कर्माणि",
+      "slp1": "karmARi",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कर्म",
+      "slp1": "karma",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कर्मणी",
+      "slp1": "karmaRI",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कर्माणि",
+      "slp1": "karmARi",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कर्मणा",
+      "slp1": "karmaRA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कर्मभ्याम्",
+      "slp1": "karmaByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कर्मभिः",
+      "slp1": "karmaBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कर्मणे",
+      "slp1": "karmaRe",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कर्मभ्याम्",
+      "slp1": "karmaByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कर्मभ्यः",
+      "slp1": "karmaByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कर्मणः",
+      "slp1": "karmaRaH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कर्मभ्याम्",
+      "slp1": "karmaByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कर्मभ्यः",
+      "slp1": "karmaByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कर्मणः",
+      "slp1": "karmaRaH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कर्मणोः",
+      "slp1": "karmaRoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कर्मणाम्",
+      "slp1": "karmaRAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कर्मणि",
+      "slp1": "karmaRi",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कर्मणोः",
+      "slp1": "karmaRoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कर्मसु",
+      "slp1": "karmasu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कर्मन्",
+      "slp1": "karman",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कर्मणी",
+      "slp1": "karmaRI",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कर्माणि",
+      "slp1": "karmARi",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

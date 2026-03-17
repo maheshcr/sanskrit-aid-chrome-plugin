@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "tejas",
+    "deva": "तेजस्",
+    "iast": "tejas"
+  },
+  "linga": {
+    "key": "napumsaka",
+    "sa": "नपुंसकलिङ्ग",
+    "en": "Neuter"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "तेजः",
+          "iast": "tejaḥ",
+          "slp1": "tejaH"
+        },
+        "dvi": {
+          "deva": "तेजसी",
+          "iast": "tejasī",
+          "slp1": "tejasI"
+        },
+        "bahu": {
+          "deva": "तेजांसि",
+          "iast": "tejāṃsi",
+          "slp1": "tejAMsi"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "तेजः",
+          "iast": "tejaḥ",
+          "slp1": "tejaH"
+        },
+        "dvi": {
+          "deva": "तेजसी",
+          "iast": "tejasī",
+          "slp1": "tejasI"
+        },
+        "bahu": {
+          "deva": "तेजांसि",
+          "iast": "tejāṃsi",
+          "slp1": "tejAMsi"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "तेजसा",
+          "iast": "tejasā",
+          "slp1": "tejasA"
+        },
+        "dvi": {
+          "deva": "तेजोभ्याम्",
+          "iast": "tejobhyām",
+          "slp1": "tejoByAm"
+        },
+        "bahu": {
+          "deva": "तेजोभिः",
+          "iast": "tejobhiḥ",
+          "slp1": "tejoBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "तेजसे",
+          "iast": "tejase",
+          "slp1": "tejase"
+        },
+        "dvi": {
+          "deva": "तेजोभ्याम्",
+          "iast": "tejobhyām",
+          "slp1": "tejoByAm"
+        },
+        "bahu": {
+          "deva": "तेजोभ्यः",
+          "iast": "tejobhyaḥ",
+          "slp1": "tejoByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "तेजसः",
+          "iast": "tejasaḥ",
+          "slp1": "tejasaH"
+        },
+        "dvi": {
+          "deva": "तेजोभ्याम्",
+          "iast": "tejobhyām",
+          "slp1": "tejoByAm"
+        },
+        "bahu": {
+          "deva": "तेजोभ्यः",
+          "iast": "tejobhyaḥ",
+          "slp1": "tejoByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "तेजसः",
+          "iast": "tejasaḥ",
+          "slp1": "tejasaH"
+        },
+        "dvi": {
+          "deva": "तेजसोः",
+          "iast": "tejasoḥ",
+          "slp1": "tejasoH"
+        },
+        "bahu": {
+          "deva": "तेजसाम्",
+          "iast": "tejasām",
+          "slp1": "tejasAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "तेजसि",
+          "iast": "tejasi",
+          "slp1": "tejasi"
+        },
+        "dvi": {
+          "deva": "तेजसोः",
+          "iast": "tejasoḥ",
+          "slp1": "tejasoH"
+        },
+        "bahu": {
+          "deva": "तेजस्सु",
+          "iast": "tejassu",
+          "slp1": "tejassu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "तेजः",
+          "iast": "tejaḥ",
+          "slp1": "tejaH"
+        },
+        "dvi": {
+          "deva": "तेजसी",
+          "iast": "tejasī",
+          "slp1": "tejasI"
+        },
+        "bahu": {
+          "deva": "तेजांसि",
+          "iast": "tejāṃsi",
+          "slp1": "tejAMsi"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "तेजः",
+      "slp1": "tejaH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "तेजसी",
+      "slp1": "tejasI",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "तेजांसि",
+      "slp1": "tejAMsi",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "तेजः",
+      "slp1": "tejaH",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "तेजसी",
+      "slp1": "tejasI",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "तेजांसि",
+      "slp1": "tejAMsi",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "तेजसा",
+      "slp1": "tejasA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "तेजोभ्याम्",
+      "slp1": "tejoByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "तेजोभिः",
+      "slp1": "tejoBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "तेजसे",
+      "slp1": "tejase",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "तेजोभ्याम्",
+      "slp1": "tejoByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "तेजोभ्यः",
+      "slp1": "tejoByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "तेजसः",
+      "slp1": "tejasaH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "तेजोभ्याम्",
+      "slp1": "tejoByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "तेजोभ्यः",
+      "slp1": "tejoByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "तेजसः",
+      "slp1": "tejasaH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "तेजसोः",
+      "slp1": "tejasoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "तेजसाम्",
+      "slp1": "tejasAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "तेजसि",
+      "slp1": "tejasi",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "तेजसोः",
+      "slp1": "tejasoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "तेजस्सु",
+      "slp1": "tejassu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "तेजः",
+      "slp1": "tejaH",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "तेजसी",
+      "slp1": "tejasI",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "तेजांसि",
+      "slp1": "tejAMsi",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "vfkza",
+    "deva": "वृक्ष",
+    "iast": "vṛkṣa"
+  },
+  "linga": {
+    "key": "pum",
+    "sa": "पुल्लिङ्ग",
+    "en": "Masculine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "वृक्षः",
+          "iast": "vṛkṣaḥ",
+          "slp1": "vfkzaH"
+        },
+        "dvi": {
+          "deva": "वृक्षौ",
+          "iast": "vṛkṣau",
+          "slp1": "vfkzO"
+        },
+        "bahu": {
+          "deva": "वृक्षाः",
+          "iast": "vṛkṣāḥ",
+          "slp1": "vfkzAH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "वृक्षम्",
+          "iast": "vṛkṣam",
+          "slp1": "vfkzam"
+        },
+        "dvi": {
+          "deva": "वृक्षौ",
+          "iast": "vṛkṣau",
+          "slp1": "vfkzO"
+        },
+        "bahu": {
+          "deva": "वृक्षान्",
+          "iast": "vṛkṣān",
+          "slp1": "vfkzAn"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "वृक्षेण",
+          "iast": "vṛkṣeṇa",
+          "slp1": "vfkzeRa"
+        },
+        "dvi": {
+          "deva": "वृक्षाभ्याम्",
+          "iast": "vṛkṣābhyām",
+          "slp1": "vfkzAByAm"
+        },
+        "bahu": {
+          "deva": "वृक्षैः",
+          "iast": "vṛkṣaiḥ",
+          "slp1": "vfkzEH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "वृक्षाय",
+          "iast": "vṛkṣāya",
+          "slp1": "vfkzAya"
+        },
+        "dvi": {
+          "deva": "वृक्षाभ्याम्",
+          "iast": "vṛkṣābhyām",
+          "slp1": "vfkzAByAm"
+        },
+        "bahu": {
+          "deva": "वृक्षेभ्यः",
+          "iast": "vṛkṣebhyaḥ",
+          "slp1": "vfkzeByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "वृक्षात्",
+          "iast": "vṛkṣāt",
+          "slp1": "vfkzAt"
+        },
+        "dvi": {
+          "deva": "वृक्षाभ्याम्",
+          "iast": "vṛkṣābhyām",
+          "slp1": "vfkzAByAm"
+        },
+        "bahu": {
+          "deva": "वृक्षेभ्यः",
+          "iast": "vṛkṣebhyaḥ",
+          "slp1": "vfkzeByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "वृक्षस्य",
+          "iast": "vṛkṣasya",
+          "slp1": "vfkzasya"
+        },
+        "dvi": {
+          "deva": "वृक्षयोः",
+          "iast": "vṛkṣayoḥ",
+          "slp1": "vfkzayoH"
+        },
+        "bahu": {
+          "deva": "वृक्षाणाम्",
+          "iast": "vṛkṣāṇām",
+          "slp1": "vfkzARAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "वृक्षे",
+          "iast": "vṛkṣe",
+          "slp1": "vfkze"
+        },
+        "dvi": {
+          "deva": "वृक्षयोः",
+          "iast": "vṛkṣayoḥ",
+          "slp1": "vfkzayoH"
+        },
+        "bahu": {
+          "deva": "वृक्षेषु",
+          "iast": "vṛkṣeṣu",
+          "slp1": "vfkzezu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "वृक्ष",
+          "iast": "vṛkṣa",
+          "slp1": "vfkza"
+        },
+        "dvi": {
+          "deva": "वृक्षौ",
+          "iast": "vṛkṣau",
+          "slp1": "vfkzO"
+        },
+        "bahu": {
+          "deva": "वृक्षाः",
+          "iast": "vṛkṣāḥ",
+          "slp1": "vfkzAH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "वृक्षः",
+      "slp1": "vfkzaH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "वृक्षौ",
+      "slp1": "vfkzO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "वृक्षाः",
+      "slp1": "vfkzAH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "वृक्षम्",
+      "slp1": "vfkzam",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "वृक्षौ",
+      "slp1": "vfkzO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "वृक्षान्",
+      "slp1": "vfkzAn",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "वृक्षेण",
+      "slp1": "vfkzeRa",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "वृक्षाभ्याम्",
+      "slp1": "vfkzAByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "वृक्षैः",
+      "slp1": "vfkzEH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "वृक्षाय",
+      "slp1": "vfkzAya",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "वृक्षाभ्याम्",
+      "slp1": "vfkzAByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "वृक्षेभ्यः",
+      "slp1": "vfkzeByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "वृक्षात्",
+      "slp1": "vfkzAt",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "वृक्षाभ्याम्",
+      "slp1": "vfkzAByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "वृक्षेभ्यः",
+      "slp1": "vfkzeByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "वृक्षस्य",
+      "slp1": "vfkzasya",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "वृक्षयोः",
+      "slp1": "vfkzayoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "वृक्षाणाम्",
+      "slp1": "vfkzARAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "वृक्षे",
+      "slp1": "vfkze",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "वृक्षयोः",
+      "slp1": "vfkzayoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "वृक्षेषु",
+      "slp1": "vfkzezu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "वृक्ष",
+      "slp1": "vfkza",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "वृक्षौ",
+      "slp1": "vfkzO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "वृक्षाः",
+      "slp1": "vfkzAH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

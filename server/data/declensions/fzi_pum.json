@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "fzi",
+    "deva": "ऋषि",
+    "iast": "ṛṣi"
+  },
+  "linga": {
+    "key": "pum",
+    "sa": "पुल्लिङ्ग",
+    "en": "Masculine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "ऋषिः",
+          "iast": "ṛṣiḥ",
+          "slp1": "fziH"
+        },
+        "dvi": {
+          "deva": "ऋषी",
+          "iast": "ṛṣī",
+          "slp1": "fzI"
+        },
+        "bahu": {
+          "deva": "ऋषयः",
+          "iast": "ṛṣayaḥ",
+          "slp1": "fzayaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "ऋषिम्",
+          "iast": "ṛṣim",
+          "slp1": "fzim"
+        },
+        "dvi": {
+          "deva": "ऋषी",
+          "iast": "ṛṣī",
+          "slp1": "fzI"
+        },
+        "bahu": {
+          "deva": "ऋषीन्",
+          "iast": "ṛṣīn",
+          "slp1": "fzIn"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "ऋषिणा",
+          "iast": "ṛṣiṇā",
+          "slp1": "fziRA"
+        },
+        "dvi": {
+          "deva": "ऋषिभ्याम्",
+          "iast": "ṛṣibhyām",
+          "slp1": "fziByAm"
+        },
+        "bahu": {
+          "deva": "ऋषिभिः",
+          "iast": "ṛṣibhiḥ",
+          "slp1": "fziBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "ऋषये",
+          "iast": "ṛṣaye",
+          "slp1": "fzaye"
+        },
+        "dvi": {
+          "deva": "ऋषिभ्याम्",
+          "iast": "ṛṣibhyām",
+          "slp1": "fziByAm"
+        },
+        "bahu": {
+          "deva": "ऋषिभ्यः",
+          "iast": "ṛṣibhyaḥ",
+          "slp1": "fziByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "ऋषेः",
+          "iast": "ṛṣeḥ",
+          "slp1": "fzeH"
+        },
+        "dvi": {
+          "deva": "ऋषिभ्याम्",
+          "iast": "ṛṣibhyām",
+          "slp1": "fziByAm"
+        },
+        "bahu": {
+          "deva": "ऋषिभ्यः",
+          "iast": "ṛṣibhyaḥ",
+          "slp1": "fziByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "ऋषेः",
+          "iast": "ṛṣeḥ",
+          "slp1": "fzeH"
+        },
+        "dvi": {
+          "deva": "ऋष्योः",
+          "iast": "ṛṣyoḥ",
+          "slp1": "fzyoH"
+        },
+        "bahu": {
+          "deva": "ऋषीणाम्",
+          "iast": "ṛṣīṇām",
+          "slp1": "fzIRAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "ऋषौ",
+          "iast": "ṛṣau",
+          "slp1": "fzO"
+        },
+        "dvi": {
+          "deva": "ऋष्योः",
+          "iast": "ṛṣyoḥ",
+          "slp1": "fzyoH"
+        },
+        "bahu": {
+          "deva": "ऋषिषु",
+          "iast": "ṛṣiṣu",
+          "slp1": "fzizu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "ऋषे",
+          "iast": "ṛṣe",
+          "slp1": "fze"
+        },
+        "dvi": {
+          "deva": "ऋषी",
+          "iast": "ṛṣī",
+          "slp1": "fzI"
+        },
+        "bahu": {
+          "deva": "ऋषयः",
+          "iast": "ṛṣayaḥ",
+          "slp1": "fzayaH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "ऋषिः",
+      "slp1": "fziH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "ऋषी",
+      "slp1": "fzI",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "ऋषयः",
+      "slp1": "fzayaH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "ऋषिम्",
+      "slp1": "fzim",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "ऋषी",
+      "slp1": "fzI",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "ऋषीन्",
+      "slp1": "fzIn",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "ऋषिणा",
+      "slp1": "fziRA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "ऋषिभ्याम्",
+      "slp1": "fziByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "ऋषिभिः",
+      "slp1": "fziBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "ऋषये",
+      "slp1": "fzaye",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "ऋषिभ्याम्",
+      "slp1": "fziByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "ऋषिभ्यः",
+      "slp1": "fziByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "ऋषेः",
+      "slp1": "fzeH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "ऋषिभ्याम्",
+      "slp1": "fziByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "ऋषिभ्यः",
+      "slp1": "fziByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "ऋषेः",
+      "slp1": "fzeH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "ऋष्योः",
+      "slp1": "fzyoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "ऋषीणाम्",
+      "slp1": "fzIRAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "ऋषौ",
+      "slp1": "fzO",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "ऋष्योः",
+      "slp1": "fzyoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "ऋषिषु",
+      "slp1": "fzizu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "ऋषे",
+      "slp1": "fze",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "ऋषी",
+      "slp1": "fzI",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "ऋषयः",
+      "slp1": "fzayaH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "yajas",
+    "deva": "यजस्",
+    "iast": "yajas"
+  },
+  "linga": {
+    "key": "napumsaka",
+    "sa": "नपुंसकलिङ्ग",
+    "en": "Neuter"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "यजः",
+          "iast": "yajaḥ",
+          "slp1": "yajaH"
+        },
+        "dvi": {
+          "deva": "यजसी",
+          "iast": "yajasī",
+          "slp1": "yajasI"
+        },
+        "bahu": {
+          "deva": "यजांसि",
+          "iast": "yajāṃsi",
+          "slp1": "yajAMsi"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "यजः",
+          "iast": "yajaḥ",
+          "slp1": "yajaH"
+        },
+        "dvi": {
+          "deva": "यजसी",
+          "iast": "yajasī",
+          "slp1": "yajasI"
+        },
+        "bahu": {
+          "deva": "यजांसि",
+          "iast": "yajāṃsi",
+          "slp1": "yajAMsi"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "यजसा",
+          "iast": "yajasā",
+          "slp1": "yajasA"
+        },
+        "dvi": {
+          "deva": "यजोभ्याम्",
+          "iast": "yajobhyām",
+          "slp1": "yajoByAm"
+        },
+        "bahu": {
+          "deva": "यजोभिः",
+          "iast": "yajobhiḥ",
+          "slp1": "yajoBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "यजसे",
+          "iast": "yajase",
+          "slp1": "yajase"
+        },
+        "dvi": {
+          "deva": "यजोभ्याम्",
+          "iast": "yajobhyām",
+          "slp1": "yajoByAm"
+        },
+        "bahu": {
+          "deva": "यजोभ्यः",
+          "iast": "yajobhyaḥ",
+          "slp1": "yajoByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "यजसः",
+          "iast": "yajasaḥ",
+          "slp1": "yajasaH"
+        },
+        "dvi": {
+          "deva": "यजोभ्याम्",
+          "iast": "yajobhyām",
+          "slp1": "yajoByAm"
+        },
+        "bahu": {
+          "deva": "यजोभ्यः",
+          "iast": "yajobhyaḥ",
+          "slp1": "yajoByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "यजसः",
+          "iast": "yajasaḥ",
+          "slp1": "yajasaH"
+        },
+        "dvi": {
+          "deva": "यजसोः",
+          "iast": "yajasoḥ",
+          "slp1": "yajasoH"
+        },
+        "bahu": {
+          "deva": "यजसाम्",
+          "iast": "yajasām",
+          "slp1": "yajasAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "यजसि",
+          "iast": "yajasi",
+          "slp1": "yajasi"
+        },
+        "dvi": {
+          "deva": "यजसोः",
+          "iast": "yajasoḥ",
+          "slp1": "yajasoH"
+        },
+        "bahu": {
+          "deva": "यजस्सु",
+          "iast": "yajassu",
+          "slp1": "yajassu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "यजः",
+          "iast": "yajaḥ",
+          "slp1": "yajaH"
+        },
+        "dvi": {
+          "deva": "यजसी",
+          "iast": "yajasī",
+          "slp1": "yajasI"
+        },
+        "bahu": {
+          "deva": "यजांसि",
+          "iast": "yajāṃsi",
+          "slp1": "yajAMsi"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "यजः",
+      "slp1": "yajaH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "यजसी",
+      "slp1": "yajasI",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "यजांसि",
+      "slp1": "yajAMsi",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "यजः",
+      "slp1": "yajaH",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "यजसी",
+      "slp1": "yajasI",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "यजांसि",
+      "slp1": "yajAMsi",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "यजसा",
+      "slp1": "yajasA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "यजोभ्याम्",
+      "slp1": "yajoByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "यजोभिः",
+      "slp1": "yajoBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "यजसे",
+      "slp1": "yajase",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "यजोभ्याम्",
+      "slp1": "yajoByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "यजोभ्यः",
+      "slp1": "yajoByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "यजसः",
+      "slp1": "yajasaH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "यजोभ्याम्",
+      "slp1": "yajoByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "यजोभ्यः",
+      "slp1": "yajoByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "यजसः",
+      "slp1": "yajasaH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "यजसोः",
+      "slp1": "yajasoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "यजसाम्",
+      "slp1": "yajasAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "यजसि",
+      "slp1": "yajasi",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "यजसोः",
+      "slp1": "yajasoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "यजस्सु",
+      "slp1": "yajassu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "यजः",
+      "slp1": "yajaH",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "यजसी",
+      "slp1": "yajasI",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "यजांसि",
+      "slp1": "yajAMsi",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

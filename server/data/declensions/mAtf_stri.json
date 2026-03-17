@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "mAtf",
+    "deva": "मातृ",
+    "iast": "mātṛ"
+  },
+  "linga": {
+    "key": "stri",
+    "sa": "स्त्रीलिङ्ग",
+    "en": "Feminine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "माता",
+          "iast": "mātā",
+          "slp1": "mAtA"
+        },
+        "dvi": {
+          "deva": "मातरौ",
+          "iast": "mātarau",
+          "slp1": "mAtarO"
+        },
+        "bahu": {
+          "deva": "मातरः",
+          "iast": "mātaraḥ",
+          "slp1": "mAtaraH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मातरम्",
+          "iast": "mātaram",
+          "slp1": "mAtaram"
+        },
+        "dvi": {
+          "deva": "मातरौ",
+          "iast": "mātarau",
+          "slp1": "mAtarO"
+        },
+        "bahu": {
+          "deva": "मातॄः",
+          "iast": "mātṝḥ",
+          "slp1": "mAtFH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मात्रा",
+          "iast": "mātrā",
+          "slp1": "mAtrA"
+        },
+        "dvi": {
+          "deva": "मातृभ्याम्",
+          "iast": "mātṛbhyām",
+          "slp1": "mAtfByAm"
+        },
+        "bahu": {
+          "deva": "मातृभिः",
+          "iast": "mātṛbhiḥ",
+          "slp1": "mAtfBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मात्रे",
+          "iast": "mātre",
+          "slp1": "mAtre"
+        },
+        "dvi": {
+          "deva": "मातृभ्याम्",
+          "iast": "mātṛbhyām",
+          "slp1": "mAtfByAm"
+        },
+        "bahu": {
+          "deva": "मातृभ्यः",
+          "iast": "mātṛbhyaḥ",
+          "slp1": "mAtfByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मातुः",
+          "iast": "mātuḥ",
+          "slp1": "mAtuH"
+        },
+        "dvi": {
+          "deva": "मातृभ्याम्",
+          "iast": "mātṛbhyām",
+          "slp1": "mAtfByAm"
+        },
+        "bahu": {
+          "deva": "मातृभ्यः",
+          "iast": "mātṛbhyaḥ",
+          "slp1": "mAtfByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मातुः",
+          "iast": "mātuḥ",
+          "slp1": "mAtuH"
+        },
+        "dvi": {
+          "deva": "मात्रोः",
+          "iast": "mātroḥ",
+          "slp1": "mAtroH"
+        },
+        "bahu": {
+          "deva": "मातॄणाम्",
+          "iast": "mātṝṇām",
+          "slp1": "mAtFRAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मातरि",
+          "iast": "mātari",
+          "slp1": "mAtari"
+        },
+        "dvi": {
+          "deva": "मात्रोः",
+          "iast": "mātroḥ",
+          "slp1": "mAtroH"
+        },
+        "bahu": {
+          "deva": "मातृषु",
+          "iast": "mātṛṣu",
+          "slp1": "mAtfzu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मातः",
+          "iast": "mātaḥ",
+          "slp1": "mAtaH"
+        },
+        "dvi": {
+          "deva": "मातरौ",
+          "iast": "mātarau",
+          "slp1": "mAtarO"
+        },
+        "bahu": {
+          "deva": "मातरः",
+          "iast": "mātaraḥ",
+          "slp1": "mAtaraH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "माता",
+      "slp1": "mAtA",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मातरौ",
+      "slp1": "mAtarO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मातरः",
+      "slp1": "mAtaraH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मातरम्",
+      "slp1": "mAtaram",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मातरौ",
+      "slp1": "mAtarO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मातॄः",
+      "slp1": "mAtFH",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मात्रा",
+      "slp1": "mAtrA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मातृभ्याम्",
+      "slp1": "mAtfByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मातृभिः",
+      "slp1": "mAtfBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मात्रे",
+      "slp1": "mAtre",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मातृभ्याम्",
+      "slp1": "mAtfByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मातृभ्यः",
+      "slp1": "mAtfByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मातुः",
+      "slp1": "mAtuH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मातृभ्याम्",
+      "slp1": "mAtfByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मातृभ्यः",
+      "slp1": "mAtfByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मातुः",
+      "slp1": "mAtuH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मात्रोः",
+      "slp1": "mAtroH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मातॄणाम्",
+      "slp1": "mAtFRAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मातरि",
+      "slp1": "mAtari",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मात्रोः",
+      "slp1": "mAtroH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मातृषु",
+      "slp1": "mAtfzu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मातः",
+      "slp1": "mAtaH",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मातरौ",
+      "slp1": "mAtarO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मातरः",
+      "slp1": "mAtaraH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

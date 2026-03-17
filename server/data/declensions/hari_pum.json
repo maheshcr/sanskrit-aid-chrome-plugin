@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "hari",
+    "deva": "हरि",
+    "iast": "hari"
+  },
+  "linga": {
+    "key": "pum",
+    "sa": "पुल्लिङ्ग",
+    "en": "Masculine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "हरिः",
+          "iast": "hariḥ",
+          "slp1": "hariH"
+        },
+        "dvi": {
+          "deva": "हरी",
+          "iast": "harī",
+          "slp1": "harI"
+        },
+        "bahu": {
+          "deva": "हरयः",
+          "iast": "harayaḥ",
+          "slp1": "harayaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "हरिम्",
+          "iast": "harim",
+          "slp1": "harim"
+        },
+        "dvi": {
+          "deva": "हरी",
+          "iast": "harī",
+          "slp1": "harI"
+        },
+        "bahu": {
+          "deva": "हरीन्",
+          "iast": "harīn",
+          "slp1": "harIn"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "हरिणा",
+          "iast": "hariṇā",
+          "slp1": "hariRA"
+        },
+        "dvi": {
+          "deva": "हरिभ्याम्",
+          "iast": "haribhyām",
+          "slp1": "hariByAm"
+        },
+        "bahu": {
+          "deva": "हरिभिः",
+          "iast": "haribhiḥ",
+          "slp1": "hariBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "हरये",
+          "iast": "haraye",
+          "slp1": "haraye"
+        },
+        "dvi": {
+          "deva": "हरिभ्याम्",
+          "iast": "haribhyām",
+          "slp1": "hariByAm"
+        },
+        "bahu": {
+          "deva": "हरिभ्यः",
+          "iast": "haribhyaḥ",
+          "slp1": "hariByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "हरेः",
+          "iast": "hareḥ",
+          "slp1": "hareH"
+        },
+        "dvi": {
+          "deva": "हरिभ्याम्",
+          "iast": "haribhyām",
+          "slp1": "hariByAm"
+        },
+        "bahu": {
+          "deva": "हरिभ्यः",
+          "iast": "haribhyaḥ",
+          "slp1": "hariByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "हरेः",
+          "iast": "hareḥ",
+          "slp1": "hareH"
+        },
+        "dvi": {
+          "deva": "हर्योः",
+          "iast": "haryoḥ",
+          "slp1": "haryoH"
+        },
+        "bahu": {
+          "deva": "हरीणाम्",
+          "iast": "harīṇām",
+          "slp1": "harIRAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "हरौ",
+          "iast": "harau",
+          "slp1": "harO"
+        },
+        "dvi": {
+          "deva": "हर्योः",
+          "iast": "haryoḥ",
+          "slp1": "haryoH"
+        },
+        "bahu": {
+          "deva": "हरिषु",
+          "iast": "hariṣu",
+          "slp1": "harizu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "हरे",
+          "iast": "hare",
+          "slp1": "hare"
+        },
+        "dvi": {
+          "deva": "हरी",
+          "iast": "harī",
+          "slp1": "harI"
+        },
+        "bahu": {
+          "deva": "हरयः",
+          "iast": "harayaḥ",
+          "slp1": "harayaH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "हरिः",
+      "slp1": "hariH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "हरी",
+      "slp1": "harI",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "हरयः",
+      "slp1": "harayaH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "हरिम्",
+      "slp1": "harim",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "हरी",
+      "slp1": "harI",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "हरीन्",
+      "slp1": "harIn",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "हरिणा",
+      "slp1": "hariRA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "हरिभ्याम्",
+      "slp1": "hariByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "हरिभिः",
+      "slp1": "hariBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "हरये",
+      "slp1": "haraye",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "हरिभ्याम्",
+      "slp1": "hariByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "हरिभ्यः",
+      "slp1": "hariByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "हरेः",
+      "slp1": "hareH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "हरिभ्याम्",
+      "slp1": "hariByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "हरिभ्यः",
+      "slp1": "hariByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "हरेः",
+      "slp1": "hareH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "हर्योः",
+      "slp1": "haryoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "हरीणाम्",
+      "slp1": "harIRAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "हरौ",
+      "slp1": "harO",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "हर्योः",
+      "slp1": "haryoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "हरिषु",
+      "slp1": "harizu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "हरे",
+      "slp1": "hare",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "हरी",
+      "slp1": "harI",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "हरयः",
+      "slp1": "harayaH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

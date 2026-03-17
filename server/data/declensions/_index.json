@@ -1,0 +1,962 @@
+[
+  {
+    "file": "rAma_pum.json",
+    "stem_slp1": "rAma",
+    "stem_deva": "राम",
+    "stem_iast": "rāma",
+    "linga": "pum",
+    "category": "a_masc"
+  },
+  {
+    "file": "deva_pum.json",
+    "stem_slp1": "deva",
+    "stem_deva": "देव",
+    "stem_iast": "deva",
+    "linga": "pum",
+    "category": "a_masc"
+  },
+  {
+    "file": "nara_pum.json",
+    "stem_slp1": "nara",
+    "stem_deva": "नर",
+    "stem_iast": "nara",
+    "linga": "pum",
+    "category": "a_masc"
+  },
+  {
+    "file": "bAla_pum.json",
+    "stem_slp1": "bAla",
+    "stem_deva": "बाल",
+    "stem_iast": "bāla",
+    "linga": "pum",
+    "category": "a_masc"
+  },
+  {
+    "file": "vfkza_pum.json",
+    "stem_slp1": "vfkza",
+    "stem_deva": "वृक्ष",
+    "stem_iast": "vṛkṣa",
+    "linga": "pum",
+    "category": "a_masc"
+  },
+  {
+    "file": "grAma_pum.json",
+    "stem_slp1": "grAma",
+    "stem_deva": "ग्राम",
+    "stem_iast": "grāma",
+    "linga": "pum",
+    "category": "a_masc"
+  },
+  {
+    "file": "loka_pum.json",
+    "stem_slp1": "loka",
+    "stem_deva": "लोक",
+    "stem_iast": "loka",
+    "linga": "pum",
+    "category": "a_masc"
+  },
+  {
+    "file": "Darma_pum.json",
+    "stem_slp1": "Darma",
+    "stem_deva": "धर्म",
+    "stem_iast": "dharma",
+    "linga": "pum",
+    "category": "a_masc"
+  },
+  {
+    "file": "yoga_pum.json",
+    "stem_slp1": "yoga",
+    "stem_deva": "योग",
+    "stem_iast": "yoga",
+    "linga": "pum",
+    "category": "a_masc"
+  },
+  {
+    "file": "kAla_pum.json",
+    "stem_slp1": "kAla",
+    "stem_deva": "काल",
+    "stem_iast": "kāla",
+    "linga": "pum",
+    "category": "a_masc"
+  },
+  {
+    "file": "mArga_pum.json",
+    "stem_slp1": "mArga",
+    "stem_deva": "मार्ग",
+    "stem_iast": "mārga",
+    "linga": "pum",
+    "category": "a_masc"
+  },
+  {
+    "file": "Atman_pum.json",
+    "stem_slp1": "Atman",
+    "stem_deva": "आत्मन्",
+    "stem_iast": "ātman",
+    "linga": "pum",
+    "category": "an_masc"
+  },
+  {
+    "file": "putra_pum.json",
+    "stem_slp1": "putra",
+    "stem_deva": "पुत्र",
+    "stem_iast": "putra",
+    "linga": "pum",
+    "category": "a_masc"
+  },
+  {
+    "file": "sUrya_pum.json",
+    "stem_slp1": "sUrya",
+    "stem_deva": "सूर्य",
+    "stem_iast": "sūrya",
+    "linga": "pum",
+    "category": "a_masc"
+  },
+  {
+    "file": "candra_pum.json",
+    "stem_slp1": "candra",
+    "stem_deva": "चन्द्र",
+    "stem_iast": "candra",
+    "linga": "pum",
+    "category": "a_masc"
+  },
+  {
+    "file": "arjuna_pum.json",
+    "stem_slp1": "arjuna",
+    "stem_deva": "अर्जुन",
+    "stem_iast": "arjuna",
+    "linga": "pum",
+    "category": "a_masc"
+  },
+  {
+    "file": "kfzRa_pum.json",
+    "stem_slp1": "kfzRa",
+    "stem_deva": "कृष्ण",
+    "stem_iast": "kṛṣṇa",
+    "linga": "pum",
+    "category": "a_masc"
+  },
+  {
+    "file": "aSva_pum.json",
+    "stem_slp1": "aSva",
+    "stem_deva": "अश्व",
+    "stem_iast": "aśva",
+    "linga": "pum",
+    "category": "a_masc"
+  },
+  {
+    "file": "gaja_pum.json",
+    "stem_slp1": "gaja",
+    "stem_deva": "गज",
+    "stem_iast": "gaja",
+    "linga": "pum",
+    "category": "a_masc"
+  },
+  {
+    "file": "guru_pum.json",
+    "stem_slp1": "guru",
+    "stem_deva": "गुरु",
+    "stem_iast": "guru",
+    "linga": "pum",
+    "category": "u_masc"
+  },
+  {
+    "file": "Pala_napumsaka.json",
+    "stem_slp1": "Pala",
+    "stem_deva": "फल",
+    "stem_iast": "phala",
+    "linga": "napumsaka",
+    "category": "a_neut"
+  },
+  {
+    "file": "vana_napumsaka.json",
+    "stem_slp1": "vana",
+    "stem_deva": "वन",
+    "stem_iast": "vana",
+    "linga": "napumsaka",
+    "category": "a_neut"
+  },
+  {
+    "file": "jala_napumsaka.json",
+    "stem_slp1": "jala",
+    "stem_deva": "जल",
+    "stem_iast": "jala",
+    "linga": "napumsaka",
+    "category": "a_neut"
+  },
+  {
+    "file": "Dana_napumsaka.json",
+    "stem_slp1": "Dana",
+    "stem_deva": "धन",
+    "stem_iast": "dhana",
+    "linga": "napumsaka",
+    "category": "a_neut"
+  },
+  {
+    "file": "sukha_napumsaka.json",
+    "stem_slp1": "sukha",
+    "stem_deva": "सुक्ह",
+    "stem_iast": "sukha",
+    "linga": "napumsaka",
+    "category": "a_neut"
+  },
+  {
+    "file": "duHKa_napumsaka.json",
+    "stem_slp1": "duHKa",
+    "stem_deva": "दुःख",
+    "stem_iast": "duḥkha",
+    "linga": "napumsaka",
+    "category": "a_neut"
+  },
+  {
+    "file": "pApa_napumsaka.json",
+    "stem_slp1": "pApa",
+    "stem_deva": "पाप",
+    "stem_iast": "pāpa",
+    "linga": "napumsaka",
+    "category": "a_neut"
+  },
+  {
+    "file": "puRya_napumsaka.json",
+    "stem_slp1": "puRya",
+    "stem_deva": "पुण्य",
+    "stem_iast": "puṇya",
+    "linga": "napumsaka",
+    "category": "a_neut"
+  },
+  {
+    "file": "kArya_napumsaka.json",
+    "stem_slp1": "kArya",
+    "stem_deva": "कार्य",
+    "stem_iast": "kārya",
+    "linga": "napumsaka",
+    "category": "a_neut"
+  },
+  {
+    "file": "SAstra_napumsaka.json",
+    "stem_slp1": "SAstra",
+    "stem_deva": "शास्त्र",
+    "stem_iast": "śāstra",
+    "linga": "napumsaka",
+    "category": "a_neut"
+  },
+  {
+    "file": "ramA_stri.json",
+    "stem_slp1": "ramA",
+    "stem_deva": "रमा",
+    "stem_iast": "ramā",
+    "linga": "stri",
+    "category": "aa_fem"
+  },
+  {
+    "file": "sItA_stri.json",
+    "stem_slp1": "sItA",
+    "stem_deva": "सीता",
+    "stem_iast": "sītā",
+    "linga": "stri",
+    "category": "aa_fem"
+  },
+  {
+    "file": "vidyA_stri.json",
+    "stem_slp1": "vidyA",
+    "stem_deva": "विद्या",
+    "stem_iast": "vidyā",
+    "linga": "stri",
+    "category": "aa_fem"
+  },
+  {
+    "file": "latA_stri.json",
+    "stem_slp1": "latA",
+    "stem_deva": "लता",
+    "stem_iast": "latā",
+    "linga": "stri",
+    "category": "aa_fem"
+  },
+  {
+    "file": "kaTA_stri.json",
+    "stem_slp1": "kaTA",
+    "stem_deva": "कथा",
+    "stem_iast": "kathā",
+    "linga": "stri",
+    "category": "aa_fem"
+  },
+  {
+    "file": "mAlA_stri.json",
+    "stem_slp1": "mAlA",
+    "stem_deva": "माला",
+    "stem_iast": "mālā",
+    "linga": "stri",
+    "category": "aa_fem"
+  },
+  {
+    "file": "senA_stri.json",
+    "stem_slp1": "senA",
+    "stem_deva": "सेना",
+    "stem_iast": "senā",
+    "linga": "stri",
+    "category": "aa_fem"
+  },
+  {
+    "file": "gaNgA_stri.json",
+    "stem_slp1": "gaNgA",
+    "stem_deva": "गङ्गा",
+    "stem_iast": "gaṅgā",
+    "linga": "stri",
+    "category": "aa_fem"
+  },
+  {
+    "file": "BAzA_stri.json",
+    "stem_slp1": "BAzA",
+    "stem_deva": "भाषा",
+    "stem_iast": "bhāṣā",
+    "linga": "stri",
+    "category": "aa_fem"
+  },
+  {
+    "file": "dayA_stri.json",
+    "stem_slp1": "dayA",
+    "stem_deva": "दया",
+    "stem_iast": "dayā",
+    "linga": "stri",
+    "category": "aa_fem"
+  },
+  {
+    "file": "kavi_pum.json",
+    "stem_slp1": "kavi",
+    "stem_deva": "कवि",
+    "stem_iast": "kavi",
+    "linga": "pum",
+    "category": "i_masc"
+  },
+  {
+    "file": "muni_pum.json",
+    "stem_slp1": "muni",
+    "stem_deva": "मुनि",
+    "stem_iast": "muni",
+    "linga": "pum",
+    "category": "i_masc"
+  },
+  {
+    "file": "fzi_pum.json",
+    "stem_slp1": "fzi",
+    "stem_deva": "ऋषि",
+    "stem_iast": "ṛṣi",
+    "linga": "pum",
+    "category": "i_masc"
+  },
+  {
+    "file": "hari_pum.json",
+    "stem_slp1": "hari",
+    "stem_deva": "हरि",
+    "stem_iast": "hari",
+    "linga": "pum",
+    "category": "i_masc"
+  },
+  {
+    "file": "ravi_pum.json",
+    "stem_slp1": "ravi",
+    "stem_deva": "रवि",
+    "stem_iast": "ravi",
+    "linga": "pum",
+    "category": "i_masc"
+  },
+  {
+    "file": "aDipati_pum.json",
+    "stem_slp1": "aDipati",
+    "stem_deva": "अधिपति",
+    "stem_iast": "adhipati",
+    "linga": "pum",
+    "category": "i_masc"
+  },
+  {
+    "file": "agni_pum.json",
+    "stem_slp1": "agni",
+    "stem_deva": "अग्नि",
+    "stem_iast": "agni",
+    "linga": "pum",
+    "category": "i_masc"
+  },
+  {
+    "file": "pati_pum.json",
+    "stem_slp1": "pati",
+    "stem_deva": "पति",
+    "stem_iast": "pati",
+    "linga": "pum",
+    "category": "i_masc"
+  },
+  {
+    "file": "mati_stri.json",
+    "stem_slp1": "mati",
+    "stem_deva": "मति",
+    "stem_iast": "mati",
+    "linga": "stri",
+    "category": "i_fem"
+  },
+  {
+    "file": "gati_stri.json",
+    "stem_slp1": "gati",
+    "stem_deva": "गति",
+    "stem_iast": "gati",
+    "linga": "stri",
+    "category": "i_fem"
+  },
+  {
+    "file": "Bukti_stri.json",
+    "stem_slp1": "Bukti",
+    "stem_deva": "भुक्ति",
+    "stem_iast": "bhukti",
+    "linga": "stri",
+    "category": "i_fem"
+  },
+  {
+    "file": "Sakti_stri.json",
+    "stem_slp1": "Sakti",
+    "stem_deva": "शक्ति",
+    "stem_iast": "śakti",
+    "linga": "stri",
+    "category": "i_fem"
+  },
+  {
+    "file": "Santi_stri.json",
+    "stem_slp1": "Santi",
+    "stem_deva": "शन्ति",
+    "stem_iast": "śanti",
+    "linga": "stri",
+    "category": "i_fem"
+  },
+  {
+    "file": "kIrti_stri.json",
+    "stem_slp1": "kIrti",
+    "stem_deva": "कीर्ति",
+    "stem_iast": "kīrti",
+    "linga": "stri",
+    "category": "i_fem"
+  },
+  {
+    "file": "BUmi_stri.json",
+    "stem_slp1": "BUmi",
+    "stem_deva": "भूमि",
+    "stem_iast": "bhūmi",
+    "linga": "stri",
+    "category": "i_fem"
+  },
+  {
+    "file": "rAtri_stri.json",
+    "stem_slp1": "rAtri",
+    "stem_deva": "रात्रि",
+    "stem_iast": "rātri",
+    "linga": "stri",
+    "category": "i_fem"
+  },
+  {
+    "file": "vAri_napumsaka.json",
+    "stem_slp1": "vAri",
+    "stem_deva": "वारि",
+    "stem_iast": "vāri",
+    "linga": "napumsaka",
+    "category": "i_neut"
+  },
+  {
+    "file": "asTi_napumsaka.json",
+    "stem_slp1": "asTi",
+    "stem_deva": "अस्थि",
+    "stem_iast": "asthi",
+    "linga": "napumsaka",
+    "category": "i_neut"
+  },
+  {
+    "file": "akzi_napumsaka.json",
+    "stem_slp1": "akzi",
+    "stem_deva": "अक्षि",
+    "stem_iast": "akṣi",
+    "linga": "napumsaka",
+    "category": "i_neut"
+  },
+  {
+    "file": "BAnu_pum.json",
+    "stem_slp1": "BAnu",
+    "stem_deva": "भानु",
+    "stem_iast": "bhānu",
+    "linga": "pum",
+    "category": "u_masc"
+  },
+  {
+    "file": "Sazu_pum.json",
+    "stem_slp1": "Sazu",
+    "stem_deva": "शषु",
+    "stem_iast": "śaṣu",
+    "linga": "pum",
+    "category": "u_masc"
+  },
+  {
+    "file": "ripu_pum.json",
+    "stem_slp1": "ripu",
+    "stem_deva": "रिपु",
+    "stem_iast": "ripu",
+    "linga": "pum",
+    "category": "u_masc"
+  },
+  {
+    "file": "paSu_pum.json",
+    "stem_slp1": "paSu",
+    "stem_deva": "पशु",
+    "stem_iast": "paśu",
+    "linga": "pum",
+    "category": "u_masc"
+  },
+  {
+    "file": "vizvRu_pum.json",
+    "stem_slp1": "vizvRu",
+    "stem_deva": "विष्व्णु",
+    "stem_iast": "viṣvṇu",
+    "linga": "pum",
+    "category": "u_masc"
+  },
+  {
+    "file": "taru_pum.json",
+    "stem_slp1": "taru",
+    "stem_deva": "तरु",
+    "stem_iast": "taru",
+    "linga": "pum",
+    "category": "u_masc"
+  },
+  {
+    "file": "maDu_napumsaka.json",
+    "stem_slp1": "maDu",
+    "stem_deva": "मधु",
+    "stem_iast": "madhu",
+    "linga": "napumsaka",
+    "category": "u_neut"
+  },
+  {
+    "file": "vastu_napumsaka.json",
+    "stem_slp1": "vastu",
+    "stem_deva": "वस्तु",
+    "stem_iast": "vastu",
+    "linga": "napumsaka",
+    "category": "u_neut"
+  },
+  {
+    "file": "Denu_napumsaka.json",
+    "stem_slp1": "Denu",
+    "stem_deva": "धेनु",
+    "stem_iast": "dhenu",
+    "linga": "napumsaka",
+    "category": "u_neut"
+  },
+  {
+    "file": "nadI_stri.json",
+    "stem_slp1": "nadI",
+    "stem_deva": "नदी",
+    "stem_iast": "nadī",
+    "linga": "stri",
+    "category": "ii_fem"
+  },
+  {
+    "file": "devI_stri.json",
+    "stem_slp1": "devI",
+    "stem_deva": "देवी",
+    "stem_iast": "devī",
+    "linga": "stri",
+    "category": "ii_fem"
+  },
+  {
+    "file": "lakzmI_stri.json",
+    "stem_slp1": "lakzmI",
+    "stem_deva": "लक्ष्मी",
+    "stem_iast": "lakṣmī",
+    "linga": "stri",
+    "category": "ii_fem"
+  },
+  {
+    "file": "nArI_stri.json",
+    "stem_slp1": "nArI",
+    "stem_deva": "नारी",
+    "stem_iast": "nārī",
+    "linga": "stri",
+    "category": "ii_fem"
+  },
+  {
+    "file": "strI_stri.json",
+    "stem_slp1": "strI",
+    "stem_deva": "स्त्री",
+    "stem_iast": "strī",
+    "linga": "stri",
+    "category": "ii_fem"
+  },
+  {
+    "file": "BaginI_stri.json",
+    "stem_slp1": "BaginI",
+    "stem_deva": "भगिनी",
+    "stem_iast": "bhaginī",
+    "linga": "stri",
+    "category": "ii_fem"
+  },
+  {
+    "file": "vaDU_stri.json",
+    "stem_slp1": "vaDU",
+    "stem_deva": "वधू",
+    "stem_iast": "vadhū",
+    "linga": "stri",
+    "category": "uu_fem"
+  },
+  {
+    "file": "camU_stri.json",
+    "stem_slp1": "camU",
+    "stem_deva": "चमू",
+    "stem_iast": "camū",
+    "linga": "stri",
+    "category": "uu_fem"
+  },
+  {
+    "file": "BU_stri.json",
+    "stem_slp1": "BU",
+    "stem_deva": "भू",
+    "stem_iast": "bhū",
+    "linga": "stri",
+    "category": "uu_fem"
+  },
+  {
+    "file": "kartf_pum.json",
+    "stem_slp1": "kartf",
+    "stem_deva": "कर्तृ",
+    "stem_iast": "kartṛ",
+    "linga": "pum",
+    "category": "r_masc"
+  },
+  {
+    "file": "Bartf_pum.json",
+    "stem_slp1": "Bartf",
+    "stem_deva": "भर्तृ",
+    "stem_iast": "bhartṛ",
+    "linga": "pum",
+    "category": "r_masc"
+  },
+  {
+    "file": "dAtf_pum.json",
+    "stem_slp1": "dAtf",
+    "stem_deva": "दातृ",
+    "stem_iast": "dātṛ",
+    "linga": "pum",
+    "category": "r_masc"
+  },
+  {
+    "file": "DArf_pum.json",
+    "stem_slp1": "DArf",
+    "stem_deva": "धारृ",
+    "stem_iast": "dhārṛ",
+    "linga": "pum",
+    "category": "r_masc"
+  },
+  {
+    "file": "netf_pum.json",
+    "stem_slp1": "netf",
+    "stem_deva": "नेतृ",
+    "stem_iast": "netṛ",
+    "linga": "pum",
+    "category": "r_masc"
+  },
+  {
+    "file": "mAtf_stri.json",
+    "stem_slp1": "mAtf",
+    "stem_deva": "मातृ",
+    "stem_iast": "mātṛ",
+    "linga": "stri",
+    "category": "r_fem"
+  },
+  {
+    "file": "duhitf_stri.json",
+    "stem_slp1": "duhitf",
+    "stem_deva": "दुहितृ",
+    "stem_iast": "duhitṛ",
+    "linga": "stri",
+    "category": "r_fem"
+  },
+  {
+    "file": "svasf_stri.json",
+    "stem_slp1": "svasf",
+    "stem_deva": "स्वसृ",
+    "stem_iast": "svasṛ",
+    "linga": "stri",
+    "category": "r_fem"
+  },
+  {
+    "file": "rAjan_pum.json",
+    "stem_slp1": "rAjan",
+    "stem_deva": "राजन्",
+    "stem_iast": "rājan",
+    "linga": "pum",
+    "category": "an_masc"
+  },
+  {
+    "file": "brahman_pum.json",
+    "stem_slp1": "brahman",
+    "stem_deva": "ब्रह्मन्",
+    "stem_iast": "brahman",
+    "linga": "pum",
+    "category": "an_masc"
+  },
+  {
+    "file": "nAman_napumsaka.json",
+    "stem_slp1": "nAman",
+    "stem_deva": "नामन्",
+    "stem_iast": "nāman",
+    "linga": "napumsaka",
+    "category": "an_neut"
+  },
+  {
+    "file": "karman_napumsaka.json",
+    "stem_slp1": "karman",
+    "stem_deva": "कर्मन्",
+    "stem_iast": "karman",
+    "linga": "napumsaka",
+    "category": "an_neut"
+  },
+  {
+    "file": "manas_napumsaka.json",
+    "stem_slp1": "manas",
+    "stem_deva": "मनस्",
+    "stem_iast": "manas",
+    "linga": "napumsaka",
+    "category": "s_neut"
+  },
+  {
+    "file": "tapas_napumsaka.json",
+    "stem_slp1": "tapas",
+    "stem_deva": "तपस्",
+    "stem_iast": "tapas",
+    "linga": "napumsaka",
+    "category": "s_neut"
+  },
+  {
+    "file": "tejas_napumsaka.json",
+    "stem_slp1": "tejas",
+    "stem_deva": "तेजस्",
+    "stem_iast": "tejas",
+    "linga": "napumsaka",
+    "category": "s_neut"
+  },
+  {
+    "file": "yajas_napumsaka.json",
+    "stem_slp1": "yajas",
+    "stem_deva": "यजस्",
+    "stem_iast": "yajas",
+    "linga": "napumsaka",
+    "category": "s_neut"
+  },
+  {
+    "file": "Siras_napumsaka.json",
+    "stem_slp1": "Siras",
+    "stem_deva": "शिरस्",
+    "stem_iast": "śiras",
+    "linga": "napumsaka",
+    "category": "s_neut"
+  },
+  {
+    "file": "vacas_napumsaka.json",
+    "stem_slp1": "vacas",
+    "stem_deva": "वचस्",
+    "stem_iast": "vacas",
+    "linga": "napumsaka",
+    "category": "s_neut"
+  },
+  {
+    "file": "cetas_napumsaka.json",
+    "stem_slp1": "cetas",
+    "stem_deva": "चेतस्",
+    "stem_iast": "cetas",
+    "linga": "napumsaka",
+    "category": "s_neut"
+  },
+  {
+    "file": "yogin_pum.json",
+    "stem_slp1": "yogin",
+    "stem_deva": "योगिन्",
+    "stem_iast": "yogin",
+    "linga": "pum",
+    "category": "in_masc"
+  },
+  {
+    "file": "Danin_pum.json",
+    "stem_slp1": "Danin",
+    "stem_deva": "धनिन्",
+    "stem_iast": "dhanin",
+    "linga": "pum",
+    "category": "in_masc"
+  },
+  {
+    "file": "BAgin_pum.json",
+    "stem_slp1": "BAgin",
+    "stem_deva": "भागिन्",
+    "stem_iast": "bhāgin",
+    "linga": "pum",
+    "category": "in_masc"
+  },
+  {
+    "file": "svAmin_pum.json",
+    "stem_slp1": "svAmin",
+    "stem_deva": "स्वामिन्",
+    "stem_iast": "svāmin",
+    "linga": "pum",
+    "category": "in_masc"
+  },
+  {
+    "file": "pakzin_pum.json",
+    "stem_slp1": "pakzin",
+    "stem_deva": "पक्षिन्",
+    "stem_iast": "pakṣin",
+    "linga": "pum",
+    "category": "in_masc"
+  },
+  {
+    "file": "Bavat_pum.json",
+    "stem_slp1": "Bavat",
+    "stem_deva": "भवत्",
+    "stem_iast": "bhavat",
+    "linga": "pum",
+    "category": "at_masc"
+  },
+  {
+    "file": "gacCat_pum.json",
+    "stem_slp1": "gacCat",
+    "stem_deva": "गच्छत्",
+    "stem_iast": "gacchat",
+    "linga": "pum",
+    "category": "at_masc"
+  },
+  {
+    "file": "Bagavat_pum.json",
+    "stem_slp1": "Bagavat",
+    "stem_deva": "भगवत्",
+    "stem_iast": "bhagavat",
+    "linga": "pum",
+    "category": "vat_masc"
+  },
+  {
+    "file": "Balavat_pum.json",
+    "stem_slp1": "Balavat",
+    "stem_deva": "भलवत्",
+    "stem_iast": "bhalavat",
+    "linga": "pum",
+    "category": "vat_masc"
+  },
+  {
+    "file": "Danavat_pum.json",
+    "stem_slp1": "Danavat",
+    "stem_deva": "धनवत्",
+    "stem_iast": "dhanavat",
+    "linga": "pum",
+    "category": "vat_masc"
+  },
+  {
+    "file": "asmad_pum.json",
+    "stem_slp1": "asmad",
+    "stem_deva": "अस्मद्",
+    "stem_iast": "asmad",
+    "linga": "pum",
+    "category": "pronoun"
+  },
+  {
+    "file": "yuzmad_pum.json",
+    "stem_slp1": "yuzmad",
+    "stem_deva": "युष्मद्",
+    "stem_iast": "yuṣmad",
+    "linga": "pum",
+    "category": "pronoun"
+  },
+  {
+    "file": "tad_pum.json",
+    "stem_slp1": "tad",
+    "stem_deva": "तद्",
+    "stem_iast": "tad",
+    "linga": "pum",
+    "category": "pronoun"
+  },
+  {
+    "file": "tad_stri.json",
+    "stem_slp1": "tad",
+    "stem_deva": "तद्",
+    "stem_iast": "tad",
+    "linga": "stri",
+    "category": "pronoun"
+  },
+  {
+    "file": "tad_napumsaka.json",
+    "stem_slp1": "tad",
+    "stem_deva": "तद्",
+    "stem_iast": "tad",
+    "linga": "napumsaka",
+    "category": "pronoun"
+  },
+  {
+    "file": "idam_pum.json",
+    "stem_slp1": "idam",
+    "stem_deva": "इदम्",
+    "stem_iast": "idam",
+    "linga": "pum",
+    "category": "pronoun"
+  },
+  {
+    "file": "idam_stri.json",
+    "stem_slp1": "idam",
+    "stem_deva": "इदम्",
+    "stem_iast": "idam",
+    "linga": "stri",
+    "category": "pronoun"
+  },
+  {
+    "file": "idam_napumsaka.json",
+    "stem_slp1": "idam",
+    "stem_deva": "इदम्",
+    "stem_iast": "idam",
+    "linga": "napumsaka",
+    "category": "pronoun"
+  },
+  {
+    "file": "kim_pum.json",
+    "stem_slp1": "kim",
+    "stem_deva": "किम्",
+    "stem_iast": "kim",
+    "linga": "pum",
+    "category": "pronoun"
+  },
+  {
+    "file": "kim_stri.json",
+    "stem_slp1": "kim",
+    "stem_deva": "किम्",
+    "stem_iast": "kim",
+    "linga": "stri",
+    "category": "pronoun"
+  },
+  {
+    "file": "kim_napumsaka.json",
+    "stem_slp1": "kim",
+    "stem_deva": "किम्",
+    "stem_iast": "kim",
+    "linga": "napumsaka",
+    "category": "pronoun"
+  },
+  {
+    "file": "etad_pum.json",
+    "stem_slp1": "etad",
+    "stem_deva": "एतद्",
+    "stem_iast": "etad",
+    "linga": "pum",
+    "category": "pronoun"
+  },
+  {
+    "file": "etad_stri.json",
+    "stem_slp1": "etad",
+    "stem_deva": "एतद्",
+    "stem_iast": "etad",
+    "linga": "stri",
+    "category": "pronoun"
+  },
+  {
+    "file": "etad_napumsaka.json",
+    "stem_slp1": "etad",
+    "stem_deva": "एतद्",
+    "stem_iast": "etad",
+    "linga": "napumsaka",
+    "category": "pronoun"
+  }
+]

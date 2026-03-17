@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "guru",
+    "deva": "गुरु",
+    "iast": "guru"
+  },
+  "linga": {
+    "key": "pum",
+    "sa": "पुल्लिङ्ग",
+    "en": "Masculine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "गुरुः",
+          "iast": "guruḥ",
+          "slp1": "guruH"
+        },
+        "dvi": {
+          "deva": "गुरू",
+          "iast": "gurū",
+          "slp1": "gurU"
+        },
+        "bahu": {
+          "deva": "गुरवः",
+          "iast": "guravaḥ",
+          "slp1": "guravaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "गुरुम्",
+          "iast": "gurum",
+          "slp1": "gurum"
+        },
+        "dvi": {
+          "deva": "गुरू",
+          "iast": "gurū",
+          "slp1": "gurU"
+        },
+        "bahu": {
+          "deva": "गुरून्",
+          "iast": "gurūn",
+          "slp1": "gurUn"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "गुरुणा",
+          "iast": "guruṇā",
+          "slp1": "guruRA"
+        },
+        "dvi": {
+          "deva": "गुरुभ्याम्",
+          "iast": "gurubhyām",
+          "slp1": "guruByAm"
+        },
+        "bahu": {
+          "deva": "गुरुभिः",
+          "iast": "gurubhiḥ",
+          "slp1": "guruBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "गुरवे",
+          "iast": "gurave",
+          "slp1": "gurave"
+        },
+        "dvi": {
+          "deva": "गुरुभ्याम्",
+          "iast": "gurubhyām",
+          "slp1": "guruByAm"
+        },
+        "bahu": {
+          "deva": "गुरुभ्यः",
+          "iast": "gurubhyaḥ",
+          "slp1": "guruByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "गुरोः",
+          "iast": "guroḥ",
+          "slp1": "guroH"
+        },
+        "dvi": {
+          "deva": "गुरुभ्याम्",
+          "iast": "gurubhyām",
+          "slp1": "guruByAm"
+        },
+        "bahu": {
+          "deva": "गुरुभ्यः",
+          "iast": "gurubhyaḥ",
+          "slp1": "guruByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "गुरोः",
+          "iast": "guroḥ",
+          "slp1": "guroH"
+        },
+        "dvi": {
+          "deva": "गुर्वोः",
+          "iast": "gurvoḥ",
+          "slp1": "gurvoH"
+        },
+        "bahu": {
+          "deva": "गुरूणाम्",
+          "iast": "gurūṇām",
+          "slp1": "gurURAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "गुरौ",
+          "iast": "gurau",
+          "slp1": "gurO"
+        },
+        "dvi": {
+          "deva": "गुर्वोः",
+          "iast": "gurvoḥ",
+          "slp1": "gurvoH"
+        },
+        "bahu": {
+          "deva": "गुरुषु",
+          "iast": "guruṣu",
+          "slp1": "guruzu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "गुरो",
+          "iast": "guro",
+          "slp1": "guro"
+        },
+        "dvi": {
+          "deva": "गुरू",
+          "iast": "gurū",
+          "slp1": "gurU"
+        },
+        "bahu": {
+          "deva": "गुरवः",
+          "iast": "guravaḥ",
+          "slp1": "guravaH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "गुरुः",
+      "slp1": "guruH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "गुरू",
+      "slp1": "gurU",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "गुरवः",
+      "slp1": "guravaH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "गुरुम्",
+      "slp1": "gurum",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "गुरू",
+      "slp1": "gurU",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "गुरून्",
+      "slp1": "gurUn",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "गुरुणा",
+      "slp1": "guruRA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "गुरुभ्याम्",
+      "slp1": "guruByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "गुरुभिः",
+      "slp1": "guruBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "गुरवे",
+      "slp1": "gurave",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "गुरुभ्याम्",
+      "slp1": "guruByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "गुरुभ्यः",
+      "slp1": "guruByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "गुरोः",
+      "slp1": "guroH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "गुरुभ्याम्",
+      "slp1": "guruByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "गुरुभ्यः",
+      "slp1": "guruByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "गुरोः",
+      "slp1": "guroH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "गुर्वोः",
+      "slp1": "gurvoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "गुरूणाम्",
+      "slp1": "gurURAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "गुरौ",
+      "slp1": "gurO",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "गुर्वोः",
+      "slp1": "gurvoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "गुरुषु",
+      "slp1": "guruzu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "गुरो",
+      "slp1": "guro",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "गुरू",
+      "slp1": "gurU",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "गुरवः",
+      "slp1": "guravaH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

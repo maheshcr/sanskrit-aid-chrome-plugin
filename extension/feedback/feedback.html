@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sanskrit Learner - Feedback</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      background: #f5f5f5;
+      color: #333;
+      line-height: 1.5;
+    }
+
+    .container {
+      max-width: 640px;
+      margin: 0 auto;
+      padding: 24px 16px;
+    }
+
+    .header {
+      background: linear-gradient(135deg, #ff9933 0%, #e67300 100%);
+      color: white;
+      padding: 24px;
+      text-align: center;
+      border-radius: 8px 8px 0 0;
+    }
+
+    .header h1 { font-size: 22px; font-weight: 600; }
+    .header p { font-size: 13px; opacity: 0.9; margin-top: 4px; }
+
+    .form-card {
+      background: white;
+      border-radius: 0 0 8px 8px;
+      padding: 24px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+
+    .form-group {
+      margin-bottom: 20px;
+    }
+
+    label {
+      display: block;
+      font-size: 14px;
+      font-weight: 600;
+      color: #333;
+      margin-bottom: 6px;
+    }
+
+    label .hint {
+      font-weight: 400;
+      color: #888;
+      font-size: 12px;
+    }
+
+    input[type="text"], textarea, select {
+      width: 100%;
+      padding: 10px 12px;
+      border: 1px solid #ddd;
+      border-radius: 6px;
+      font-size: 14px;
+      font-family: inherit;
+      transition: border-color 0.15s;
+    }
+
+    input[type="text"]:focus, textarea:focus, select:focus {
+      outline: none;
+      border-color: #ff9933;
+      box-shadow: 0 0 0 3px rgba(255, 153, 51, 0.15);
+    }
+
+    .sanskrit-input {
+      font-size: 18px;
+      font-family: 'Noto Sans Devanagari', 'Devanagari MT', sans-serif;
+    }
+
+    textarea { resize: vertical; min-height: 80px; }
+
+    select { background: white; }
+
+    .radio-group {
+      display: flex;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+
+    .radio-group label {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-weight: 400;
+      cursor: pointer;
+    }
+
+    .btn {
+      padding: 12px 24px;
+      border: none;
+      border-radius: 6px;
+      font-size: 14px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+
+    .btn-primary {
+      background: #ff9933;
+      color: white;
+    }
+    .btn-primary:hover { background: #e67300; }
+
+    .btn-secondary {
+      background: #f0f0f0;
+      color: #666;
+    }
+    .btn-secondary:hover { background: #e0e0e0; }
+
+    .btn-row {
+      display: flex;
+      gap: 12px;
+      margin-top: 24px;
+    }
+
+    .history {
+      margin-top: 32px;
+    }
+
+    .history h2 {
+      font-size: 16px;
+      color: #666;
+      margin-bottom: 12px;
+    }
+
+    .history-item {
+      background: white;
+      border-radius: 6px;
+      padding: 14px;
+      margin-bottom: 8px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+      font-size: 13px;
+    }
+
+    .history-item .word {
+      font-size: 16px;
+      font-weight: 600;
+      font-family: 'Noto Sans Devanagari', sans-serif;
+    }
+
+    .history-item .meta {
+      color: #888;
+      font-size: 11px;
+      margin-top: 4px;
+    }
+
+    .history-item .issue { color: #c62828; margin-top: 4px; }
+    .history-item .expected { color: #2e7d32; margin-top: 2px; }
+
+    .export-row {
+      display: flex;
+      gap: 8px;
+      margin-top: 16px;
+    }
+
+    .badge {
+      display: inline-block;
+      padding: 2px 8px;
+      border-radius: 10px;
+      font-size: 11px;
+      font-weight: 500;
+    }
+    .badge-wrong { background: #ffebee; color: #c62828; }
+    .badge-missing { background: #fff3e0; color: #e65100; }
+    .badge-good { background: #e8f5e9; color: #2e7d32; }
+    .badge-audio { background: #e3f2fd; color: #1565c0; }
+
+    .empty-state {
+      text-align: center;
+      padding: 32px;
+      color: #aaa;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>Sanskrit Learner Feedback</h1>
+      <p>Help improve the extension by reporting what worked and what didn't</p>
+    </div>
+
+    <div class="form-card">
+      <div class="form-group">
+        <label>Sanskrit Word <span class="hint">(Devanagari)</span></label>
+        <input type="text" id="word" class="sanskrit-input" placeholder="e.g. तपस्वाध्यायनिरतं">
+      </div>
+
+      <div class="form-group">
+        <label>Source Text <span class="hint">(optional — which shloka/verse?)</span></label>
+        <input type="text" id="source" placeholder="e.g. Ramayana 1.1.1, Bhagavad Gita 2.47">
+      </div>
+
+      <div class="form-group">
+        <label>Feedback Type</label>
+        <div class="radio-group">
+          <label><input type="radio" name="type" value="wrong" checked> Wrong analysis</label>
+          <label><input type="radio" name="type" value="missing"> No analysis shown</label>
+          <label><input type="radio" name="type" value="good"> Correct / Impressive</label>
+          <label><input type="radio" name="type" value="audio"> Audio issue</label>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label>What the extension showed <span class="hint">(copy from popup)</span></label>
+        <textarea id="got" placeholder="e.g. 'No analysis available' or wrong stem/case/gender shown"></textarea>
+      </div>
+
+      <div class="form-group">
+        <label>What you expected <span class="hint">(the correct analysis)</span></label>
+        <textarea id="expected" placeholder="e.g. तपस् + स्वाध्याय + निरतम् (compound: tapas + svādhyāya + niratam)"></textarea>
+      </div>
+
+      <div class="form-group">
+        <label>Your Name <span class="hint">(optional)</span></label>
+        <input type="text" id="tester-name" placeholder="So we can credit you">
+      </div>
+
+      <div class="btn-row">
+        <button class="btn btn-primary" id="submit-btn">Save Feedback</button>
+        <button class="btn btn-secondary" id="clear-btn">Clear Form</button>
+      </div>
+    </div>
+
+    <div class="history">
+      <h2>Saved Feedback (<span id="count">0</span>)</h2>
+      <div id="history-list">
+        <div class="empty-state">No feedback recorded yet. Submit your first report above.</div>
+      </div>
+      <div class="export-row">
+        <button class="btn btn-secondary" id="export-btn">Export as JSON</button>
+        <button class="btn btn-secondary" id="copy-btn">Copy to Clipboard</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="feedback.js"></script>
+</body>
+</html>

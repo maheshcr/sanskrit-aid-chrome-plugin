@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "aSva",
+    "deva": "अश्व",
+    "iast": "aśva"
+  },
+  "linga": {
+    "key": "pum",
+    "sa": "पुल्लिङ्ग",
+    "en": "Masculine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अश्वः",
+          "iast": "aśvaḥ",
+          "slp1": "aSvaH"
+        },
+        "dvi": {
+          "deva": "अश्वौ",
+          "iast": "aśvau",
+          "slp1": "aSvO"
+        },
+        "bahu": {
+          "deva": "अश्वाः",
+          "iast": "aśvāḥ",
+          "slp1": "aSvAH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अश्वम्",
+          "iast": "aśvam",
+          "slp1": "aSvam"
+        },
+        "dvi": {
+          "deva": "अश्वौ",
+          "iast": "aśvau",
+          "slp1": "aSvO"
+        },
+        "bahu": {
+          "deva": "अश्वान्",
+          "iast": "aśvān",
+          "slp1": "aSvAn"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अश्वेन",
+          "iast": "aśvena",
+          "slp1": "aSvena"
+        },
+        "dvi": {
+          "deva": "अश्वाभ्याम्",
+          "iast": "aśvābhyām",
+          "slp1": "aSvAByAm"
+        },
+        "bahu": {
+          "deva": "अश्वैः",
+          "iast": "aśvaiḥ",
+          "slp1": "aSvEH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अश्वाय",
+          "iast": "aśvāya",
+          "slp1": "aSvAya"
+        },
+        "dvi": {
+          "deva": "अश्वाभ्याम्",
+          "iast": "aśvābhyām",
+          "slp1": "aSvAByAm"
+        },
+        "bahu": {
+          "deva": "अश्वेभ्यः",
+          "iast": "aśvebhyaḥ",
+          "slp1": "aSveByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अश्वात्",
+          "iast": "aśvāt",
+          "slp1": "aSvAt"
+        },
+        "dvi": {
+          "deva": "अश्वाभ्याम्",
+          "iast": "aśvābhyām",
+          "slp1": "aSvAByAm"
+        },
+        "bahu": {
+          "deva": "अश्वेभ्यः",
+          "iast": "aśvebhyaḥ",
+          "slp1": "aSveByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अश्वस्य",
+          "iast": "aśvasya",
+          "slp1": "aSvasya"
+        },
+        "dvi": {
+          "deva": "अश्वयोः",
+          "iast": "aśvayoḥ",
+          "slp1": "aSvayoH"
+        },
+        "bahu": {
+          "deva": "अश्वानाम्",
+          "iast": "aśvānām",
+          "slp1": "aSvAnAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अश्वे",
+          "iast": "aśve",
+          "slp1": "aSve"
+        },
+        "dvi": {
+          "deva": "अश्वयोः",
+          "iast": "aśvayoḥ",
+          "slp1": "aSvayoH"
+        },
+        "bahu": {
+          "deva": "अश्वेषु",
+          "iast": "aśveṣu",
+          "slp1": "aSvezu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अश्व",
+          "iast": "aśva",
+          "slp1": "aSva"
+        },
+        "dvi": {
+          "deva": "अश्वौ",
+          "iast": "aśvau",
+          "slp1": "aSvO"
+        },
+        "bahu": {
+          "deva": "अश्वाः",
+          "iast": "aśvāḥ",
+          "slp1": "aSvAH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "अश्वः",
+      "slp1": "aSvaH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "अश्वौ",
+      "slp1": "aSvO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अश्वाः",
+      "slp1": "aSvAH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "अश्वम्",
+      "slp1": "aSvam",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "अश्वौ",
+      "slp1": "aSvO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अश्वान्",
+      "slp1": "aSvAn",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "अश्वेन",
+      "slp1": "aSvena",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "अश्वाभ्याम्",
+      "slp1": "aSvAByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अश्वैः",
+      "slp1": "aSvEH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "अश्वाय",
+      "slp1": "aSvAya",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "अश्वाभ्याम्",
+      "slp1": "aSvAByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अश्वेभ्यः",
+      "slp1": "aSveByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "अश्वात्",
+      "slp1": "aSvAt",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "अश्वाभ्याम्",
+      "slp1": "aSvAByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अश्वेभ्यः",
+      "slp1": "aSveByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "अश्वस्य",
+      "slp1": "aSvasya",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "अश्वयोः",
+      "slp1": "aSvayoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अश्वानाम्",
+      "slp1": "aSvAnAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "अश्वे",
+      "slp1": "aSve",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "अश्वयोः",
+      "slp1": "aSvayoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अश्वेषु",
+      "slp1": "aSvezu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "अश्व",
+      "slp1": "aSva",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "अश्वौ",
+      "slp1": "aSvO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अश्वाः",
+      "slp1": "aSvAH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

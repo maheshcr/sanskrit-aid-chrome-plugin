@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "muni",
+    "deva": "मुनि",
+    "iast": "muni"
+  },
+  "linga": {
+    "key": "pum",
+    "sa": "पुल्लिङ्ग",
+    "en": "Masculine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मुनिः",
+          "iast": "muniḥ",
+          "slp1": "muniH"
+        },
+        "dvi": {
+          "deva": "मुनी",
+          "iast": "munī",
+          "slp1": "munI"
+        },
+        "bahu": {
+          "deva": "मुनयः",
+          "iast": "munayaḥ",
+          "slp1": "munayaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मुनिम्",
+          "iast": "munim",
+          "slp1": "munim"
+        },
+        "dvi": {
+          "deva": "मुनी",
+          "iast": "munī",
+          "slp1": "munI"
+        },
+        "bahu": {
+          "deva": "मुनीन्",
+          "iast": "munīn",
+          "slp1": "munIn"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मुनिना",
+          "iast": "muninā",
+          "slp1": "muninA"
+        },
+        "dvi": {
+          "deva": "मुनिभ्याम्",
+          "iast": "munibhyām",
+          "slp1": "muniByAm"
+        },
+        "bahu": {
+          "deva": "मुनिभिः",
+          "iast": "munibhiḥ",
+          "slp1": "muniBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मुनये",
+          "iast": "munaye",
+          "slp1": "munaye"
+        },
+        "dvi": {
+          "deva": "मुनिभ्याम्",
+          "iast": "munibhyām",
+          "slp1": "muniByAm"
+        },
+        "bahu": {
+          "deva": "मुनिभ्यः",
+          "iast": "munibhyaḥ",
+          "slp1": "muniByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मुनेः",
+          "iast": "muneḥ",
+          "slp1": "muneH"
+        },
+        "dvi": {
+          "deva": "मुनिभ्याम्",
+          "iast": "munibhyām",
+          "slp1": "muniByAm"
+        },
+        "bahu": {
+          "deva": "मुनिभ्यः",
+          "iast": "munibhyaḥ",
+          "slp1": "muniByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मुनेः",
+          "iast": "muneḥ",
+          "slp1": "muneH"
+        },
+        "dvi": {
+          "deva": "मुन्योः",
+          "iast": "munyoḥ",
+          "slp1": "munyoH"
+        },
+        "bahu": {
+          "deva": "मुनीनाम्",
+          "iast": "munīnām",
+          "slp1": "munInAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मुनौ",
+          "iast": "munau",
+          "slp1": "munO"
+        },
+        "dvi": {
+          "deva": "मुन्योः",
+          "iast": "munyoḥ",
+          "slp1": "munyoH"
+        },
+        "bahu": {
+          "deva": "मुनिषु",
+          "iast": "muniṣu",
+          "slp1": "munizu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मुने",
+          "iast": "mune",
+          "slp1": "mune"
+        },
+        "dvi": {
+          "deva": "मुनी",
+          "iast": "munī",
+          "slp1": "munI"
+        },
+        "bahu": {
+          "deva": "मुनयः",
+          "iast": "munayaḥ",
+          "slp1": "munayaH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "मुनिः",
+      "slp1": "muniH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मुनी",
+      "slp1": "munI",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मुनयः",
+      "slp1": "munayaH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मुनिम्",
+      "slp1": "munim",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मुनी",
+      "slp1": "munI",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मुनीन्",
+      "slp1": "munIn",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मुनिना",
+      "slp1": "muninA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मुनिभ्याम्",
+      "slp1": "muniByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मुनिभिः",
+      "slp1": "muniBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मुनये",
+      "slp1": "munaye",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मुनिभ्याम्",
+      "slp1": "muniByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मुनिभ्यः",
+      "slp1": "muniByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मुनेः",
+      "slp1": "muneH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मुनिभ्याम्",
+      "slp1": "muniByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मुनिभ्यः",
+      "slp1": "muniByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मुनेः",
+      "slp1": "muneH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मुन्योः",
+      "slp1": "munyoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मुनीनाम्",
+      "slp1": "munInAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मुनौ",
+      "slp1": "munO",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मुन्योः",
+      "slp1": "munyoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मुनिषु",
+      "slp1": "munizu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मुने",
+      "slp1": "mune",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मुनी",
+      "slp1": "munI",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मुनयः",
+      "slp1": "munayaH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

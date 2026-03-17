@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "kaTA",
+    "deva": "कथा",
+    "iast": "kathā"
+  },
+  "linga": {
+    "key": "stri",
+    "sa": "स्त्रीलिङ्ग",
+    "en": "Feminine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कथाः",
+          "iast": "kathāḥ",
+          "slp1": "kaTAH"
+        },
+        "dvi": {
+          "deva": "कथौ",
+          "iast": "kathau",
+          "slp1": "kaTO"
+        },
+        "bahu": {
+          "deva": "कथाः",
+          "iast": "kathāḥ",
+          "slp1": "kaTAH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कथाम्",
+          "iast": "kathām",
+          "slp1": "kaTAm"
+        },
+        "dvi": {
+          "deva": "कथौ",
+          "iast": "kathau",
+          "slp1": "kaTO"
+        },
+        "bahu": {
+          "deva": "कथाः",
+          "iast": "kathāḥ",
+          "slp1": "kaTAH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कथा",
+          "iast": "kathā",
+          "slp1": "kaTA"
+        },
+        "dvi": {
+          "deva": "कथाभ्याम्",
+          "iast": "kathābhyām",
+          "slp1": "kaTAByAm"
+        },
+        "bahu": {
+          "deva": "कथाभिः",
+          "iast": "kathābhiḥ",
+          "slp1": "kaTABiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कथै",
+          "iast": "kathai",
+          "slp1": "kaTE"
+        },
+        "dvi": {
+          "deva": "कथाभ्याम्",
+          "iast": "kathābhyām",
+          "slp1": "kaTAByAm"
+        },
+        "bahu": {
+          "deva": "कथाभ्यः",
+          "iast": "kathābhyaḥ",
+          "slp1": "kaTAByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कथाः",
+          "iast": "kathāḥ",
+          "slp1": "kaTAH"
+        },
+        "dvi": {
+          "deva": "कथाभ्याम्",
+          "iast": "kathābhyām",
+          "slp1": "kaTAByAm"
+        },
+        "bahu": {
+          "deva": "कथाभ्यः",
+          "iast": "kathābhyaḥ",
+          "slp1": "kaTAByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कथाः",
+          "iast": "kathāḥ",
+          "slp1": "kaTAH"
+        },
+        "dvi": {
+          "deva": "कथौः",
+          "iast": "kathauḥ",
+          "slp1": "kaTOH"
+        },
+        "bahu": {
+          "deva": "कथाम्",
+          "iast": "kathām",
+          "slp1": "kaTAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कथे",
+          "iast": "kathe",
+          "slp1": "kaTe"
+        },
+        "dvi": {
+          "deva": "कथौः",
+          "iast": "kathauḥ",
+          "slp1": "kaTOH"
+        },
+        "bahu": {
+          "deva": "कथासु",
+          "iast": "kathāsu",
+          "slp1": "kaTAsu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कथाः",
+          "iast": "kathāḥ",
+          "slp1": "kaTAH"
+        },
+        "dvi": {
+          "deva": "कथौ",
+          "iast": "kathau",
+          "slp1": "kaTO"
+        },
+        "bahu": {
+          "deva": "कथाः",
+          "iast": "kathāḥ",
+          "slp1": "kaTAH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "कथाः",
+      "slp1": "kaTAH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कथौ",
+      "slp1": "kaTO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कथाः",
+      "slp1": "kaTAH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कथाम्",
+      "slp1": "kaTAm",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कथौ",
+      "slp1": "kaTO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कथाः",
+      "slp1": "kaTAH",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कथा",
+      "slp1": "kaTA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कथाभ्याम्",
+      "slp1": "kaTAByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कथाभिः",
+      "slp1": "kaTABiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कथै",
+      "slp1": "kaTE",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कथाभ्याम्",
+      "slp1": "kaTAByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कथाभ्यः",
+      "slp1": "kaTAByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कथाः",
+      "slp1": "kaTAH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कथाभ्याम्",
+      "slp1": "kaTAByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कथाभ्यः",
+      "slp1": "kaTAByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कथाः",
+      "slp1": "kaTAH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कथौः",
+      "slp1": "kaTOH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कथाम्",
+      "slp1": "kaTAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कथे",
+      "slp1": "kaTe",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कथौः",
+      "slp1": "kaTOH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कथासु",
+      "slp1": "kaTAsu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कथाः",
+      "slp1": "kaTAH",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कथौ",
+      "slp1": "kaTO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कथाः",
+      "slp1": "kaTAH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

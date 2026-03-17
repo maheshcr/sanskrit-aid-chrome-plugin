@@ -268,3 +268,91 @@
 .sanskrit-popup-content::-webkit-scrollbar-thumb:hover {
   background: #aaa;
 }
+
+/* Word row with audio button */
+.sanskrit-word-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.sanskrit-audio-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border: 1px solid #ddd;
+  border-radius: 50%;
+  background: #fff;
+  color: #666;
+  cursor: pointer;
+  padding: 0;
+  flex-shrink: 0;
+  transition: all 0.15s ease;
+}
+
+.sanskrit-audio-btn:hover {
+  background: #fff3e6;
+  border-color: #ff9933;
+  color: #ff9933;
+}
+
+.sanskrit-audio-btn.loading {
+  background: #fff3e6;
+  border-color: #ff9933;
+  color: #ff9933;
+  cursor: wait;
+  pointer-events: none;
+}
+
+.sanskrit-audio-btn.playing {
+  background: #ff9933;
+  border-color: #ff9933;
+  color: #fff;
+  cursor: pointer;
+}
+
+.sanskrit-spin {
+  animation: sanskrit-spin 0.8s linear infinite;
+}
+
+@keyframes sanskrit-spin {
+  to { transform: rotate(360deg); }
+}
+
+/* Sandhi split styles */
+.sanskrit-sandhi-label {
+  font-size: 11px;
+  font-weight: 600;
+  color: #ff9933;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin: 4px 0;
+}
+
+.sanskrit-split-components {
+  font-size: 16px;
+  font-weight: 500;
+  color: #333;
+  margin: 4px 0 12px;
+  padding: 6px 10px;
+  background: #fff8f0;
+  border-left: 3px solid #ff9933;
+  border-radius: 2px;
+}
+
+.sanskrit-component {
+  margin: 10px 0;
+  padding: 8px 10px;
+  border: 1px solid #eee;
+  border-radius: 4px;
+  background: #fafafa;
+}
+
+.sanskrit-component-word {
+  font-size: 15px;
+  font-weight: 600;
+  color: #222;
+  margin-bottom: 4px;
+}

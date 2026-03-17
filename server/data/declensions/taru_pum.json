@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "taru",
+    "deva": "तरु",
+    "iast": "taru"
+  },
+  "linga": {
+    "key": "pum",
+    "sa": "पुल्लिङ्ग",
+    "en": "Masculine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "तरुः",
+          "iast": "taruḥ",
+          "slp1": "taruH"
+        },
+        "dvi": {
+          "deva": "तरू",
+          "iast": "tarū",
+          "slp1": "tarU"
+        },
+        "bahu": {
+          "deva": "तरवः",
+          "iast": "taravaḥ",
+          "slp1": "taravaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "तरुम्",
+          "iast": "tarum",
+          "slp1": "tarum"
+        },
+        "dvi": {
+          "deva": "तरू",
+          "iast": "tarū",
+          "slp1": "tarU"
+        },
+        "bahu": {
+          "deva": "तरून्",
+          "iast": "tarūn",
+          "slp1": "tarUn"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "तरुणा",
+          "iast": "taruṇā",
+          "slp1": "taruRA"
+        },
+        "dvi": {
+          "deva": "तरुभ्याम्",
+          "iast": "tarubhyām",
+          "slp1": "taruByAm"
+        },
+        "bahu": {
+          "deva": "तरुभिः",
+          "iast": "tarubhiḥ",
+          "slp1": "taruBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "तरवे",
+          "iast": "tarave",
+          "slp1": "tarave"
+        },
+        "dvi": {
+          "deva": "तरुभ्याम्",
+          "iast": "tarubhyām",
+          "slp1": "taruByAm"
+        },
+        "bahu": {
+          "deva": "तरुभ्यः",
+          "iast": "tarubhyaḥ",
+          "slp1": "taruByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "तरोः",
+          "iast": "taroḥ",
+          "slp1": "taroH"
+        },
+        "dvi": {
+          "deva": "तरुभ्याम्",
+          "iast": "tarubhyām",
+          "slp1": "taruByAm"
+        },
+        "bahu": {
+          "deva": "तरुभ्यः",
+          "iast": "tarubhyaḥ",
+          "slp1": "taruByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "तरोः",
+          "iast": "taroḥ",
+          "slp1": "taroH"
+        },
+        "dvi": {
+          "deva": "तर्वोः",
+          "iast": "tarvoḥ",
+          "slp1": "tarvoH"
+        },
+        "bahu": {
+          "deva": "तरूणाम्",
+          "iast": "tarūṇām",
+          "slp1": "tarURAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "तरौ",
+          "iast": "tarau",
+          "slp1": "tarO"
+        },
+        "dvi": {
+          "deva": "तर्वोः",
+          "iast": "tarvoḥ",
+          "slp1": "tarvoH"
+        },
+        "bahu": {
+          "deva": "तरुषु",
+          "iast": "taruṣu",
+          "slp1": "taruzu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "तरो",
+          "iast": "taro",
+          "slp1": "taro"
+        },
+        "dvi": {
+          "deva": "तरू",
+          "iast": "tarū",
+          "slp1": "tarU"
+        },
+        "bahu": {
+          "deva": "तरवः",
+          "iast": "taravaḥ",
+          "slp1": "taravaH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "तरुः",
+      "slp1": "taruH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "तरू",
+      "slp1": "tarU",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "तरवः",
+      "slp1": "taravaH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "तरुम्",
+      "slp1": "tarum",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "तरू",
+      "slp1": "tarU",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "तरून्",
+      "slp1": "tarUn",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "तरुणा",
+      "slp1": "taruRA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "तरुभ्याम्",
+      "slp1": "taruByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "तरुभिः",
+      "slp1": "taruBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "तरवे",
+      "slp1": "tarave",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "तरुभ्याम्",
+      "slp1": "taruByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "तरुभ्यः",
+      "slp1": "taruByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "तरोः",
+      "slp1": "taroH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "तरुभ्याम्",
+      "slp1": "taruByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "तरुभ्यः",
+      "slp1": "taruByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "तरोः",
+      "slp1": "taroH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "तर्वोः",
+      "slp1": "tarvoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "तरूणाम्",
+      "slp1": "tarURAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "तरौ",
+      "slp1": "tarO",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "तर्वोः",
+      "slp1": "tarvoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "तरुषु",
+      "slp1": "taruzu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "तरो",
+      "slp1": "taro",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "तरू",
+      "slp1": "tarU",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "तरवः",
+      "slp1": "taravaH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "netf",
+    "deva": "नेतृ",
+    "iast": "netṛ"
+  },
+  "linga": {
+    "key": "pum",
+    "sa": "पुल्लिङ्ग",
+    "en": "Masculine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "नेता",
+          "iast": "netā",
+          "slp1": "netA"
+        },
+        "dvi": {
+          "deva": "नेतरौ",
+          "iast": "netarau",
+          "slp1": "netarO"
+        },
+        "bahu": {
+          "deva": "नेतरः",
+          "iast": "netaraḥ",
+          "slp1": "netaraH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "नेतरम्",
+          "iast": "netaram",
+          "slp1": "netaram"
+        },
+        "dvi": {
+          "deva": "नेतरौ",
+          "iast": "netarau",
+          "slp1": "netarO"
+        },
+        "bahu": {
+          "deva": "नेतॄन्",
+          "iast": "netṝn",
+          "slp1": "netFn"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "नेत्रा",
+          "iast": "netrā",
+          "slp1": "netrA"
+        },
+        "dvi": {
+          "deva": "नेतृभ्याम्",
+          "iast": "netṛbhyām",
+          "slp1": "netfByAm"
+        },
+        "bahu": {
+          "deva": "नेतृभिः",
+          "iast": "netṛbhiḥ",
+          "slp1": "netfBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "नेत्रे",
+          "iast": "netre",
+          "slp1": "netre"
+        },
+        "dvi": {
+          "deva": "नेतृभ्याम्",
+          "iast": "netṛbhyām",
+          "slp1": "netfByAm"
+        },
+        "bahu": {
+          "deva": "नेतृभ्यः",
+          "iast": "netṛbhyaḥ",
+          "slp1": "netfByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "नेतुः",
+          "iast": "netuḥ",
+          "slp1": "netuH"
+        },
+        "dvi": {
+          "deva": "नेतृभ्याम्",
+          "iast": "netṛbhyām",
+          "slp1": "netfByAm"
+        },
+        "bahu": {
+          "deva": "नेतृभ्यः",
+          "iast": "netṛbhyaḥ",
+          "slp1": "netfByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "नेतुः",
+          "iast": "netuḥ",
+          "slp1": "netuH"
+        },
+        "dvi": {
+          "deva": "नेत्रोः",
+          "iast": "netroḥ",
+          "slp1": "netroH"
+        },
+        "bahu": {
+          "deva": "नेतॄणाम्",
+          "iast": "netṝṇām",
+          "slp1": "netFRAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "नेतरि",
+          "iast": "netari",
+          "slp1": "netari"
+        },
+        "dvi": {
+          "deva": "नेत्रोः",
+          "iast": "netroḥ",
+          "slp1": "netroH"
+        },
+        "bahu": {
+          "deva": "नेतृषु",
+          "iast": "netṛṣu",
+          "slp1": "netfzu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "नेतः",
+          "iast": "netaḥ",
+          "slp1": "netaH"
+        },
+        "dvi": {
+          "deva": "नेतरौ",
+          "iast": "netarau",
+          "slp1": "netarO"
+        },
+        "bahu": {
+          "deva": "नेतरः",
+          "iast": "netaraḥ",
+          "slp1": "netaraH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "नेता",
+      "slp1": "netA",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "नेतरौ",
+      "slp1": "netarO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "नेतरः",
+      "slp1": "netaraH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "नेतरम्",
+      "slp1": "netaram",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "नेतरौ",
+      "slp1": "netarO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "नेतॄन्",
+      "slp1": "netFn",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "नेत्रा",
+      "slp1": "netrA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "नेतृभ्याम्",
+      "slp1": "netfByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "नेतृभिः",
+      "slp1": "netfBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "नेत्रे",
+      "slp1": "netre",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "नेतृभ्याम्",
+      "slp1": "netfByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "नेतृभ्यः",
+      "slp1": "netfByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "नेतुः",
+      "slp1": "netuH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "नेतृभ्याम्",
+      "slp1": "netfByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "नेतृभ्यः",
+      "slp1": "netfByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "नेतुः",
+      "slp1": "netuH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "नेत्रोः",
+      "slp1": "netroH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "नेतॄणाम्",
+      "slp1": "netFRAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "नेतरि",
+      "slp1": "netari",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "नेत्रोः",
+      "slp1": "netroH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "नेतृषु",
+      "slp1": "netfzu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "नेतः",
+      "slp1": "netaH",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "नेतरौ",
+      "slp1": "netarO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "नेतरः",
+      "slp1": "netaraH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

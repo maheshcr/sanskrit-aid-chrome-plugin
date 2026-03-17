@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "kArya",
+    "deva": "कार्य",
+    "iast": "kārya"
+  },
+  "linga": {
+    "key": "napumsaka",
+    "sa": "नपुंसकलिङ्ग",
+    "en": "Neuter"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कार्यम्",
+          "iast": "kāryam",
+          "slp1": "kAryam"
+        },
+        "dvi": {
+          "deva": "कार्ये",
+          "iast": "kārye",
+          "slp1": "kArye"
+        },
+        "bahu": {
+          "deva": "कार्याणि",
+          "iast": "kāryāṇi",
+          "slp1": "kAryARi"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कार्यम्",
+          "iast": "kāryam",
+          "slp1": "kAryam"
+        },
+        "dvi": {
+          "deva": "कार्ये",
+          "iast": "kārye",
+          "slp1": "kArye"
+        },
+        "bahu": {
+          "deva": "कार्याणि",
+          "iast": "kāryāṇi",
+          "slp1": "kAryARi"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कार्येण",
+          "iast": "kāryeṇa",
+          "slp1": "kAryeRa"
+        },
+        "dvi": {
+          "deva": "कार्याभ्याम्",
+          "iast": "kāryābhyām",
+          "slp1": "kAryAByAm"
+        },
+        "bahu": {
+          "deva": "कार्यैः",
+          "iast": "kāryaiḥ",
+          "slp1": "kAryEH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कार्याय",
+          "iast": "kāryāya",
+          "slp1": "kAryAya"
+        },
+        "dvi": {
+          "deva": "कार्याभ्याम्",
+          "iast": "kāryābhyām",
+          "slp1": "kAryAByAm"
+        },
+        "bahu": {
+          "deva": "कार्येभ्यः",
+          "iast": "kāryebhyaḥ",
+          "slp1": "kAryeByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कार्यात्",
+          "iast": "kāryāt",
+          "slp1": "kAryAt"
+        },
+        "dvi": {
+          "deva": "कार्याभ्याम्",
+          "iast": "kāryābhyām",
+          "slp1": "kAryAByAm"
+        },
+        "bahu": {
+          "deva": "कार्येभ्यः",
+          "iast": "kāryebhyaḥ",
+          "slp1": "kAryeByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कार्यस्य",
+          "iast": "kāryasya",
+          "slp1": "kAryasya"
+        },
+        "dvi": {
+          "deva": "कार्ययोः",
+          "iast": "kāryayoḥ",
+          "slp1": "kAryayoH"
+        },
+        "bahu": {
+          "deva": "कार्याणाम्",
+          "iast": "kāryāṇām",
+          "slp1": "kAryARAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कार्ये",
+          "iast": "kārye",
+          "slp1": "kArye"
+        },
+        "dvi": {
+          "deva": "कार्ययोः",
+          "iast": "kāryayoḥ",
+          "slp1": "kAryayoH"
+        },
+        "bahu": {
+          "deva": "कार्येषु",
+          "iast": "kāryeṣu",
+          "slp1": "kAryezu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कार्य",
+          "iast": "kārya",
+          "slp1": "kArya"
+        },
+        "dvi": {
+          "deva": "कार्ये",
+          "iast": "kārye",
+          "slp1": "kArye"
+        },
+        "bahu": {
+          "deva": "कार्याणि",
+          "iast": "kāryāṇi",
+          "slp1": "kAryARi"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "कार्यम्",
+      "slp1": "kAryam",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कार्ये",
+      "slp1": "kArye",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कार्याणि",
+      "slp1": "kAryARi",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कार्यम्",
+      "slp1": "kAryam",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कार्ये",
+      "slp1": "kArye",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कार्याणि",
+      "slp1": "kAryARi",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कार्येण",
+      "slp1": "kAryeRa",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कार्याभ्याम्",
+      "slp1": "kAryAByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कार्यैः",
+      "slp1": "kAryEH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कार्याय",
+      "slp1": "kAryAya",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कार्याभ्याम्",
+      "slp1": "kAryAByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कार्येभ्यः",
+      "slp1": "kAryeByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कार्यात्",
+      "slp1": "kAryAt",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कार्याभ्याम्",
+      "slp1": "kAryAByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कार्येभ्यः",
+      "slp1": "kAryeByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कार्यस्य",
+      "slp1": "kAryasya",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कार्ययोः",
+      "slp1": "kAryayoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कार्याणाम्",
+      "slp1": "kAryARAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कार्ये",
+      "slp1": "kArye",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कार्ययोः",
+      "slp1": "kAryayoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कार्येषु",
+      "slp1": "kAryezu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कार्य",
+      "slp1": "kArya",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कार्ये",
+      "slp1": "kArye",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कार्याणि",
+      "slp1": "kAryARi",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

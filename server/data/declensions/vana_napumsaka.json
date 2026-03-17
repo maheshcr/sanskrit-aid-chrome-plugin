@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "vana",
+    "deva": "वन",
+    "iast": "vana"
+  },
+  "linga": {
+    "key": "napumsaka",
+    "sa": "नपुंसकलिङ्ग",
+    "en": "Neuter"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "वनम्",
+          "iast": "vanam",
+          "slp1": "vanam"
+        },
+        "dvi": {
+          "deva": "वने",
+          "iast": "vane",
+          "slp1": "vane"
+        },
+        "bahu": {
+          "deva": "वनानि",
+          "iast": "vanāni",
+          "slp1": "vanAni"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "वनम्",
+          "iast": "vanam",
+          "slp1": "vanam"
+        },
+        "dvi": {
+          "deva": "वने",
+          "iast": "vane",
+          "slp1": "vane"
+        },
+        "bahu": {
+          "deva": "वनानि",
+          "iast": "vanāni",
+          "slp1": "vanAni"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "वनेन",
+          "iast": "vanena",
+          "slp1": "vanena"
+        },
+        "dvi": {
+          "deva": "वनाभ्याम्",
+          "iast": "vanābhyām",
+          "slp1": "vanAByAm"
+        },
+        "bahu": {
+          "deva": "वनैः",
+          "iast": "vanaiḥ",
+          "slp1": "vanEH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "वनाय",
+          "iast": "vanāya",
+          "slp1": "vanAya"
+        },
+        "dvi": {
+          "deva": "वनाभ्याम्",
+          "iast": "vanābhyām",
+          "slp1": "vanAByAm"
+        },
+        "bahu": {
+          "deva": "वनेभ्यः",
+          "iast": "vanebhyaḥ",
+          "slp1": "vaneByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "वनात्",
+          "iast": "vanāt",
+          "slp1": "vanAt"
+        },
+        "dvi": {
+          "deva": "वनाभ्याम्",
+          "iast": "vanābhyām",
+          "slp1": "vanAByAm"
+        },
+        "bahu": {
+          "deva": "वनेभ्यः",
+          "iast": "vanebhyaḥ",
+          "slp1": "vaneByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "वनस्य",
+          "iast": "vanasya",
+          "slp1": "vanasya"
+        },
+        "dvi": {
+          "deva": "वनयोः",
+          "iast": "vanayoḥ",
+          "slp1": "vanayoH"
+        },
+        "bahu": {
+          "deva": "वनानाम्",
+          "iast": "vanānām",
+          "slp1": "vanAnAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "वने",
+          "iast": "vane",
+          "slp1": "vane"
+        },
+        "dvi": {
+          "deva": "वनयोः",
+          "iast": "vanayoḥ",
+          "slp1": "vanayoH"
+        },
+        "bahu": {
+          "deva": "वनेषु",
+          "iast": "vaneṣu",
+          "slp1": "vanezu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "वन",
+          "iast": "vana",
+          "slp1": "vana"
+        },
+        "dvi": {
+          "deva": "वने",
+          "iast": "vane",
+          "slp1": "vane"
+        },
+        "bahu": {
+          "deva": "वनानि",
+          "iast": "vanāni",
+          "slp1": "vanAni"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "वनम्",
+      "slp1": "vanam",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "वने",
+      "slp1": "vane",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "वनानि",
+      "slp1": "vanAni",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "वनम्",
+      "slp1": "vanam",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "वने",
+      "slp1": "vane",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "वनानि",
+      "slp1": "vanAni",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "वनेन",
+      "slp1": "vanena",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "वनाभ्याम्",
+      "slp1": "vanAByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "वनैः",
+      "slp1": "vanEH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "वनाय",
+      "slp1": "vanAya",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "वनाभ्याम्",
+      "slp1": "vanAByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "वनेभ्यः",
+      "slp1": "vaneByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "वनात्",
+      "slp1": "vanAt",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "वनाभ्याम्",
+      "slp1": "vanAByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "वनेभ्यः",
+      "slp1": "vaneByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "वनस्य",
+      "slp1": "vanasya",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "वनयोः",
+      "slp1": "vanayoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "वनानाम्",
+      "slp1": "vanAnAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "वने",
+      "slp1": "vane",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "वनयोः",
+      "slp1": "vanayoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "वनेषु",
+      "slp1": "vanezu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "वन",
+      "slp1": "vana",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "वने",
+      "slp1": "vane",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "वनानि",
+      "slp1": "vanAni",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

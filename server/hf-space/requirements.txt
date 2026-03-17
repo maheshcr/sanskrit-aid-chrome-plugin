@@ -1,0 +1,5 @@
+git+https://github.com/huggingface/parler-tts.git
+transformers
+accelerate
+soundfile
+numpy

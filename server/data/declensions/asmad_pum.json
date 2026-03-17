@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "asmad",
+    "deva": "अस्मद्",
+    "iast": "asmad"
+  },
+  "linga": {
+    "key": "pum",
+    "sa": "पुल्लिङ्ग",
+    "en": "Masculine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अहम्",
+          "iast": "aham",
+          "slp1": "aham"
+        },
+        "dvi": {
+          "deva": "आवाम्",
+          "iast": "āvām",
+          "slp1": "AvAm"
+        },
+        "bahu": {
+          "deva": "वयम्",
+          "iast": "vayam",
+          "slp1": "vayam"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "माम्",
+          "iast": "mām",
+          "slp1": "mAm"
+        },
+        "dvi": {
+          "deva": "आवाम्",
+          "iast": "āvām",
+          "slp1": "AvAm"
+        },
+        "bahu": {
+          "deva": "अस्मान्",
+          "iast": "asmān",
+          "slp1": "asmAn"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मया",
+          "iast": "mayā",
+          "slp1": "mayA"
+        },
+        "dvi": {
+          "deva": "आवाभ्याम्",
+          "iast": "āvābhyām",
+          "slp1": "AvAByAm"
+        },
+        "bahu": {
+          "deva": "अस्माभिः",
+          "iast": "asmābhiḥ",
+          "slp1": "asmABiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मह्यम्",
+          "iast": "mahyam",
+          "slp1": "mahyam"
+        },
+        "dvi": {
+          "deva": "आवाभ्याम्",
+          "iast": "āvābhyām",
+          "slp1": "AvAByAm"
+        },
+        "bahu": {
+          "deva": "अस्मभ्यम्",
+          "iast": "asmabhyam",
+          "slp1": "asmaByam"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मत्",
+          "iast": "mat",
+          "slp1": "mat"
+        },
+        "dvi": {
+          "deva": "आवाभ्याम्",
+          "iast": "āvābhyām",
+          "slp1": "AvAByAm"
+        },
+        "bahu": {
+          "deva": "अस्मत्",
+          "iast": "asmat",
+          "slp1": "asmat"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मम",
+          "iast": "mama",
+          "slp1": "mama"
+        },
+        "dvi": {
+          "deva": "आवयोः",
+          "iast": "āvayoḥ",
+          "slp1": "AvayoH"
+        },
+        "bahu": {
+          "deva": "अस्माकम्",
+          "iast": "asmākam",
+          "slp1": "asmAkam"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मयि",
+          "iast": "mayi",
+          "slp1": "mayi"
+        },
+        "dvi": {
+          "deva": "आवयोः",
+          "iast": "āvayoḥ",
+          "slp1": "AvayoH"
+        },
+        "bahu": {
+          "deva": "अस्मासु",
+          "iast": "asmāsu",
+          "slp1": "asmAsu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अह",
+          "iast": "aha",
+          "slp1": "aha"
+        },
+        "dvi": {
+          "deva": "आवाम्",
+          "iast": "āvām",
+          "slp1": "AvAm"
+        },
+        "bahu": {
+          "deva": "वयम्",
+          "iast": "vayam",
+          "slp1": "vayam"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "अहम्",
+      "slp1": "aham",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "आवाम्",
+      "slp1": "AvAm",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "वयम्",
+      "slp1": "vayam",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "माम्",
+      "slp1": "mAm",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "आवाम्",
+      "slp1": "AvAm",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अस्मान्",
+      "slp1": "asmAn",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मया",
+      "slp1": "mayA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "आवाभ्याम्",
+      "slp1": "AvAByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अस्माभिः",
+      "slp1": "asmABiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मह्यम्",
+      "slp1": "mahyam",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "आवाभ्याम्",
+      "slp1": "AvAByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अस्मभ्यम्",
+      "slp1": "asmaByam",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मत्",
+      "slp1": "mat",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "आवाभ्याम्",
+      "slp1": "AvAByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अस्मत्",
+      "slp1": "asmat",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मम",
+      "slp1": "mama",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "आवयोः",
+      "slp1": "AvayoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अस्माकम्",
+      "slp1": "asmAkam",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मयि",
+      "slp1": "mayi",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "आवयोः",
+      "slp1": "AvayoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अस्मासु",
+      "slp1": "asmAsu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "अह",
+      "slp1": "aha",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "आवाम्",
+      "slp1": "AvAm",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "वयम्",
+      "slp1": "vayam",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

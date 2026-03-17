@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "BAzA",
+    "deva": "भाषा",
+    "iast": "bhāṣā"
+  },
+  "linga": {
+    "key": "stri",
+    "sa": "स्त्रीलिङ्ग",
+    "en": "Feminine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भाषाः",
+          "iast": "bhāṣāḥ",
+          "slp1": "BAzAH"
+        },
+        "dvi": {
+          "deva": "भाषौ",
+          "iast": "bhāṣau",
+          "slp1": "BAzO"
+        },
+        "bahu": {
+          "deva": "भाषाः",
+          "iast": "bhāṣāḥ",
+          "slp1": "BAzAH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भाषाम्",
+          "iast": "bhāṣām",
+          "slp1": "BAzAm"
+        },
+        "dvi": {
+          "deva": "भाषौ",
+          "iast": "bhāṣau",
+          "slp1": "BAzO"
+        },
+        "bahu": {
+          "deva": "भाषाः",
+          "iast": "bhāṣāḥ",
+          "slp1": "BAzAH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भाषा",
+          "iast": "bhāṣā",
+          "slp1": "BAzA"
+        },
+        "dvi": {
+          "deva": "भाषाभ्याम्",
+          "iast": "bhāṣābhyām",
+          "slp1": "BAzAByAm"
+        },
+        "bahu": {
+          "deva": "भाषाभिः",
+          "iast": "bhāṣābhiḥ",
+          "slp1": "BAzABiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भाषै",
+          "iast": "bhāṣai",
+          "slp1": "BAzE"
+        },
+        "dvi": {
+          "deva": "भाषाभ्याम्",
+          "iast": "bhāṣābhyām",
+          "slp1": "BAzAByAm"
+        },
+        "bahu": {
+          "deva": "भाषाभ्यः",
+          "iast": "bhāṣābhyaḥ",
+          "slp1": "BAzAByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भाषाः",
+          "iast": "bhāṣāḥ",
+          "slp1": "BAzAH"
+        },
+        "dvi": {
+          "deva": "भाषाभ्याम्",
+          "iast": "bhāṣābhyām",
+          "slp1": "BAzAByAm"
+        },
+        "bahu": {
+          "deva": "भाषाभ्यः",
+          "iast": "bhāṣābhyaḥ",
+          "slp1": "BAzAByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भाषाः",
+          "iast": "bhāṣāḥ",
+          "slp1": "BAzAH"
+        },
+        "dvi": {
+          "deva": "भाषौः",
+          "iast": "bhāṣauḥ",
+          "slp1": "BAzOH"
+        },
+        "bahu": {
+          "deva": "भाषाम्",
+          "iast": "bhāṣām",
+          "slp1": "BAzAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भाषे",
+          "iast": "bhāṣe",
+          "slp1": "BAze"
+        },
+        "dvi": {
+          "deva": "भाषौः",
+          "iast": "bhāṣauḥ",
+          "slp1": "BAzOH"
+        },
+        "bahu": {
+          "deva": "भाषासु",
+          "iast": "bhāṣāsu",
+          "slp1": "BAzAsu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भाषाः",
+          "iast": "bhāṣāḥ",
+          "slp1": "BAzAH"
+        },
+        "dvi": {
+          "deva": "भाषौ",
+          "iast": "bhāṣau",
+          "slp1": "BAzO"
+        },
+        "bahu": {
+          "deva": "भाषाः",
+          "iast": "bhāṣāḥ",
+          "slp1": "BAzAH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "भाषाः",
+      "slp1": "BAzAH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भाषौ",
+      "slp1": "BAzO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भाषाः",
+      "slp1": "BAzAH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भाषाम्",
+      "slp1": "BAzAm",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भाषौ",
+      "slp1": "BAzO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भाषाः",
+      "slp1": "BAzAH",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भाषा",
+      "slp1": "BAzA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भाषाभ्याम्",
+      "slp1": "BAzAByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भाषाभिः",
+      "slp1": "BAzABiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भाषै",
+      "slp1": "BAzE",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भाषाभ्याम्",
+      "slp1": "BAzAByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भाषाभ्यः",
+      "slp1": "BAzAByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भाषाः",
+      "slp1": "BAzAH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भाषाभ्याम्",
+      "slp1": "BAzAByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भाषाभ्यः",
+      "slp1": "BAzAByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भाषाः",
+      "slp1": "BAzAH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भाषौः",
+      "slp1": "BAzOH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भाषाम्",
+      "slp1": "BAzAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भाषे",
+      "slp1": "BAze",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भाषौः",
+      "slp1": "BAzOH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भाषासु",
+      "slp1": "BAzAsu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भाषाः",
+      "slp1": "BAzAH",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भाषौ",
+      "slp1": "BAzO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भाषाः",
+      "slp1": "BAzAH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

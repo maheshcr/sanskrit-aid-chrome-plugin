@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "manas",
+    "deva": "मनस्",
+    "iast": "manas"
+  },
+  "linga": {
+    "key": "napumsaka",
+    "sa": "नपुंसकलिङ्ग",
+    "en": "Neuter"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मनः",
+          "iast": "manaḥ",
+          "slp1": "manaH"
+        },
+        "dvi": {
+          "deva": "मनसी",
+          "iast": "manasī",
+          "slp1": "manasI"
+        },
+        "bahu": {
+          "deva": "मनांसि",
+          "iast": "manāṃsi",
+          "slp1": "manAMsi"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मनः",
+          "iast": "manaḥ",
+          "slp1": "manaH"
+        },
+        "dvi": {
+          "deva": "मनसी",
+          "iast": "manasī",
+          "slp1": "manasI"
+        },
+        "bahu": {
+          "deva": "मनांसि",
+          "iast": "manāṃsi",
+          "slp1": "manAMsi"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मनसा",
+          "iast": "manasā",
+          "slp1": "manasA"
+        },
+        "dvi": {
+          "deva": "मनोभ्याम्",
+          "iast": "manobhyām",
+          "slp1": "manoByAm"
+        },
+        "bahu": {
+          "deva": "मनोभिः",
+          "iast": "manobhiḥ",
+          "slp1": "manoBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मनसे",
+          "iast": "manase",
+          "slp1": "manase"
+        },
+        "dvi": {
+          "deva": "मनोभ्याम्",
+          "iast": "manobhyām",
+          "slp1": "manoByAm"
+        },
+        "bahu": {
+          "deva": "मनोभ्यः",
+          "iast": "manobhyaḥ",
+          "slp1": "manoByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मनसः",
+          "iast": "manasaḥ",
+          "slp1": "manasaH"
+        },
+        "dvi": {
+          "deva": "मनोभ्याम्",
+          "iast": "manobhyām",
+          "slp1": "manoByAm"
+        },
+        "bahu": {
+          "deva": "मनोभ्यः",
+          "iast": "manobhyaḥ",
+          "slp1": "manoByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मनसः",
+          "iast": "manasaḥ",
+          "slp1": "manasaH"
+        },
+        "dvi": {
+          "deva": "मनसोः",
+          "iast": "manasoḥ",
+          "slp1": "manasoH"
+        },
+        "bahu": {
+          "deva": "मनसाम्",
+          "iast": "manasām",
+          "slp1": "manasAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मनसि",
+          "iast": "manasi",
+          "slp1": "manasi"
+        },
+        "dvi": {
+          "deva": "मनसोः",
+          "iast": "manasoḥ",
+          "slp1": "manasoH"
+        },
+        "bahu": {
+          "deva": "मनस्सु",
+          "iast": "manassu",
+          "slp1": "manassu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मनः",
+          "iast": "manaḥ",
+          "slp1": "manaH"
+        },
+        "dvi": {
+          "deva": "मनसी",
+          "iast": "manasī",
+          "slp1": "manasI"
+        },
+        "bahu": {
+          "deva": "मनांसि",
+          "iast": "manāṃsi",
+          "slp1": "manAMsi"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "मनः",
+      "slp1": "manaH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मनसी",
+      "slp1": "manasI",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मनांसि",
+      "slp1": "manAMsi",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मनः",
+      "slp1": "manaH",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मनसी",
+      "slp1": "manasI",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मनांसि",
+      "slp1": "manAMsi",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मनसा",
+      "slp1": "manasA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मनोभ्याम्",
+      "slp1": "manoByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मनोभिः",
+      "slp1": "manoBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मनसे",
+      "slp1": "manase",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मनोभ्याम्",
+      "slp1": "manoByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मनोभ्यः",
+      "slp1": "manoByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मनसः",
+      "slp1": "manasaH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मनोभ्याम्",
+      "slp1": "manoByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मनोभ्यः",
+      "slp1": "manoByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मनसः",
+      "slp1": "manasaH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मनसोः",
+      "slp1": "manasoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मनसाम्",
+      "slp1": "manasAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मनसि",
+      "slp1": "manasi",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मनसोः",
+      "slp1": "manasoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मनस्सु",
+      "slp1": "manassu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मनः",
+      "slp1": "manaH",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मनसी",
+      "slp1": "manasI",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मनांसि",
+      "slp1": "manAMsi",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

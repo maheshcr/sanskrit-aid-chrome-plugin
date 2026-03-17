@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "ravi",
+    "deva": "रवि",
+    "iast": "ravi"
+  },
+  "linga": {
+    "key": "pum",
+    "sa": "पुल्लिङ्ग",
+    "en": "Masculine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "रविः",
+          "iast": "raviḥ",
+          "slp1": "raviH"
+        },
+        "dvi": {
+          "deva": "रवी",
+          "iast": "ravī",
+          "slp1": "ravI"
+        },
+        "bahu": {
+          "deva": "रवयः",
+          "iast": "ravayaḥ",
+          "slp1": "ravayaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "रविम्",
+          "iast": "ravim",
+          "slp1": "ravim"
+        },
+        "dvi": {
+          "deva": "रवी",
+          "iast": "ravī",
+          "slp1": "ravI"
+        },
+        "bahu": {
+          "deva": "रवीन्",
+          "iast": "ravīn",
+          "slp1": "ravIn"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "रविणा",
+          "iast": "raviṇā",
+          "slp1": "raviRA"
+        },
+        "dvi": {
+          "deva": "रविभ्याम्",
+          "iast": "ravibhyām",
+          "slp1": "raviByAm"
+        },
+        "bahu": {
+          "deva": "रविभिः",
+          "iast": "ravibhiḥ",
+          "slp1": "raviBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "रवये",
+          "iast": "ravaye",
+          "slp1": "ravaye"
+        },
+        "dvi": {
+          "deva": "रविभ्याम्",
+          "iast": "ravibhyām",
+          "slp1": "raviByAm"
+        },
+        "bahu": {
+          "deva": "रविभ्यः",
+          "iast": "ravibhyaḥ",
+          "slp1": "raviByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "रवेः",
+          "iast": "raveḥ",
+          "slp1": "raveH"
+        },
+        "dvi": {
+          "deva": "रविभ्याम्",
+          "iast": "ravibhyām",
+          "slp1": "raviByAm"
+        },
+        "bahu": {
+          "deva": "रविभ्यः",
+          "iast": "ravibhyaḥ",
+          "slp1": "raviByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "रवेः",
+          "iast": "raveḥ",
+          "slp1": "raveH"
+        },
+        "dvi": {
+          "deva": "रव्योः",
+          "iast": "ravyoḥ",
+          "slp1": "ravyoH"
+        },
+        "bahu": {
+          "deva": "रवीणाम्",
+          "iast": "ravīṇām",
+          "slp1": "ravIRAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "रवौ",
+          "iast": "ravau",
+          "slp1": "ravO"
+        },
+        "dvi": {
+          "deva": "रव्योः",
+          "iast": "ravyoḥ",
+          "slp1": "ravyoH"
+        },
+        "bahu": {
+          "deva": "रविषु",
+          "iast": "raviṣu",
+          "slp1": "ravizu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "रवे",
+          "iast": "rave",
+          "slp1": "rave"
+        },
+        "dvi": {
+          "deva": "रवी",
+          "iast": "ravī",
+          "slp1": "ravI"
+        },
+        "bahu": {
+          "deva": "रवयः",
+          "iast": "ravayaḥ",
+          "slp1": "ravayaH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "रविः",
+      "slp1": "raviH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "रवी",
+      "slp1": "ravI",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "रवयः",
+      "slp1": "ravayaH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "रविम्",
+      "slp1": "ravim",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "रवी",
+      "slp1": "ravI",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "रवीन्",
+      "slp1": "ravIn",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "रविणा",
+      "slp1": "raviRA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "रविभ्याम्",
+      "slp1": "raviByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "रविभिः",
+      "slp1": "raviBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "रवये",
+      "slp1": "ravaye",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "रविभ्याम्",
+      "slp1": "raviByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "रविभ्यः",
+      "slp1": "raviByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "रवेः",
+      "slp1": "raveH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "रविभ्याम्",
+      "slp1": "raviByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "रविभ्यः",
+      "slp1": "raviByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "रवेः",
+      "slp1": "raveH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "रव्योः",
+      "slp1": "ravyoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "रवीणाम्",
+      "slp1": "ravIRAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "रवौ",
+      "slp1": "ravO",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "रव्योः",
+      "slp1": "ravyoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "रविषु",
+      "slp1": "ravizu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "रवे",
+      "slp1": "rave",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "रवी",
+      "slp1": "ravI",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "रवयः",
+      "slp1": "ravayaH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

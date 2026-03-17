@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "gati",
+    "deva": "गति",
+    "iast": "gati"
+  },
+  "linga": {
+    "key": "stri",
+    "sa": "स्त्रीलिङ्ग",
+    "en": "Feminine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "गतिः",
+          "iast": "gatiḥ",
+          "slp1": "gatiH"
+        },
+        "dvi": {
+          "deva": "गती",
+          "iast": "gatī",
+          "slp1": "gatI"
+        },
+        "bahu": {
+          "deva": "गतयः",
+          "iast": "gatayaḥ",
+          "slp1": "gatayaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "गतिम्",
+          "iast": "gatim",
+          "slp1": "gatim"
+        },
+        "dvi": {
+          "deva": "गती",
+          "iast": "gatī",
+          "slp1": "gatI"
+        },
+        "bahu": {
+          "deva": "गतीः",
+          "iast": "gatīḥ",
+          "slp1": "gatIH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "गत्या",
+          "iast": "gatyā",
+          "slp1": "gatyA"
+        },
+        "dvi": {
+          "deva": "गतिभ्याम्",
+          "iast": "gatibhyām",
+          "slp1": "gatiByAm"
+        },
+        "bahu": {
+          "deva": "गतिभिः",
+          "iast": "gatibhiḥ",
+          "slp1": "gatiBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "गत्यै",
+          "iast": "gatyai",
+          "slp1": "gatyE"
+        },
+        "dvi": {
+          "deva": "गतिभ्याम्",
+          "iast": "gatibhyām",
+          "slp1": "gatiByAm"
+        },
+        "bahu": {
+          "deva": "गतिभ्यः",
+          "iast": "gatibhyaḥ",
+          "slp1": "gatiByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "गत्याः",
+          "iast": "gatyāḥ",
+          "slp1": "gatyAH"
+        },
+        "dvi": {
+          "deva": "गतिभ्याम्",
+          "iast": "gatibhyām",
+          "slp1": "gatiByAm"
+        },
+        "bahu": {
+          "deva": "गतिभ्यः",
+          "iast": "gatibhyaḥ",
+          "slp1": "gatiByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "गत्याः",
+          "iast": "gatyāḥ",
+          "slp1": "gatyAH"
+        },
+        "dvi": {
+          "deva": "गत्योः",
+          "iast": "gatyoḥ",
+          "slp1": "gatyoH"
+        },
+        "bahu": {
+          "deva": "गतीनाम्",
+          "iast": "gatīnām",
+          "slp1": "gatInAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "गत्याम्",
+          "iast": "gatyām",
+          "slp1": "gatyAm"
+        },
+        "dvi": {
+          "deva": "गत्योः",
+          "iast": "gatyoḥ",
+          "slp1": "gatyoH"
+        },
+        "bahu": {
+          "deva": "गतिषु",
+          "iast": "gatiṣu",
+          "slp1": "gatizu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "गते",
+          "iast": "gate",
+          "slp1": "gate"
+        },
+        "dvi": {
+          "deva": "गती",
+          "iast": "gatī",
+          "slp1": "gatI"
+        },
+        "bahu": {
+          "deva": "गतयः",
+          "iast": "gatayaḥ",
+          "slp1": "gatayaH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "गतिः",
+      "slp1": "gatiH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "गती",
+      "slp1": "gatI",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "गतयः",
+      "slp1": "gatayaH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "गतिम्",
+      "slp1": "gatim",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "गती",
+      "slp1": "gatI",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "गतीः",
+      "slp1": "gatIH",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "गत्या",
+      "slp1": "gatyA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "गतिभ्याम्",
+      "slp1": "gatiByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "गतिभिः",
+      "slp1": "gatiBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "गत्यै",
+      "slp1": "gatyE",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "गतिभ्याम्",
+      "slp1": "gatiByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "गतिभ्यः",
+      "slp1": "gatiByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "गत्याः",
+      "slp1": "gatyAH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "गतिभ्याम्",
+      "slp1": "gatiByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "गतिभ्यः",
+      "slp1": "gatiByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "गत्याः",
+      "slp1": "gatyAH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "गत्योः",
+      "slp1": "gatyoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "गतीनाम्",
+      "slp1": "gatInAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "गत्याम्",
+      "slp1": "gatyAm",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "गत्योः",
+      "slp1": "gatyoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "गतिषु",
+      "slp1": "gatizu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "गते",
+      "slp1": "gate",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "गती",
+      "slp1": "gatI",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "गतयः",
+      "slp1": "gatayaH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

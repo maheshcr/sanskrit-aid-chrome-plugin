@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "gacCat",
+    "deva": "गच्छत्",
+    "iast": "gacchat"
+  },
+  "linga": {
+    "key": "pum",
+    "sa": "पुल्लिङ्ग",
+    "en": "Masculine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "गच्छत्",
+          "iast": "gacchat",
+          "slp1": "gacCat"
+        },
+        "dvi": {
+          "deva": "गच्छतौ",
+          "iast": "gacchatau",
+          "slp1": "gacCatO"
+        },
+        "bahu": {
+          "deva": "गच्छतः",
+          "iast": "gacchataḥ",
+          "slp1": "gacCataH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "गच्छतम्",
+          "iast": "gacchatam",
+          "slp1": "gacCatam"
+        },
+        "dvi": {
+          "deva": "गच्छतौ",
+          "iast": "gacchatau",
+          "slp1": "gacCatO"
+        },
+        "bahu": {
+          "deva": "गच्छतः",
+          "iast": "gacchataḥ",
+          "slp1": "gacCataH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "गच्छता",
+          "iast": "gacchatā",
+          "slp1": "gacCatA"
+        },
+        "dvi": {
+          "deva": "गच्छद्भ्याम्",
+          "iast": "gacchadbhyām",
+          "slp1": "gacCadByAm"
+        },
+        "bahu": {
+          "deva": "गच्छद्भिः",
+          "iast": "gacchadbhiḥ",
+          "slp1": "gacCadBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "गच्छते",
+          "iast": "gacchate",
+          "slp1": "gacCate"
+        },
+        "dvi": {
+          "deva": "गच्छद्भ्याम्",
+          "iast": "gacchadbhyām",
+          "slp1": "gacCadByAm"
+        },
+        "bahu": {
+          "deva": "गच्छद्भ्यः",
+          "iast": "gacchadbhyaḥ",
+          "slp1": "gacCadByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "गच्छतः",
+          "iast": "gacchataḥ",
+          "slp1": "gacCataH"
+        },
+        "dvi": {
+          "deva": "गच्छद्भ्याम्",
+          "iast": "gacchadbhyām",
+          "slp1": "gacCadByAm"
+        },
+        "bahu": {
+          "deva": "गच्छद्भ्यः",
+          "iast": "gacchadbhyaḥ",
+          "slp1": "gacCadByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "गच्छतः",
+          "iast": "gacchataḥ",
+          "slp1": "gacCataH"
+        },
+        "dvi": {
+          "deva": "गच्छतोः",
+          "iast": "gacchatoḥ",
+          "slp1": "gacCatoH"
+        },
+        "bahu": {
+          "deva": "गच्छताम्",
+          "iast": "gacchatām",
+          "slp1": "gacCatAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "गच्छति",
+          "iast": "gacchati",
+          "slp1": "gacCati"
+        },
+        "dvi": {
+          "deva": "गच्छतोः",
+          "iast": "gacchatoḥ",
+          "slp1": "gacCatoH"
+        },
+        "bahu": {
+          "deva": "गच्छत्सु",
+          "iast": "gacchatsu",
+          "slp1": "gacCatsu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "गच्छत्",
+          "iast": "gacchat",
+          "slp1": "gacCat"
+        },
+        "dvi": {
+          "deva": "गच्छतौ",
+          "iast": "gacchatau",
+          "slp1": "gacCatO"
+        },
+        "bahu": {
+          "deva": "गच्छतः",
+          "iast": "gacchataḥ",
+          "slp1": "gacCataH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "गच्छत्",
+      "slp1": "gacCat",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "गच्छतौ",
+      "slp1": "gacCatO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "गच्छतः",
+      "slp1": "gacCataH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "गच्छतम्",
+      "slp1": "gacCatam",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "गच्छतौ",
+      "slp1": "gacCatO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "गच्छतः",
+      "slp1": "gacCataH",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "गच्छता",
+      "slp1": "gacCatA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "गच्छद्भ्याम्",
+      "slp1": "gacCadByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "गच्छद्भिः",
+      "slp1": "gacCadBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "गच्छते",
+      "slp1": "gacCate",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "गच्छद्भ्याम्",
+      "slp1": "gacCadByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "गच्छद्भ्यः",
+      "slp1": "gacCadByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "गच्छतः",
+      "slp1": "gacCataH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "गच्छद्भ्याम्",
+      "slp1": "gacCadByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "गच्छद्भ्यः",
+      "slp1": "gacCadByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "गच्छतः",
+      "slp1": "gacCataH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "गच्छतोः",
+      "slp1": "gacCatoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "गच्छताम्",
+      "slp1": "gacCatAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "गच्छति",
+      "slp1": "gacCati",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "गच्छतोः",
+      "slp1": "gacCatoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "गच्छत्सु",
+      "slp1": "gacCatsu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "गच्छत्",
+      "slp1": "gacCat",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "गच्छतौ",
+      "slp1": "gacCatO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "गच्छतः",
+      "slp1": "gacCataH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

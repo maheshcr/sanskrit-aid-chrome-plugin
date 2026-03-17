@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "Pala",
+    "deva": "फल",
+    "iast": "phala"
+  },
+  "linga": {
+    "key": "napumsaka",
+    "sa": "नपुंसकलिङ्ग",
+    "en": "Neuter"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "फलम्",
+          "iast": "phalam",
+          "slp1": "Palam"
+        },
+        "dvi": {
+          "deva": "फले",
+          "iast": "phale",
+          "slp1": "Pale"
+        },
+        "bahu": {
+          "deva": "फलानि",
+          "iast": "phalāni",
+          "slp1": "PalAni"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "फलम्",
+          "iast": "phalam",
+          "slp1": "Palam"
+        },
+        "dvi": {
+          "deva": "फले",
+          "iast": "phale",
+          "slp1": "Pale"
+        },
+        "bahu": {
+          "deva": "फलानि",
+          "iast": "phalāni",
+          "slp1": "PalAni"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "फलेन",
+          "iast": "phalena",
+          "slp1": "Palena"
+        },
+        "dvi": {
+          "deva": "फलाभ्याम्",
+          "iast": "phalābhyām",
+          "slp1": "PalAByAm"
+        },
+        "bahu": {
+          "deva": "फलैः",
+          "iast": "phalaiḥ",
+          "slp1": "PalEH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "फलाय",
+          "iast": "phalāya",
+          "slp1": "PalAya"
+        },
+        "dvi": {
+          "deva": "फलाभ्याम्",
+          "iast": "phalābhyām",
+          "slp1": "PalAByAm"
+        },
+        "bahu": {
+          "deva": "फलेभ्यः",
+          "iast": "phalebhyaḥ",
+          "slp1": "PaleByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "फलात्",
+          "iast": "phalāt",
+          "slp1": "PalAt"
+        },
+        "dvi": {
+          "deva": "फलाभ्याम्",
+          "iast": "phalābhyām",
+          "slp1": "PalAByAm"
+        },
+        "bahu": {
+          "deva": "फलेभ्यः",
+          "iast": "phalebhyaḥ",
+          "slp1": "PaleByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "फलस्य",
+          "iast": "phalasya",
+          "slp1": "Palasya"
+        },
+        "dvi": {
+          "deva": "फलयोः",
+          "iast": "phalayoḥ",
+          "slp1": "PalayoH"
+        },
+        "bahu": {
+          "deva": "फलानाम्",
+          "iast": "phalānām",
+          "slp1": "PalAnAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "फले",
+          "iast": "phale",
+          "slp1": "Pale"
+        },
+        "dvi": {
+          "deva": "फलयोः",
+          "iast": "phalayoḥ",
+          "slp1": "PalayoH"
+        },
+        "bahu": {
+          "deva": "फलेषु",
+          "iast": "phaleṣu",
+          "slp1": "Palezu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "फल",
+          "iast": "phala",
+          "slp1": "Pala"
+        },
+        "dvi": {
+          "deva": "फले",
+          "iast": "phale",
+          "slp1": "Pale"
+        },
+        "bahu": {
+          "deva": "फलानि",
+          "iast": "phalāni",
+          "slp1": "PalAni"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "फलम्",
+      "slp1": "Palam",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "फले",
+      "slp1": "Pale",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "फलानि",
+      "slp1": "PalAni",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "फलम्",
+      "slp1": "Palam",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "फले",
+      "slp1": "Pale",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "फलानि",
+      "slp1": "PalAni",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "फलेन",
+      "slp1": "Palena",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "फलाभ्याम्",
+      "slp1": "PalAByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "फलैः",
+      "slp1": "PalEH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "फलाय",
+      "slp1": "PalAya",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "फलाभ्याम्",
+      "slp1": "PalAByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "फलेभ्यः",
+      "slp1": "PaleByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "फलात्",
+      "slp1": "PalAt",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "फलाभ्याम्",
+      "slp1": "PalAByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "फलेभ्यः",
+      "slp1": "PaleByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "फलस्य",
+      "slp1": "Palasya",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "फलयोः",
+      "slp1": "PalayoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "फलानाम्",
+      "slp1": "PalAnAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "फले",
+      "slp1": "Pale",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "फलयोः",
+      "slp1": "PalayoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "फलेषु",
+      "slp1": "Palezu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "फल",
+      "slp1": "Pala",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "फले",
+      "slp1": "Pale",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "फलानि",
+      "slp1": "PalAni",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

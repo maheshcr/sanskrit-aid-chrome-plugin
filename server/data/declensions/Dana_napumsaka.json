@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "Dana",
+    "deva": "धन",
+    "iast": "dhana"
+  },
+  "linga": {
+    "key": "napumsaka",
+    "sa": "नपुंसकलिङ्ग",
+    "en": "Neuter"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "धनम्",
+          "iast": "dhanam",
+          "slp1": "Danam"
+        },
+        "dvi": {
+          "deva": "धने",
+          "iast": "dhane",
+          "slp1": "Dane"
+        },
+        "bahu": {
+          "deva": "धनानि",
+          "iast": "dhanāni",
+          "slp1": "DanAni"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "धनम्",
+          "iast": "dhanam",
+          "slp1": "Danam"
+        },
+        "dvi": {
+          "deva": "धने",
+          "iast": "dhane",
+          "slp1": "Dane"
+        },
+        "bahu": {
+          "deva": "धनानि",
+          "iast": "dhanāni",
+          "slp1": "DanAni"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "धनेन",
+          "iast": "dhanena",
+          "slp1": "Danena"
+        },
+        "dvi": {
+          "deva": "धनाभ्याम्",
+          "iast": "dhanābhyām",
+          "slp1": "DanAByAm"
+        },
+        "bahu": {
+          "deva": "धनैः",
+          "iast": "dhanaiḥ",
+          "slp1": "DanEH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "धनाय",
+          "iast": "dhanāya",
+          "slp1": "DanAya"
+        },
+        "dvi": {
+          "deva": "धनाभ्याम्",
+          "iast": "dhanābhyām",
+          "slp1": "DanAByAm"
+        },
+        "bahu": {
+          "deva": "धनेभ्यः",
+          "iast": "dhanebhyaḥ",
+          "slp1": "DaneByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "धनात्",
+          "iast": "dhanāt",
+          "slp1": "DanAt"
+        },
+        "dvi": {
+          "deva": "धनाभ्याम्",
+          "iast": "dhanābhyām",
+          "slp1": "DanAByAm"
+        },
+        "bahu": {
+          "deva": "धनेभ्यः",
+          "iast": "dhanebhyaḥ",
+          "slp1": "DaneByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "धनस्य",
+          "iast": "dhanasya",
+          "slp1": "Danasya"
+        },
+        "dvi": {
+          "deva": "धनयोः",
+          "iast": "dhanayoḥ",
+          "slp1": "DanayoH"
+        },
+        "bahu": {
+          "deva": "धनानाम्",
+          "iast": "dhanānām",
+          "slp1": "DanAnAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "धने",
+          "iast": "dhane",
+          "slp1": "Dane"
+        },
+        "dvi": {
+          "deva": "धनयोः",
+          "iast": "dhanayoḥ",
+          "slp1": "DanayoH"
+        },
+        "bahu": {
+          "deva": "धनेषु",
+          "iast": "dhaneṣu",
+          "slp1": "Danezu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "धन",
+          "iast": "dhana",
+          "slp1": "Dana"
+        },
+        "dvi": {
+          "deva": "धने",
+          "iast": "dhane",
+          "slp1": "Dane"
+        },
+        "bahu": {
+          "deva": "धनानि",
+          "iast": "dhanāni",
+          "slp1": "DanAni"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "धनम्",
+      "slp1": "Danam",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "धने",
+      "slp1": "Dane",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "धनानि",
+      "slp1": "DanAni",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "धनम्",
+      "slp1": "Danam",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "धने",
+      "slp1": "Dane",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "धनानि",
+      "slp1": "DanAni",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "धनेन",
+      "slp1": "Danena",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "धनाभ्याम्",
+      "slp1": "DanAByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "धनैः",
+      "slp1": "DanEH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "धनाय",
+      "slp1": "DanAya",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "धनाभ्याम्",
+      "slp1": "DanAByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "धनेभ्यः",
+      "slp1": "DaneByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "धनात्",
+      "slp1": "DanAt",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "धनाभ्याम्",
+      "slp1": "DanAByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "धनेभ्यः",
+      "slp1": "DaneByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "धनस्य",
+      "slp1": "Danasya",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "धनयोः",
+      "slp1": "DanayoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "धनानाम्",
+      "slp1": "DanAnAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "धने",
+      "slp1": "Dane",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "धनयोः",
+      "slp1": "DanayoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "धनेषु",
+      "slp1": "Danezu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "धन",
+      "slp1": "Dana",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "धने",
+      "slp1": "Dane",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "धनानि",
+      "slp1": "DanAni",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

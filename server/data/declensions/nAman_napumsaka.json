@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "nAman",
+    "deva": "नामन्",
+    "iast": "nāman"
+  },
+  "linga": {
+    "key": "napumsaka",
+    "sa": "नपुंसकलिङ्ग",
+    "en": "Neuter"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "नाम",
+          "iast": "nāma",
+          "slp1": "nAma"
+        },
+        "dvi": {
+          "deva": "नामनी",
+          "iast": "nāmanī",
+          "slp1": "nAmanI"
+        },
+        "bahu": {
+          "deva": "नामानि",
+          "iast": "nāmāni",
+          "slp1": "nAmAni"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "नाम",
+          "iast": "nāma",
+          "slp1": "nAma"
+        },
+        "dvi": {
+          "deva": "नामनी",
+          "iast": "nāmanī",
+          "slp1": "nAmanI"
+        },
+        "bahu": {
+          "deva": "नामानि",
+          "iast": "nāmāni",
+          "slp1": "nAmAni"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "नाम्ना",
+          "iast": "nāmnā",
+          "slp1": "nAmnA"
+        },
+        "dvi": {
+          "deva": "नामभ्याम्",
+          "iast": "nāmabhyām",
+          "slp1": "nAmaByAm"
+        },
+        "bahu": {
+          "deva": "नामभिः",
+          "iast": "nāmabhiḥ",
+          "slp1": "nAmaBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "नाम्ने",
+          "iast": "nāmne",
+          "slp1": "nAmne"
+        },
+        "dvi": {
+          "deva": "नामभ्याम्",
+          "iast": "nāmabhyām",
+          "slp1": "nAmaByAm"
+        },
+        "bahu": {
+          "deva": "नामभ्यः",
+          "iast": "nāmabhyaḥ",
+          "slp1": "nAmaByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "नाम्नः",
+          "iast": "nāmnaḥ",
+          "slp1": "nAmnaH"
+        },
+        "dvi": {
+          "deva": "नामभ्याम्",
+          "iast": "nāmabhyām",
+          "slp1": "nAmaByAm"
+        },
+        "bahu": {
+          "deva": "नामभ्यः",
+          "iast": "nāmabhyaḥ",
+          "slp1": "nAmaByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "नाम्नः",
+          "iast": "nāmnaḥ",
+          "slp1": "nAmnaH"
+        },
+        "dvi": {
+          "deva": "नाम्नोः",
+          "iast": "nāmnoḥ",
+          "slp1": "nAmnoH"
+        },
+        "bahu": {
+          "deva": "नाम्नाम्",
+          "iast": "nāmnām",
+          "slp1": "nAmnAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "नामनि",
+          "iast": "nāmani",
+          "slp1": "nAmani"
+        },
+        "dvi": {
+          "deva": "नाम्नोः",
+          "iast": "nāmnoḥ",
+          "slp1": "nAmnoH"
+        },
+        "bahu": {
+          "deva": "नामसु",
+          "iast": "nāmasu",
+          "slp1": "nAmasu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "नामन्",
+          "iast": "nāman",
+          "slp1": "nAman"
+        },
+        "dvi": {
+          "deva": "नामनी",
+          "iast": "nāmanī",
+          "slp1": "nAmanI"
+        },
+        "bahu": {
+          "deva": "नामानि",
+          "iast": "nāmāni",
+          "slp1": "nAmAni"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "नाम",
+      "slp1": "nAma",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "नामनी",
+      "slp1": "nAmanI",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "नामानि",
+      "slp1": "nAmAni",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "नाम",
+      "slp1": "nAma",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "नामनी",
+      "slp1": "nAmanI",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "नामानि",
+      "slp1": "nAmAni",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "नाम्ना",
+      "slp1": "nAmnA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "नामभ्याम्",
+      "slp1": "nAmaByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "नामभिः",
+      "slp1": "nAmaBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "नाम्ने",
+      "slp1": "nAmne",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "नामभ्याम्",
+      "slp1": "nAmaByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "नामभ्यः",
+      "slp1": "nAmaByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "नाम्नः",
+      "slp1": "nAmnaH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "नामभ्याम्",
+      "slp1": "nAmaByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "नामभ्यः",
+      "slp1": "nAmaByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "नाम्नः",
+      "slp1": "nAmnaH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "नाम्नोः",
+      "slp1": "nAmnoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "नाम्नाम्",
+      "slp1": "nAmnAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "नामनि",
+      "slp1": "nAmani",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "नाम्नोः",
+      "slp1": "nAmnoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "नामसु",
+      "slp1": "nAmasu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "नामन्",
+      "slp1": "nAman",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "नामनी",
+      "slp1": "nAmanI",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "नामानि",
+      "slp1": "nAmAni",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

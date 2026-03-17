@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "mati",
+    "deva": "मति",
+    "iast": "mati"
+  },
+  "linga": {
+    "key": "stri",
+    "sa": "स्त्रीलिङ्ग",
+    "en": "Feminine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मतिः",
+          "iast": "matiḥ",
+          "slp1": "matiH"
+        },
+        "dvi": {
+          "deva": "मती",
+          "iast": "matī",
+          "slp1": "matI"
+        },
+        "bahu": {
+          "deva": "मतयः",
+          "iast": "matayaḥ",
+          "slp1": "matayaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मतिम्",
+          "iast": "matim",
+          "slp1": "matim"
+        },
+        "dvi": {
+          "deva": "मती",
+          "iast": "matī",
+          "slp1": "matI"
+        },
+        "bahu": {
+          "deva": "मतीः",
+          "iast": "matīḥ",
+          "slp1": "matIH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मत्या",
+          "iast": "matyā",
+          "slp1": "matyA"
+        },
+        "dvi": {
+          "deva": "मतिभ्याम्",
+          "iast": "matibhyām",
+          "slp1": "matiByAm"
+        },
+        "bahu": {
+          "deva": "मतिभिः",
+          "iast": "matibhiḥ",
+          "slp1": "matiBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मत्यै",
+          "iast": "matyai",
+          "slp1": "matyE"
+        },
+        "dvi": {
+          "deva": "मतिभ्याम्",
+          "iast": "matibhyām",
+          "slp1": "matiByAm"
+        },
+        "bahu": {
+          "deva": "मतिभ्यः",
+          "iast": "matibhyaḥ",
+          "slp1": "matiByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मत्याः",
+          "iast": "matyāḥ",
+          "slp1": "matyAH"
+        },
+        "dvi": {
+          "deva": "मतिभ्याम्",
+          "iast": "matibhyām",
+          "slp1": "matiByAm"
+        },
+        "bahu": {
+          "deva": "मतिभ्यः",
+          "iast": "matibhyaḥ",
+          "slp1": "matiByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मत्याः",
+          "iast": "matyāḥ",
+          "slp1": "matyAH"
+        },
+        "dvi": {
+          "deva": "मत्योः",
+          "iast": "matyoḥ",
+          "slp1": "matyoH"
+        },
+        "bahu": {
+          "deva": "मतीनाम्",
+          "iast": "matīnām",
+          "slp1": "matInAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मत्याम्",
+          "iast": "matyām",
+          "slp1": "matyAm"
+        },
+        "dvi": {
+          "deva": "मत्योः",
+          "iast": "matyoḥ",
+          "slp1": "matyoH"
+        },
+        "bahu": {
+          "deva": "मतिषु",
+          "iast": "matiṣu",
+          "slp1": "matizu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मते",
+          "iast": "mate",
+          "slp1": "mate"
+        },
+        "dvi": {
+          "deva": "मती",
+          "iast": "matī",
+          "slp1": "matI"
+        },
+        "bahu": {
+          "deva": "मतयः",
+          "iast": "matayaḥ",
+          "slp1": "matayaH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "मतिः",
+      "slp1": "matiH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मती",
+      "slp1": "matI",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मतयः",
+      "slp1": "matayaH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मतिम्",
+      "slp1": "matim",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मती",
+      "slp1": "matI",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मतीः",
+      "slp1": "matIH",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मत्या",
+      "slp1": "matyA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मतिभ्याम्",
+      "slp1": "matiByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मतिभिः",
+      "slp1": "matiBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मत्यै",
+      "slp1": "matyE",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मतिभ्याम्",
+      "slp1": "matiByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मतिभ्यः",
+      "slp1": "matiByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मत्याः",
+      "slp1": "matyAH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मतिभ्याम्",
+      "slp1": "matiByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मतिभ्यः",
+      "slp1": "matiByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मत्याः",
+      "slp1": "matyAH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मत्योः",
+      "slp1": "matyoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मतीनाम्",
+      "slp1": "matInAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मत्याम्",
+      "slp1": "matyAm",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मत्योः",
+      "slp1": "matyoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मतिषु",
+      "slp1": "matizu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मते",
+      "slp1": "mate",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मती",
+      "slp1": "matI",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मतयः",
+      "slp1": "matayaH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

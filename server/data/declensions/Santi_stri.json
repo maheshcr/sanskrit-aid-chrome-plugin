@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "Santi",
+    "deva": "शन्ति",
+    "iast": "śanti"
+  },
+  "linga": {
+    "key": "stri",
+    "sa": "स्त्रीलिङ्ग",
+    "en": "Feminine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "शन्तिः",
+          "iast": "śantiḥ",
+          "slp1": "SantiH"
+        },
+        "dvi": {
+          "deva": "शन्ती",
+          "iast": "śantī",
+          "slp1": "SantI"
+        },
+        "bahu": {
+          "deva": "शन्तयः",
+          "iast": "śantayaḥ",
+          "slp1": "SantayaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "शन्तिम्",
+          "iast": "śantim",
+          "slp1": "Santim"
+        },
+        "dvi": {
+          "deva": "शन्ती",
+          "iast": "śantī",
+          "slp1": "SantI"
+        },
+        "bahu": {
+          "deva": "शन्तीः",
+          "iast": "śantīḥ",
+          "slp1": "SantIH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "शन्त्या",
+          "iast": "śantyā",
+          "slp1": "SantyA"
+        },
+        "dvi": {
+          "deva": "शन्तिभ्याम्",
+          "iast": "śantibhyām",
+          "slp1": "SantiByAm"
+        },
+        "bahu": {
+          "deva": "शन्तिभिः",
+          "iast": "śantibhiḥ",
+          "slp1": "SantiBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "शन्त्यै",
+          "iast": "śantyai",
+          "slp1": "SantyE"
+        },
+        "dvi": {
+          "deva": "शन्तिभ्याम्",
+          "iast": "śantibhyām",
+          "slp1": "SantiByAm"
+        },
+        "bahu": {
+          "deva": "शन्तिभ्यः",
+          "iast": "śantibhyaḥ",
+          "slp1": "SantiByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "शन्त्याः",
+          "iast": "śantyāḥ",
+          "slp1": "SantyAH"
+        },
+        "dvi": {
+          "deva": "शन्तिभ्याम्",
+          "iast": "śantibhyām",
+          "slp1": "SantiByAm"
+        },
+        "bahu": {
+          "deva": "शन्तिभ्यः",
+          "iast": "śantibhyaḥ",
+          "slp1": "SantiByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "शन्त्याः",
+          "iast": "śantyāḥ",
+          "slp1": "SantyAH"
+        },
+        "dvi": {
+          "deva": "शन्त्योः",
+          "iast": "śantyoḥ",
+          "slp1": "SantyoH"
+        },
+        "bahu": {
+          "deva": "शन्तीनाम्",
+          "iast": "śantīnām",
+          "slp1": "SantInAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "शन्त्याम्",
+          "iast": "śantyām",
+          "slp1": "SantyAm"
+        },
+        "dvi": {
+          "deva": "शन्त्योः",
+          "iast": "śantyoḥ",
+          "slp1": "SantyoH"
+        },
+        "bahu": {
+          "deva": "शन्तिषु",
+          "iast": "śantiṣu",
+          "slp1": "Santizu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "शन्ते",
+          "iast": "śante",
+          "slp1": "Sante"
+        },
+        "dvi": {
+          "deva": "शन्ती",
+          "iast": "śantī",
+          "slp1": "SantI"
+        },
+        "bahu": {
+          "deva": "शन्तयः",
+          "iast": "śantayaḥ",
+          "slp1": "SantayaH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "शन्तिः",
+      "slp1": "SantiH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "शन्ती",
+      "slp1": "SantI",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "शन्तयः",
+      "slp1": "SantayaH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "शन्तिम्",
+      "slp1": "Santim",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "शन्ती",
+      "slp1": "SantI",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "शन्तीः",
+      "slp1": "SantIH",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "शन्त्या",
+      "slp1": "SantyA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "शन्तिभ्याम्",
+      "slp1": "SantiByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "शन्तिभिः",
+      "slp1": "SantiBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "शन्त्यै",
+      "slp1": "SantyE",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "शन्तिभ्याम्",
+      "slp1": "SantiByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "शन्तिभ्यः",
+      "slp1": "SantiByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "शन्त्याः",
+      "slp1": "SantyAH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "शन्तिभ्याम्",
+      "slp1": "SantiByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "शन्तिभ्यः",
+      "slp1": "SantiByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "शन्त्याः",
+      "slp1": "SantyAH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "शन्त्योः",
+      "slp1": "SantyoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "शन्तीनाम्",
+      "slp1": "SantInAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "शन्त्याम्",
+      "slp1": "SantyAm",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "शन्त्योः",
+      "slp1": "SantyoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "शन्तिषु",
+      "slp1": "Santizu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "शन्ते",
+      "slp1": "Sante",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "शन्ती",
+      "slp1": "SantI",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "शन्तयः",
+      "slp1": "SantayaH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

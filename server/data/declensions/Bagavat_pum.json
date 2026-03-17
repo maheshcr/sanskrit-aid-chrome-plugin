@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "Bagavat",
+    "deva": "भगवत्",
+    "iast": "bhagavat"
+  },
+  "linga": {
+    "key": "pum",
+    "sa": "पुल्लिङ्ग",
+    "en": "Masculine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भगवत्",
+          "iast": "bhagavat",
+          "slp1": "Bagavat"
+        },
+        "dvi": {
+          "deva": "भगवतौ",
+          "iast": "bhagavatau",
+          "slp1": "BagavatO"
+        },
+        "bahu": {
+          "deva": "भगवतः",
+          "iast": "bhagavataḥ",
+          "slp1": "BagavataH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भगवतम्",
+          "iast": "bhagavatam",
+          "slp1": "Bagavatam"
+        },
+        "dvi": {
+          "deva": "भगवतौ",
+          "iast": "bhagavatau",
+          "slp1": "BagavatO"
+        },
+        "bahu": {
+          "deva": "भगवतः",
+          "iast": "bhagavataḥ",
+          "slp1": "BagavataH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भगवता",
+          "iast": "bhagavatā",
+          "slp1": "BagavatA"
+        },
+        "dvi": {
+          "deva": "भगवद्भ्याम्",
+          "iast": "bhagavadbhyām",
+          "slp1": "BagavadByAm"
+        },
+        "bahu": {
+          "deva": "भगवद्भिः",
+          "iast": "bhagavadbhiḥ",
+          "slp1": "BagavadBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भगवते",
+          "iast": "bhagavate",
+          "slp1": "Bagavate"
+        },
+        "dvi": {
+          "deva": "भगवद्भ्याम्",
+          "iast": "bhagavadbhyām",
+          "slp1": "BagavadByAm"
+        },
+        "bahu": {
+          "deva": "भगवद्भ्यः",
+          "iast": "bhagavadbhyaḥ",
+          "slp1": "BagavadByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भगवतः",
+          "iast": "bhagavataḥ",
+          "slp1": "BagavataH"
+        },
+        "dvi": {
+          "deva": "भगवद्भ्याम्",
+          "iast": "bhagavadbhyām",
+          "slp1": "BagavadByAm"
+        },
+        "bahu": {
+          "deva": "भगवद्भ्यः",
+          "iast": "bhagavadbhyaḥ",
+          "slp1": "BagavadByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भगवतः",
+          "iast": "bhagavataḥ",
+          "slp1": "BagavataH"
+        },
+        "dvi": {
+          "deva": "भगवतोः",
+          "iast": "bhagavatoḥ",
+          "slp1": "BagavatoH"
+        },
+        "bahu": {
+          "deva": "भगवताम्",
+          "iast": "bhagavatām",
+          "slp1": "BagavatAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भगवति",
+          "iast": "bhagavati",
+          "slp1": "Bagavati"
+        },
+        "dvi": {
+          "deva": "भगवतोः",
+          "iast": "bhagavatoḥ",
+          "slp1": "BagavatoH"
+        },
+        "bahu": {
+          "deva": "भगवत्सु",
+          "iast": "bhagavatsu",
+          "slp1": "Bagavatsu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भगवत्",
+          "iast": "bhagavat",
+          "slp1": "Bagavat"
+        },
+        "dvi": {
+          "deva": "भगवतौ",
+          "iast": "bhagavatau",
+          "slp1": "BagavatO"
+        },
+        "bahu": {
+          "deva": "भगवतः",
+          "iast": "bhagavataḥ",
+          "slp1": "BagavataH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "भगवत्",
+      "slp1": "Bagavat",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भगवतौ",
+      "slp1": "BagavatO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भगवतः",
+      "slp1": "BagavataH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भगवतम्",
+      "slp1": "Bagavatam",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भगवतौ",
+      "slp1": "BagavatO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भगवतः",
+      "slp1": "BagavataH",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भगवता",
+      "slp1": "BagavatA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भगवद्भ्याम्",
+      "slp1": "BagavadByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भगवद्भिः",
+      "slp1": "BagavadBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भगवते",
+      "slp1": "Bagavate",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भगवद्भ्याम्",
+      "slp1": "BagavadByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भगवद्भ्यः",
+      "slp1": "BagavadByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भगवतः",
+      "slp1": "BagavataH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भगवद्भ्याम्",
+      "slp1": "BagavadByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भगवद्भ्यः",
+      "slp1": "BagavadByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भगवतः",
+      "slp1": "BagavataH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भगवतोः",
+      "slp1": "BagavatoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भगवताम्",
+      "slp1": "BagavatAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भगवति",
+      "slp1": "Bagavati",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भगवतोः",
+      "slp1": "BagavatoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भगवत्सु",
+      "slp1": "Bagavatsu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भगवत्",
+      "slp1": "Bagavat",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भगवतौ",
+      "slp1": "BagavatO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भगवतः",
+      "slp1": "BagavataH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

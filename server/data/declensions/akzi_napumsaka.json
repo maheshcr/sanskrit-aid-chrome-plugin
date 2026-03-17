@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "akzi",
+    "deva": "अक्षि",
+    "iast": "akṣi"
+  },
+  "linga": {
+    "key": "napumsaka",
+    "sa": "नपुंसकलिङ्ग",
+    "en": "Neuter"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अक्षि",
+          "iast": "akṣi",
+          "slp1": "akzi"
+        },
+        "dvi": {
+          "deva": "अक्षिणी",
+          "iast": "akṣiṇī",
+          "slp1": "akziRI"
+        },
+        "bahu": {
+          "deva": "अक्षीणि",
+          "iast": "akṣīṇi",
+          "slp1": "akzIRi"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अक्षि",
+          "iast": "akṣi",
+          "slp1": "akzi"
+        },
+        "dvi": {
+          "deva": "अक्षिणी",
+          "iast": "akṣiṇī",
+          "slp1": "akziRI"
+        },
+        "bahu": {
+          "deva": "अक्षिणि",
+          "iast": "akṣiṇi",
+          "slp1": "akziRi"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अक्ष्णा",
+          "iast": "akṣṇā",
+          "slp1": "akzRA"
+        },
+        "dvi": {
+          "deva": "अक्षभ्याम्",
+          "iast": "akṣabhyām",
+          "slp1": "akzaByAm"
+        },
+        "bahu": {
+          "deva": "अक्षभिः",
+          "iast": "akṣabhiḥ",
+          "slp1": "akzaBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अक्ष्णे",
+          "iast": "akṣṇe",
+          "slp1": "akzRe"
+        },
+        "dvi": {
+          "deva": "अक्षभ्याम्",
+          "iast": "akṣabhyām",
+          "slp1": "akzaByAm"
+        },
+        "bahu": {
+          "deva": "अक्षभ्यः",
+          "iast": "akṣabhyaḥ",
+          "slp1": "akzaByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अक्ष्णः",
+          "iast": "akṣṇaḥ",
+          "slp1": "akzRaH"
+        },
+        "dvi": {
+          "deva": "अक्षभ्याम्",
+          "iast": "akṣabhyām",
+          "slp1": "akzaByAm"
+        },
+        "bahu": {
+          "deva": "अक्षभ्यः",
+          "iast": "akṣabhyaḥ",
+          "slp1": "akzaByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अक्ष्णः",
+          "iast": "akṣṇaḥ",
+          "slp1": "akzRaH"
+        },
+        "dvi": {
+          "deva": "अक्ष्णोः",
+          "iast": "akṣṇoḥ",
+          "slp1": "akzRoH"
+        },
+        "bahu": {
+          "deva": "अक्षीणाम्",
+          "iast": "akṣīṇām",
+          "slp1": "akzIRAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अक्षणि",
+          "iast": "akṣaṇi",
+          "slp1": "akzaRi"
+        },
+        "dvi": {
+          "deva": "अक्ष्णोः",
+          "iast": "akṣṇoḥ",
+          "slp1": "akzRoH"
+        },
+        "bahu": {
+          "deva": "अक्षसु",
+          "iast": "akṣasu",
+          "slp1": "akzasu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अक्षि",
+          "iast": "akṣi",
+          "slp1": "akzi"
+        },
+        "dvi": {
+          "deva": "अक्षिणी",
+          "iast": "akṣiṇī",
+          "slp1": "akziRI"
+        },
+        "bahu": {
+          "deva": "अक्षीणि",
+          "iast": "akṣīṇi",
+          "slp1": "akzIRi"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "अक्षि",
+      "slp1": "akzi",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "अक्षिणी",
+      "slp1": "akziRI",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अक्षीणि",
+      "slp1": "akzIRi",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "अक्षि",
+      "slp1": "akzi",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "अक्षिणी",
+      "slp1": "akziRI",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अक्षिणि",
+      "slp1": "akziRi",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "अक्ष्णा",
+      "slp1": "akzRA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "अक्षभ्याम्",
+      "slp1": "akzaByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अक्षभिः",
+      "slp1": "akzaBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "अक्ष्णे",
+      "slp1": "akzRe",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "अक्षभ्याम्",
+      "slp1": "akzaByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अक्षभ्यः",
+      "slp1": "akzaByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "अक्ष्णः",
+      "slp1": "akzRaH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "अक्षभ्याम्",
+      "slp1": "akzaByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अक्षभ्यः",
+      "slp1": "akzaByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "अक्ष्णः",
+      "slp1": "akzRaH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "अक्ष्णोः",
+      "slp1": "akzRoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अक्षीणाम्",
+      "slp1": "akzIRAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "अक्षणि",
+      "slp1": "akzaRi",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "अक्ष्णोः",
+      "slp1": "akzRoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अक्षसु",
+      "slp1": "akzasu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "अक्षि",
+      "slp1": "akzi",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "अक्षिणी",
+      "slp1": "akziRI",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अक्षीणि",
+      "slp1": "akzIRi",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "vacas",
+    "deva": "वचस्",
+    "iast": "vacas"
+  },
+  "linga": {
+    "key": "napumsaka",
+    "sa": "नपुंसकलिङ्ग",
+    "en": "Neuter"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "वचः",
+          "iast": "vacaḥ",
+          "slp1": "vacaH"
+        },
+        "dvi": {
+          "deva": "वचसी",
+          "iast": "vacasī",
+          "slp1": "vacasI"
+        },
+        "bahu": {
+          "deva": "वचांसि",
+          "iast": "vacāṃsi",
+          "slp1": "vacAMsi"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "वचः",
+          "iast": "vacaḥ",
+          "slp1": "vacaH"
+        },
+        "dvi": {
+          "deva": "वचसी",
+          "iast": "vacasī",
+          "slp1": "vacasI"
+        },
+        "bahu": {
+          "deva": "वचांसि",
+          "iast": "vacāṃsi",
+          "slp1": "vacAMsi"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "वचसा",
+          "iast": "vacasā",
+          "slp1": "vacasA"
+        },
+        "dvi": {
+          "deva": "वचोभ्याम्",
+          "iast": "vacobhyām",
+          "slp1": "vacoByAm"
+        },
+        "bahu": {
+          "deva": "वचोभिः",
+          "iast": "vacobhiḥ",
+          "slp1": "vacoBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "वचसे",
+          "iast": "vacase",
+          "slp1": "vacase"
+        },
+        "dvi": {
+          "deva": "वचोभ्याम्",
+          "iast": "vacobhyām",
+          "slp1": "vacoByAm"
+        },
+        "bahu": {
+          "deva": "वचोभ्यः",
+          "iast": "vacobhyaḥ",
+          "slp1": "vacoByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "वचसः",
+          "iast": "vacasaḥ",
+          "slp1": "vacasaH"
+        },
+        "dvi": {
+          "deva": "वचोभ्याम्",
+          "iast": "vacobhyām",
+          "slp1": "vacoByAm"
+        },
+        "bahu": {
+          "deva": "वचोभ्यः",
+          "iast": "vacobhyaḥ",
+          "slp1": "vacoByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "वचसः",
+          "iast": "vacasaḥ",
+          "slp1": "vacasaH"
+        },
+        "dvi": {
+          "deva": "वचसोः",
+          "iast": "vacasoḥ",
+          "slp1": "vacasoH"
+        },
+        "bahu": {
+          "deva": "वचसाम्",
+          "iast": "vacasām",
+          "slp1": "vacasAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "वचसि",
+          "iast": "vacasi",
+          "slp1": "vacasi"
+        },
+        "dvi": {
+          "deva": "वचसोः",
+          "iast": "vacasoḥ",
+          "slp1": "vacasoH"
+        },
+        "bahu": {
+          "deva": "वचस्सु",
+          "iast": "vacassu",
+          "slp1": "vacassu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "वचः",
+          "iast": "vacaḥ",
+          "slp1": "vacaH"
+        },
+        "dvi": {
+          "deva": "वचसी",
+          "iast": "vacasī",
+          "slp1": "vacasI"
+        },
+        "bahu": {
+          "deva": "वचांसि",
+          "iast": "vacāṃsi",
+          "slp1": "vacAMsi"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "वचः",
+      "slp1": "vacaH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "वचसी",
+      "slp1": "vacasI",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "वचांसि",
+      "slp1": "vacAMsi",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "वचः",
+      "slp1": "vacaH",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "वचसी",
+      "slp1": "vacasI",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "वचांसि",
+      "slp1": "vacAMsi",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "वचसा",
+      "slp1": "vacasA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "वचोभ्याम्",
+      "slp1": "vacoByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "वचोभिः",
+      "slp1": "vacoBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "वचसे",
+      "slp1": "vacase",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "वचोभ्याम्",
+      "slp1": "vacoByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "वचोभ्यः",
+      "slp1": "vacoByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "वचसः",
+      "slp1": "vacasaH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "वचोभ्याम्",
+      "slp1": "vacoByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "वचोभ्यः",
+      "slp1": "vacoByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "वचसः",
+      "slp1": "vacasaH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "वचसोः",
+      "slp1": "vacasoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "वचसाम्",
+      "slp1": "vacasAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "वचसि",
+      "slp1": "vacasi",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "वचसोः",
+      "slp1": "vacasoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "वचस्सु",
+      "slp1": "vacassu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "वचः",
+      "slp1": "vacaH",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "वचसी",
+      "slp1": "vacasI",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "वचांसि",
+      "slp1": "vacAMsi",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

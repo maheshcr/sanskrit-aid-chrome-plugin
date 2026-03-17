@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "tad",
+    "deva": "तद्",
+    "iast": "tad"
+  },
+  "linga": {
+    "key": "pum",
+    "sa": "पुल्लिङ्ग",
+    "en": "Masculine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "सः",
+          "iast": "saḥ",
+          "slp1": "saH"
+        },
+        "dvi": {
+          "deva": "तौ",
+          "iast": "tau",
+          "slp1": "tO"
+        },
+        "bahu": {
+          "deva": "ते",
+          "iast": "te",
+          "slp1": "te"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "तम्",
+          "iast": "tam",
+          "slp1": "tam"
+        },
+        "dvi": {
+          "deva": "तौ",
+          "iast": "tau",
+          "slp1": "tO"
+        },
+        "bahu": {
+          "deva": "तान्",
+          "iast": "tān",
+          "slp1": "tAn"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "तेन",
+          "iast": "tena",
+          "slp1": "tena"
+        },
+        "dvi": {
+          "deva": "ताभ्याम्",
+          "iast": "tābhyām",
+          "slp1": "tAByAm"
+        },
+        "bahu": {
+          "deva": "तैः",
+          "iast": "taiḥ",
+          "slp1": "tEH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "तस्मै",
+          "iast": "tasmai",
+          "slp1": "tasmE"
+        },
+        "dvi": {
+          "deva": "ताभ्याम्",
+          "iast": "tābhyām",
+          "slp1": "tAByAm"
+        },
+        "bahu": {
+          "deva": "तेभ्यः",
+          "iast": "tebhyaḥ",
+          "slp1": "teByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "तस्मात्",
+          "iast": "tasmāt",
+          "slp1": "tasmAt"
+        },
+        "dvi": {
+          "deva": "ताभ्याम्",
+          "iast": "tābhyām",
+          "slp1": "tAByAm"
+        },
+        "bahu": {
+          "deva": "तेभ्यः",
+          "iast": "tebhyaḥ",
+          "slp1": "teByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "तस्य",
+          "iast": "tasya",
+          "slp1": "tasya"
+        },
+        "dvi": {
+          "deva": "तयोः",
+          "iast": "tayoḥ",
+          "slp1": "tayoH"
+        },
+        "bahu": {
+          "deva": "तेषाम्",
+          "iast": "teṣām",
+          "slp1": "tezAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "तस्मिन्",
+          "iast": "tasmin",
+          "slp1": "tasmin"
+        },
+        "dvi": {
+          "deva": "तयोः",
+          "iast": "tayoḥ",
+          "slp1": "tayoH"
+        },
+        "bahu": {
+          "deva": "तेषु",
+          "iast": "teṣu",
+          "slp1": "tezu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "स",
+          "iast": "sa",
+          "slp1": "sa"
+        },
+        "dvi": {
+          "deva": "तौ",
+          "iast": "tau",
+          "slp1": "tO"
+        },
+        "bahu": {
+          "deva": "ते",
+          "iast": "te",
+          "slp1": "te"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "सः",
+      "slp1": "saH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "तौ",
+      "slp1": "tO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "ते",
+      "slp1": "te",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "तम्",
+      "slp1": "tam",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "तौ",
+      "slp1": "tO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "तान्",
+      "slp1": "tAn",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "तेन",
+      "slp1": "tena",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "ताभ्याम्",
+      "slp1": "tAByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "तैः",
+      "slp1": "tEH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "तस्मै",
+      "slp1": "tasmE",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "ताभ्याम्",
+      "slp1": "tAByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "तेभ्यः",
+      "slp1": "teByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "तस्मात्",
+      "slp1": "tasmAt",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "ताभ्याम्",
+      "slp1": "tAByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "तेभ्यः",
+      "slp1": "teByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "तस्य",
+      "slp1": "tasya",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "तयोः",
+      "slp1": "tayoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "तेषाम्",
+      "slp1": "tezAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "तस्मिन्",
+      "slp1": "tasmin",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "तयोः",
+      "slp1": "tayoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "तेषु",
+      "slp1": "tezu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "स",
+      "slp1": "sa",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "तौ",
+      "slp1": "tO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "ते",
+      "slp1": "te",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

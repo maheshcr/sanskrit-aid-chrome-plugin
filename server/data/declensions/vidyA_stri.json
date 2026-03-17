@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "vidyA",
+    "deva": "विद्या",
+    "iast": "vidyā"
+  },
+  "linga": {
+    "key": "stri",
+    "sa": "स्त्रीलिङ्ग",
+    "en": "Feminine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "विद्याः",
+          "iast": "vidyāḥ",
+          "slp1": "vidyAH"
+        },
+        "dvi": {
+          "deva": "विद्यौ",
+          "iast": "vidyau",
+          "slp1": "vidyO"
+        },
+        "bahu": {
+          "deva": "विद्याः",
+          "iast": "vidyāḥ",
+          "slp1": "vidyAH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "विद्याम्",
+          "iast": "vidyām",
+          "slp1": "vidyAm"
+        },
+        "dvi": {
+          "deva": "विद्यौ",
+          "iast": "vidyau",
+          "slp1": "vidyO"
+        },
+        "bahu": {
+          "deva": "विद्याः",
+          "iast": "vidyāḥ",
+          "slp1": "vidyAH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "विद्या",
+          "iast": "vidyā",
+          "slp1": "vidyA"
+        },
+        "dvi": {
+          "deva": "विद्याभ्याम्",
+          "iast": "vidyābhyām",
+          "slp1": "vidyAByAm"
+        },
+        "bahu": {
+          "deva": "विद्याभिः",
+          "iast": "vidyābhiḥ",
+          "slp1": "vidyABiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "विद्यै",
+          "iast": "vidyai",
+          "slp1": "vidyE"
+        },
+        "dvi": {
+          "deva": "विद्याभ्याम्",
+          "iast": "vidyābhyām",
+          "slp1": "vidyAByAm"
+        },
+        "bahu": {
+          "deva": "विद्याभ्यः",
+          "iast": "vidyābhyaḥ",
+          "slp1": "vidyAByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "विद्याः",
+          "iast": "vidyāḥ",
+          "slp1": "vidyAH"
+        },
+        "dvi": {
+          "deva": "विद्याभ्याम्",
+          "iast": "vidyābhyām",
+          "slp1": "vidyAByAm"
+        },
+        "bahu": {
+          "deva": "विद्याभ्यः",
+          "iast": "vidyābhyaḥ",
+          "slp1": "vidyAByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "विद्याः",
+          "iast": "vidyāḥ",
+          "slp1": "vidyAH"
+        },
+        "dvi": {
+          "deva": "विद्यौः",
+          "iast": "vidyauḥ",
+          "slp1": "vidyOH"
+        },
+        "bahu": {
+          "deva": "विद्याम्",
+          "iast": "vidyām",
+          "slp1": "vidyAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "विद्ये",
+          "iast": "vidye",
+          "slp1": "vidye"
+        },
+        "dvi": {
+          "deva": "विद्यौः",
+          "iast": "vidyauḥ",
+          "slp1": "vidyOH"
+        },
+        "bahu": {
+          "deva": "विद्यासु",
+          "iast": "vidyāsu",
+          "slp1": "vidyAsu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "विद्याः",
+          "iast": "vidyāḥ",
+          "slp1": "vidyAH"
+        },
+        "dvi": {
+          "deva": "विद्यौ",
+          "iast": "vidyau",
+          "slp1": "vidyO"
+        },
+        "bahu": {
+          "deva": "विद्याः",
+          "iast": "vidyāḥ",
+          "slp1": "vidyAH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "विद्याः",
+      "slp1": "vidyAH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "विद्यौ",
+      "slp1": "vidyO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "विद्याः",
+      "slp1": "vidyAH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "विद्याम्",
+      "slp1": "vidyAm",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "विद्यौ",
+      "slp1": "vidyO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "विद्याः",
+      "slp1": "vidyAH",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "विद्या",
+      "slp1": "vidyA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "विद्याभ्याम्",
+      "slp1": "vidyAByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "विद्याभिः",
+      "slp1": "vidyABiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "विद्यै",
+      "slp1": "vidyE",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "विद्याभ्याम्",
+      "slp1": "vidyAByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "विद्याभ्यः",
+      "slp1": "vidyAByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "विद्याः",
+      "slp1": "vidyAH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "विद्याभ्याम्",
+      "slp1": "vidyAByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "विद्याभ्यः",
+      "slp1": "vidyAByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "विद्याः",
+      "slp1": "vidyAH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "विद्यौः",
+      "slp1": "vidyOH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "विद्याम्",
+      "slp1": "vidyAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "विद्ये",
+      "slp1": "vidye",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "विद्यौः",
+      "slp1": "vidyOH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "विद्यासु",
+      "slp1": "vidyAsu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "विद्याः",
+      "slp1": "vidyAH",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "विद्यौ",
+      "slp1": "vidyO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "विद्याः",
+      "slp1": "vidyAH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

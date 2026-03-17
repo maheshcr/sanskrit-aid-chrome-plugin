@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "ramA",
+    "deva": "रमा",
+    "iast": "ramā"
+  },
+  "linga": {
+    "key": "stri",
+    "sa": "स्त्रीलिङ्ग",
+    "en": "Feminine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "रमाः",
+          "iast": "ramāḥ",
+          "slp1": "ramAH"
+        },
+        "dvi": {
+          "deva": "रमौ",
+          "iast": "ramau",
+          "slp1": "ramO"
+        },
+        "bahu": {
+          "deva": "रमाः",
+          "iast": "ramāḥ",
+          "slp1": "ramAH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "रमाम्",
+          "iast": "ramām",
+          "slp1": "ramAm"
+        },
+        "dvi": {
+          "deva": "रमौ",
+          "iast": "ramau",
+          "slp1": "ramO"
+        },
+        "bahu": {
+          "deva": "रमाः",
+          "iast": "ramāḥ",
+          "slp1": "ramAH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "रमा",
+          "iast": "ramā",
+          "slp1": "ramA"
+        },
+        "dvi": {
+          "deva": "रमाभ्याम्",
+          "iast": "ramābhyām",
+          "slp1": "ramAByAm"
+        },
+        "bahu": {
+          "deva": "रमाभिः",
+          "iast": "ramābhiḥ",
+          "slp1": "ramABiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "रमै",
+          "iast": "ramai",
+          "slp1": "ramE"
+        },
+        "dvi": {
+          "deva": "रमाभ्याम्",
+          "iast": "ramābhyām",
+          "slp1": "ramAByAm"
+        },
+        "bahu": {
+          "deva": "रमाभ्यः",
+          "iast": "ramābhyaḥ",
+          "slp1": "ramAByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "रमाः",
+          "iast": "ramāḥ",
+          "slp1": "ramAH"
+        },
+        "dvi": {
+          "deva": "रमाभ्याम्",
+          "iast": "ramābhyām",
+          "slp1": "ramAByAm"
+        },
+        "bahu": {
+          "deva": "रमाभ्यः",
+          "iast": "ramābhyaḥ",
+          "slp1": "ramAByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "रमाः",
+          "iast": "ramāḥ",
+          "slp1": "ramAH"
+        },
+        "dvi": {
+          "deva": "रमौः",
+          "iast": "ramauḥ",
+          "slp1": "ramOH"
+        },
+        "bahu": {
+          "deva": "रमाम्",
+          "iast": "ramām",
+          "slp1": "ramAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "रमे",
+          "iast": "rame",
+          "slp1": "rame"
+        },
+        "dvi": {
+          "deva": "रमौः",
+          "iast": "ramauḥ",
+          "slp1": "ramOH"
+        },
+        "bahu": {
+          "deva": "रमासु",
+          "iast": "ramāsu",
+          "slp1": "ramAsu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "रमाः",
+          "iast": "ramāḥ",
+          "slp1": "ramAH"
+        },
+        "dvi": {
+          "deva": "रमौ",
+          "iast": "ramau",
+          "slp1": "ramO"
+        },
+        "bahu": {
+          "deva": "रमाः",
+          "iast": "ramāḥ",
+          "slp1": "ramAH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "रमाः",
+      "slp1": "ramAH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "रमौ",
+      "slp1": "ramO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "रमाः",
+      "slp1": "ramAH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "रमाम्",
+      "slp1": "ramAm",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "रमौ",
+      "slp1": "ramO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "रमाः",
+      "slp1": "ramAH",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "रमा",
+      "slp1": "ramA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "रमाभ्याम्",
+      "slp1": "ramAByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "रमाभिः",
+      "slp1": "ramABiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "रमै",
+      "slp1": "ramE",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "रमाभ्याम्",
+      "slp1": "ramAByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "रमाभ्यः",
+      "slp1": "ramAByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "रमाः",
+      "slp1": "ramAH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "रमाभ्याम्",
+      "slp1": "ramAByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "रमाभ्यः",
+      "slp1": "ramAByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "रमाः",
+      "slp1": "ramAH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "रमौः",
+      "slp1": "ramOH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "रमाम्",
+      "slp1": "ramAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "रमे",
+      "slp1": "rame",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "रमौः",
+      "slp1": "ramOH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "रमासु",
+      "slp1": "ramAsu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "रमाः",
+      "slp1": "ramAH",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "रमौ",
+      "slp1": "ramO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "रमाः",
+      "slp1": "ramAH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

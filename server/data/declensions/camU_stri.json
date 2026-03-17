@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "camU",
+    "deva": "चमू",
+    "iast": "camū"
+  },
+  "linga": {
+    "key": "stri",
+    "sa": "स्त्रीलिङ्ग",
+    "en": "Feminine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "चमूः",
+          "iast": "camūḥ",
+          "slp1": "camUH"
+        },
+        "dvi": {
+          "deva": "चम्वौ",
+          "iast": "camvau",
+          "slp1": "camvO"
+        },
+        "bahu": {
+          "deva": "चम्वः",
+          "iast": "camvaḥ",
+          "slp1": "camvaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "चमूम्",
+          "iast": "camūm",
+          "slp1": "camUm"
+        },
+        "dvi": {
+          "deva": "चम्वौ",
+          "iast": "camvau",
+          "slp1": "camvO"
+        },
+        "bahu": {
+          "deva": "चमूः",
+          "iast": "camūḥ",
+          "slp1": "camUH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "चम्वा",
+          "iast": "camvā",
+          "slp1": "camvA"
+        },
+        "dvi": {
+          "deva": "चमूभ्याम्",
+          "iast": "camūbhyām",
+          "slp1": "camUByAm"
+        },
+        "bahu": {
+          "deva": "चमूभिः",
+          "iast": "camūbhiḥ",
+          "slp1": "camUBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "चम्वै",
+          "iast": "camvai",
+          "slp1": "camvE"
+        },
+        "dvi": {
+          "deva": "चमूभ्याम्",
+          "iast": "camūbhyām",
+          "slp1": "camUByAm"
+        },
+        "bahu": {
+          "deva": "चमूभ्यः",
+          "iast": "camūbhyaḥ",
+          "slp1": "camUByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "चम्वाः",
+          "iast": "camvāḥ",
+          "slp1": "camvAH"
+        },
+        "dvi": {
+          "deva": "चमूभ्याम्",
+          "iast": "camūbhyām",
+          "slp1": "camUByAm"
+        },
+        "bahu": {
+          "deva": "चमूभ्यः",
+          "iast": "camūbhyaḥ",
+          "slp1": "camUByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "चम्वाः",
+          "iast": "camvāḥ",
+          "slp1": "camvAH"
+        },
+        "dvi": {
+          "deva": "चम्वोः",
+          "iast": "camvoḥ",
+          "slp1": "camvoH"
+        },
+        "bahu": {
+          "deva": "चमूनाम्",
+          "iast": "camūnām",
+          "slp1": "camUnAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "चम्वाम्",
+          "iast": "camvām",
+          "slp1": "camvAm"
+        },
+        "dvi": {
+          "deva": "चम्वोः",
+          "iast": "camvoḥ",
+          "slp1": "camvoH"
+        },
+        "bahu": {
+          "deva": "चमूषु",
+          "iast": "camūṣu",
+          "slp1": "camUzu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "चमु",
+          "iast": "camu",
+          "slp1": "camu"
+        },
+        "dvi": {
+          "deva": "चम्वौ",
+          "iast": "camvau",
+          "slp1": "camvO"
+        },
+        "bahu": {
+          "deva": "चम्वः",
+          "iast": "camvaḥ",
+          "slp1": "camvaH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "चमूः",
+      "slp1": "camUH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "चम्वौ",
+      "slp1": "camvO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "चम्वः",
+      "slp1": "camvaH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "चमूम्",
+      "slp1": "camUm",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "चम्वौ",
+      "slp1": "camvO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "चमूः",
+      "slp1": "camUH",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "चम्वा",
+      "slp1": "camvA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "चमूभ्याम्",
+      "slp1": "camUByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "चमूभिः",
+      "slp1": "camUBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "चम्वै",
+      "slp1": "camvE",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "चमूभ्याम्",
+      "slp1": "camUByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "चमूभ्यः",
+      "slp1": "camUByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "चम्वाः",
+      "slp1": "camvAH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "चमूभ्याम्",
+      "slp1": "camUByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "चमूभ्यः",
+      "slp1": "camUByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "चम्वाः",
+      "slp1": "camvAH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "चम्वोः",
+      "slp1": "camvoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "चमूनाम्",
+      "slp1": "camUnAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "चम्वाम्",
+      "slp1": "camvAm",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "चम्वोः",
+      "slp1": "camvoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "चमूषु",
+      "slp1": "camUzu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "चमु",
+      "slp1": "camu",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "चम्वौ",
+      "slp1": "camvO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "चम्वः",
+      "slp1": "camvaH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

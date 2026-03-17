@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "lakzmI",
+    "deva": "लक्ष्मी",
+    "iast": "lakṣmī"
+  },
+  "linga": {
+    "key": "stri",
+    "sa": "स्त्रीलिङ्ग",
+    "en": "Feminine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "लक्ष्मीः",
+          "iast": "lakṣmīḥ",
+          "slp1": "lakzmIH"
+        },
+        "dvi": {
+          "deva": "लक्ष्म्यौ",
+          "iast": "lakṣmyau",
+          "slp1": "lakzmyO"
+        },
+        "bahu": {
+          "deva": "लक्ष्म्यः",
+          "iast": "lakṣmyaḥ",
+          "slp1": "lakzmyaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "लक्ष्मीम्",
+          "iast": "lakṣmīm",
+          "slp1": "lakzmIm"
+        },
+        "dvi": {
+          "deva": "लक्ष्म्यौ",
+          "iast": "lakṣmyau",
+          "slp1": "lakzmyO"
+        },
+        "bahu": {
+          "deva": "लक्ष्मीः",
+          "iast": "lakṣmīḥ",
+          "slp1": "lakzmIH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "लक्ष्म्या",
+          "iast": "lakṣmyā",
+          "slp1": "lakzmyA"
+        },
+        "dvi": {
+          "deva": "लक्ष्मीभ्याम्",
+          "iast": "lakṣmībhyām",
+          "slp1": "lakzmIByAm"
+        },
+        "bahu": {
+          "deva": "लक्ष्मीभिः",
+          "iast": "lakṣmībhiḥ",
+          "slp1": "lakzmIBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "लक्ष्म्यै",
+          "iast": "lakṣmyai",
+          "slp1": "lakzmyE"
+        },
+        "dvi": {
+          "deva": "लक्ष्मीभ्याम्",
+          "iast": "lakṣmībhyām",
+          "slp1": "lakzmIByAm"
+        },
+        "bahu": {
+          "deva": "लक्ष्मीभ्यः",
+          "iast": "lakṣmībhyaḥ",
+          "slp1": "lakzmIByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "लक्ष्म्याः",
+          "iast": "lakṣmyāḥ",
+          "slp1": "lakzmyAH"
+        },
+        "dvi": {
+          "deva": "लक्ष्मीभ्याम्",
+          "iast": "lakṣmībhyām",
+          "slp1": "lakzmIByAm"
+        },
+        "bahu": {
+          "deva": "लक्ष्मीभ्यः",
+          "iast": "lakṣmībhyaḥ",
+          "slp1": "lakzmIByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "लक्ष्म्याः",
+          "iast": "lakṣmyāḥ",
+          "slp1": "lakzmyAH"
+        },
+        "dvi": {
+          "deva": "लक्ष्म्योः",
+          "iast": "lakṣmyoḥ",
+          "slp1": "lakzmyoH"
+        },
+        "bahu": {
+          "deva": "लक्ष्मीणाम्",
+          "iast": "lakṣmīṇām",
+          "slp1": "lakzmIRAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "लक्ष्म्याम्",
+          "iast": "lakṣmyām",
+          "slp1": "lakzmyAm"
+        },
+        "dvi": {
+          "deva": "लक्ष्म्योः",
+          "iast": "lakṣmyoḥ",
+          "slp1": "lakzmyoH"
+        },
+        "bahu": {
+          "deva": "लक्ष्मीषु",
+          "iast": "lakṣmīṣu",
+          "slp1": "lakzmIzu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "लक्ष्मि",
+          "iast": "lakṣmi",
+          "slp1": "lakzmi"
+        },
+        "dvi": {
+          "deva": "लक्ष्म्यौ",
+          "iast": "lakṣmyau",
+          "slp1": "lakzmyO"
+        },
+        "bahu": {
+          "deva": "लक्ष्म्यः",
+          "iast": "lakṣmyaḥ",
+          "slp1": "lakzmyaH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "लक्ष्मीः",
+      "slp1": "lakzmIH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "लक्ष्म्यौ",
+      "slp1": "lakzmyO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "लक्ष्म्यः",
+      "slp1": "lakzmyaH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "लक्ष्मीम्",
+      "slp1": "lakzmIm",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "लक्ष्म्यौ",
+      "slp1": "lakzmyO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "लक्ष्मीः",
+      "slp1": "lakzmIH",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "लक्ष्म्या",
+      "slp1": "lakzmyA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "लक्ष्मीभ्याम्",
+      "slp1": "lakzmIByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "लक्ष्मीभिः",
+      "slp1": "lakzmIBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "लक्ष्म्यै",
+      "slp1": "lakzmyE",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "लक्ष्मीभ्याम्",
+      "slp1": "lakzmIByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "लक्ष्मीभ्यः",
+      "slp1": "lakzmIByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "लक्ष्म्याः",
+      "slp1": "lakzmyAH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "लक्ष्मीभ्याम्",
+      "slp1": "lakzmIByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "लक्ष्मीभ्यः",
+      "slp1": "lakzmIByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "लक्ष्म्याः",
+      "slp1": "lakzmyAH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "लक्ष्म्योः",
+      "slp1": "lakzmyoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "लक्ष्मीणाम्",
+      "slp1": "lakzmIRAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "लक्ष्म्याम्",
+      "slp1": "lakzmyAm",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "लक्ष्म्योः",
+      "slp1": "lakzmyoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "लक्ष्मीषु",
+      "slp1": "lakzmIzu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "लक्ष्मि",
+      "slp1": "lakzmi",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "लक्ष्म्यौ",
+      "slp1": "lakzmyO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "लक्ष्म्यः",
+      "slp1": "lakzmyaH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

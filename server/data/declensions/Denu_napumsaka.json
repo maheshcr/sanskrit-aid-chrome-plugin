@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "Denu",
+    "deva": "धेनु",
+    "iast": "dhenu"
+  },
+  "linga": {
+    "key": "napumsaka",
+    "sa": "नपुंसकलिङ्ग",
+    "en": "Neuter"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "धेनु",
+          "iast": "dhenu",
+          "slp1": "Denu"
+        },
+        "dvi": {
+          "deva": "धेनुनी",
+          "iast": "dhenunī",
+          "slp1": "DenunI"
+        },
+        "bahu": {
+          "deva": "धेनूनि",
+          "iast": "dhenūni",
+          "slp1": "DenUni"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "धेनु",
+          "iast": "dhenu",
+          "slp1": "Denu"
+        },
+        "dvi": {
+          "deva": "धेनुनी",
+          "iast": "dhenunī",
+          "slp1": "DenunI"
+        },
+        "bahu": {
+          "deva": "धेनूनि",
+          "iast": "dhenūni",
+          "slp1": "DenUni"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "धेनुना",
+          "iast": "dhenunā",
+          "slp1": "DenunA"
+        },
+        "dvi": {
+          "deva": "धेनुभ्याम्",
+          "iast": "dhenubhyām",
+          "slp1": "DenuByAm"
+        },
+        "bahu": {
+          "deva": "धेनुभिः",
+          "iast": "dhenubhiḥ",
+          "slp1": "DenuBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "धेनुने",
+          "iast": "dhenune",
+          "slp1": "Denune"
+        },
+        "dvi": {
+          "deva": "धेनुभ्याम्",
+          "iast": "dhenubhyām",
+          "slp1": "DenuByAm"
+        },
+        "bahu": {
+          "deva": "धेनुभ्यः",
+          "iast": "dhenubhyaḥ",
+          "slp1": "DenuByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "धेनुनः",
+          "iast": "dhenunaḥ",
+          "slp1": "DenunaH"
+        },
+        "dvi": {
+          "deva": "धेनुभ्याम्",
+          "iast": "dhenubhyām",
+          "slp1": "DenuByAm"
+        },
+        "bahu": {
+          "deva": "धेनुभ्यः",
+          "iast": "dhenubhyaḥ",
+          "slp1": "DenuByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "धेनुनः",
+          "iast": "dhenunaḥ",
+          "slp1": "DenunaH"
+        },
+        "dvi": {
+          "deva": "धेनुनोः",
+          "iast": "dhenunoḥ",
+          "slp1": "DenunoH"
+        },
+        "bahu": {
+          "deva": "धेनूनाम्",
+          "iast": "dhenūnām",
+          "slp1": "DenUnAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "धेनुनि",
+          "iast": "dhenuni",
+          "slp1": "Denuni"
+        },
+        "dvi": {
+          "deva": "धेनुनोः",
+          "iast": "dhenunoḥ",
+          "slp1": "DenunoH"
+        },
+        "bahu": {
+          "deva": "धेनुषु",
+          "iast": "dhenuṣu",
+          "slp1": "Denuzu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "धेनु",
+          "iast": "dhenu",
+          "slp1": "Denu"
+        },
+        "dvi": {
+          "deva": "धेनुनी",
+          "iast": "dhenunī",
+          "slp1": "DenunI"
+        },
+        "bahu": {
+          "deva": "धेनूनि",
+          "iast": "dhenūni",
+          "slp1": "DenUni"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "धेनु",
+      "slp1": "Denu",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "धेनुनी",
+      "slp1": "DenunI",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "धेनूनि",
+      "slp1": "DenUni",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "धेनु",
+      "slp1": "Denu",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "धेनुनी",
+      "slp1": "DenunI",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "धेनूनि",
+      "slp1": "DenUni",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "धेनुना",
+      "slp1": "DenunA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "धेनुभ्याम्",
+      "slp1": "DenuByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "धेनुभिः",
+      "slp1": "DenuBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "धेनुने",
+      "slp1": "Denune",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "धेनुभ्याम्",
+      "slp1": "DenuByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "धेनुभ्यः",
+      "slp1": "DenuByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "धेनुनः",
+      "slp1": "DenunaH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "धेनुभ्याम्",
+      "slp1": "DenuByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "धेनुभ्यः",
+      "slp1": "DenuByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "धेनुनः",
+      "slp1": "DenunaH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "धेनुनोः",
+      "slp1": "DenunoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "धेनूनाम्",
+      "slp1": "DenUnAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "धेनुनि",
+      "slp1": "Denuni",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "धेनुनोः",
+      "slp1": "DenunoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "धेनुषु",
+      "slp1": "Denuzu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "धेनु",
+      "slp1": "Denu",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "धेनुनी",
+      "slp1": "DenunI",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "धेनूनि",
+      "slp1": "DenUni",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

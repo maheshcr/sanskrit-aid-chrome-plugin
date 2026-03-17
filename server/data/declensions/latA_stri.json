@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "latA",
+    "deva": "लता",
+    "iast": "latā"
+  },
+  "linga": {
+    "key": "stri",
+    "sa": "स्त्रीलिङ्ग",
+    "en": "Feminine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "लताः",
+          "iast": "latāḥ",
+          "slp1": "latAH"
+        },
+        "dvi": {
+          "deva": "लतौ",
+          "iast": "latau",
+          "slp1": "latO"
+        },
+        "bahu": {
+          "deva": "लताः",
+          "iast": "latāḥ",
+          "slp1": "latAH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "लताम्",
+          "iast": "latām",
+          "slp1": "latAm"
+        },
+        "dvi": {
+          "deva": "लतौ",
+          "iast": "latau",
+          "slp1": "latO"
+        },
+        "bahu": {
+          "deva": "लताः",
+          "iast": "latāḥ",
+          "slp1": "latAH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "लता",
+          "iast": "latā",
+          "slp1": "latA"
+        },
+        "dvi": {
+          "deva": "लताभ्याम्",
+          "iast": "latābhyām",
+          "slp1": "latAByAm"
+        },
+        "bahu": {
+          "deva": "लताभिः",
+          "iast": "latābhiḥ",
+          "slp1": "latABiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "लतै",
+          "iast": "latai",
+          "slp1": "latE"
+        },
+        "dvi": {
+          "deva": "लताभ्याम्",
+          "iast": "latābhyām",
+          "slp1": "latAByAm"
+        },
+        "bahu": {
+          "deva": "लताभ्यः",
+          "iast": "latābhyaḥ",
+          "slp1": "latAByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "लताः",
+          "iast": "latāḥ",
+          "slp1": "latAH"
+        },
+        "dvi": {
+          "deva": "लताभ्याम्",
+          "iast": "latābhyām",
+          "slp1": "latAByAm"
+        },
+        "bahu": {
+          "deva": "लताभ्यः",
+          "iast": "latābhyaḥ",
+          "slp1": "latAByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "लताः",
+          "iast": "latāḥ",
+          "slp1": "latAH"
+        },
+        "dvi": {
+          "deva": "लतौः",
+          "iast": "latauḥ",
+          "slp1": "latOH"
+        },
+        "bahu": {
+          "deva": "लताम्",
+          "iast": "latām",
+          "slp1": "latAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "लते",
+          "iast": "late",
+          "slp1": "late"
+        },
+        "dvi": {
+          "deva": "लतौः",
+          "iast": "latauḥ",
+          "slp1": "latOH"
+        },
+        "bahu": {
+          "deva": "लतासु",
+          "iast": "latāsu",
+          "slp1": "latAsu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "लताः",
+          "iast": "latāḥ",
+          "slp1": "latAH"
+        },
+        "dvi": {
+          "deva": "लतौ",
+          "iast": "latau",
+          "slp1": "latO"
+        },
+        "bahu": {
+          "deva": "लताः",
+          "iast": "latāḥ",
+          "slp1": "latAH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "लताः",
+      "slp1": "latAH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "लतौ",
+      "slp1": "latO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "लताः",
+      "slp1": "latAH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "लताम्",
+      "slp1": "latAm",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "लतौ",
+      "slp1": "latO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "लताः",
+      "slp1": "latAH",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "लता",
+      "slp1": "latA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "लताभ्याम्",
+      "slp1": "latAByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "लताभिः",
+      "slp1": "latABiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "लतै",
+      "slp1": "latE",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "लताभ्याम्",
+      "slp1": "latAByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "लताभ्यः",
+      "slp1": "latAByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "लताः",
+      "slp1": "latAH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "लताभ्याम्",
+      "slp1": "latAByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "लताभ्यः",
+      "slp1": "latAByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "लताः",
+      "slp1": "latAH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "लतौः",
+      "slp1": "latOH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "लताम्",
+      "slp1": "latAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "लते",
+      "slp1": "late",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "लतौः",
+      "slp1": "latOH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "लतासु",
+      "slp1": "latAsu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "लताः",
+      "slp1": "latAH",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "लतौ",
+      "slp1": "latO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "लताः",
+      "slp1": "latAH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

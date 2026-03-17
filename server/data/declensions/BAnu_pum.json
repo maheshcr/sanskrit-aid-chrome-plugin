@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "BAnu",
+    "deva": "भानु",
+    "iast": "bhānu"
+  },
+  "linga": {
+    "key": "pum",
+    "sa": "पुल्लिङ्ग",
+    "en": "Masculine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भानुः",
+          "iast": "bhānuḥ",
+          "slp1": "BAnuH"
+        },
+        "dvi": {
+          "deva": "भानू",
+          "iast": "bhānū",
+          "slp1": "BAnU"
+        },
+        "bahu": {
+          "deva": "भानवः",
+          "iast": "bhānavaḥ",
+          "slp1": "BAnavaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भानुम्",
+          "iast": "bhānum",
+          "slp1": "BAnum"
+        },
+        "dvi": {
+          "deva": "भानू",
+          "iast": "bhānū",
+          "slp1": "BAnU"
+        },
+        "bahu": {
+          "deva": "भानून्",
+          "iast": "bhānūn",
+          "slp1": "BAnUn"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भानुना",
+          "iast": "bhānunā",
+          "slp1": "BAnunA"
+        },
+        "dvi": {
+          "deva": "भानुभ्याम्",
+          "iast": "bhānubhyām",
+          "slp1": "BAnuByAm"
+        },
+        "bahu": {
+          "deva": "भानुभिः",
+          "iast": "bhānubhiḥ",
+          "slp1": "BAnuBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भानवे",
+          "iast": "bhānave",
+          "slp1": "BAnave"
+        },
+        "dvi": {
+          "deva": "भानुभ्याम्",
+          "iast": "bhānubhyām",
+          "slp1": "BAnuByAm"
+        },
+        "bahu": {
+          "deva": "भानुभ्यः",
+          "iast": "bhānubhyaḥ",
+          "slp1": "BAnuByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भानोः",
+          "iast": "bhānoḥ",
+          "slp1": "BAnoH"
+        },
+        "dvi": {
+          "deva": "भानुभ्याम्",
+          "iast": "bhānubhyām",
+          "slp1": "BAnuByAm"
+        },
+        "bahu": {
+          "deva": "भानुभ्यः",
+          "iast": "bhānubhyaḥ",
+          "slp1": "BAnuByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भानोः",
+          "iast": "bhānoḥ",
+          "slp1": "BAnoH"
+        },
+        "dvi": {
+          "deva": "भान्वोः",
+          "iast": "bhānvoḥ",
+          "slp1": "BAnvoH"
+        },
+        "bahu": {
+          "deva": "भानूनाम्",
+          "iast": "bhānūnām",
+          "slp1": "BAnUnAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भानौ",
+          "iast": "bhānau",
+          "slp1": "BAnO"
+        },
+        "dvi": {
+          "deva": "भान्वोः",
+          "iast": "bhānvoḥ",
+          "slp1": "BAnvoH"
+        },
+        "bahu": {
+          "deva": "भानुषु",
+          "iast": "bhānuṣu",
+          "slp1": "BAnuzu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भानो",
+          "iast": "bhāno",
+          "slp1": "BAno"
+        },
+        "dvi": {
+          "deva": "भानू",
+          "iast": "bhānū",
+          "slp1": "BAnU"
+        },
+        "bahu": {
+          "deva": "भानवः",
+          "iast": "bhānavaḥ",
+          "slp1": "BAnavaH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "भानुः",
+      "slp1": "BAnuH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भानू",
+      "slp1": "BAnU",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भानवः",
+      "slp1": "BAnavaH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भानुम्",
+      "slp1": "BAnum",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भानू",
+      "slp1": "BAnU",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भानून्",
+      "slp1": "BAnUn",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भानुना",
+      "slp1": "BAnunA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भानुभ्याम्",
+      "slp1": "BAnuByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भानुभिः",
+      "slp1": "BAnuBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भानवे",
+      "slp1": "BAnave",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भानुभ्याम्",
+      "slp1": "BAnuByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भानुभ्यः",
+      "slp1": "BAnuByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भानोः",
+      "slp1": "BAnoH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भानुभ्याम्",
+      "slp1": "BAnuByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भानुभ्यः",
+      "slp1": "BAnuByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भानोः",
+      "slp1": "BAnoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भान्वोः",
+      "slp1": "BAnvoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भानूनाम्",
+      "slp1": "BAnUnAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भानौ",
+      "slp1": "BAnO",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भान्वोः",
+      "slp1": "BAnvoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भानुषु",
+      "slp1": "BAnuzu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भानो",
+      "slp1": "BAno",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भानू",
+      "slp1": "BAnU",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भानवः",
+      "slp1": "BAnavaH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

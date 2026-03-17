@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "dAtf",
+    "deva": "दातृ",
+    "iast": "dātṛ"
+  },
+  "linga": {
+    "key": "pum",
+    "sa": "पुल्लिङ्ग",
+    "en": "Masculine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "दाता",
+          "iast": "dātā",
+          "slp1": "dAtA"
+        },
+        "dvi": {
+          "deva": "दातरौ",
+          "iast": "dātarau",
+          "slp1": "dAtarO"
+        },
+        "bahu": {
+          "deva": "दातरः",
+          "iast": "dātaraḥ",
+          "slp1": "dAtaraH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "दातरम्",
+          "iast": "dātaram",
+          "slp1": "dAtaram"
+        },
+        "dvi": {
+          "deva": "दातरौ",
+          "iast": "dātarau",
+          "slp1": "dAtarO"
+        },
+        "bahu": {
+          "deva": "दातॄन्",
+          "iast": "dātṝn",
+          "slp1": "dAtFn"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "दात्रा",
+          "iast": "dātrā",
+          "slp1": "dAtrA"
+        },
+        "dvi": {
+          "deva": "दातृभ्याम्",
+          "iast": "dātṛbhyām",
+          "slp1": "dAtfByAm"
+        },
+        "bahu": {
+          "deva": "दातृभिः",
+          "iast": "dātṛbhiḥ",
+          "slp1": "dAtfBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "दात्रे",
+          "iast": "dātre",
+          "slp1": "dAtre"
+        },
+        "dvi": {
+          "deva": "दातृभ्याम्",
+          "iast": "dātṛbhyām",
+          "slp1": "dAtfByAm"
+        },
+        "bahu": {
+          "deva": "दातृभ्यः",
+          "iast": "dātṛbhyaḥ",
+          "slp1": "dAtfByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "दातुः",
+          "iast": "dātuḥ",
+          "slp1": "dAtuH"
+        },
+        "dvi": {
+          "deva": "दातृभ्याम्",
+          "iast": "dātṛbhyām",
+          "slp1": "dAtfByAm"
+        },
+        "bahu": {
+          "deva": "दातृभ्यः",
+          "iast": "dātṛbhyaḥ",
+          "slp1": "dAtfByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "दातुः",
+          "iast": "dātuḥ",
+          "slp1": "dAtuH"
+        },
+        "dvi": {
+          "deva": "दात्रोः",
+          "iast": "dātroḥ",
+          "slp1": "dAtroH"
+        },
+        "bahu": {
+          "deva": "दातॄणाम्",
+          "iast": "dātṝṇām",
+          "slp1": "dAtFRAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "दातरि",
+          "iast": "dātari",
+          "slp1": "dAtari"
+        },
+        "dvi": {
+          "deva": "दात्रोः",
+          "iast": "dātroḥ",
+          "slp1": "dAtroH"
+        },
+        "bahu": {
+          "deva": "दातृषु",
+          "iast": "dātṛṣu",
+          "slp1": "dAtfzu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "दातः",
+          "iast": "dātaḥ",
+          "slp1": "dAtaH"
+        },
+        "dvi": {
+          "deva": "दातरौ",
+          "iast": "dātarau",
+          "slp1": "dAtarO"
+        },
+        "bahu": {
+          "deva": "दातरः",
+          "iast": "dātaraḥ",
+          "slp1": "dAtaraH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "दाता",
+      "slp1": "dAtA",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "दातरौ",
+      "slp1": "dAtarO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "दातरः",
+      "slp1": "dAtaraH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "दातरम्",
+      "slp1": "dAtaram",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "दातरौ",
+      "slp1": "dAtarO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "दातॄन्",
+      "slp1": "dAtFn",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "दात्रा",
+      "slp1": "dAtrA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "दातृभ्याम्",
+      "slp1": "dAtfByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "दातृभिः",
+      "slp1": "dAtfBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "दात्रे",
+      "slp1": "dAtre",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "दातृभ्याम्",
+      "slp1": "dAtfByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "दातृभ्यः",
+      "slp1": "dAtfByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "दातुः",
+      "slp1": "dAtuH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "दातृभ्याम्",
+      "slp1": "dAtfByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "दातृभ्यः",
+      "slp1": "dAtfByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "दातुः",
+      "slp1": "dAtuH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "दात्रोः",
+      "slp1": "dAtroH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "दातॄणाम्",
+      "slp1": "dAtFRAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "दातरि",
+      "slp1": "dAtari",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "दात्रोः",
+      "slp1": "dAtroH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "दातृषु",
+      "slp1": "dAtfzu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "दातः",
+      "slp1": "dAtaH",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "दातरौ",
+      "slp1": "dAtarO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "दातरः",
+      "slp1": "dAtaraH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "strI",
+    "deva": "स्त्री",
+    "iast": "strī"
+  },
+  "linga": {
+    "key": "stri",
+    "sa": "स्त्रीलिङ्ग",
+    "en": "Feminine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "स्त्रीः",
+          "iast": "strīḥ",
+          "slp1": "strIH"
+        },
+        "dvi": {
+          "deva": "स्त्रियौ",
+          "iast": "striyau",
+          "slp1": "striyO"
+        },
+        "bahu": {
+          "deva": "स्त्रियः",
+          "iast": "striyaḥ",
+          "slp1": "striyaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "स्त्रियम्",
+          "iast": "striyam",
+          "slp1": "striyam"
+        },
+        "dvi": {
+          "deva": "स्त्रियौ",
+          "iast": "striyau",
+          "slp1": "striyO"
+        },
+        "bahu": {
+          "deva": "स्त्रियः",
+          "iast": "striyaḥ",
+          "slp1": "striyaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "स्त्रिया",
+          "iast": "striyā",
+          "slp1": "striyA"
+        },
+        "dvi": {
+          "deva": "स्त्रीभ्याम्",
+          "iast": "strībhyām",
+          "slp1": "strIByAm"
+        },
+        "bahu": {
+          "deva": "स्त्रीभिः",
+          "iast": "strībhiḥ",
+          "slp1": "strIBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "स्त्रियै",
+          "iast": "striyai",
+          "slp1": "striyE"
+        },
+        "dvi": {
+          "deva": "स्त्रीभ्याम्",
+          "iast": "strībhyām",
+          "slp1": "strIByAm"
+        },
+        "bahu": {
+          "deva": "स्त्रीभ्यः",
+          "iast": "strībhyaḥ",
+          "slp1": "strIByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "स्त्रियाः",
+          "iast": "striyāḥ",
+          "slp1": "striyAH"
+        },
+        "dvi": {
+          "deva": "स्त्रीभ्याम्",
+          "iast": "strībhyām",
+          "slp1": "strIByAm"
+        },
+        "bahu": {
+          "deva": "स्त्रीभ्यः",
+          "iast": "strībhyaḥ",
+          "slp1": "strIByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "स्त्रियाः",
+          "iast": "striyāḥ",
+          "slp1": "striyAH"
+        },
+        "dvi": {
+          "deva": "स्त्रियोः",
+          "iast": "striyoḥ",
+          "slp1": "striyoH"
+        },
+        "bahu": {
+          "deva": "स्त्रीणाम्",
+          "iast": "strīṇām",
+          "slp1": "strIRAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "स्त्रियाम्",
+          "iast": "striyām",
+          "slp1": "striyAm"
+        },
+        "dvi": {
+          "deva": "स्त्रियोः",
+          "iast": "striyoḥ",
+          "slp1": "striyoH"
+        },
+        "bahu": {
+          "deva": "स्त्रीषु",
+          "iast": "strīṣu",
+          "slp1": "strIzu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "स्त्रि",
+          "iast": "stri",
+          "slp1": "stri"
+        },
+        "dvi": {
+          "deva": "स्त्रियौ",
+          "iast": "striyau",
+          "slp1": "striyO"
+        },
+        "bahu": {
+          "deva": "स्त्रियः",
+          "iast": "striyaḥ",
+          "slp1": "striyaH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "स्त्रीः",
+      "slp1": "strIH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "स्त्रियौ",
+      "slp1": "striyO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "स्त्रियः",
+      "slp1": "striyaH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "स्त्रियम्",
+      "slp1": "striyam",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "स्त्रियौ",
+      "slp1": "striyO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "स्त्रियः",
+      "slp1": "striyaH",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "स्त्रिया",
+      "slp1": "striyA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "स्त्रीभ्याम्",
+      "slp1": "strIByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "स्त्रीभिः",
+      "slp1": "strIBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "स्त्रियै",
+      "slp1": "striyE",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "स्त्रीभ्याम्",
+      "slp1": "strIByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "स्त्रीभ्यः",
+      "slp1": "strIByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "स्त्रियाः",
+      "slp1": "striyAH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "स्त्रीभ्याम्",
+      "slp1": "strIByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "स्त्रीभ्यः",
+      "slp1": "strIByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "स्त्रियाः",
+      "slp1": "striyAH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "स्त्रियोः",
+      "slp1": "striyoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "स्त्रीणाम्",
+      "slp1": "strIRAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "स्त्रियाम्",
+      "slp1": "striyAm",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "स्त्रियोः",
+      "slp1": "striyoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "स्त्रीषु",
+      "slp1": "strIzu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "स्त्रि",
+      "slp1": "stri",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "स्त्रियौ",
+      "slp1": "striyO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "स्त्रियः",
+      "slp1": "striyaH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

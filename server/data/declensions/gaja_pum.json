@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "gaja",
+    "deva": "गज",
+    "iast": "gaja"
+  },
+  "linga": {
+    "key": "pum",
+    "sa": "पुल्लिङ्ग",
+    "en": "Masculine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "गजः",
+          "iast": "gajaḥ",
+          "slp1": "gajaH"
+        },
+        "dvi": {
+          "deva": "गजौ",
+          "iast": "gajau",
+          "slp1": "gajO"
+        },
+        "bahu": {
+          "deva": "गजाः",
+          "iast": "gajāḥ",
+          "slp1": "gajAH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "गजम्",
+          "iast": "gajam",
+          "slp1": "gajam"
+        },
+        "dvi": {
+          "deva": "गजौ",
+          "iast": "gajau",
+          "slp1": "gajO"
+        },
+        "bahu": {
+          "deva": "गजान्",
+          "iast": "gajān",
+          "slp1": "gajAn"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "गजेन",
+          "iast": "gajena",
+          "slp1": "gajena"
+        },
+        "dvi": {
+          "deva": "गजाभ्याम्",
+          "iast": "gajābhyām",
+          "slp1": "gajAByAm"
+        },
+        "bahu": {
+          "deva": "गजैः",
+          "iast": "gajaiḥ",
+          "slp1": "gajEH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "गजाय",
+          "iast": "gajāya",
+          "slp1": "gajAya"
+        },
+        "dvi": {
+          "deva": "गजाभ्याम्",
+          "iast": "gajābhyām",
+          "slp1": "gajAByAm"
+        },
+        "bahu": {
+          "deva": "गजेभ्यः",
+          "iast": "gajebhyaḥ",
+          "slp1": "gajeByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "गजात्",
+          "iast": "gajāt",
+          "slp1": "gajAt"
+        },
+        "dvi": {
+          "deva": "गजाभ्याम्",
+          "iast": "gajābhyām",
+          "slp1": "gajAByAm"
+        },
+        "bahu": {
+          "deva": "गजेभ्यः",
+          "iast": "gajebhyaḥ",
+          "slp1": "gajeByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "गजस्य",
+          "iast": "gajasya",
+          "slp1": "gajasya"
+        },
+        "dvi": {
+          "deva": "गजयोः",
+          "iast": "gajayoḥ",
+          "slp1": "gajayoH"
+        },
+        "bahu": {
+          "deva": "गजानाम्",
+          "iast": "gajānām",
+          "slp1": "gajAnAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "गजे",
+          "iast": "gaje",
+          "slp1": "gaje"
+        },
+        "dvi": {
+          "deva": "गजयोः",
+          "iast": "gajayoḥ",
+          "slp1": "gajayoH"
+        },
+        "bahu": {
+          "deva": "गजेषु",
+          "iast": "gajeṣu",
+          "slp1": "gajezu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "गज",
+          "iast": "gaja",
+          "slp1": "gaja"
+        },
+        "dvi": {
+          "deva": "गजौ",
+          "iast": "gajau",
+          "slp1": "gajO"
+        },
+        "bahu": {
+          "deva": "गजाः",
+          "iast": "gajāḥ",
+          "slp1": "gajAH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "गजः",
+      "slp1": "gajaH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "गजौ",
+      "slp1": "gajO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "गजाः",
+      "slp1": "gajAH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "गजम्",
+      "slp1": "gajam",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "गजौ",
+      "slp1": "gajO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "गजान्",
+      "slp1": "gajAn",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "गजेन",
+      "slp1": "gajena",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "गजाभ्याम्",
+      "slp1": "gajAByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "गजैः",
+      "slp1": "gajEH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "गजाय",
+      "slp1": "gajAya",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "गजाभ्याम्",
+      "slp1": "gajAByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "गजेभ्यः",
+      "slp1": "gajeByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "गजात्",
+      "slp1": "gajAt",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "गजाभ्याम्",
+      "slp1": "gajAByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "गजेभ्यः",
+      "slp1": "gajeByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "गजस्य",
+      "slp1": "gajasya",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "गजयोः",
+      "slp1": "gajayoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "गजानाम्",
+      "slp1": "gajAnAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "गजे",
+      "slp1": "gaje",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "गजयोः",
+      "slp1": "gajayoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "गजेषु",
+      "slp1": "gajezu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "गज",
+      "slp1": "gaja",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "गजौ",
+      "slp1": "gajO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "गजाः",
+      "slp1": "gajAH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

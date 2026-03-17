@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "arjuna",
+    "deva": "अर्जुन",
+    "iast": "arjuna"
+  },
+  "linga": {
+    "key": "pum",
+    "sa": "पुल्लिङ्ग",
+    "en": "Masculine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अर्जुनः",
+          "iast": "arjunaḥ",
+          "slp1": "arjunaH"
+        },
+        "dvi": {
+          "deva": "अर्जुनौ",
+          "iast": "arjunau",
+          "slp1": "arjunO"
+        },
+        "bahu": {
+          "deva": "अर्जुनाः",
+          "iast": "arjunāḥ",
+          "slp1": "arjunAH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अर्जुनम्",
+          "iast": "arjunam",
+          "slp1": "arjunam"
+        },
+        "dvi": {
+          "deva": "अर्जुनौ",
+          "iast": "arjunau",
+          "slp1": "arjunO"
+        },
+        "bahu": {
+          "deva": "अर्जुनान्",
+          "iast": "arjunān",
+          "slp1": "arjunAn"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अर्जुनेन",
+          "iast": "arjunena",
+          "slp1": "arjunena"
+        },
+        "dvi": {
+          "deva": "अर्जुनाभ्याम्",
+          "iast": "arjunābhyām",
+          "slp1": "arjunAByAm"
+        },
+        "bahu": {
+          "deva": "अर्जुनैः",
+          "iast": "arjunaiḥ",
+          "slp1": "arjunEH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अर्जुनाय",
+          "iast": "arjunāya",
+          "slp1": "arjunAya"
+        },
+        "dvi": {
+          "deva": "अर्जुनाभ्याम्",
+          "iast": "arjunābhyām",
+          "slp1": "arjunAByAm"
+        },
+        "bahu": {
+          "deva": "अर्जुनेभ्यः",
+          "iast": "arjunebhyaḥ",
+          "slp1": "arjuneByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अर्जुनात्",
+          "iast": "arjunāt",
+          "slp1": "arjunAt"
+        },
+        "dvi": {
+          "deva": "अर्जुनाभ्याम्",
+          "iast": "arjunābhyām",
+          "slp1": "arjunAByAm"
+        },
+        "bahu": {
+          "deva": "अर्जुनेभ्यः",
+          "iast": "arjunebhyaḥ",
+          "slp1": "arjuneByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अर्जुनस्य",
+          "iast": "arjunasya",
+          "slp1": "arjunasya"
+        },
+        "dvi": {
+          "deva": "अर्जुनयोः",
+          "iast": "arjunayoḥ",
+          "slp1": "arjunayoH"
+        },
+        "bahu": {
+          "deva": "अर्जुनानाम्",
+          "iast": "arjunānām",
+          "slp1": "arjunAnAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अर्जुने",
+          "iast": "arjune",
+          "slp1": "arjune"
+        },
+        "dvi": {
+          "deva": "अर्जुनयोः",
+          "iast": "arjunayoḥ",
+          "slp1": "arjunayoH"
+        },
+        "bahu": {
+          "deva": "अर्जुनेषु",
+          "iast": "arjuneṣu",
+          "slp1": "arjunezu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अर्जुन",
+          "iast": "arjuna",
+          "slp1": "arjuna"
+        },
+        "dvi": {
+          "deva": "अर्जुनौ",
+          "iast": "arjunau",
+          "slp1": "arjunO"
+        },
+        "bahu": {
+          "deva": "अर्जुनाः",
+          "iast": "arjunāḥ",
+          "slp1": "arjunAH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "अर्जुनः",
+      "slp1": "arjunaH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "अर्जुनौ",
+      "slp1": "arjunO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अर्जुनाः",
+      "slp1": "arjunAH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "अर्जुनम्",
+      "slp1": "arjunam",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "अर्जुनौ",
+      "slp1": "arjunO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अर्जुनान्",
+      "slp1": "arjunAn",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "अर्जुनेन",
+      "slp1": "arjunena",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "अर्जुनाभ्याम्",
+      "slp1": "arjunAByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अर्जुनैः",
+      "slp1": "arjunEH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "अर्जुनाय",
+      "slp1": "arjunAya",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "अर्जुनाभ्याम्",
+      "slp1": "arjunAByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अर्जुनेभ्यः",
+      "slp1": "arjuneByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "अर्जुनात्",
+      "slp1": "arjunAt",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "अर्जुनाभ्याम्",
+      "slp1": "arjunAByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अर्जुनेभ्यः",
+      "slp1": "arjuneByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "अर्जुनस्य",
+      "slp1": "arjunasya",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "अर्जुनयोः",
+      "slp1": "arjunayoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अर्जुनानाम्",
+      "slp1": "arjunAnAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "अर्जुने",
+      "slp1": "arjune",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "अर्जुनयोः",
+      "slp1": "arjunayoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अर्जुनेषु",
+      "slp1": "arjunezu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "अर्जुन",
+      "slp1": "arjuna",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "अर्जुनौ",
+      "slp1": "arjunO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अर्जुनाः",
+      "slp1": "arjunAH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

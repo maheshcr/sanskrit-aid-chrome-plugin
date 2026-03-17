@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "Bavat",
+    "deva": "भवत्",
+    "iast": "bhavat"
+  },
+  "linga": {
+    "key": "pum",
+    "sa": "पुल्लिङ्ग",
+    "en": "Masculine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भवत्",
+          "iast": "bhavat",
+          "slp1": "Bavat"
+        },
+        "dvi": {
+          "deva": "भवतौ",
+          "iast": "bhavatau",
+          "slp1": "BavatO"
+        },
+        "bahu": {
+          "deva": "भवतः",
+          "iast": "bhavataḥ",
+          "slp1": "BavataH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भवतम्",
+          "iast": "bhavatam",
+          "slp1": "Bavatam"
+        },
+        "dvi": {
+          "deva": "भवतौ",
+          "iast": "bhavatau",
+          "slp1": "BavatO"
+        },
+        "bahu": {
+          "deva": "भवतः",
+          "iast": "bhavataḥ",
+          "slp1": "BavataH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भवता",
+          "iast": "bhavatā",
+          "slp1": "BavatA"
+        },
+        "dvi": {
+          "deva": "भवद्भ्याम्",
+          "iast": "bhavadbhyām",
+          "slp1": "BavadByAm"
+        },
+        "bahu": {
+          "deva": "भवद्भिः",
+          "iast": "bhavadbhiḥ",
+          "slp1": "BavadBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भवते",
+          "iast": "bhavate",
+          "slp1": "Bavate"
+        },
+        "dvi": {
+          "deva": "भवद्भ्याम्",
+          "iast": "bhavadbhyām",
+          "slp1": "BavadByAm"
+        },
+        "bahu": {
+          "deva": "भवद्भ्यः",
+          "iast": "bhavadbhyaḥ",
+          "slp1": "BavadByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भवतः",
+          "iast": "bhavataḥ",
+          "slp1": "BavataH"
+        },
+        "dvi": {
+          "deva": "भवद्भ्याम्",
+          "iast": "bhavadbhyām",
+          "slp1": "BavadByAm"
+        },
+        "bahu": {
+          "deva": "भवद्भ्यः",
+          "iast": "bhavadbhyaḥ",
+          "slp1": "BavadByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भवतः",
+          "iast": "bhavataḥ",
+          "slp1": "BavataH"
+        },
+        "dvi": {
+          "deva": "भवतोः",
+          "iast": "bhavatoḥ",
+          "slp1": "BavatoH"
+        },
+        "bahu": {
+          "deva": "भवताम्",
+          "iast": "bhavatām",
+          "slp1": "BavatAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भवति",
+          "iast": "bhavati",
+          "slp1": "Bavati"
+        },
+        "dvi": {
+          "deva": "भवतोः",
+          "iast": "bhavatoḥ",
+          "slp1": "BavatoH"
+        },
+        "bahu": {
+          "deva": "भवत्सु",
+          "iast": "bhavatsu",
+          "slp1": "Bavatsu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भवत्",
+          "iast": "bhavat",
+          "slp1": "Bavat"
+        },
+        "dvi": {
+          "deva": "भवतौ",
+          "iast": "bhavatau",
+          "slp1": "BavatO"
+        },
+        "bahu": {
+          "deva": "भवतः",
+          "iast": "bhavataḥ",
+          "slp1": "BavataH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "भवत्",
+      "slp1": "Bavat",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भवतौ",
+      "slp1": "BavatO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भवतः",
+      "slp1": "BavataH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भवतम्",
+      "slp1": "Bavatam",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भवतौ",
+      "slp1": "BavatO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भवतः",
+      "slp1": "BavataH",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भवता",
+      "slp1": "BavatA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भवद्भ्याम्",
+      "slp1": "BavadByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भवद्भिः",
+      "slp1": "BavadBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भवते",
+      "slp1": "Bavate",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भवद्भ्याम्",
+      "slp1": "BavadByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भवद्भ्यः",
+      "slp1": "BavadByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भवतः",
+      "slp1": "BavataH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भवद्भ्याम्",
+      "slp1": "BavadByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भवद्भ्यः",
+      "slp1": "BavadByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भवतः",
+      "slp1": "BavataH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भवतोः",
+      "slp1": "BavatoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भवताम्",
+      "slp1": "BavatAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भवति",
+      "slp1": "Bavati",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भवतोः",
+      "slp1": "BavatoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भवत्सु",
+      "slp1": "Bavatsu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भवत्",
+      "slp1": "Bavat",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भवतौ",
+      "slp1": "BavatO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भवतः",
+      "slp1": "BavataH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

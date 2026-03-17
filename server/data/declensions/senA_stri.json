@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "senA",
+    "deva": "सेना",
+    "iast": "senā"
+  },
+  "linga": {
+    "key": "stri",
+    "sa": "स्त्रीलिङ्ग",
+    "en": "Feminine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "सेनाः",
+          "iast": "senāḥ",
+          "slp1": "senAH"
+        },
+        "dvi": {
+          "deva": "सेनौ",
+          "iast": "senau",
+          "slp1": "senO"
+        },
+        "bahu": {
+          "deva": "सेनाः",
+          "iast": "senāḥ",
+          "slp1": "senAH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "सेनाम्",
+          "iast": "senām",
+          "slp1": "senAm"
+        },
+        "dvi": {
+          "deva": "सेनौ",
+          "iast": "senau",
+          "slp1": "senO"
+        },
+        "bahu": {
+          "deva": "सेनाः",
+          "iast": "senāḥ",
+          "slp1": "senAH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "सेना",
+          "iast": "senā",
+          "slp1": "senA"
+        },
+        "dvi": {
+          "deva": "सेनाभ्याम्",
+          "iast": "senābhyām",
+          "slp1": "senAByAm"
+        },
+        "bahu": {
+          "deva": "सेनाभिः",
+          "iast": "senābhiḥ",
+          "slp1": "senABiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "सेनै",
+          "iast": "senai",
+          "slp1": "senE"
+        },
+        "dvi": {
+          "deva": "सेनाभ्याम्",
+          "iast": "senābhyām",
+          "slp1": "senAByAm"
+        },
+        "bahu": {
+          "deva": "सेनाभ्यः",
+          "iast": "senābhyaḥ",
+          "slp1": "senAByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "सेनाः",
+          "iast": "senāḥ",
+          "slp1": "senAH"
+        },
+        "dvi": {
+          "deva": "सेनाभ्याम्",
+          "iast": "senābhyām",
+          "slp1": "senAByAm"
+        },
+        "bahu": {
+          "deva": "सेनाभ्यः",
+          "iast": "senābhyaḥ",
+          "slp1": "senAByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "सेनाः",
+          "iast": "senāḥ",
+          "slp1": "senAH"
+        },
+        "dvi": {
+          "deva": "सेनौः",
+          "iast": "senauḥ",
+          "slp1": "senOH"
+        },
+        "bahu": {
+          "deva": "सेनाम्",
+          "iast": "senām",
+          "slp1": "senAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "सेने",
+          "iast": "sene",
+          "slp1": "sene"
+        },
+        "dvi": {
+          "deva": "सेनौः",
+          "iast": "senauḥ",
+          "slp1": "senOH"
+        },
+        "bahu": {
+          "deva": "सेनासु",
+          "iast": "senāsu",
+          "slp1": "senAsu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "सेनाः",
+          "iast": "senāḥ",
+          "slp1": "senAH"
+        },
+        "dvi": {
+          "deva": "सेनौ",
+          "iast": "senau",
+          "slp1": "senO"
+        },
+        "bahu": {
+          "deva": "सेनाः",
+          "iast": "senāḥ",
+          "slp1": "senAH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "सेनाः",
+      "slp1": "senAH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "सेनौ",
+      "slp1": "senO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "सेनाः",
+      "slp1": "senAH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "सेनाम्",
+      "slp1": "senAm",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "सेनौ",
+      "slp1": "senO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "सेनाः",
+      "slp1": "senAH",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "सेना",
+      "slp1": "senA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "सेनाभ्याम्",
+      "slp1": "senAByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "सेनाभिः",
+      "slp1": "senABiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "सेनै",
+      "slp1": "senE",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "सेनाभ्याम्",
+      "slp1": "senAByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "सेनाभ्यः",
+      "slp1": "senAByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "सेनाः",
+      "slp1": "senAH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "सेनाभ्याम्",
+      "slp1": "senAByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "सेनाभ्यः",
+      "slp1": "senAByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "सेनाः",
+      "slp1": "senAH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "सेनौः",
+      "slp1": "senOH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "सेनाम्",
+      "slp1": "senAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "सेने",
+      "slp1": "sene",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "सेनौः",
+      "slp1": "senOH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "सेनासु",
+      "slp1": "senAsu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "सेनाः",
+      "slp1": "senAH",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "सेनौ",
+      "slp1": "senO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "सेनाः",
+      "slp1": "senAH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "grAma",
+    "deva": "ग्राम",
+    "iast": "grāma"
+  },
+  "linga": {
+    "key": "pum",
+    "sa": "पुल्लिङ्ग",
+    "en": "Masculine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "ग्रामः",
+          "iast": "grāmaḥ",
+          "slp1": "grAmaH"
+        },
+        "dvi": {
+          "deva": "ग्रामौ",
+          "iast": "grāmau",
+          "slp1": "grAmO"
+        },
+        "bahu": {
+          "deva": "ग्रामाः",
+          "iast": "grāmāḥ",
+          "slp1": "grAmAH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "ग्रामम्",
+          "iast": "grāmam",
+          "slp1": "grAmam"
+        },
+        "dvi": {
+          "deva": "ग्रामौ",
+          "iast": "grāmau",
+          "slp1": "grAmO"
+        },
+        "bahu": {
+          "deva": "ग्रामान्",
+          "iast": "grāmān",
+          "slp1": "grAmAn"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "ग्रामेण",
+          "iast": "grāmeṇa",
+          "slp1": "grAmeRa"
+        },
+        "dvi": {
+          "deva": "ग्रामाभ्याम्",
+          "iast": "grāmābhyām",
+          "slp1": "grAmAByAm"
+        },
+        "bahu": {
+          "deva": "ग्रामैः",
+          "iast": "grāmaiḥ",
+          "slp1": "grAmEH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "ग्रामाय",
+          "iast": "grāmāya",
+          "slp1": "grAmAya"
+        },
+        "dvi": {
+          "deva": "ग्रामाभ्याम्",
+          "iast": "grāmābhyām",
+          "slp1": "grAmAByAm"
+        },
+        "bahu": {
+          "deva": "ग्रामेभ्यः",
+          "iast": "grāmebhyaḥ",
+          "slp1": "grAmeByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "ग्रामात्",
+          "iast": "grāmāt",
+          "slp1": "grAmAt"
+        },
+        "dvi": {
+          "deva": "ग्रामाभ्याम्",
+          "iast": "grāmābhyām",
+          "slp1": "grAmAByAm"
+        },
+        "bahu": {
+          "deva": "ग्रामेभ्यः",
+          "iast": "grāmebhyaḥ",
+          "slp1": "grAmeByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "ग्रामस्य",
+          "iast": "grāmasya",
+          "slp1": "grAmasya"
+        },
+        "dvi": {
+          "deva": "ग्रामयोः",
+          "iast": "grāmayoḥ",
+          "slp1": "grAmayoH"
+        },
+        "bahu": {
+          "deva": "ग्रामाणाम्",
+          "iast": "grāmāṇām",
+          "slp1": "grAmARAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "ग्रामे",
+          "iast": "grāme",
+          "slp1": "grAme"
+        },
+        "dvi": {
+          "deva": "ग्रामयोः",
+          "iast": "grāmayoḥ",
+          "slp1": "grAmayoH"
+        },
+        "bahu": {
+          "deva": "ग्रामेषु",
+          "iast": "grāmeṣu",
+          "slp1": "grAmezu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "ग्राम",
+          "iast": "grāma",
+          "slp1": "grAma"
+        },
+        "dvi": {
+          "deva": "ग्रामौ",
+          "iast": "grāmau",
+          "slp1": "grAmO"
+        },
+        "bahu": {
+          "deva": "ग्रामाः",
+          "iast": "grāmāḥ",
+          "slp1": "grAmAH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "ग्रामः",
+      "slp1": "grAmaH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "ग्रामौ",
+      "slp1": "grAmO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "ग्रामाः",
+      "slp1": "grAmAH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "ग्रामम्",
+      "slp1": "grAmam",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "ग्रामौ",
+      "slp1": "grAmO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "ग्रामान्",
+      "slp1": "grAmAn",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "ग्रामेण",
+      "slp1": "grAmeRa",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "ग्रामाभ्याम्",
+      "slp1": "grAmAByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "ग्रामैः",
+      "slp1": "grAmEH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "ग्रामाय",
+      "slp1": "grAmAya",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "ग्रामाभ्याम्",
+      "slp1": "grAmAByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "ग्रामेभ्यः",
+      "slp1": "grAmeByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "ग्रामात्",
+      "slp1": "grAmAt",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "ग्रामाभ्याम्",
+      "slp1": "grAmAByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "ग्रामेभ्यः",
+      "slp1": "grAmeByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "ग्रामस्य",
+      "slp1": "grAmasya",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "ग्रामयोः",
+      "slp1": "grAmayoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "ग्रामाणाम्",
+      "slp1": "grAmARAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "ग्रामे",
+      "slp1": "grAme",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "ग्रामयोः",
+      "slp1": "grAmayoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "ग्रामेषु",
+      "slp1": "grAmezu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "ग्राम",
+      "slp1": "grAma",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "ग्रामौ",
+      "slp1": "grAmO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "ग्रामाः",
+      "slp1": "grAmAH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

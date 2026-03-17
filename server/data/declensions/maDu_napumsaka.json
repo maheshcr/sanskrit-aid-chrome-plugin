@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "maDu",
+    "deva": "मधु",
+    "iast": "madhu"
+  },
+  "linga": {
+    "key": "napumsaka",
+    "sa": "नपुंसकलिङ्ग",
+    "en": "Neuter"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मधु",
+          "iast": "madhu",
+          "slp1": "maDu"
+        },
+        "dvi": {
+          "deva": "मधुनी",
+          "iast": "madhunī",
+          "slp1": "maDunI"
+        },
+        "bahu": {
+          "deva": "मधूनि",
+          "iast": "madhūni",
+          "slp1": "maDUni"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मधु",
+          "iast": "madhu",
+          "slp1": "maDu"
+        },
+        "dvi": {
+          "deva": "मधुनी",
+          "iast": "madhunī",
+          "slp1": "maDunI"
+        },
+        "bahu": {
+          "deva": "मधूनि",
+          "iast": "madhūni",
+          "slp1": "maDUni"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मधुना",
+          "iast": "madhunā",
+          "slp1": "maDunA"
+        },
+        "dvi": {
+          "deva": "मधुभ्याम्",
+          "iast": "madhubhyām",
+          "slp1": "maDuByAm"
+        },
+        "bahu": {
+          "deva": "मधुभिः",
+          "iast": "madhubhiḥ",
+          "slp1": "maDuBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मधुने",
+          "iast": "madhune",
+          "slp1": "maDune"
+        },
+        "dvi": {
+          "deva": "मधुभ्याम्",
+          "iast": "madhubhyām",
+          "slp1": "maDuByAm"
+        },
+        "bahu": {
+          "deva": "मधुभ्यः",
+          "iast": "madhubhyaḥ",
+          "slp1": "maDuByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मधुनः",
+          "iast": "madhunaḥ",
+          "slp1": "maDunaH"
+        },
+        "dvi": {
+          "deva": "मधुभ्याम्",
+          "iast": "madhubhyām",
+          "slp1": "maDuByAm"
+        },
+        "bahu": {
+          "deva": "मधुभ्यः",
+          "iast": "madhubhyaḥ",
+          "slp1": "maDuByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मधुनः",
+          "iast": "madhunaḥ",
+          "slp1": "maDunaH"
+        },
+        "dvi": {
+          "deva": "मधुनोः",
+          "iast": "madhunoḥ",
+          "slp1": "maDunoH"
+        },
+        "bahu": {
+          "deva": "मधूनाम्",
+          "iast": "madhūnām",
+          "slp1": "maDUnAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मधुनि",
+          "iast": "madhuni",
+          "slp1": "maDuni"
+        },
+        "dvi": {
+          "deva": "मधुनोः",
+          "iast": "madhunoḥ",
+          "slp1": "maDunoH"
+        },
+        "bahu": {
+          "deva": "मधुषु",
+          "iast": "madhuṣu",
+          "slp1": "maDuzu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मधु",
+          "iast": "madhu",
+          "slp1": "maDu"
+        },
+        "dvi": {
+          "deva": "मधुनी",
+          "iast": "madhunī",
+          "slp1": "maDunI"
+        },
+        "bahu": {
+          "deva": "मधूनि",
+          "iast": "madhūni",
+          "slp1": "maDUni"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "मधु",
+      "slp1": "maDu",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मधुनी",
+      "slp1": "maDunI",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मधूनि",
+      "slp1": "maDUni",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मधु",
+      "slp1": "maDu",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मधुनी",
+      "slp1": "maDunI",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मधूनि",
+      "slp1": "maDUni",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मधुना",
+      "slp1": "maDunA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मधुभ्याम्",
+      "slp1": "maDuByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मधुभिः",
+      "slp1": "maDuBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मधुने",
+      "slp1": "maDune",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मधुभ्याम्",
+      "slp1": "maDuByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मधुभ्यः",
+      "slp1": "maDuByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मधुनः",
+      "slp1": "maDunaH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मधुभ्याम्",
+      "slp1": "maDuByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मधुभ्यः",
+      "slp1": "maDuByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मधुनः",
+      "slp1": "maDunaH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मधुनोः",
+      "slp1": "maDunoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मधूनाम्",
+      "slp1": "maDUnAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मधुनि",
+      "slp1": "maDuni",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मधुनोः",
+      "slp1": "maDunoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मधुषु",
+      "slp1": "maDuzu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मधु",
+      "slp1": "maDu",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मधुनी",
+      "slp1": "maDunI",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मधूनि",
+      "slp1": "maDUni",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

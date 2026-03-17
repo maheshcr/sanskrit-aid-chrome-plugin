@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "BaginI",
+    "deva": "भगिनी",
+    "iast": "bhaginī"
+  },
+  "linga": {
+    "key": "stri",
+    "sa": "स्त्रीलिङ्ग",
+    "en": "Feminine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भगिनीः",
+          "iast": "bhaginīḥ",
+          "slp1": "BaginIH"
+        },
+        "dvi": {
+          "deva": "भगिन्यौ",
+          "iast": "bhaginyau",
+          "slp1": "BaginyO"
+        },
+        "bahu": {
+          "deva": "भगिन्यः",
+          "iast": "bhaginyaḥ",
+          "slp1": "BaginyaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भगिनीम्",
+          "iast": "bhaginīm",
+          "slp1": "BaginIm"
+        },
+        "dvi": {
+          "deva": "भगिन्यौ",
+          "iast": "bhaginyau",
+          "slp1": "BaginyO"
+        },
+        "bahu": {
+          "deva": "भगिनीः",
+          "iast": "bhaginīḥ",
+          "slp1": "BaginIH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भगिन्या",
+          "iast": "bhaginyā",
+          "slp1": "BaginyA"
+        },
+        "dvi": {
+          "deva": "भगिनीभ्याम्",
+          "iast": "bhaginībhyām",
+          "slp1": "BaginIByAm"
+        },
+        "bahu": {
+          "deva": "भगिनीभिः",
+          "iast": "bhaginībhiḥ",
+          "slp1": "BaginIBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भगिन्यै",
+          "iast": "bhaginyai",
+          "slp1": "BaginyE"
+        },
+        "dvi": {
+          "deva": "भगिनीभ्याम्",
+          "iast": "bhaginībhyām",
+          "slp1": "BaginIByAm"
+        },
+        "bahu": {
+          "deva": "भगिनीभ्यः",
+          "iast": "bhaginībhyaḥ",
+          "slp1": "BaginIByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भगिन्याः",
+          "iast": "bhaginyāḥ",
+          "slp1": "BaginyAH"
+        },
+        "dvi": {
+          "deva": "भगिनीभ्याम्",
+          "iast": "bhaginībhyām",
+          "slp1": "BaginIByAm"
+        },
+        "bahu": {
+          "deva": "भगिनीभ्यः",
+          "iast": "bhaginībhyaḥ",
+          "slp1": "BaginIByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भगिन्याः",
+          "iast": "bhaginyāḥ",
+          "slp1": "BaginyAH"
+        },
+        "dvi": {
+          "deva": "भगिन्योः",
+          "iast": "bhaginyoḥ",
+          "slp1": "BaginyoH"
+        },
+        "bahu": {
+          "deva": "भगिनीनाम्",
+          "iast": "bhaginīnām",
+          "slp1": "BaginInAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भगिन्याम्",
+          "iast": "bhaginyām",
+          "slp1": "BaginyAm"
+        },
+        "dvi": {
+          "deva": "भगिन्योः",
+          "iast": "bhaginyoḥ",
+          "slp1": "BaginyoH"
+        },
+        "bahu": {
+          "deva": "भगिनीषु",
+          "iast": "bhaginīṣu",
+          "slp1": "BaginIzu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भगिनि",
+          "iast": "bhagini",
+          "slp1": "Bagini"
+        },
+        "dvi": {
+          "deva": "भगिन्यौ",
+          "iast": "bhaginyau",
+          "slp1": "BaginyO"
+        },
+        "bahu": {
+          "deva": "भगिन्यः",
+          "iast": "bhaginyaḥ",
+          "slp1": "BaginyaH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "भगिनीः",
+      "slp1": "BaginIH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भगिन्यौ",
+      "slp1": "BaginyO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भगिन्यः",
+      "slp1": "BaginyaH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भगिनीम्",
+      "slp1": "BaginIm",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भगिन्यौ",
+      "slp1": "BaginyO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भगिनीः",
+      "slp1": "BaginIH",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भगिन्या",
+      "slp1": "BaginyA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भगिनीभ्याम्",
+      "slp1": "BaginIByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भगिनीभिः",
+      "slp1": "BaginIBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भगिन्यै",
+      "slp1": "BaginyE",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भगिनीभ्याम्",
+      "slp1": "BaginIByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भगिनीभ्यः",
+      "slp1": "BaginIByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भगिन्याः",
+      "slp1": "BaginyAH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भगिनीभ्याम्",
+      "slp1": "BaginIByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भगिनीभ्यः",
+      "slp1": "BaginIByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भगिन्याः",
+      "slp1": "BaginyAH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भगिन्योः",
+      "slp1": "BaginyoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भगिनीनाम्",
+      "slp1": "BaginInAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भगिन्याम्",
+      "slp1": "BaginyAm",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भगिन्योः",
+      "slp1": "BaginyoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भगिनीषु",
+      "slp1": "BaginIzu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भगिनि",
+      "slp1": "Bagini",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भगिन्यौ",
+      "slp1": "BaginyO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भगिन्यः",
+      "slp1": "BaginyaH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

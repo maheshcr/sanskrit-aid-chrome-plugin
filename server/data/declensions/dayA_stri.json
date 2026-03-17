@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "dayA",
+    "deva": "दया",
+    "iast": "dayā"
+  },
+  "linga": {
+    "key": "stri",
+    "sa": "स्त्रीलिङ्ग",
+    "en": "Feminine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "दयाः",
+          "iast": "dayāḥ",
+          "slp1": "dayAH"
+        },
+        "dvi": {
+          "deva": "दयौ",
+          "iast": "dayau",
+          "slp1": "dayO"
+        },
+        "bahu": {
+          "deva": "दयाः",
+          "iast": "dayāḥ",
+          "slp1": "dayAH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "दयाम्",
+          "iast": "dayām",
+          "slp1": "dayAm"
+        },
+        "dvi": {
+          "deva": "दयौ",
+          "iast": "dayau",
+          "slp1": "dayO"
+        },
+        "bahu": {
+          "deva": "दयाः",
+          "iast": "dayāḥ",
+          "slp1": "dayAH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "दया",
+          "iast": "dayā",
+          "slp1": "dayA"
+        },
+        "dvi": {
+          "deva": "दयाभ्याम्",
+          "iast": "dayābhyām",
+          "slp1": "dayAByAm"
+        },
+        "bahu": {
+          "deva": "दयाभिः",
+          "iast": "dayābhiḥ",
+          "slp1": "dayABiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "दयै",
+          "iast": "dayai",
+          "slp1": "dayE"
+        },
+        "dvi": {
+          "deva": "दयाभ्याम्",
+          "iast": "dayābhyām",
+          "slp1": "dayAByAm"
+        },
+        "bahu": {
+          "deva": "दयाभ्यः",
+          "iast": "dayābhyaḥ",
+          "slp1": "dayAByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "दयाः",
+          "iast": "dayāḥ",
+          "slp1": "dayAH"
+        },
+        "dvi": {
+          "deva": "दयाभ्याम्",
+          "iast": "dayābhyām",
+          "slp1": "dayAByAm"
+        },
+        "bahu": {
+          "deva": "दयाभ्यः",
+          "iast": "dayābhyaḥ",
+          "slp1": "dayAByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "दयाः",
+          "iast": "dayāḥ",
+          "slp1": "dayAH"
+        },
+        "dvi": {
+          "deva": "दयौः",
+          "iast": "dayauḥ",
+          "slp1": "dayOH"
+        },
+        "bahu": {
+          "deva": "दयाम्",
+          "iast": "dayām",
+          "slp1": "dayAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "दये",
+          "iast": "daye",
+          "slp1": "daye"
+        },
+        "dvi": {
+          "deva": "दयौः",
+          "iast": "dayauḥ",
+          "slp1": "dayOH"
+        },
+        "bahu": {
+          "deva": "दयासु",
+          "iast": "dayāsu",
+          "slp1": "dayAsu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "दयाः",
+          "iast": "dayāḥ",
+          "slp1": "dayAH"
+        },
+        "dvi": {
+          "deva": "दयौ",
+          "iast": "dayau",
+          "slp1": "dayO"
+        },
+        "bahu": {
+          "deva": "दयाः",
+          "iast": "dayāḥ",
+          "slp1": "dayAH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "दयाः",
+      "slp1": "dayAH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "दयौ",
+      "slp1": "dayO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "दयाः",
+      "slp1": "dayAH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "दयाम्",
+      "slp1": "dayAm",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "दयौ",
+      "slp1": "dayO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "दयाः",
+      "slp1": "dayAH",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "दया",
+      "slp1": "dayA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "दयाभ्याम्",
+      "slp1": "dayAByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "दयाभिः",
+      "slp1": "dayABiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "दयै",
+      "slp1": "dayE",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "दयाभ्याम्",
+      "slp1": "dayAByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "दयाभ्यः",
+      "slp1": "dayAByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "दयाः",
+      "slp1": "dayAH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "दयाभ्याम्",
+      "slp1": "dayAByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "दयाभ्यः",
+      "slp1": "dayAByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "दयाः",
+      "slp1": "dayAH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "दयौः",
+      "slp1": "dayOH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "दयाम्",
+      "slp1": "dayAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "दये",
+      "slp1": "daye",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "दयौः",
+      "slp1": "dayOH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "दयासु",
+      "slp1": "dayAsu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "दयाः",
+      "slp1": "dayAH",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "दयौ",
+      "slp1": "dayO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "दयाः",
+      "slp1": "dayAH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

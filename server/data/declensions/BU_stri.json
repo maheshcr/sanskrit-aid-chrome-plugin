@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "BU",
+    "deva": "भू",
+    "iast": "bhū"
+  },
+  "linga": {
+    "key": "stri",
+    "sa": "स्त्रीलिङ्ग",
+    "en": "Feminine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भूः",
+          "iast": "bhūḥ",
+          "slp1": "BUH"
+        },
+        "dvi": {
+          "deva": "भ्वौ",
+          "iast": "bhvau",
+          "slp1": "BvO"
+        },
+        "bahu": {
+          "deva": "भ्वः",
+          "iast": "bhvaḥ",
+          "slp1": "BvaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भूम्",
+          "iast": "bhūm",
+          "slp1": "BUm"
+        },
+        "dvi": {
+          "deva": "भ्वौ",
+          "iast": "bhvau",
+          "slp1": "BvO"
+        },
+        "bahu": {
+          "deva": "भूः",
+          "iast": "bhūḥ",
+          "slp1": "BUH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भ्वा",
+          "iast": "bhvā",
+          "slp1": "BvA"
+        },
+        "dvi": {
+          "deva": "भूभ्याम्",
+          "iast": "bhūbhyām",
+          "slp1": "BUByAm"
+        },
+        "bahu": {
+          "deva": "भूभिः",
+          "iast": "bhūbhiḥ",
+          "slp1": "BUBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भ्वै",
+          "iast": "bhvai",
+          "slp1": "BvE"
+        },
+        "dvi": {
+          "deva": "भूभ्याम्",
+          "iast": "bhūbhyām",
+          "slp1": "BUByAm"
+        },
+        "bahu": {
+          "deva": "भूभ्यः",
+          "iast": "bhūbhyaḥ",
+          "slp1": "BUByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भ्वाः",
+          "iast": "bhvāḥ",
+          "slp1": "BvAH"
+        },
+        "dvi": {
+          "deva": "भूभ्याम्",
+          "iast": "bhūbhyām",
+          "slp1": "BUByAm"
+        },
+        "bahu": {
+          "deva": "भूभ्यः",
+          "iast": "bhūbhyaḥ",
+          "slp1": "BUByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भ्वाः",
+          "iast": "bhvāḥ",
+          "slp1": "BvAH"
+        },
+        "dvi": {
+          "deva": "भ्वोः",
+          "iast": "bhvoḥ",
+          "slp1": "BvoH"
+        },
+        "bahu": {
+          "deva": "भूनाम्",
+          "iast": "bhūnām",
+          "slp1": "BUnAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भ्वाम्",
+          "iast": "bhvām",
+          "slp1": "BvAm"
+        },
+        "dvi": {
+          "deva": "भ्वोः",
+          "iast": "bhvoḥ",
+          "slp1": "BvoH"
+        },
+        "bahu": {
+          "deva": "भूषु",
+          "iast": "bhūṣu",
+          "slp1": "BUzu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भु",
+          "iast": "bhu",
+          "slp1": "Bu"
+        },
+        "dvi": {
+          "deva": "भ्वौ",
+          "iast": "bhvau",
+          "slp1": "BvO"
+        },
+        "bahu": {
+          "deva": "भ्वः",
+          "iast": "bhvaḥ",
+          "slp1": "BvaH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "भूः",
+      "slp1": "BUH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भ्वौ",
+      "slp1": "BvO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भ्वः",
+      "slp1": "BvaH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भूम्",
+      "slp1": "BUm",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भ्वौ",
+      "slp1": "BvO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भूः",
+      "slp1": "BUH",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भ्वा",
+      "slp1": "BvA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भूभ्याम्",
+      "slp1": "BUByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भूभिः",
+      "slp1": "BUBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भ्वै",
+      "slp1": "BvE",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भूभ्याम्",
+      "slp1": "BUByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भूभ्यः",
+      "slp1": "BUByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भ्वाः",
+      "slp1": "BvAH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भूभ्याम्",
+      "slp1": "BUByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भूभ्यः",
+      "slp1": "BUByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भ्वाः",
+      "slp1": "BvAH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भ्वोः",
+      "slp1": "BvoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भूनाम्",
+      "slp1": "BUnAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भ्वाम्",
+      "slp1": "BvAm",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भ्वोः",
+      "slp1": "BvoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भूषु",
+      "slp1": "BUzu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भु",
+      "slp1": "Bu",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भ्वौ",
+      "slp1": "BvO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भ्वः",
+      "slp1": "BvaH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

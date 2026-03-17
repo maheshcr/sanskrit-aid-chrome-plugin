@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "agni",
+    "deva": "अग्नि",
+    "iast": "agni"
+  },
+  "linga": {
+    "key": "pum",
+    "sa": "पुल्लिङ्ग",
+    "en": "Masculine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अग्निः",
+          "iast": "agniḥ",
+          "slp1": "agniH"
+        },
+        "dvi": {
+          "deva": "अग्नी",
+          "iast": "agnī",
+          "slp1": "agnI"
+        },
+        "bahu": {
+          "deva": "अग्नयः",
+          "iast": "agnayaḥ",
+          "slp1": "agnayaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अग्निम्",
+          "iast": "agnim",
+          "slp1": "agnim"
+        },
+        "dvi": {
+          "deva": "अग्नी",
+          "iast": "agnī",
+          "slp1": "agnI"
+        },
+        "bahu": {
+          "deva": "अग्नीन्",
+          "iast": "agnīn",
+          "slp1": "agnIn"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अग्निना",
+          "iast": "agninā",
+          "slp1": "agninA"
+        },
+        "dvi": {
+          "deva": "अग्निभ्याम्",
+          "iast": "agnibhyām",
+          "slp1": "agniByAm"
+        },
+        "bahu": {
+          "deva": "अग्निभिः",
+          "iast": "agnibhiḥ",
+          "slp1": "agniBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अग्नये",
+          "iast": "agnaye",
+          "slp1": "agnaye"
+        },
+        "dvi": {
+          "deva": "अग्निभ्याम्",
+          "iast": "agnibhyām",
+          "slp1": "agniByAm"
+        },
+        "bahu": {
+          "deva": "अग्निभ्यः",
+          "iast": "agnibhyaḥ",
+          "slp1": "agniByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अग्नेः",
+          "iast": "agneḥ",
+          "slp1": "agneH"
+        },
+        "dvi": {
+          "deva": "अग्निभ्याम्",
+          "iast": "agnibhyām",
+          "slp1": "agniByAm"
+        },
+        "bahu": {
+          "deva": "अग्निभ्यः",
+          "iast": "agnibhyaḥ",
+          "slp1": "agniByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अग्नेः",
+          "iast": "agneḥ",
+          "slp1": "agneH"
+        },
+        "dvi": {
+          "deva": "अग्न्योः",
+          "iast": "agnyoḥ",
+          "slp1": "agnyoH"
+        },
+        "bahu": {
+          "deva": "अग्नीनाम्",
+          "iast": "agnīnām",
+          "slp1": "agnInAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अग्नौ",
+          "iast": "agnau",
+          "slp1": "agnO"
+        },
+        "dvi": {
+          "deva": "अग्न्योः",
+          "iast": "agnyoḥ",
+          "slp1": "agnyoH"
+        },
+        "bahu": {
+          "deva": "अग्निषु",
+          "iast": "agniṣu",
+          "slp1": "agnizu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अग्ने",
+          "iast": "agne",
+          "slp1": "agne"
+        },
+        "dvi": {
+          "deva": "अग्नी",
+          "iast": "agnī",
+          "slp1": "agnI"
+        },
+        "bahu": {
+          "deva": "अग्नयः",
+          "iast": "agnayaḥ",
+          "slp1": "agnayaH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "अग्निः",
+      "slp1": "agniH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "अग्नी",
+      "slp1": "agnI",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अग्नयः",
+      "slp1": "agnayaH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "अग्निम्",
+      "slp1": "agnim",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "अग्नी",
+      "slp1": "agnI",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अग्नीन्",
+      "slp1": "agnIn",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "अग्निना",
+      "slp1": "agninA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "अग्निभ्याम्",
+      "slp1": "agniByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अग्निभिः",
+      "slp1": "agniBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "अग्नये",
+      "slp1": "agnaye",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "अग्निभ्याम्",
+      "slp1": "agniByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अग्निभ्यः",
+      "slp1": "agniByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "अग्नेः",
+      "slp1": "agneH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "अग्निभ्याम्",
+      "slp1": "agniByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अग्निभ्यः",
+      "slp1": "agniByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "अग्नेः",
+      "slp1": "agneH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "अग्न्योः",
+      "slp1": "agnyoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अग्नीनाम्",
+      "slp1": "agnInAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "अग्नौ",
+      "slp1": "agnO",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "अग्न्योः",
+      "slp1": "agnyoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अग्निषु",
+      "slp1": "agnizu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "अग्ने",
+      "slp1": "agne",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "अग्नी",
+      "slp1": "agnI",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अग्नयः",
+      "slp1": "agnayaH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "puRya",
+    "deva": "पुण्य",
+    "iast": "puṇya"
+  },
+  "linga": {
+    "key": "napumsaka",
+    "sa": "नपुंसकलिङ्ग",
+    "en": "Neuter"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "पुण्यम्",
+          "iast": "puṇyam",
+          "slp1": "puRyam"
+        },
+        "dvi": {
+          "deva": "पुण्ये",
+          "iast": "puṇye",
+          "slp1": "puRye"
+        },
+        "bahu": {
+          "deva": "पुण्यानि",
+          "iast": "puṇyāni",
+          "slp1": "puRyAni"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "पुण्यम्",
+          "iast": "puṇyam",
+          "slp1": "puRyam"
+        },
+        "dvi": {
+          "deva": "पुण्ये",
+          "iast": "puṇye",
+          "slp1": "puRye"
+        },
+        "bahu": {
+          "deva": "पुण्यानि",
+          "iast": "puṇyāni",
+          "slp1": "puRyAni"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "पुण्येन",
+          "iast": "puṇyena",
+          "slp1": "puRyena"
+        },
+        "dvi": {
+          "deva": "पुण्याभ्याम्",
+          "iast": "puṇyābhyām",
+          "slp1": "puRyAByAm"
+        },
+        "bahu": {
+          "deva": "पुण्यैः",
+          "iast": "puṇyaiḥ",
+          "slp1": "puRyEH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "पुण्याय",
+          "iast": "puṇyāya",
+          "slp1": "puRyAya"
+        },
+        "dvi": {
+          "deva": "पुण्याभ्याम्",
+          "iast": "puṇyābhyām",
+          "slp1": "puRyAByAm"
+        },
+        "bahu": {
+          "deva": "पुण्येभ्यः",
+          "iast": "puṇyebhyaḥ",
+          "slp1": "puRyeByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "पुण्यात्",
+          "iast": "puṇyāt",
+          "slp1": "puRyAt"
+        },
+        "dvi": {
+          "deva": "पुण्याभ्याम्",
+          "iast": "puṇyābhyām",
+          "slp1": "puRyAByAm"
+        },
+        "bahu": {
+          "deva": "पुण्येभ्यः",
+          "iast": "puṇyebhyaḥ",
+          "slp1": "puRyeByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "पुण्यस्य",
+          "iast": "puṇyasya",
+          "slp1": "puRyasya"
+        },
+        "dvi": {
+          "deva": "पुण्ययोः",
+          "iast": "puṇyayoḥ",
+          "slp1": "puRyayoH"
+        },
+        "bahu": {
+          "deva": "पुण्यानाम्",
+          "iast": "puṇyānām",
+          "slp1": "puRyAnAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "पुण्ये",
+          "iast": "puṇye",
+          "slp1": "puRye"
+        },
+        "dvi": {
+          "deva": "पुण्ययोः",
+          "iast": "puṇyayoḥ",
+          "slp1": "puRyayoH"
+        },
+        "bahu": {
+          "deva": "पुण्येषु",
+          "iast": "puṇyeṣu",
+          "slp1": "puRyezu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "पुण्य",
+          "iast": "puṇya",
+          "slp1": "puRya"
+        },
+        "dvi": {
+          "deva": "पुण्ये",
+          "iast": "puṇye",
+          "slp1": "puRye"
+        },
+        "bahu": {
+          "deva": "पुण्यानि",
+          "iast": "puṇyāni",
+          "slp1": "puRyAni"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "पुण्यम्",
+      "slp1": "puRyam",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "पुण्ये",
+      "slp1": "puRye",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "पुण्यानि",
+      "slp1": "puRyAni",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "पुण्यम्",
+      "slp1": "puRyam",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "पुण्ये",
+      "slp1": "puRye",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "पुण्यानि",
+      "slp1": "puRyAni",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "पुण्येन",
+      "slp1": "puRyena",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "पुण्याभ्याम्",
+      "slp1": "puRyAByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "पुण्यैः",
+      "slp1": "puRyEH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "पुण्याय",
+      "slp1": "puRyAya",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "पुण्याभ्याम्",
+      "slp1": "puRyAByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "पुण्येभ्यः",
+      "slp1": "puRyeByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "पुण्यात्",
+      "slp1": "puRyAt",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "पुण्याभ्याम्",
+      "slp1": "puRyAByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "पुण्येभ्यः",
+      "slp1": "puRyeByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "पुण्यस्य",
+      "slp1": "puRyasya",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "पुण्ययोः",
+      "slp1": "puRyayoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "पुण्यानाम्",
+      "slp1": "puRyAnAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "पुण्ये",
+      "slp1": "puRye",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "पुण्ययोः",
+      "slp1": "puRyayoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "पुण्येषु",
+      "slp1": "puRyezu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "पुण्य",
+      "slp1": "puRya",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "पुण्ये",
+      "slp1": "puRye",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "पुण्यानि",
+      "slp1": "puRyAni",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

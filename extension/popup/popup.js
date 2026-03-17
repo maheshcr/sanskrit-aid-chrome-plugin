@@ -34,6 +34,12 @@ document.addEventListener('DOMContentLoaded', async () => {
     }
   });
 
+  // Feedback button
+  document.getElementById('feedback-btn').addEventListener('click', () => {
+    const feedbackUrl = chrome.runtime.getURL('feedback/feedback.html');
+    chrome.tabs.create({ url: feedbackUrl });
+  });
+
   function updateStatus(enabled) {
     if (enabled) {
       statusDiv.classList.remove('disabled');

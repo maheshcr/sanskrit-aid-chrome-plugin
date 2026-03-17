@@ -1,0 +1,28 @@
+{
+  // Sanskrit TTS Cache Worker
+  // Sits between the Chrome extension and HF Space.
+  // Checks R2 for cached audio, generates on miss.
+  "name": "sanskrit-tts",
+  "main": "src/index.js",
+  "compatibility_date": "2025-01-01",
+
+  // R2 binding — this is how the Worker accesses the bucket.
+  // No IAM roles, no policies, no credentials. Just a binding name.
+  "r2_buckets": [
+    {
+      "binding": "TTS_CACHE",
+      "bucket_name": "sanskrit-tts-cache"
+    }
+  ],
+
+  // Environment variables (non-secret)
+  "vars": {
+    "HF_SPACE_URL": "https://maheshcr-sanskrit-tts.hf.space",
+    "DEFAULT_VOICE": "slow_clear_male",
+    "MAX_TEXT_LENGTH": "100",
+    "RATE_LIMIT_PER_MINUTE": "30"
+  }
+
+  // HF_TOKEN is added separately as a secret:
+  //   wrangler secret put HF_TOKEN
+}

@@ -1,11 +1,100 @@
 // Content script for Sanskrit Learner extension
 // Detects Devanagari text selection and shows analysis popup
 
-console.log('Sanskrit Learner: Content script file loaded');
-
 // State
 let popupElement = null;
 let isEnabled = true;
+
+const TTS_BASE = 'https://sanskrit-tts.mahesh-cr.workers.dev';
+
+/**
+ * Generate HTML for an audio play button
+ */
+function audioButtonHtml(word) {
+  const escaped = word.replace(/"/g, '&quot;');
+  return `<button class="sanskrit-audio-btn" data-word="${escaped}" title="Listen to pronunciation">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
+      <path d="M19.07 4.93a10 10 0 0 1 0 14.14"></path>
+      <path d="M15.54 8.46a5 5 0 0 1 0 7.07"></path>
+    </svg>
+  </button>`;
+}
+
+/**
+ * Play audio pronunciation for a Sanskrit word.
+ * States: idle -> loading -> playing -> idle
+ * Clicking during loading: ignored (fetch in progress)
+ * Clicking during playing: stops playback
+ */
+let currentAudio = null;
+
+async function playAudio(word, button) {
+  // If already playing, stop it
+  if (button.classList.contains('playing') && currentAudio) {
+    currentAudio.pause();
+    currentAudio = null;
+    resetAudioButton(button);
+    return;
+  }
+
+  // If loading, ignore click
+  if (button.classList.contains('loading')) return;
+
+  // Show loading state (spinning indicator)
+  button.classList.add('loading');
+  button.setAttribute('title', 'Loading...');
+  button.innerHTML = `<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" class="sanskrit-spin">
+    <path d="M12 2a10 10 0 0 1 10 10" stroke-linecap="round"></path>
+  </svg>`;
+
+  try {
+    const url = `${TTS_BASE}/tts?text=${encodeURIComponent(word)}&voice=slow_clear_male`;
+    const response = await fetch(url);
+    if (!response.ok) throw new Error(`TTS error: ${response.status}`);
+
+    const blob = await response.blob();
+    const audioUrl = URL.createObjectURL(blob);
+    const audio = new Audio(audioUrl);
+    currentAudio = audio;
+
+    // Transition to playing state (pause icon)
+    button.classList.remove('loading');
+    button.classList.add('playing');
+    button.setAttribute('title', 'Click to stop');
+    button.innerHTML = `<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <rect x="6" y="4" width="4" height="16" rx="1"></rect>
+      <rect x="14" y="4" width="4" height="16" rx="1"></rect>
+    </svg>`;
+
+    audio.onended = () => {
+      URL.revokeObjectURL(audioUrl);
+      currentAudio = null;
+      resetAudioButton(button);
+    };
+    audio.onerror = () => {
+      URL.revokeObjectURL(audioUrl);
+      currentAudio = null;
+      resetAudioButton(button);
+    };
+
+    await audio.play();
+  } catch (error) {
+    console.error('Sanskrit Learner: TTS error:', error);
+    currentAudio = null;
+    resetAudioButton(button);
+  }
+}
+
+function resetAudioButton(button) {
+  button.classList.remove('playing', 'loading');
+  button.setAttribute('title', 'Listen to pronunciation');
+  button.innerHTML = `<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+    <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
+    <path d="M19.07 4.93a10 10 0 0 1 0 14.14"></path>
+    <path d="M15.54 8.46a5 5 0 0 1 0 7.07"></path>
+  </svg>`;
+}
 
 /**
  * Check if extension is enabled
@@ -70,6 +159,16 @@ function createPopup() {
     hidePopup();
   });
 
+  // Audio button handler (event delegation)
+  popup.addEventListener('click', (e) => {
+    const btn = e.target.closest('.sanskrit-audio-btn');
+    if (btn) {
+      e.stopPropagation();
+      const word = btn.dataset.word;
+      if (word) playAudio(word, btn);
+    }
+  });
+
   document.body.appendChild(popup);
   return popup;
 }
@@ -110,10 +209,7 @@ function positionPopup(selection) {
  * Show the popup with analysis
  */
 async function showPopup(word, selection) {
-  console.log('Sanskrit Learner: showPopup called for:', word);
-
   if (!popupElement) {
-    console.log('Sanskrit Learner: Creating popup element');
     popupElement = createPopup();
   }
 
@@ -122,22 +218,27 @@ async function showPopup(word, selection) {
   content.innerHTML = '<div class="sanskrit-loading">Analyzing...</div>';
   popupElement.classList.add('visible');
   positionPopup(selection);
-  console.log('Sanskrit Learner: Popup should now be visible');
 
   try {
-    // Fetch analysis from API
-    console.log('Sanskrit Learner: Fetching analysis...');
     const analysis = await analyzeWord(word);
-    console.log('Sanskrit Learner: Got analysis:', analysis);
     renderAnalysis(content, word, analysis);
   } catch (error) {
     console.error('Sanskrit Learner: Analysis error:', error);
-    content.innerHTML = `
-      <div class="sanskrit-error">
-        <p>Failed to analyze word</p>
-        <p class="sanskrit-error-detail">${error.message}</p>
-      </div>
-    `;
+    if (error.message?.includes('Extension context invalidated')) {
+      content.innerHTML = `
+        <div class="sanskrit-error">
+          <p>Extension was updated</p>
+          <p class="sanskrit-error-detail">Please refresh this page to use the updated extension.</p>
+        </div>
+      `;
+    } else {
+      content.innerHTML = `
+        <div class="sanskrit-error">
+          <p>Failed to analyze word</p>
+          <p class="sanskrit-error-detail">${error.message}</p>
+        </div>
+      `;
+    }
   }
 
   // Reposition after content is rendered
@@ -170,6 +271,60 @@ async function analyzeWord(word) {
       resolve(response);
     });
   });
+}
+
+/**
+ * Fetch sandhi splits for a word (sanskrit-parser API)
+ */
+async function fetchSplits(word) {
+  return new Promise((resolve, reject) => {
+    chrome.runtime.sendMessage({ type: 'FETCH_SPLITS', word }, (response) => {
+      if (chrome.runtime.lastError) {
+        reject(new Error(chrome.runtime.lastError.message));
+        return;
+      }
+      if (response?.error) {
+        reject(new Error(response.error));
+        return;
+      }
+      resolve(response);
+    });
+  });
+}
+
+/**
+ * Fetch compound splits from Dharmamitra API (better for deep compounds)
+ */
+async function fetchDharmamitraSplits(word) {
+  return new Promise((resolve, reject) => {
+    chrome.runtime.sendMessage({ type: 'FETCH_DHARMAMITRA_SPLITS', word }, (response) => {
+      if (chrome.runtime.lastError) {
+        reject(new Error(chrome.runtime.lastError.message));
+        return;
+      }
+      if (response?.error) {
+        reject(new Error(response.error));
+        return;
+      }
+      resolve(response);
+    });
+  });
+}
+
+/**
+ * Analyze each component from a sandhi split
+ */
+async function analyzeComponents(components) {
+  const results = [];
+  for (const component of components) {
+    try {
+      const analysis = await analyzeWord(component);
+      results.push({ word: component, analysis });
+    } catch {
+      results.push({ word: component, analysis: null });
+    }
+  }
+  return results;
 }
 
 /**
@@ -308,14 +463,100 @@ async function generateTableHtml(stem, gender, highlightCase, highlightNumber) {
 }
 
 /**
+ * Render sandhi split results
+ */
+async function renderSandhiSplit(container, word, splits, source) {
+  const bestSplit = splits[0]; // First split is typically the best
+  let html = `<div class="sanskrit-word-row">`;
+  html += `<div class="sanskrit-word">${word}</div>`;
+  html += audioButtonHtml(word);
+  html += `</div>`;
+  html += `<div class="sanskrit-sandhi-label">Sandhi/Compound Analysis</div>`;
+  html += `<div class="sanskrit-split-components">${bestSplit.join(' + ')}</div>`;
+
+  // Analyze each component
+  const componentResults = await analyzeComponents(bestSplit);
+
+  for (const { word: comp, analysis: compAnalysis } of componentResults) {
+    html += `<div class="sanskrit-component">`;
+    html += `<div class="sanskrit-component-word">${comp}</div>`;
+
+    if (compAnalysis?.tags?.length > 0) {
+      const firstAlt = compAnalysis.tags[0];
+      if (firstAlt?.length >= 2) {
+        const stem = firstAlt[0];
+        const tags = firstAlt[1];
+        const grammarInfo = parseGrammaticalInfo(tags);
+
+        if (stem) {
+          html += `<div class="sanskrit-stem">Stem: <strong>${stem}</strong></div>`;
+        }
+        if (grammarInfo) {
+          html += `<div class="sanskrit-grammar">`;
+          if (grammarInfo.gender) html += `<span class="sanskrit-tag">${grammarInfo.gender.sa} (${grammarInfo.gender.en})</span>`;
+          if (grammarInfo.case) html += `<span class="sanskrit-tag">${grammarInfo.case.sa} (${grammarInfo.case.en})</span>`;
+          if (grammarInfo.number) html += `<span class="sanskrit-tag">${grammarInfo.number.sa} (${grammarInfo.number.en})</span>`;
+          html += `</div>`;
+
+          if (grammarInfo.gender && stem) {
+            const highlightCase = grammarInfo.case?.value;
+            const highlightNumber = grammarInfo.number?.value;
+            html += `<div class="sanskrit-section-title">Declension Table</div>`;
+            html += await generateTableHtml(stem, grammarInfo.gender.value, highlightCase, highlightNumber);
+          }
+        }
+      }
+    } else {
+      html += `<p class="sanskrit-note">No further analysis</p>`;
+    }
+    html += `</div>`;
+  }
+
+  // Show alternative splits if available
+  if (splits.length > 1) {
+    html += `<div class="sanskrit-alternatives">`;
+    html += `<div class="sanskrit-section-title">Alternative splits (${splits.length - 1})</div>`;
+    html += `<ul class="sanskrit-alt-list">`;
+    for (let i = 1; i < Math.min(splits.length, 4); i++) {
+      html += `<li>${splits[i].join(' + ')}</li>`;
+    }
+    html += `</ul></div>`;
+  }
+
+  container.innerHTML = html;
+}
+
+/**
  * Render analysis results
  */
 async function renderAnalysis(container, word, analysis) {
   if (!analysis || !analysis.tags || analysis.tags.length === 0) {
+    // Try sandhi splitting as fallback (two-tier: sanskrit-parser then Dharmamitra)
+    try {
+      const splitResult = await fetchSplits(word);
+      if (splitResult?.splits?.length > 0) {
+        await renderSandhiSplit(container, word, splitResult.splits);
+        return;
+      }
+    } catch {
+      // sanskrit-parser splits failed
+    }
+
+    // Second fallback: Dharmamitra (better for deep compounds)
+    try {
+      const dharmaResult = await fetchDharmamitraSplits(word);
+      if (dharmaResult?.splits?.length > 0) {
+        await renderSandhiSplit(container, word, dharmaResult.splits, 'dharmamitra');
+        return;
+      }
+    } catch {
+      // Dharmamitra also failed
+    }
+
     container.innerHTML = `
       <div class="sanskrit-word">${word}</div>
       <p class="sanskrit-note">No analysis available for this word.</p>
-      <p class="sanskrit-hint">Try selecting a different word or check if it's a valid Sanskrit form.</p>
+      <p class="sanskrit-hint">This may be a compound word or verb form not yet in our database.</p>
     `;
     return;
   }
@@ -334,7 +575,10 @@ async function renderAnalysis(container, word, analysis) {
   const tags = firstAnalysis[1];
   const grammarInfo = parseGrammaticalInfo(tags);
 
-  let html = `<div class="sanskrit-word">${word}</div>`;
+  let html = `<div class="sanskrit-word-row">`;
+  html += `<div class="sanskrit-word">${word}</div>`;
+  html += audioButtonHtml(word);
+  html += `</div>`;
 
   if (stem) {
     html += `<div class="sanskrit-stem">Stem: <strong>${stem}</strong></div>`;
@@ -384,27 +628,20 @@ async function renderAnalysis(container, word, analysis) {
  * Handle text selection
  */
 function handleSelection() {
-  console.log('Sanskrit Learner: handleSelection called, isEnabled:', isEnabled);
-
   if (!isEnabled) {
-    console.log('Sanskrit Learner: Extension is disabled');
     return;
   }
 
   const selection = window.getSelection();
   const text = selection?.toString()?.trim();
-  console.log('Sanskrit Learner: Selected text:', text);
 
   if (!text || !containsDevanagari(text)) {
-    console.log('Sanskrit Learner: No Devanagari text detected');
     return;
   }
 
   const word = cleanSelectedText(text);
-  console.log('Sanskrit Learner: Cleaned word:', word);
 
   if (word && word.length > 0) {
-    console.log('Sanskrit Learner: Showing popup for:', word);
     showPopup(word, selection);
   }
 }
@@ -431,11 +668,7 @@ function handleKeydown(event) {
  * Initialize the content script
  */
 async function init() {
-  console.log('Sanskrit Learner: Initializing...');
-
-  // Check if enabled
   await checkEnabled();
-  console.log('Sanskrit Learner: Enabled status:', isEnabled);
 
   // Listen for text selection (mouseup after selection)
   document.addEventListener('mouseup', (event) => {
@@ -465,7 +698,6 @@ async function init() {
     }
   });
 
-  console.log('Sanskrit Learner content script initialized');
 }
 
 // Initialize when DOM is ready

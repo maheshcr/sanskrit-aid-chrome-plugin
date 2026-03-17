@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "etad",
+    "deva": "एतद्",
+    "iast": "etad"
+  },
+  "linga": {
+    "key": "napumsaka",
+    "sa": "नपुंसकलिङ्ग",
+    "en": "Neuter"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "एतत्",
+          "iast": "etat",
+          "slp1": "etat"
+        },
+        "dvi": {
+          "deva": "एते",
+          "iast": "ete",
+          "slp1": "ete"
+        },
+        "bahu": {
+          "deva": "एतानि",
+          "iast": "etāni",
+          "slp1": "etAni"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "एतत्",
+          "iast": "etat",
+          "slp1": "etat"
+        },
+        "dvi": {
+          "deva": "एते",
+          "iast": "ete",
+          "slp1": "ete"
+        },
+        "bahu": {
+          "deva": "एतानि",
+          "iast": "etāni",
+          "slp1": "etAni"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "एतेन",
+          "iast": "etena",
+          "slp1": "etena"
+        },
+        "dvi": {
+          "deva": "एताभ्याम्",
+          "iast": "etābhyām",
+          "slp1": "etAByAm"
+        },
+        "bahu": {
+          "deva": "एतैः",
+          "iast": "etaiḥ",
+          "slp1": "etEH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "एतस्मै",
+          "iast": "etasmai",
+          "slp1": "etasmE"
+        },
+        "dvi": {
+          "deva": "एताभ्याम्",
+          "iast": "etābhyām",
+          "slp1": "etAByAm"
+        },
+        "bahu": {
+          "deva": "एतेभ्यः",
+          "iast": "etebhyaḥ",
+          "slp1": "eteByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "एतस्मात्",
+          "iast": "etasmāt",
+          "slp1": "etasmAt"
+        },
+        "dvi": {
+          "deva": "एताभ्याम्",
+          "iast": "etābhyām",
+          "slp1": "etAByAm"
+        },
+        "bahu": {
+          "deva": "एतेभ्यः",
+          "iast": "etebhyaḥ",
+          "slp1": "eteByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "एतस्य",
+          "iast": "etasya",
+          "slp1": "etasya"
+        },
+        "dvi": {
+          "deva": "एतयोः",
+          "iast": "etayoḥ",
+          "slp1": "etayoH"
+        },
+        "bahu": {
+          "deva": "एतेषाम्",
+          "iast": "eteṣām",
+          "slp1": "etezAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "एतस्मिन्",
+          "iast": "etasmin",
+          "slp1": "etasmin"
+        },
+        "dvi": {
+          "deva": "एतयोः",
+          "iast": "etayoḥ",
+          "slp1": "etayoH"
+        },
+        "bahu": {
+          "deva": "एतेषु",
+          "iast": "eteṣu",
+          "slp1": "etezu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "एतत्",
+          "iast": "etat",
+          "slp1": "etat"
+        },
+        "dvi": {
+          "deva": "एते",
+          "iast": "ete",
+          "slp1": "ete"
+        },
+        "bahu": {
+          "deva": "एतानि",
+          "iast": "etāni",
+          "slp1": "etAni"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "एतत्",
+      "slp1": "etat",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "एते",
+      "slp1": "ete",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "एतानि",
+      "slp1": "etAni",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "एतत्",
+      "slp1": "etat",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "एते",
+      "slp1": "ete",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "एतानि",
+      "slp1": "etAni",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "एतेन",
+      "slp1": "etena",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "एताभ्याम्",
+      "slp1": "etAByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "एतैः",
+      "slp1": "etEH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "एतस्मै",
+      "slp1": "etasmE",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "एताभ्याम्",
+      "slp1": "etAByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "एतेभ्यः",
+      "slp1": "eteByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "एतस्मात्",
+      "slp1": "etasmAt",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "एताभ्याम्",
+      "slp1": "etAByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "एतेभ्यः",
+      "slp1": "eteByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "एतस्य",
+      "slp1": "etasya",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "एतयोः",
+      "slp1": "etayoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "एतेषाम्",
+      "slp1": "etezAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "एतस्मिन्",
+      "slp1": "etasmin",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "एतयोः",
+      "slp1": "etayoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "एतेषु",
+      "slp1": "etezu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "एतत्",
+      "slp1": "etat",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "एते",
+      "slp1": "ete",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "एतानि",
+      "slp1": "etAni",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

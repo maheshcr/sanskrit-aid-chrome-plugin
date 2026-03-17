@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "jala",
+    "deva": "जल",
+    "iast": "jala"
+  },
+  "linga": {
+    "key": "napumsaka",
+    "sa": "नपुंसकलिङ्ग",
+    "en": "Neuter"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "जलम्",
+          "iast": "jalam",
+          "slp1": "jalam"
+        },
+        "dvi": {
+          "deva": "जले",
+          "iast": "jale",
+          "slp1": "jale"
+        },
+        "bahu": {
+          "deva": "जलानि",
+          "iast": "jalāni",
+          "slp1": "jalAni"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "जलम्",
+          "iast": "jalam",
+          "slp1": "jalam"
+        },
+        "dvi": {
+          "deva": "जले",
+          "iast": "jale",
+          "slp1": "jale"
+        },
+        "bahu": {
+          "deva": "जलानि",
+          "iast": "jalāni",
+          "slp1": "jalAni"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "जलेन",
+          "iast": "jalena",
+          "slp1": "jalena"
+        },
+        "dvi": {
+          "deva": "जलाभ्याम्",
+          "iast": "jalābhyām",
+          "slp1": "jalAByAm"
+        },
+        "bahu": {
+          "deva": "जलैः",
+          "iast": "jalaiḥ",
+          "slp1": "jalEH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "जलाय",
+          "iast": "jalāya",
+          "slp1": "jalAya"
+        },
+        "dvi": {
+          "deva": "जलाभ्याम्",
+          "iast": "jalābhyām",
+          "slp1": "jalAByAm"
+        },
+        "bahu": {
+          "deva": "जलेभ्यः",
+          "iast": "jalebhyaḥ",
+          "slp1": "jaleByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "जलात्",
+          "iast": "jalāt",
+          "slp1": "jalAt"
+        },
+        "dvi": {
+          "deva": "जलाभ्याम्",
+          "iast": "jalābhyām",
+          "slp1": "jalAByAm"
+        },
+        "bahu": {
+          "deva": "जलेभ्यः",
+          "iast": "jalebhyaḥ",
+          "slp1": "jaleByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "जलस्य",
+          "iast": "jalasya",
+          "slp1": "jalasya"
+        },
+        "dvi": {
+          "deva": "जलयोः",
+          "iast": "jalayoḥ",
+          "slp1": "jalayoH"
+        },
+        "bahu": {
+          "deva": "जलानाम्",
+          "iast": "jalānām",
+          "slp1": "jalAnAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "जले",
+          "iast": "jale",
+          "slp1": "jale"
+        },
+        "dvi": {
+          "deva": "जलयोः",
+          "iast": "jalayoḥ",
+          "slp1": "jalayoH"
+        },
+        "bahu": {
+          "deva": "जलेषु",
+          "iast": "jaleṣu",
+          "slp1": "jalezu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "जल",
+          "iast": "jala",
+          "slp1": "jala"
+        },
+        "dvi": {
+          "deva": "जले",
+          "iast": "jale",
+          "slp1": "jale"
+        },
+        "bahu": {
+          "deva": "जलानि",
+          "iast": "jalāni",
+          "slp1": "jalAni"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "जलम्",
+      "slp1": "jalam",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "जले",
+      "slp1": "jale",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "जलानि",
+      "slp1": "jalAni",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "जलम्",
+      "slp1": "jalam",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "जले",
+      "slp1": "jale",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "जलानि",
+      "slp1": "jalAni",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "जलेन",
+      "slp1": "jalena",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "जलाभ्याम्",
+      "slp1": "jalAByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "जलैः",
+      "slp1": "jalEH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "जलाय",
+      "slp1": "jalAya",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "जलाभ्याम्",
+      "slp1": "jalAByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "जलेभ्यः",
+      "slp1": "jaleByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "जलात्",
+      "slp1": "jalAt",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "जलाभ्याम्",
+      "slp1": "jalAByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "जलेभ्यः",
+      "slp1": "jaleByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "जलस्य",
+      "slp1": "jalasya",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "जलयोः",
+      "slp1": "jalayoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "जलानाम्",
+      "slp1": "jalAnAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "जले",
+      "slp1": "jale",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "जलयोः",
+      "slp1": "jalayoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "जलेषु",
+      "slp1": "jalezu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "जल",
+      "slp1": "jala",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "जले",
+      "slp1": "jale",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "जलानि",
+      "slp1": "jalAni",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

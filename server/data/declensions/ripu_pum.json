@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "ripu",
+    "deva": "रिपु",
+    "iast": "ripu"
+  },
+  "linga": {
+    "key": "pum",
+    "sa": "पुल्लिङ्ग",
+    "en": "Masculine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "रिपुः",
+          "iast": "ripuḥ",
+          "slp1": "ripuH"
+        },
+        "dvi": {
+          "deva": "रिपू",
+          "iast": "ripū",
+          "slp1": "ripU"
+        },
+        "bahu": {
+          "deva": "रिपवः",
+          "iast": "ripavaḥ",
+          "slp1": "ripavaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "रिपुम्",
+          "iast": "ripum",
+          "slp1": "ripum"
+        },
+        "dvi": {
+          "deva": "रिपू",
+          "iast": "ripū",
+          "slp1": "ripU"
+        },
+        "bahu": {
+          "deva": "रिपून्",
+          "iast": "ripūn",
+          "slp1": "ripUn"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "रिपुणा",
+          "iast": "ripuṇā",
+          "slp1": "ripuRA"
+        },
+        "dvi": {
+          "deva": "रिपुभ्याम्",
+          "iast": "ripubhyām",
+          "slp1": "ripuByAm"
+        },
+        "bahu": {
+          "deva": "रिपुभिः",
+          "iast": "ripubhiḥ",
+          "slp1": "ripuBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "रिपवे",
+          "iast": "ripave",
+          "slp1": "ripave"
+        },
+        "dvi": {
+          "deva": "रिपुभ्याम्",
+          "iast": "ripubhyām",
+          "slp1": "ripuByAm"
+        },
+        "bahu": {
+          "deva": "रिपुभ्यः",
+          "iast": "ripubhyaḥ",
+          "slp1": "ripuByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "रिपोः",
+          "iast": "ripoḥ",
+          "slp1": "ripoH"
+        },
+        "dvi": {
+          "deva": "रिपुभ्याम्",
+          "iast": "ripubhyām",
+          "slp1": "ripuByAm"
+        },
+        "bahu": {
+          "deva": "रिपुभ्यः",
+          "iast": "ripubhyaḥ",
+          "slp1": "ripuByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "रिपोः",
+          "iast": "ripoḥ",
+          "slp1": "ripoH"
+        },
+        "dvi": {
+          "deva": "रिप्वोः",
+          "iast": "ripvoḥ",
+          "slp1": "ripvoH"
+        },
+        "bahu": {
+          "deva": "रिपूणाम्",
+          "iast": "ripūṇām",
+          "slp1": "ripURAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "रिपौ",
+          "iast": "ripau",
+          "slp1": "ripO"
+        },
+        "dvi": {
+          "deva": "रिप्वोः",
+          "iast": "ripvoḥ",
+          "slp1": "ripvoH"
+        },
+        "bahu": {
+          "deva": "रिपुषु",
+          "iast": "ripuṣu",
+          "slp1": "ripuzu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "रिपो",
+          "iast": "ripo",
+          "slp1": "ripo"
+        },
+        "dvi": {
+          "deva": "रिपू",
+          "iast": "ripū",
+          "slp1": "ripU"
+        },
+        "bahu": {
+          "deva": "रिपवः",
+          "iast": "ripavaḥ",
+          "slp1": "ripavaH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "रिपुः",
+      "slp1": "ripuH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "रिपू",
+      "slp1": "ripU",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "रिपवः",
+      "slp1": "ripavaH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "रिपुम्",
+      "slp1": "ripum",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "रिपू",
+      "slp1": "ripU",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "रिपून्",
+      "slp1": "ripUn",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "रिपुणा",
+      "slp1": "ripuRA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "रिपुभ्याम्",
+      "slp1": "ripuByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "रिपुभिः",
+      "slp1": "ripuBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "रिपवे",
+      "slp1": "ripave",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "रिपुभ्याम्",
+      "slp1": "ripuByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "रिपुभ्यः",
+      "slp1": "ripuByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "रिपोः",
+      "slp1": "ripoH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "रिपुभ्याम्",
+      "slp1": "ripuByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "रिपुभ्यः",
+      "slp1": "ripuByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "रिपोः",
+      "slp1": "ripoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "रिप्वोः",
+      "slp1": "ripvoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "रिपूणाम्",
+      "slp1": "ripURAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "रिपौ",
+      "slp1": "ripO",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "रिप्वोः",
+      "slp1": "ripvoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "रिपुषु",
+      "slp1": "ripuzu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "रिपो",
+      "slp1": "ripo",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "रिपू",
+      "slp1": "ripU",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "रिपवः",
+      "slp1": "ripavaH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

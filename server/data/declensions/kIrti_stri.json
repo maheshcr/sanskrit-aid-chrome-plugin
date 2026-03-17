@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "kIrti",
+    "deva": "कीर्ति",
+    "iast": "kīrti"
+  },
+  "linga": {
+    "key": "stri",
+    "sa": "स्त्रीलिङ्ग",
+    "en": "Feminine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कीर्तिः",
+          "iast": "kīrtiḥ",
+          "slp1": "kIrtiH"
+        },
+        "dvi": {
+          "deva": "कीर्ती",
+          "iast": "kīrtī",
+          "slp1": "kIrtI"
+        },
+        "bahu": {
+          "deva": "कीर्तयः",
+          "iast": "kīrtayaḥ",
+          "slp1": "kIrtayaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कीर्तिम्",
+          "iast": "kīrtim",
+          "slp1": "kIrtim"
+        },
+        "dvi": {
+          "deva": "कीर्ती",
+          "iast": "kīrtī",
+          "slp1": "kIrtI"
+        },
+        "bahu": {
+          "deva": "कीर्तीः",
+          "iast": "kīrtīḥ",
+          "slp1": "kIrtIH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कीर्त्या",
+          "iast": "kīrtyā",
+          "slp1": "kIrtyA"
+        },
+        "dvi": {
+          "deva": "कीर्तिभ्याम्",
+          "iast": "kīrtibhyām",
+          "slp1": "kIrtiByAm"
+        },
+        "bahu": {
+          "deva": "कीर्तिभिः",
+          "iast": "kīrtibhiḥ",
+          "slp1": "kIrtiBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कीर्त्यै",
+          "iast": "kīrtyai",
+          "slp1": "kIrtyE"
+        },
+        "dvi": {
+          "deva": "कीर्तिभ्याम्",
+          "iast": "kīrtibhyām",
+          "slp1": "kIrtiByAm"
+        },
+        "bahu": {
+          "deva": "कीर्तिभ्यः",
+          "iast": "kīrtibhyaḥ",
+          "slp1": "kIrtiByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कीर्त्याः",
+          "iast": "kīrtyāḥ",
+          "slp1": "kIrtyAH"
+        },
+        "dvi": {
+          "deva": "कीर्तिभ्याम्",
+          "iast": "kīrtibhyām",
+          "slp1": "kIrtiByAm"
+        },
+        "bahu": {
+          "deva": "कीर्तिभ्यः",
+          "iast": "kīrtibhyaḥ",
+          "slp1": "kIrtiByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कीर्त्याः",
+          "iast": "kīrtyāḥ",
+          "slp1": "kIrtyAH"
+        },
+        "dvi": {
+          "deva": "कीर्त्योः",
+          "iast": "kīrtyoḥ",
+          "slp1": "kIrtyoH"
+        },
+        "bahu": {
+          "deva": "कीर्तीनाम्",
+          "iast": "kīrtīnām",
+          "slp1": "kIrtInAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कीर्त्याम्",
+          "iast": "kīrtyām",
+          "slp1": "kIrtyAm"
+        },
+        "dvi": {
+          "deva": "कीर्त्योः",
+          "iast": "kīrtyoḥ",
+          "slp1": "kIrtyoH"
+        },
+        "bahu": {
+          "deva": "कीर्तिषु",
+          "iast": "kīrtiṣu",
+          "slp1": "kIrtizu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कीर्ते",
+          "iast": "kīrte",
+          "slp1": "kIrte"
+        },
+        "dvi": {
+          "deva": "कीर्ती",
+          "iast": "kīrtī",
+          "slp1": "kIrtI"
+        },
+        "bahu": {
+          "deva": "कीर्तयः",
+          "iast": "kīrtayaḥ",
+          "slp1": "kIrtayaH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "कीर्तिः",
+      "slp1": "kIrtiH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कीर्ती",
+      "slp1": "kIrtI",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कीर्तयः",
+      "slp1": "kIrtayaH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कीर्तिम्",
+      "slp1": "kIrtim",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कीर्ती",
+      "slp1": "kIrtI",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कीर्तीः",
+      "slp1": "kIrtIH",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कीर्त्या",
+      "slp1": "kIrtyA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कीर्तिभ्याम्",
+      "slp1": "kIrtiByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कीर्तिभिः",
+      "slp1": "kIrtiBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कीर्त्यै",
+      "slp1": "kIrtyE",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कीर्तिभ्याम्",
+      "slp1": "kIrtiByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कीर्तिभ्यः",
+      "slp1": "kIrtiByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कीर्त्याः",
+      "slp1": "kIrtyAH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कीर्तिभ्याम्",
+      "slp1": "kIrtiByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कीर्तिभ्यः",
+      "slp1": "kIrtiByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कीर्त्याः",
+      "slp1": "kIrtyAH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कीर्त्योः",
+      "slp1": "kIrtyoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कीर्तीनाम्",
+      "slp1": "kIrtInAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कीर्त्याम्",
+      "slp1": "kIrtyAm",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कीर्त्योः",
+      "slp1": "kIrtyoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कीर्तिषु",
+      "slp1": "kIrtizu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कीर्ते",
+      "slp1": "kIrte",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कीर्ती",
+      "slp1": "kIrtI",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कीर्तयः",
+      "slp1": "kIrtayaH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

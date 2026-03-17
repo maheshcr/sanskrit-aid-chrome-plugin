@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "pApa",
+    "deva": "पाप",
+    "iast": "pāpa"
+  },
+  "linga": {
+    "key": "napumsaka",
+    "sa": "नपुंसकलिङ्ग",
+    "en": "Neuter"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "पापम्",
+          "iast": "pāpam",
+          "slp1": "pApam"
+        },
+        "dvi": {
+          "deva": "पापे",
+          "iast": "pāpe",
+          "slp1": "pApe"
+        },
+        "bahu": {
+          "deva": "पापानि",
+          "iast": "pāpāni",
+          "slp1": "pApAni"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "पापम्",
+          "iast": "pāpam",
+          "slp1": "pApam"
+        },
+        "dvi": {
+          "deva": "पापे",
+          "iast": "pāpe",
+          "slp1": "pApe"
+        },
+        "bahu": {
+          "deva": "पापानि",
+          "iast": "pāpāni",
+          "slp1": "pApAni"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "पापेन",
+          "iast": "pāpena",
+          "slp1": "pApena"
+        },
+        "dvi": {
+          "deva": "पापाभ्याम्",
+          "iast": "pāpābhyām",
+          "slp1": "pApAByAm"
+        },
+        "bahu": {
+          "deva": "पापैः",
+          "iast": "pāpaiḥ",
+          "slp1": "pApEH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "पापाय",
+          "iast": "pāpāya",
+          "slp1": "pApAya"
+        },
+        "dvi": {
+          "deva": "पापाभ्याम्",
+          "iast": "pāpābhyām",
+          "slp1": "pApAByAm"
+        },
+        "bahu": {
+          "deva": "पापेभ्यः",
+          "iast": "pāpebhyaḥ",
+          "slp1": "pApeByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "पापात्",
+          "iast": "pāpāt",
+          "slp1": "pApAt"
+        },
+        "dvi": {
+          "deva": "पापाभ्याम्",
+          "iast": "pāpābhyām",
+          "slp1": "pApAByAm"
+        },
+        "bahu": {
+          "deva": "पापेभ्यः",
+          "iast": "pāpebhyaḥ",
+          "slp1": "pApeByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "पापस्य",
+          "iast": "pāpasya",
+          "slp1": "pApasya"
+        },
+        "dvi": {
+          "deva": "पापयोः",
+          "iast": "pāpayoḥ",
+          "slp1": "pApayoH"
+        },
+        "bahu": {
+          "deva": "पापानाम्",
+          "iast": "pāpānām",
+          "slp1": "pApAnAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "पापे",
+          "iast": "pāpe",
+          "slp1": "pApe"
+        },
+        "dvi": {
+          "deva": "पापयोः",
+          "iast": "pāpayoḥ",
+          "slp1": "pApayoH"
+        },
+        "bahu": {
+          "deva": "पापेषु",
+          "iast": "pāpeṣu",
+          "slp1": "pApezu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "पाप",
+          "iast": "pāpa",
+          "slp1": "pApa"
+        },
+        "dvi": {
+          "deva": "पापे",
+          "iast": "pāpe",
+          "slp1": "pApe"
+        },
+        "bahu": {
+          "deva": "पापानि",
+          "iast": "pāpāni",
+          "slp1": "pApAni"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "पापम्",
+      "slp1": "pApam",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "पापे",
+      "slp1": "pApe",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "पापानि",
+      "slp1": "pApAni",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "पापम्",
+      "slp1": "pApam",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "पापे",
+      "slp1": "pApe",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "पापानि",
+      "slp1": "pApAni",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "पापेन",
+      "slp1": "pApena",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "पापाभ्याम्",
+      "slp1": "pApAByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "पापैः",
+      "slp1": "pApEH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "पापाय",
+      "slp1": "pApAya",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "पापाभ्याम्",
+      "slp1": "pApAByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "पापेभ्यः",
+      "slp1": "pApeByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "पापात्",
+      "slp1": "pApAt",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "पापाभ्याम्",
+      "slp1": "pApAByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "पापेभ्यः",
+      "slp1": "pApeByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "पापस्य",
+      "slp1": "pApasya",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "पापयोः",
+      "slp1": "pApayoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "पापानाम्",
+      "slp1": "pApAnAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "पापे",
+      "slp1": "pApe",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "पापयोः",
+      "slp1": "pApayoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "पापेषु",
+      "slp1": "pApezu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "पाप",
+      "slp1": "pApa",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "पापे",
+      "slp1": "pApe",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "पापानि",
+      "slp1": "pApAni",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "Darma",
+    "deva": "धर्म",
+    "iast": "dharma"
+  },
+  "linga": {
+    "key": "pum",
+    "sa": "पुल्लिङ्ग",
+    "en": "Masculine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "धर्मः",
+          "iast": "dharmaḥ",
+          "slp1": "DarmaH"
+        },
+        "dvi": {
+          "deva": "धर्मौ",
+          "iast": "dharmau",
+          "slp1": "DarmO"
+        },
+        "bahu": {
+          "deva": "धर्माः",
+          "iast": "dharmāḥ",
+          "slp1": "DarmAH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "धर्मम्",
+          "iast": "dharmam",
+          "slp1": "Darmam"
+        },
+        "dvi": {
+          "deva": "धर्मौ",
+          "iast": "dharmau",
+          "slp1": "DarmO"
+        },
+        "bahu": {
+          "deva": "धर्मान्",
+          "iast": "dharmān",
+          "slp1": "DarmAn"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "धर्मेण",
+          "iast": "dharmeṇa",
+          "slp1": "DarmeRa"
+        },
+        "dvi": {
+          "deva": "धर्माभ्याम्",
+          "iast": "dharmābhyām",
+          "slp1": "DarmAByAm"
+        },
+        "bahu": {
+          "deva": "धर्मैः",
+          "iast": "dharmaiḥ",
+          "slp1": "DarmEH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "धर्माय",
+          "iast": "dharmāya",
+          "slp1": "DarmAya"
+        },
+        "dvi": {
+          "deva": "धर्माभ्याम्",
+          "iast": "dharmābhyām",
+          "slp1": "DarmAByAm"
+        },
+        "bahu": {
+          "deva": "धर्मेभ्यः",
+          "iast": "dharmebhyaḥ",
+          "slp1": "DarmeByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "धर्मात्",
+          "iast": "dharmāt",
+          "slp1": "DarmAt"
+        },
+        "dvi": {
+          "deva": "धर्माभ्याम्",
+          "iast": "dharmābhyām",
+          "slp1": "DarmAByAm"
+        },
+        "bahu": {
+          "deva": "धर्मेभ्यः",
+          "iast": "dharmebhyaḥ",
+          "slp1": "DarmeByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "धर्मस्य",
+          "iast": "dharmasya",
+          "slp1": "Darmasya"
+        },
+        "dvi": {
+          "deva": "धर्मयोः",
+          "iast": "dharmayoḥ",
+          "slp1": "DarmayoH"
+        },
+        "bahu": {
+          "deva": "धर्माणाम्",
+          "iast": "dharmāṇām",
+          "slp1": "DarmARAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "धर्मे",
+          "iast": "dharme",
+          "slp1": "Darme"
+        },
+        "dvi": {
+          "deva": "धर्मयोः",
+          "iast": "dharmayoḥ",
+          "slp1": "DarmayoH"
+        },
+        "bahu": {
+          "deva": "धर्मेषु",
+          "iast": "dharmeṣu",
+          "slp1": "Darmezu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "धर्म",
+          "iast": "dharma",
+          "slp1": "Darma"
+        },
+        "dvi": {
+          "deva": "धर्मौ",
+          "iast": "dharmau",
+          "slp1": "DarmO"
+        },
+        "bahu": {
+          "deva": "धर्माः",
+          "iast": "dharmāḥ",
+          "slp1": "DarmAH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "धर्मः",
+      "slp1": "DarmaH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "धर्मौ",
+      "slp1": "DarmO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "धर्माः",
+      "slp1": "DarmAH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "धर्मम्",
+      "slp1": "Darmam",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "धर्मौ",
+      "slp1": "DarmO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "धर्मान्",
+      "slp1": "DarmAn",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "धर्मेण",
+      "slp1": "DarmeRa",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "धर्माभ्याम्",
+      "slp1": "DarmAByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "धर्मैः",
+      "slp1": "DarmEH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "धर्माय",
+      "slp1": "DarmAya",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "धर्माभ्याम्",
+      "slp1": "DarmAByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "धर्मेभ्यः",
+      "slp1": "DarmeByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "धर्मात्",
+      "slp1": "DarmAt",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "धर्माभ्याम्",
+      "slp1": "DarmAByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "धर्मेभ्यः",
+      "slp1": "DarmeByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "धर्मस्य",
+      "slp1": "Darmasya",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "धर्मयोः",
+      "slp1": "DarmayoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "धर्माणाम्",
+      "slp1": "DarmARAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "धर्मे",
+      "slp1": "Darme",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "धर्मयोः",
+      "slp1": "DarmayoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "धर्मेषु",
+      "slp1": "Darmezu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "धर्म",
+      "slp1": "Darma",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "धर्मौ",
+      "slp1": "DarmO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "धर्माः",
+      "slp1": "DarmAH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

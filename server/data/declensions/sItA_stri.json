@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "sItA",
+    "deva": "सीता",
+    "iast": "sītā"
+  },
+  "linga": {
+    "key": "stri",
+    "sa": "स्त्रीलिङ्ग",
+    "en": "Feminine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "सीताः",
+          "iast": "sītāḥ",
+          "slp1": "sItAH"
+        },
+        "dvi": {
+          "deva": "सीतौ",
+          "iast": "sītau",
+          "slp1": "sItO"
+        },
+        "bahu": {
+          "deva": "सीताः",
+          "iast": "sītāḥ",
+          "slp1": "sItAH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "सीताम्",
+          "iast": "sītām",
+          "slp1": "sItAm"
+        },
+        "dvi": {
+          "deva": "सीतौ",
+          "iast": "sītau",
+          "slp1": "sItO"
+        },
+        "bahu": {
+          "deva": "सीताः",
+          "iast": "sītāḥ",
+          "slp1": "sItAH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "सीता",
+          "iast": "sītā",
+          "slp1": "sItA"
+        },
+        "dvi": {
+          "deva": "सीताभ्याम्",
+          "iast": "sītābhyām",
+          "slp1": "sItAByAm"
+        },
+        "bahu": {
+          "deva": "सीताभिः",
+          "iast": "sītābhiḥ",
+          "slp1": "sItABiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "सीतै",
+          "iast": "sītai",
+          "slp1": "sItE"
+        },
+        "dvi": {
+          "deva": "सीताभ्याम्",
+          "iast": "sītābhyām",
+          "slp1": "sItAByAm"
+        },
+        "bahu": {
+          "deva": "सीताभ्यः",
+          "iast": "sītābhyaḥ",
+          "slp1": "sItAByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "सीताः",
+          "iast": "sītāḥ",
+          "slp1": "sItAH"
+        },
+        "dvi": {
+          "deva": "सीताभ्याम्",
+          "iast": "sītābhyām",
+          "slp1": "sItAByAm"
+        },
+        "bahu": {
+          "deva": "सीताभ्यः",
+          "iast": "sītābhyaḥ",
+          "slp1": "sItAByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "सीताः",
+          "iast": "sītāḥ",
+          "slp1": "sItAH"
+        },
+        "dvi": {
+          "deva": "सीतौः",
+          "iast": "sītauḥ",
+          "slp1": "sItOH"
+        },
+        "bahu": {
+          "deva": "सीताम्",
+          "iast": "sītām",
+          "slp1": "sItAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "सीते",
+          "iast": "sīte",
+          "slp1": "sIte"
+        },
+        "dvi": {
+          "deva": "सीतौः",
+          "iast": "sītauḥ",
+          "slp1": "sItOH"
+        },
+        "bahu": {
+          "deva": "सीतासु",
+          "iast": "sītāsu",
+          "slp1": "sItAsu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "सीताः",
+          "iast": "sītāḥ",
+          "slp1": "sItAH"
+        },
+        "dvi": {
+          "deva": "सीतौ",
+          "iast": "sītau",
+          "slp1": "sItO"
+        },
+        "bahu": {
+          "deva": "सीताः",
+          "iast": "sītāḥ",
+          "slp1": "sItAH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "सीताः",
+      "slp1": "sItAH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "सीतौ",
+      "slp1": "sItO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "सीताः",
+      "slp1": "sItAH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "सीताम्",
+      "slp1": "sItAm",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "सीतौ",
+      "slp1": "sItO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "सीताः",
+      "slp1": "sItAH",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "सीता",
+      "slp1": "sItA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "सीताभ्याम्",
+      "slp1": "sItAByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "सीताभिः",
+      "slp1": "sItABiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "सीतै",
+      "slp1": "sItE",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "सीताभ्याम्",
+      "slp1": "sItAByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "सीताभ्यः",
+      "slp1": "sItAByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "सीताः",
+      "slp1": "sItAH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "सीताभ्याम्",
+      "slp1": "sItAByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "सीताभ्यः",
+      "slp1": "sItAByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "सीताः",
+      "slp1": "sItAH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "सीतौः",
+      "slp1": "sItOH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "सीताम्",
+      "slp1": "sItAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "सीते",
+      "slp1": "sIte",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "सीतौः",
+      "slp1": "sItOH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "सीतासु",
+      "slp1": "sItAsu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "सीताः",
+      "slp1": "sItAH",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "सीतौ",
+      "slp1": "sItO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "सीताः",
+      "slp1": "sItAH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

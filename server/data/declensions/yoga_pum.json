@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "yoga",
+    "deva": "योग",
+    "iast": "yoga"
+  },
+  "linga": {
+    "key": "pum",
+    "sa": "पुल्लिङ्ग",
+    "en": "Masculine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "योगः",
+          "iast": "yogaḥ",
+          "slp1": "yogaH"
+        },
+        "dvi": {
+          "deva": "योगौ",
+          "iast": "yogau",
+          "slp1": "yogO"
+        },
+        "bahu": {
+          "deva": "योगाः",
+          "iast": "yogāḥ",
+          "slp1": "yogAH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "योगम्",
+          "iast": "yogam",
+          "slp1": "yogam"
+        },
+        "dvi": {
+          "deva": "योगौ",
+          "iast": "yogau",
+          "slp1": "yogO"
+        },
+        "bahu": {
+          "deva": "योगान्",
+          "iast": "yogān",
+          "slp1": "yogAn"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "योगेन",
+          "iast": "yogena",
+          "slp1": "yogena"
+        },
+        "dvi": {
+          "deva": "योगाभ्याम्",
+          "iast": "yogābhyām",
+          "slp1": "yogAByAm"
+        },
+        "bahu": {
+          "deva": "योगैः",
+          "iast": "yogaiḥ",
+          "slp1": "yogEH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "योगाय",
+          "iast": "yogāya",
+          "slp1": "yogAya"
+        },
+        "dvi": {
+          "deva": "योगाभ्याम्",
+          "iast": "yogābhyām",
+          "slp1": "yogAByAm"
+        },
+        "bahu": {
+          "deva": "योगेभ्यः",
+          "iast": "yogebhyaḥ",
+          "slp1": "yogeByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "योगात्",
+          "iast": "yogāt",
+          "slp1": "yogAt"
+        },
+        "dvi": {
+          "deva": "योगाभ्याम्",
+          "iast": "yogābhyām",
+          "slp1": "yogAByAm"
+        },
+        "bahu": {
+          "deva": "योगेभ्यः",
+          "iast": "yogebhyaḥ",
+          "slp1": "yogeByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "योगस्य",
+          "iast": "yogasya",
+          "slp1": "yogasya"
+        },
+        "dvi": {
+          "deva": "योगयोः",
+          "iast": "yogayoḥ",
+          "slp1": "yogayoH"
+        },
+        "bahu": {
+          "deva": "योगानाम्",
+          "iast": "yogānām",
+          "slp1": "yogAnAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "योगे",
+          "iast": "yoge",
+          "slp1": "yoge"
+        },
+        "dvi": {
+          "deva": "योगयोः",
+          "iast": "yogayoḥ",
+          "slp1": "yogayoH"
+        },
+        "bahu": {
+          "deva": "योगेषु",
+          "iast": "yogeṣu",
+          "slp1": "yogezu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "योग",
+          "iast": "yoga",
+          "slp1": "yoga"
+        },
+        "dvi": {
+          "deva": "योगौ",
+          "iast": "yogau",
+          "slp1": "yogO"
+        },
+        "bahu": {
+          "deva": "योगाः",
+          "iast": "yogāḥ",
+          "slp1": "yogAH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "योगः",
+      "slp1": "yogaH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "योगौ",
+      "slp1": "yogO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "योगाः",
+      "slp1": "yogAH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "योगम्",
+      "slp1": "yogam",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "योगौ",
+      "slp1": "yogO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "योगान्",
+      "slp1": "yogAn",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "योगेन",
+      "slp1": "yogena",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "योगाभ्याम्",
+      "slp1": "yogAByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "योगैः",
+      "slp1": "yogEH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "योगाय",
+      "slp1": "yogAya",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "योगाभ्याम्",
+      "slp1": "yogAByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "योगेभ्यः",
+      "slp1": "yogeByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "योगात्",
+      "slp1": "yogAt",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "योगाभ्याम्",
+      "slp1": "yogAByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "योगेभ्यः",
+      "slp1": "yogeByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "योगस्य",
+      "slp1": "yogasya",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "योगयोः",
+      "slp1": "yogayoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "योगानाम्",
+      "slp1": "yogAnAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "योगे",
+      "slp1": "yoge",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "योगयोः",
+      "slp1": "yogayoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "योगेषु",
+      "slp1": "yogezu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "योग",
+      "slp1": "yoga",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "योगौ",
+      "slp1": "yogO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "योगाः",
+      "slp1": "yogAH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

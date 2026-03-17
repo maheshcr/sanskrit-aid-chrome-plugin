@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "sukha",
+    "deva": "सुक्ह",
+    "iast": "sukha"
+  },
+  "linga": {
+    "key": "napumsaka",
+    "sa": "नपुंसकलिङ्ग",
+    "en": "Neuter"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "सुक्घम्",
+          "iast": "sukgham",
+          "slp1": "sukGam"
+        },
+        "dvi": {
+          "deva": "सुक्घे",
+          "iast": "sukghe",
+          "slp1": "sukGe"
+        },
+        "bahu": {
+          "deva": "सुक्घानि",
+          "iast": "sukghāni",
+          "slp1": "sukGAni"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "सुक्घम्",
+          "iast": "sukgham",
+          "slp1": "sukGam"
+        },
+        "dvi": {
+          "deva": "सुक्घे",
+          "iast": "sukghe",
+          "slp1": "sukGe"
+        },
+        "bahu": {
+          "deva": "सुक्घानि",
+          "iast": "sukghāni",
+          "slp1": "sukGAni"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "सुक्घेन",
+          "iast": "sukghena",
+          "slp1": "sukGena"
+        },
+        "dvi": {
+          "deva": "सुक्घाभ्याम्",
+          "iast": "sukghābhyām",
+          "slp1": "sukGAByAm"
+        },
+        "bahu": {
+          "deva": "सुक्घैः",
+          "iast": "sukghaiḥ",
+          "slp1": "sukGEH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "सुक्घाय",
+          "iast": "sukghāya",
+          "slp1": "sukGAya"
+        },
+        "dvi": {
+          "deva": "सुक्घाभ्याम्",
+          "iast": "sukghābhyām",
+          "slp1": "sukGAByAm"
+        },
+        "bahu": {
+          "deva": "सुक्घेभ्यः",
+          "iast": "sukghebhyaḥ",
+          "slp1": "sukGeByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "सुक्घात्",
+          "iast": "sukghāt",
+          "slp1": "sukGAt"
+        },
+        "dvi": {
+          "deva": "सुक्घाभ्याम्",
+          "iast": "sukghābhyām",
+          "slp1": "sukGAByAm"
+        },
+        "bahu": {
+          "deva": "सुक्घेभ्यः",
+          "iast": "sukghebhyaḥ",
+          "slp1": "sukGeByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "सुक्घस्य",
+          "iast": "sukghasya",
+          "slp1": "sukGasya"
+        },
+        "dvi": {
+          "deva": "सुक्घयोः",
+          "iast": "sukghayoḥ",
+          "slp1": "sukGayoH"
+        },
+        "bahu": {
+          "deva": "सुक्घानाम्",
+          "iast": "sukghānām",
+          "slp1": "sukGAnAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "सुक्घे",
+          "iast": "sukghe",
+          "slp1": "sukGe"
+        },
+        "dvi": {
+          "deva": "सुक्घयोः",
+          "iast": "sukghayoḥ",
+          "slp1": "sukGayoH"
+        },
+        "bahu": {
+          "deva": "सुक्घेषु",
+          "iast": "sukgheṣu",
+          "slp1": "sukGezu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "सुक्घ",
+          "iast": "sukgha",
+          "slp1": "sukGa"
+        },
+        "dvi": {
+          "deva": "सुक्घे",
+          "iast": "sukghe",
+          "slp1": "sukGe"
+        },
+        "bahu": {
+          "deva": "सुक्घानि",
+          "iast": "sukghāni",
+          "slp1": "sukGAni"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "सुक्घम्",
+      "slp1": "sukGam",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "सुक्घे",
+      "slp1": "sukGe",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "सुक्घानि",
+      "slp1": "sukGAni",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "सुक्घम्",
+      "slp1": "sukGam",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "सुक्घे",
+      "slp1": "sukGe",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "सुक्घानि",
+      "slp1": "sukGAni",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "सुक्घेन",
+      "slp1": "sukGena",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "सुक्घाभ्याम्",
+      "slp1": "sukGAByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "सुक्घैः",
+      "slp1": "sukGEH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "सुक्घाय",
+      "slp1": "sukGAya",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "सुक्घाभ्याम्",
+      "slp1": "sukGAByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "सुक्घेभ्यः",
+      "slp1": "sukGeByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "सुक्घात्",
+      "slp1": "sukGAt",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "सुक्घाभ्याम्",
+      "slp1": "sukGAByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "सुक्घेभ्यः",
+      "slp1": "sukGeByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "सुक्घस्य",
+      "slp1": "sukGasya",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "सुक्घयोः",
+      "slp1": "sukGayoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "सुक्घानाम्",
+      "slp1": "sukGAnAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "सुक्घे",
+      "slp1": "sukGe",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "सुक्घयोः",
+      "slp1": "sukGayoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "सुक्घेषु",
+      "slp1": "sukGezu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "सुक्घ",
+      "slp1": "sukGa",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "सुक्घे",
+      "slp1": "sukGe",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "सुक्घानि",
+      "slp1": "sukGAni",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

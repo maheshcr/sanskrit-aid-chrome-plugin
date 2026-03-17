@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "vizvRu",
+    "deva": "विष्व्णु",
+    "iast": "viṣvṇu"
+  },
+  "linga": {
+    "key": "pum",
+    "sa": "पुल्लिङ्ग",
+    "en": "Masculine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "विष्व्णुः",
+          "iast": "viṣvṇuḥ",
+          "slp1": "vizvRuH"
+        },
+        "dvi": {
+          "deva": "विष्व्णू",
+          "iast": "viṣvṇū",
+          "slp1": "vizvRU"
+        },
+        "bahu": {
+          "deva": "विष्व्णवः",
+          "iast": "viṣvṇavaḥ",
+          "slp1": "vizvRavaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "विष्व्णुम्",
+          "iast": "viṣvṇum",
+          "slp1": "vizvRum"
+        },
+        "dvi": {
+          "deva": "विष्व्णू",
+          "iast": "viṣvṇū",
+          "slp1": "vizvRU"
+        },
+        "bahu": {
+          "deva": "विष्व्णून्",
+          "iast": "viṣvṇūn",
+          "slp1": "vizvRUn"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "विष्व्णुना",
+          "iast": "viṣvṇunā",
+          "slp1": "vizvRunA"
+        },
+        "dvi": {
+          "deva": "विष्व्णुभ्याम्",
+          "iast": "viṣvṇubhyām",
+          "slp1": "vizvRuByAm"
+        },
+        "bahu": {
+          "deva": "विष्व्णुभिः",
+          "iast": "viṣvṇubhiḥ",
+          "slp1": "vizvRuBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "विष्व्णवे",
+          "iast": "viṣvṇave",
+          "slp1": "vizvRave"
+        },
+        "dvi": {
+          "deva": "विष्व्णुभ्याम्",
+          "iast": "viṣvṇubhyām",
+          "slp1": "vizvRuByAm"
+        },
+        "bahu": {
+          "deva": "विष्व्णुभ्यः",
+          "iast": "viṣvṇubhyaḥ",
+          "slp1": "vizvRuByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "विष्व्णोः",
+          "iast": "viṣvṇoḥ",
+          "slp1": "vizvRoH"
+        },
+        "dvi": {
+          "deva": "विष्व्णुभ्याम्",
+          "iast": "viṣvṇubhyām",
+          "slp1": "vizvRuByAm"
+        },
+        "bahu": {
+          "deva": "विष्व्णुभ्यः",
+          "iast": "viṣvṇubhyaḥ",
+          "slp1": "vizvRuByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "विष्व्णोः",
+          "iast": "viṣvṇoḥ",
+          "slp1": "vizvRoH"
+        },
+        "dvi": {
+          "deva": "विष्व्ण्वोः",
+          "iast": "viṣvṇvoḥ",
+          "slp1": "vizvRvoH"
+        },
+        "bahu": {
+          "deva": "विष्व्णूनाम्",
+          "iast": "viṣvṇūnām",
+          "slp1": "vizvRUnAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "विष्व्णौ",
+          "iast": "viṣvṇau",
+          "slp1": "vizvRO"
+        },
+        "dvi": {
+          "deva": "विष्व्ण्वोः",
+          "iast": "viṣvṇvoḥ",
+          "slp1": "vizvRvoH"
+        },
+        "bahu": {
+          "deva": "विष्व्णुषु",
+          "iast": "viṣvṇuṣu",
+          "slp1": "vizvRuzu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "विष्व्णो",
+          "iast": "viṣvṇo",
+          "slp1": "vizvRo"
+        },
+        "dvi": {
+          "deva": "विष्व्णू",
+          "iast": "viṣvṇū",
+          "slp1": "vizvRU"
+        },
+        "bahu": {
+          "deva": "विष्व्णवः",
+          "iast": "viṣvṇavaḥ",
+          "slp1": "vizvRavaH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "विष्व्णुः",
+      "slp1": "vizvRuH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "विष्व्णू",
+      "slp1": "vizvRU",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "विष्व्णवः",
+      "slp1": "vizvRavaH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "विष्व्णुम्",
+      "slp1": "vizvRum",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "विष्व्णू",
+      "slp1": "vizvRU",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "विष्व्णून्",
+      "slp1": "vizvRUn",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "विष्व्णुना",
+      "slp1": "vizvRunA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "विष्व्णुभ्याम्",
+      "slp1": "vizvRuByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "विष्व्णुभिः",
+      "slp1": "vizvRuBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "विष्व्णवे",
+      "slp1": "vizvRave",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "विष्व्णुभ्याम्",
+      "slp1": "vizvRuByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "विष्व्णुभ्यः",
+      "slp1": "vizvRuByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "विष्व्णोः",
+      "slp1": "vizvRoH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "विष्व्णुभ्याम्",
+      "slp1": "vizvRuByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "विष्व्णुभ्यः",
+      "slp1": "vizvRuByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "विष्व्णोः",
+      "slp1": "vizvRoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "विष्व्ण्वोः",
+      "slp1": "vizvRvoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "विष्व्णूनाम्",
+      "slp1": "vizvRUnAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "विष्व्णौ",
+      "slp1": "vizvRO",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "विष्व्ण्वोः",
+      "slp1": "vizvRvoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "विष्व्णुषु",
+      "slp1": "vizvRuzu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "विष्व्णो",
+      "slp1": "vizvRo",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "विष्व्णू",
+      "slp1": "vizvRU",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "विष्व्णवः",
+      "slp1": "vizvRavaH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

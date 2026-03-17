@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "Sazu",
+    "deva": "शषु",
+    "iast": "śaṣu"
+  },
+  "linga": {
+    "key": "pum",
+    "sa": "पुल्लिङ्ग",
+    "en": "Masculine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "शषुः",
+          "iast": "śaṣuḥ",
+          "slp1": "SazuH"
+        },
+        "dvi": {
+          "deva": "शषू",
+          "iast": "śaṣū",
+          "slp1": "SazU"
+        },
+        "bahu": {
+          "deva": "शषवः",
+          "iast": "śaṣavaḥ",
+          "slp1": "SazavaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "शषुम्",
+          "iast": "śaṣum",
+          "slp1": "Sazum"
+        },
+        "dvi": {
+          "deva": "शषू",
+          "iast": "śaṣū",
+          "slp1": "SazU"
+        },
+        "bahu": {
+          "deva": "शषून्",
+          "iast": "śaṣūn",
+          "slp1": "SazUn"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "शषुणा",
+          "iast": "śaṣuṇā",
+          "slp1": "SazuRA"
+        },
+        "dvi": {
+          "deva": "शषुभ्याम्",
+          "iast": "śaṣubhyām",
+          "slp1": "SazuByAm"
+        },
+        "bahu": {
+          "deva": "शषुभिः",
+          "iast": "śaṣubhiḥ",
+          "slp1": "SazuBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "शषवे",
+          "iast": "śaṣave",
+          "slp1": "Sazave"
+        },
+        "dvi": {
+          "deva": "शषुभ्याम्",
+          "iast": "śaṣubhyām",
+          "slp1": "SazuByAm"
+        },
+        "bahu": {
+          "deva": "शषुभ्यः",
+          "iast": "śaṣubhyaḥ",
+          "slp1": "SazuByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "शषोः",
+          "iast": "śaṣoḥ",
+          "slp1": "SazoH"
+        },
+        "dvi": {
+          "deva": "शषुभ्याम्",
+          "iast": "śaṣubhyām",
+          "slp1": "SazuByAm"
+        },
+        "bahu": {
+          "deva": "शषुभ्यः",
+          "iast": "śaṣubhyaḥ",
+          "slp1": "SazuByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "शषोः",
+          "iast": "śaṣoḥ",
+          "slp1": "SazoH"
+        },
+        "dvi": {
+          "deva": "शष्वोः",
+          "iast": "śaṣvoḥ",
+          "slp1": "SazvoH"
+        },
+        "bahu": {
+          "deva": "शषूणाम्",
+          "iast": "śaṣūṇām",
+          "slp1": "SazURAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "शषौ",
+          "iast": "śaṣau",
+          "slp1": "SazO"
+        },
+        "dvi": {
+          "deva": "शष्वोः",
+          "iast": "śaṣvoḥ",
+          "slp1": "SazvoH"
+        },
+        "bahu": {
+          "deva": "शषुषु",
+          "iast": "śaṣuṣu",
+          "slp1": "Sazuzu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "शषो",
+          "iast": "śaṣo",
+          "slp1": "Sazo"
+        },
+        "dvi": {
+          "deva": "शषू",
+          "iast": "śaṣū",
+          "slp1": "SazU"
+        },
+        "bahu": {
+          "deva": "शषवः",
+          "iast": "śaṣavaḥ",
+          "slp1": "SazavaH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "शषुः",
+      "slp1": "SazuH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "शषू",
+      "slp1": "SazU",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "शषवः",
+      "slp1": "SazavaH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "शषुम्",
+      "slp1": "Sazum",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "शषू",
+      "slp1": "SazU",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "शषून्",
+      "slp1": "SazUn",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "शषुणा",
+      "slp1": "SazuRA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "शषुभ्याम्",
+      "slp1": "SazuByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "शषुभिः",
+      "slp1": "SazuBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "शषवे",
+      "slp1": "Sazave",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "शषुभ्याम्",
+      "slp1": "SazuByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "शषुभ्यः",
+      "slp1": "SazuByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "शषोः",
+      "slp1": "SazoH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "शषुभ्याम्",
+      "slp1": "SazuByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "शषुभ्यः",
+      "slp1": "SazuByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "शषोः",
+      "slp1": "SazoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "शष्वोः",
+      "slp1": "SazvoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "शषूणाम्",
+      "slp1": "SazURAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "शषौ",
+      "slp1": "SazO",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "शष्वोः",
+      "slp1": "SazvoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "शषुषु",
+      "slp1": "Sazuzu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "शषो",
+      "slp1": "Sazo",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "शषू",
+      "slp1": "SazU",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "शषवः",
+      "slp1": "SazavaH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

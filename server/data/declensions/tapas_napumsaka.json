@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "tapas",
+    "deva": "तपस्",
+    "iast": "tapas"
+  },
+  "linga": {
+    "key": "napumsaka",
+    "sa": "नपुंसकलिङ्ग",
+    "en": "Neuter"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "तपः",
+          "iast": "tapaḥ",
+          "slp1": "tapaH"
+        },
+        "dvi": {
+          "deva": "तपसी",
+          "iast": "tapasī",
+          "slp1": "tapasI"
+        },
+        "bahu": {
+          "deva": "तपांसि",
+          "iast": "tapāṃsi",
+          "slp1": "tapAMsi"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "तपः",
+          "iast": "tapaḥ",
+          "slp1": "tapaH"
+        },
+        "dvi": {
+          "deva": "तपसी",
+          "iast": "tapasī",
+          "slp1": "tapasI"
+        },
+        "bahu": {
+          "deva": "तपांसि",
+          "iast": "tapāṃsi",
+          "slp1": "tapAMsi"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "तपसा",
+          "iast": "tapasā",
+          "slp1": "tapasA"
+        },
+        "dvi": {
+          "deva": "तपोभ्याम्",
+          "iast": "tapobhyām",
+          "slp1": "tapoByAm"
+        },
+        "bahu": {
+          "deva": "तपोभिः",
+          "iast": "tapobhiḥ",
+          "slp1": "tapoBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "तपसे",
+          "iast": "tapase",
+          "slp1": "tapase"
+        },
+        "dvi": {
+          "deva": "तपोभ्याम्",
+          "iast": "tapobhyām",
+          "slp1": "tapoByAm"
+        },
+        "bahu": {
+          "deva": "तपोभ्यः",
+          "iast": "tapobhyaḥ",
+          "slp1": "tapoByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "तपसः",
+          "iast": "tapasaḥ",
+          "slp1": "tapasaH"
+        },
+        "dvi": {
+          "deva": "तपोभ्याम्",
+          "iast": "tapobhyām",
+          "slp1": "tapoByAm"
+        },
+        "bahu": {
+          "deva": "तपोभ्यः",
+          "iast": "tapobhyaḥ",
+          "slp1": "tapoByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "तपसः",
+          "iast": "tapasaḥ",
+          "slp1": "tapasaH"
+        },
+        "dvi": {
+          "deva": "तपसोः",
+          "iast": "tapasoḥ",
+          "slp1": "tapasoH"
+        },
+        "bahu": {
+          "deva": "तपसाम्",
+          "iast": "tapasām",
+          "slp1": "tapasAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "तपसि",
+          "iast": "tapasi",
+          "slp1": "tapasi"
+        },
+        "dvi": {
+          "deva": "तपसोः",
+          "iast": "tapasoḥ",
+          "slp1": "tapasoH"
+        },
+        "bahu": {
+          "deva": "तपस्सु",
+          "iast": "tapassu",
+          "slp1": "tapassu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "तपः",
+          "iast": "tapaḥ",
+          "slp1": "tapaH"
+        },
+        "dvi": {
+          "deva": "तपसी",
+          "iast": "tapasī",
+          "slp1": "tapasI"
+        },
+        "bahu": {
+          "deva": "तपांसि",
+          "iast": "tapāṃsi",
+          "slp1": "tapAMsi"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "तपः",
+      "slp1": "tapaH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "तपसी",
+      "slp1": "tapasI",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "तपांसि",
+      "slp1": "tapAMsi",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "तपः",
+      "slp1": "tapaH",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "तपसी",
+      "slp1": "tapasI",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "तपांसि",
+      "slp1": "tapAMsi",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "तपसा",
+      "slp1": "tapasA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "तपोभ्याम्",
+      "slp1": "tapoByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "तपोभिः",
+      "slp1": "tapoBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "तपसे",
+      "slp1": "tapase",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "तपोभ्याम्",
+      "slp1": "tapoByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "तपोभ्यः",
+      "slp1": "tapoByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "तपसः",
+      "slp1": "tapasaH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "तपोभ्याम्",
+      "slp1": "tapoByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "तपोभ्यः",
+      "slp1": "tapoByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "तपसः",
+      "slp1": "tapasaH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "तपसोः",
+      "slp1": "tapasoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "तपसाम्",
+      "slp1": "tapasAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "तपसि",
+      "slp1": "tapasi",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "तपसोः",
+      "slp1": "tapasoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "तपस्सु",
+      "slp1": "tapassu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "तपः",
+      "slp1": "tapaH",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "तपसी",
+      "slp1": "tapasI",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "तपांसि",
+      "slp1": "tapAMsi",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

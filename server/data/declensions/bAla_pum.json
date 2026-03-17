@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "bAla",
+    "deva": "बाल",
+    "iast": "bāla"
+  },
+  "linga": {
+    "key": "pum",
+    "sa": "पुल्लिङ्ग",
+    "en": "Masculine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "बालः",
+          "iast": "bālaḥ",
+          "slp1": "bAlaH"
+        },
+        "dvi": {
+          "deva": "बालौ",
+          "iast": "bālau",
+          "slp1": "bAlO"
+        },
+        "bahu": {
+          "deva": "बालाः",
+          "iast": "bālāḥ",
+          "slp1": "bAlAH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "बालम्",
+          "iast": "bālam",
+          "slp1": "bAlam"
+        },
+        "dvi": {
+          "deva": "बालौ",
+          "iast": "bālau",
+          "slp1": "bAlO"
+        },
+        "bahu": {
+          "deva": "बालान्",
+          "iast": "bālān",
+          "slp1": "bAlAn"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "बालेन",
+          "iast": "bālena",
+          "slp1": "bAlena"
+        },
+        "dvi": {
+          "deva": "बालाभ्याम्",
+          "iast": "bālābhyām",
+          "slp1": "bAlAByAm"
+        },
+        "bahu": {
+          "deva": "बालैः",
+          "iast": "bālaiḥ",
+          "slp1": "bAlEH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "बालाय",
+          "iast": "bālāya",
+          "slp1": "bAlAya"
+        },
+        "dvi": {
+          "deva": "बालाभ्याम्",
+          "iast": "bālābhyām",
+          "slp1": "bAlAByAm"
+        },
+        "bahu": {
+          "deva": "बालेभ्यः",
+          "iast": "bālebhyaḥ",
+          "slp1": "bAleByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "बालात्",
+          "iast": "bālāt",
+          "slp1": "bAlAt"
+        },
+        "dvi": {
+          "deva": "बालाभ्याम्",
+          "iast": "bālābhyām",
+          "slp1": "bAlAByAm"
+        },
+        "bahu": {
+          "deva": "बालेभ्यः",
+          "iast": "bālebhyaḥ",
+          "slp1": "bAleByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "बालस्य",
+          "iast": "bālasya",
+          "slp1": "bAlasya"
+        },
+        "dvi": {
+          "deva": "बालयोः",
+          "iast": "bālayoḥ",
+          "slp1": "bAlayoH"
+        },
+        "bahu": {
+          "deva": "बालानाम्",
+          "iast": "bālānām",
+          "slp1": "bAlAnAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "बाले",
+          "iast": "bāle",
+          "slp1": "bAle"
+        },
+        "dvi": {
+          "deva": "बालयोः",
+          "iast": "bālayoḥ",
+          "slp1": "bAlayoH"
+        },
+        "bahu": {
+          "deva": "बालेषु",
+          "iast": "bāleṣu",
+          "slp1": "bAlezu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "बाल",
+          "iast": "bāla",
+          "slp1": "bAla"
+        },
+        "dvi": {
+          "deva": "बालौ",
+          "iast": "bālau",
+          "slp1": "bAlO"
+        },
+        "bahu": {
+          "deva": "बालाः",
+          "iast": "bālāḥ",
+          "slp1": "bAlAH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "बालः",
+      "slp1": "bAlaH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "बालौ",
+      "slp1": "bAlO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "बालाः",
+      "slp1": "bAlAH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "बालम्",
+      "slp1": "bAlam",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "बालौ",
+      "slp1": "bAlO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "बालान्",
+      "slp1": "bAlAn",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "बालेन",
+      "slp1": "bAlena",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "बालाभ्याम्",
+      "slp1": "bAlAByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "बालैः",
+      "slp1": "bAlEH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "बालाय",
+      "slp1": "bAlAya",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "बालाभ्याम्",
+      "slp1": "bAlAByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "बालेभ्यः",
+      "slp1": "bAleByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "बालात्",
+      "slp1": "bAlAt",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "बालाभ्याम्",
+      "slp1": "bAlAByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "बालेभ्यः",
+      "slp1": "bAleByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "बालस्य",
+      "slp1": "bAlasya",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "बालयोः",
+      "slp1": "bAlayoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "बालानाम्",
+      "slp1": "bAlAnAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "बाले",
+      "slp1": "bAle",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "बालयोः",
+      "slp1": "bAlayoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "बालेषु",
+      "slp1": "bAlezu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "बाल",
+      "slp1": "bAla",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "बालौ",
+      "slp1": "bAlO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "बालाः",
+      "slp1": "bAlAH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

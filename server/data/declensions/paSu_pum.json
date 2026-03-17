@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "paSu",
+    "deva": "पशु",
+    "iast": "paśu"
+  },
+  "linga": {
+    "key": "pum",
+    "sa": "पुल्लिङ्ग",
+    "en": "Masculine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "पशुः",
+          "iast": "paśuḥ",
+          "slp1": "paSuH"
+        },
+        "dvi": {
+          "deva": "पशू",
+          "iast": "paśū",
+          "slp1": "paSU"
+        },
+        "bahu": {
+          "deva": "पशवः",
+          "iast": "paśavaḥ",
+          "slp1": "paSavaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "पशुम्",
+          "iast": "paśum",
+          "slp1": "paSum"
+        },
+        "dvi": {
+          "deva": "पशू",
+          "iast": "paśū",
+          "slp1": "paSU"
+        },
+        "bahu": {
+          "deva": "पशून्",
+          "iast": "paśūn",
+          "slp1": "paSUn"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "पशुना",
+          "iast": "paśunā",
+          "slp1": "paSunA"
+        },
+        "dvi": {
+          "deva": "पशुभ्याम्",
+          "iast": "paśubhyām",
+          "slp1": "paSuByAm"
+        },
+        "bahu": {
+          "deva": "पशुभिः",
+          "iast": "paśubhiḥ",
+          "slp1": "paSuBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "पशवे",
+          "iast": "paśave",
+          "slp1": "paSave"
+        },
+        "dvi": {
+          "deva": "पशुभ्याम्",
+          "iast": "paśubhyām",
+          "slp1": "paSuByAm"
+        },
+        "bahu": {
+          "deva": "पशुभ्यः",
+          "iast": "paśubhyaḥ",
+          "slp1": "paSuByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "पशोः",
+          "iast": "paśoḥ",
+          "slp1": "paSoH"
+        },
+        "dvi": {
+          "deva": "पशुभ्याम्",
+          "iast": "paśubhyām",
+          "slp1": "paSuByAm"
+        },
+        "bahu": {
+          "deva": "पशुभ्यः",
+          "iast": "paśubhyaḥ",
+          "slp1": "paSuByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "पशोः",
+          "iast": "paśoḥ",
+          "slp1": "paSoH"
+        },
+        "dvi": {
+          "deva": "पश्वोः",
+          "iast": "paśvoḥ",
+          "slp1": "paSvoH"
+        },
+        "bahu": {
+          "deva": "पशूनाम्",
+          "iast": "paśūnām",
+          "slp1": "paSUnAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "पशौ",
+          "iast": "paśau",
+          "slp1": "paSO"
+        },
+        "dvi": {
+          "deva": "पश्वोः",
+          "iast": "paśvoḥ",
+          "slp1": "paSvoH"
+        },
+        "bahu": {
+          "deva": "पशुषु",
+          "iast": "paśuṣu",
+          "slp1": "paSuzu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "पशो",
+          "iast": "paśo",
+          "slp1": "paSo"
+        },
+        "dvi": {
+          "deva": "पशू",
+          "iast": "paśū",
+          "slp1": "paSU"
+        },
+        "bahu": {
+          "deva": "पशवः",
+          "iast": "paśavaḥ",
+          "slp1": "paSavaH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "पशुः",
+      "slp1": "paSuH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "पशू",
+      "slp1": "paSU",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "पशवः",
+      "slp1": "paSavaH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "पशुम्",
+      "slp1": "paSum",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "पशू",
+      "slp1": "paSU",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "पशून्",
+      "slp1": "paSUn",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "पशुना",
+      "slp1": "paSunA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "पशुभ्याम्",
+      "slp1": "paSuByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "पशुभिः",
+      "slp1": "paSuBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "पशवे",
+      "slp1": "paSave",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "पशुभ्याम्",
+      "slp1": "paSuByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "पशुभ्यः",
+      "slp1": "paSuByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "पशोः",
+      "slp1": "paSoH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "पशुभ्याम्",
+      "slp1": "paSuByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "पशुभ्यः",
+      "slp1": "paSuByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "पशोः",
+      "slp1": "paSoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "पश्वोः",
+      "slp1": "paSvoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "पशूनाम्",
+      "slp1": "paSUnAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "पशौ",
+      "slp1": "paSO",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "पश्वोः",
+      "slp1": "paSvoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "पशुषु",
+      "slp1": "paSuzu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "पशो",
+      "slp1": "paSo",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "पशू",
+      "slp1": "paSU",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "पशवः",
+      "slp1": "paSavaH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

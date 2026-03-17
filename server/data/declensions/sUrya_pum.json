@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "sUrya",
+    "deva": "सूर्य",
+    "iast": "sūrya"
+  },
+  "linga": {
+    "key": "pum",
+    "sa": "पुल्लिङ्ग",
+    "en": "Masculine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "सूर्यः",
+          "iast": "sūryaḥ",
+          "slp1": "sUryaH"
+        },
+        "dvi": {
+          "deva": "सूर्यौ",
+          "iast": "sūryau",
+          "slp1": "sUryO"
+        },
+        "bahu": {
+          "deva": "सूर्याः",
+          "iast": "sūryāḥ",
+          "slp1": "sUryAH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "सूर्यम्",
+          "iast": "sūryam",
+          "slp1": "sUryam"
+        },
+        "dvi": {
+          "deva": "सूर्यौ",
+          "iast": "sūryau",
+          "slp1": "sUryO"
+        },
+        "bahu": {
+          "deva": "सूर्यान्",
+          "iast": "sūryān",
+          "slp1": "sUryAn"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "सूर्येण",
+          "iast": "sūryeṇa",
+          "slp1": "sUryeRa"
+        },
+        "dvi": {
+          "deva": "सूर्याभ्याम्",
+          "iast": "sūryābhyām",
+          "slp1": "sUryAByAm"
+        },
+        "bahu": {
+          "deva": "सूर्यैः",
+          "iast": "sūryaiḥ",
+          "slp1": "sUryEH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "सूर्याय",
+          "iast": "sūryāya",
+          "slp1": "sUryAya"
+        },
+        "dvi": {
+          "deva": "सूर्याभ्याम्",
+          "iast": "sūryābhyām",
+          "slp1": "sUryAByAm"
+        },
+        "bahu": {
+          "deva": "सूर्येभ्यः",
+          "iast": "sūryebhyaḥ",
+          "slp1": "sUryeByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "सूर्यात्",
+          "iast": "sūryāt",
+          "slp1": "sUryAt"
+        },
+        "dvi": {
+          "deva": "सूर्याभ्याम्",
+          "iast": "sūryābhyām",
+          "slp1": "sUryAByAm"
+        },
+        "bahu": {
+          "deva": "सूर्येभ्यः",
+          "iast": "sūryebhyaḥ",
+          "slp1": "sUryeByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "सूर्यस्य",
+          "iast": "sūryasya",
+          "slp1": "sUryasya"
+        },
+        "dvi": {
+          "deva": "सूर्ययोः",
+          "iast": "sūryayoḥ",
+          "slp1": "sUryayoH"
+        },
+        "bahu": {
+          "deva": "सूर्याणाम्",
+          "iast": "sūryāṇām",
+          "slp1": "sUryARAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "सूर्ये",
+          "iast": "sūrye",
+          "slp1": "sUrye"
+        },
+        "dvi": {
+          "deva": "सूर्ययोः",
+          "iast": "sūryayoḥ",
+          "slp1": "sUryayoH"
+        },
+        "bahu": {
+          "deva": "सूर्येषु",
+          "iast": "sūryeṣu",
+          "slp1": "sUryezu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "सूर्य",
+          "iast": "sūrya",
+          "slp1": "sUrya"
+        },
+        "dvi": {
+          "deva": "सूर्यौ",
+          "iast": "sūryau",
+          "slp1": "sUryO"
+        },
+        "bahu": {
+          "deva": "सूर्याः",
+          "iast": "sūryāḥ",
+          "slp1": "sUryAH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "सूर्यः",
+      "slp1": "sUryaH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "सूर्यौ",
+      "slp1": "sUryO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "सूर्याः",
+      "slp1": "sUryAH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "सूर्यम्",
+      "slp1": "sUryam",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "सूर्यौ",
+      "slp1": "sUryO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "सूर्यान्",
+      "slp1": "sUryAn",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "सूर्येण",
+      "slp1": "sUryeRa",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "सूर्याभ्याम्",
+      "slp1": "sUryAByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "सूर्यैः",
+      "slp1": "sUryEH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "सूर्याय",
+      "slp1": "sUryAya",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "सूर्याभ्याम्",
+      "slp1": "sUryAByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "सूर्येभ्यः",
+      "slp1": "sUryeByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "सूर्यात्",
+      "slp1": "sUryAt",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "सूर्याभ्याम्",
+      "slp1": "sUryAByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "सूर्येभ्यः",
+      "slp1": "sUryeByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "सूर्यस्य",
+      "slp1": "sUryasya",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "सूर्ययोः",
+      "slp1": "sUryayoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "सूर्याणाम्",
+      "slp1": "sUryARAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "सूर्ये",
+      "slp1": "sUrye",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "सूर्ययोः",
+      "slp1": "sUryayoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "सूर्येषु",
+      "slp1": "sUryezu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "सूर्य",
+      "slp1": "sUrya",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "सूर्यौ",
+      "slp1": "sUryO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "सूर्याः",
+      "slp1": "sUryAH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

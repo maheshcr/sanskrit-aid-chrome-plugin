@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "nara",
+    "deva": "नर",
+    "iast": "nara"
+  },
+  "linga": {
+    "key": "pum",
+    "sa": "पुल्लिङ्ग",
+    "en": "Masculine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "नरः",
+          "iast": "naraḥ",
+          "slp1": "naraH"
+        },
+        "dvi": {
+          "deva": "नरौ",
+          "iast": "narau",
+          "slp1": "narO"
+        },
+        "bahu": {
+          "deva": "नराः",
+          "iast": "narāḥ",
+          "slp1": "narAH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "नरम्",
+          "iast": "naram",
+          "slp1": "naram"
+        },
+        "dvi": {
+          "deva": "नरौ",
+          "iast": "narau",
+          "slp1": "narO"
+        },
+        "bahu": {
+          "deva": "नरान्",
+          "iast": "narān",
+          "slp1": "narAn"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "नरेण",
+          "iast": "nareṇa",
+          "slp1": "nareRa"
+        },
+        "dvi": {
+          "deva": "नराभ्याम्",
+          "iast": "narābhyām",
+          "slp1": "narAByAm"
+        },
+        "bahu": {
+          "deva": "नरैः",
+          "iast": "naraiḥ",
+          "slp1": "narEH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "नराय",
+          "iast": "narāya",
+          "slp1": "narAya"
+        },
+        "dvi": {
+          "deva": "नराभ्याम्",
+          "iast": "narābhyām",
+          "slp1": "narAByAm"
+        },
+        "bahu": {
+          "deva": "नरेभ्यः",
+          "iast": "narebhyaḥ",
+          "slp1": "nareByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "नरात्",
+          "iast": "narāt",
+          "slp1": "narAt"
+        },
+        "dvi": {
+          "deva": "नराभ्याम्",
+          "iast": "narābhyām",
+          "slp1": "narAByAm"
+        },
+        "bahu": {
+          "deva": "नरेभ्यः",
+          "iast": "narebhyaḥ",
+          "slp1": "nareByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "नरस्य",
+          "iast": "narasya",
+          "slp1": "narasya"
+        },
+        "dvi": {
+          "deva": "नरयोः",
+          "iast": "narayoḥ",
+          "slp1": "narayoH"
+        },
+        "bahu": {
+          "deva": "नराणाम्",
+          "iast": "narāṇām",
+          "slp1": "narARAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "नरे",
+          "iast": "nare",
+          "slp1": "nare"
+        },
+        "dvi": {
+          "deva": "नरयोः",
+          "iast": "narayoḥ",
+          "slp1": "narayoH"
+        },
+        "bahu": {
+          "deva": "नरेषु",
+          "iast": "nareṣu",
+          "slp1": "narezu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "नर",
+          "iast": "nara",
+          "slp1": "nara"
+        },
+        "dvi": {
+          "deva": "नरौ",
+          "iast": "narau",
+          "slp1": "narO"
+        },
+        "bahu": {
+          "deva": "नराः",
+          "iast": "narāḥ",
+          "slp1": "narAH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "नरः",
+      "slp1": "naraH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "नरौ",
+      "slp1": "narO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "नराः",
+      "slp1": "narAH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "नरम्",
+      "slp1": "naram",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "नरौ",
+      "slp1": "narO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "नरान्",
+      "slp1": "narAn",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "नरेण",
+      "slp1": "nareRa",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "नराभ्याम्",
+      "slp1": "narAByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "नरैः",
+      "slp1": "narEH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "नराय",
+      "slp1": "narAya",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "नराभ्याम्",
+      "slp1": "narAByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "नरेभ्यः",
+      "slp1": "nareByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "नरात्",
+      "slp1": "narAt",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "नराभ्याम्",
+      "slp1": "narAByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "नरेभ्यः",
+      "slp1": "nareByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "नरस्य",
+      "slp1": "narasya",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "नरयोः",
+      "slp1": "narayoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "नराणाम्",
+      "slp1": "narARAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "नरे",
+      "slp1": "nare",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "नरयोः",
+      "slp1": "narayoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "नरेषु",
+      "slp1": "narezu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "नर",
+      "slp1": "nara",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "नरौ",
+      "slp1": "narO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "नराः",
+      "slp1": "narAH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

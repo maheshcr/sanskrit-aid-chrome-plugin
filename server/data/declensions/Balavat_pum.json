@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "Balavat",
+    "deva": "भलवत्",
+    "iast": "bhalavat"
+  },
+  "linga": {
+    "key": "pum",
+    "sa": "पुल्लिङ्ग",
+    "en": "Masculine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भलवत्",
+          "iast": "bhalavat",
+          "slp1": "Balavat"
+        },
+        "dvi": {
+          "deva": "भलवतौ",
+          "iast": "bhalavatau",
+          "slp1": "BalavatO"
+        },
+        "bahu": {
+          "deva": "भलवतः",
+          "iast": "bhalavataḥ",
+          "slp1": "BalavataH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भलवतम्",
+          "iast": "bhalavatam",
+          "slp1": "Balavatam"
+        },
+        "dvi": {
+          "deva": "भलवतौ",
+          "iast": "bhalavatau",
+          "slp1": "BalavatO"
+        },
+        "bahu": {
+          "deva": "भलवतः",
+          "iast": "bhalavataḥ",
+          "slp1": "BalavataH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भलवता",
+          "iast": "bhalavatā",
+          "slp1": "BalavatA"
+        },
+        "dvi": {
+          "deva": "भलवद्भ्याम्",
+          "iast": "bhalavadbhyām",
+          "slp1": "BalavadByAm"
+        },
+        "bahu": {
+          "deva": "भलवद्भिः",
+          "iast": "bhalavadbhiḥ",
+          "slp1": "BalavadBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भलवते",
+          "iast": "bhalavate",
+          "slp1": "Balavate"
+        },
+        "dvi": {
+          "deva": "भलवद्भ्याम्",
+          "iast": "bhalavadbhyām",
+          "slp1": "BalavadByAm"
+        },
+        "bahu": {
+          "deva": "भलवद्भ्यः",
+          "iast": "bhalavadbhyaḥ",
+          "slp1": "BalavadByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भलवतः",
+          "iast": "bhalavataḥ",
+          "slp1": "BalavataH"
+        },
+        "dvi": {
+          "deva": "भलवद्भ्याम्",
+          "iast": "bhalavadbhyām",
+          "slp1": "BalavadByAm"
+        },
+        "bahu": {
+          "deva": "भलवद्भ्यः",
+          "iast": "bhalavadbhyaḥ",
+          "slp1": "BalavadByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भलवतः",
+          "iast": "bhalavataḥ",
+          "slp1": "BalavataH"
+        },
+        "dvi": {
+          "deva": "भलवतोः",
+          "iast": "bhalavatoḥ",
+          "slp1": "BalavatoH"
+        },
+        "bahu": {
+          "deva": "भलवताम्",
+          "iast": "bhalavatām",
+          "slp1": "BalavatAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भलवति",
+          "iast": "bhalavati",
+          "slp1": "Balavati"
+        },
+        "dvi": {
+          "deva": "भलवतोः",
+          "iast": "bhalavatoḥ",
+          "slp1": "BalavatoH"
+        },
+        "bahu": {
+          "deva": "भलवत्सु",
+          "iast": "bhalavatsu",
+          "slp1": "Balavatsu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भलवत्",
+          "iast": "bhalavat",
+          "slp1": "Balavat"
+        },
+        "dvi": {
+          "deva": "भलवतौ",
+          "iast": "bhalavatau",
+          "slp1": "BalavatO"
+        },
+        "bahu": {
+          "deva": "भलवतः",
+          "iast": "bhalavataḥ",
+          "slp1": "BalavataH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "भलवत्",
+      "slp1": "Balavat",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भलवतौ",
+      "slp1": "BalavatO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भलवतः",
+      "slp1": "BalavataH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भलवतम्",
+      "slp1": "Balavatam",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भलवतौ",
+      "slp1": "BalavatO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भलवतः",
+      "slp1": "BalavataH",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भलवता",
+      "slp1": "BalavatA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भलवद्भ्याम्",
+      "slp1": "BalavadByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भलवद्भिः",
+      "slp1": "BalavadBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भलवते",
+      "slp1": "Balavate",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भलवद्भ्याम्",
+      "slp1": "BalavadByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भलवद्भ्यः",
+      "slp1": "BalavadByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भलवतः",
+      "slp1": "BalavataH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भलवद्भ्याम्",
+      "slp1": "BalavadByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भलवद्भ्यः",
+      "slp1": "BalavadByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भलवतः",
+      "slp1": "BalavataH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भलवतोः",
+      "slp1": "BalavatoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भलवताम्",
+      "slp1": "BalavatAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भलवति",
+      "slp1": "Balavati",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भलवतोः",
+      "slp1": "BalavatoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भलवत्सु",
+      "slp1": "Balavatsu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भलवत्",
+      "slp1": "Balavat",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भलवतौ",
+      "slp1": "BalavatO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भलवतः",
+      "slp1": "BalavataH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

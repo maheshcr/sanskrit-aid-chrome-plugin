@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "aDipati",
+    "deva": "अधिपति",
+    "iast": "adhipati"
+  },
+  "linga": {
+    "key": "pum",
+    "sa": "पुल्लिङ्ग",
+    "en": "Masculine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अधिपतिः",
+          "iast": "adhipatiḥ",
+          "slp1": "aDipatiH"
+        },
+        "dvi": {
+          "deva": "अधिपती",
+          "iast": "adhipatī",
+          "slp1": "aDipatI"
+        },
+        "bahu": {
+          "deva": "अधिपतयः",
+          "iast": "adhipatayaḥ",
+          "slp1": "aDipatayaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अधिपतिम्",
+          "iast": "adhipatim",
+          "slp1": "aDipatim"
+        },
+        "dvi": {
+          "deva": "अधिपती",
+          "iast": "adhipatī",
+          "slp1": "aDipatI"
+        },
+        "bahu": {
+          "deva": "अधिपतीन्",
+          "iast": "adhipatīn",
+          "slp1": "aDipatIn"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अधिपतिना",
+          "iast": "adhipatinā",
+          "slp1": "aDipatinA"
+        },
+        "dvi": {
+          "deva": "अधिपतिभ्याम्",
+          "iast": "adhipatibhyām",
+          "slp1": "aDipatiByAm"
+        },
+        "bahu": {
+          "deva": "अधिपतिभिः",
+          "iast": "adhipatibhiḥ",
+          "slp1": "aDipatiBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अधिपतये",
+          "iast": "adhipataye",
+          "slp1": "aDipataye"
+        },
+        "dvi": {
+          "deva": "अधिपतिभ्याम्",
+          "iast": "adhipatibhyām",
+          "slp1": "aDipatiByAm"
+        },
+        "bahu": {
+          "deva": "अधिपतिभ्यः",
+          "iast": "adhipatibhyaḥ",
+          "slp1": "aDipatiByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अधिपतेः",
+          "iast": "adhipateḥ",
+          "slp1": "aDipateH"
+        },
+        "dvi": {
+          "deva": "अधिपतिभ्याम्",
+          "iast": "adhipatibhyām",
+          "slp1": "aDipatiByAm"
+        },
+        "bahu": {
+          "deva": "अधिपतिभ्यः",
+          "iast": "adhipatibhyaḥ",
+          "slp1": "aDipatiByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अधिपतेः",
+          "iast": "adhipateḥ",
+          "slp1": "aDipateH"
+        },
+        "dvi": {
+          "deva": "अधिपत्योः",
+          "iast": "adhipatyoḥ",
+          "slp1": "aDipatyoH"
+        },
+        "bahu": {
+          "deva": "अधिपतीनाम्",
+          "iast": "adhipatīnām",
+          "slp1": "aDipatInAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अधिपतौ",
+          "iast": "adhipatau",
+          "slp1": "aDipatO"
+        },
+        "dvi": {
+          "deva": "अधिपत्योः",
+          "iast": "adhipatyoḥ",
+          "slp1": "aDipatyoH"
+        },
+        "bahu": {
+          "deva": "अधिपतिषु",
+          "iast": "adhipatiṣu",
+          "slp1": "aDipatizu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "अधिपते",
+          "iast": "adhipate",
+          "slp1": "aDipate"
+        },
+        "dvi": {
+          "deva": "अधिपती",
+          "iast": "adhipatī",
+          "slp1": "aDipatI"
+        },
+        "bahu": {
+          "deva": "अधिपतयः",
+          "iast": "adhipatayaḥ",
+          "slp1": "aDipatayaH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "अधिपतिः",
+      "slp1": "aDipatiH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "अधिपती",
+      "slp1": "aDipatI",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अधिपतयः",
+      "slp1": "aDipatayaH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "अधिपतिम्",
+      "slp1": "aDipatim",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "अधिपती",
+      "slp1": "aDipatI",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अधिपतीन्",
+      "slp1": "aDipatIn",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "अधिपतिना",
+      "slp1": "aDipatinA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "अधिपतिभ्याम्",
+      "slp1": "aDipatiByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अधिपतिभिः",
+      "slp1": "aDipatiBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "अधिपतये",
+      "slp1": "aDipataye",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "अधिपतिभ्याम्",
+      "slp1": "aDipatiByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अधिपतिभ्यः",
+      "slp1": "aDipatiByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "अधिपतेः",
+      "slp1": "aDipateH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "अधिपतिभ्याम्",
+      "slp1": "aDipatiByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अधिपतिभ्यः",
+      "slp1": "aDipatiByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "अधिपतेः",
+      "slp1": "aDipateH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "अधिपत्योः",
+      "slp1": "aDipatyoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अधिपतीनाम्",
+      "slp1": "aDipatInAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "अधिपतौ",
+      "slp1": "aDipatO",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "अधिपत्योः",
+      "slp1": "aDipatyoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अधिपतिषु",
+      "slp1": "aDipatizu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "अधिपते",
+      "slp1": "aDipate",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "अधिपती",
+      "slp1": "aDipatI",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "अधिपतयः",
+      "slp1": "aDipatayaH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "nadI",
+    "deva": "नदी",
+    "iast": "nadī"
+  },
+  "linga": {
+    "key": "stri",
+    "sa": "स्त्रीलिङ्ग",
+    "en": "Feminine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "नदीः",
+          "iast": "nadīḥ",
+          "slp1": "nadIH"
+        },
+        "dvi": {
+          "deva": "नद्यौ",
+          "iast": "nadyau",
+          "slp1": "nadyO"
+        },
+        "bahu": {
+          "deva": "नद्यः",
+          "iast": "nadyaḥ",
+          "slp1": "nadyaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "नदीम्",
+          "iast": "nadīm",
+          "slp1": "nadIm"
+        },
+        "dvi": {
+          "deva": "नद्यौ",
+          "iast": "nadyau",
+          "slp1": "nadyO"
+        },
+        "bahu": {
+          "deva": "नदीः",
+          "iast": "nadīḥ",
+          "slp1": "nadIH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "नद्या",
+          "iast": "nadyā",
+          "slp1": "nadyA"
+        },
+        "dvi": {
+          "deva": "नदीभ्याम्",
+          "iast": "nadībhyām",
+          "slp1": "nadIByAm"
+        },
+        "bahu": {
+          "deva": "नदीभिः",
+          "iast": "nadībhiḥ",
+          "slp1": "nadIBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "नद्यै",
+          "iast": "nadyai",
+          "slp1": "nadyE"
+        },
+        "dvi": {
+          "deva": "नदीभ्याम्",
+          "iast": "nadībhyām",
+          "slp1": "nadIByAm"
+        },
+        "bahu": {
+          "deva": "नदीभ्यः",
+          "iast": "nadībhyaḥ",
+          "slp1": "nadIByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "नद्याः",
+          "iast": "nadyāḥ",
+          "slp1": "nadyAH"
+        },
+        "dvi": {
+          "deva": "नदीभ्याम्",
+          "iast": "nadībhyām",
+          "slp1": "nadIByAm"
+        },
+        "bahu": {
+          "deva": "नदीभ्यः",
+          "iast": "nadībhyaḥ",
+          "slp1": "nadIByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "नद्याः",
+          "iast": "nadyāḥ",
+          "slp1": "nadyAH"
+        },
+        "dvi": {
+          "deva": "नद्योः",
+          "iast": "nadyoḥ",
+          "slp1": "nadyoH"
+        },
+        "bahu": {
+          "deva": "नदीनाम्",
+          "iast": "nadīnām",
+          "slp1": "nadInAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "नद्याम्",
+          "iast": "nadyām",
+          "slp1": "nadyAm"
+        },
+        "dvi": {
+          "deva": "नद्योः",
+          "iast": "nadyoḥ",
+          "slp1": "nadyoH"
+        },
+        "bahu": {
+          "deva": "नदीषु",
+          "iast": "nadīṣu",
+          "slp1": "nadIzu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "नदि",
+          "iast": "nadi",
+          "slp1": "nadi"
+        },
+        "dvi": {
+          "deva": "नद्यौ",
+          "iast": "nadyau",
+          "slp1": "nadyO"
+        },
+        "bahu": {
+          "deva": "नद्यः",
+          "iast": "nadyaḥ",
+          "slp1": "nadyaH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "नदीः",
+      "slp1": "nadIH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "नद्यौ",
+      "slp1": "nadyO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "नद्यः",
+      "slp1": "nadyaH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "नदीम्",
+      "slp1": "nadIm",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "नद्यौ",
+      "slp1": "nadyO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "नदीः",
+      "slp1": "nadIH",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "नद्या",
+      "slp1": "nadyA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "नदीभ्याम्",
+      "slp1": "nadIByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "नदीभिः",
+      "slp1": "nadIBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "नद्यै",
+      "slp1": "nadyE",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "नदीभ्याम्",
+      "slp1": "nadIByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "नदीभ्यः",
+      "slp1": "nadIByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "नद्याः",
+      "slp1": "nadyAH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "नदीभ्याम्",
+      "slp1": "nadIByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "नदीभ्यः",
+      "slp1": "nadIByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "नद्याः",
+      "slp1": "nadyAH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "नद्योः",
+      "slp1": "nadyoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "नदीनाम्",
+      "slp1": "nadInAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "नद्याम्",
+      "slp1": "nadyAm",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "नद्योः",
+      "slp1": "nadyoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "नदीषु",
+      "slp1": "nadIzu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "नदि",
+      "slp1": "nadi",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "नद्यौ",
+      "slp1": "nadyO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "नद्यः",
+      "slp1": "nadyaH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

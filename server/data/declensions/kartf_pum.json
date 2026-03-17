@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "kartf",
+    "deva": "कर्तृ",
+    "iast": "kartṛ"
+  },
+  "linga": {
+    "key": "pum",
+    "sa": "पुल्लिङ्ग",
+    "en": "Masculine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कर्ता",
+          "iast": "kartā",
+          "slp1": "kartA"
+        },
+        "dvi": {
+          "deva": "कर्तरौ",
+          "iast": "kartarau",
+          "slp1": "kartarO"
+        },
+        "bahu": {
+          "deva": "कर्तरः",
+          "iast": "kartaraḥ",
+          "slp1": "kartaraH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कर्तरम्",
+          "iast": "kartaram",
+          "slp1": "kartaram"
+        },
+        "dvi": {
+          "deva": "कर्तरौ",
+          "iast": "kartarau",
+          "slp1": "kartarO"
+        },
+        "bahu": {
+          "deva": "कर्तॄन्",
+          "iast": "kartṝn",
+          "slp1": "kartFn"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कर्त्रा",
+          "iast": "kartrā",
+          "slp1": "kartrA"
+        },
+        "dvi": {
+          "deva": "कर्तृभ्याम्",
+          "iast": "kartṛbhyām",
+          "slp1": "kartfByAm"
+        },
+        "bahu": {
+          "deva": "कर्तृभिः",
+          "iast": "kartṛbhiḥ",
+          "slp1": "kartfBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कर्त्रे",
+          "iast": "kartre",
+          "slp1": "kartre"
+        },
+        "dvi": {
+          "deva": "कर्तृभ्याम्",
+          "iast": "kartṛbhyām",
+          "slp1": "kartfByAm"
+        },
+        "bahu": {
+          "deva": "कर्तृभ्यः",
+          "iast": "kartṛbhyaḥ",
+          "slp1": "kartfByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कर्तुः",
+          "iast": "kartuḥ",
+          "slp1": "kartuH"
+        },
+        "dvi": {
+          "deva": "कर्तृभ्याम्",
+          "iast": "kartṛbhyām",
+          "slp1": "kartfByAm"
+        },
+        "bahu": {
+          "deva": "कर्तृभ्यः",
+          "iast": "kartṛbhyaḥ",
+          "slp1": "kartfByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कर्तुः",
+          "iast": "kartuḥ",
+          "slp1": "kartuH"
+        },
+        "dvi": {
+          "deva": "कर्त्रोः",
+          "iast": "kartroḥ",
+          "slp1": "kartroH"
+        },
+        "bahu": {
+          "deva": "कर्तॄणाम्",
+          "iast": "kartṝṇām",
+          "slp1": "kartFRAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कर्तरि",
+          "iast": "kartari",
+          "slp1": "kartari"
+        },
+        "dvi": {
+          "deva": "कर्त्रोः",
+          "iast": "kartroḥ",
+          "slp1": "kartroH"
+        },
+        "bahu": {
+          "deva": "कर्तृषु",
+          "iast": "kartṛṣu",
+          "slp1": "kartfzu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कर्तः",
+          "iast": "kartaḥ",
+          "slp1": "kartaH"
+        },
+        "dvi": {
+          "deva": "कर्तरौ",
+          "iast": "kartarau",
+          "slp1": "kartarO"
+        },
+        "bahu": {
+          "deva": "कर्तरः",
+          "iast": "kartaraḥ",
+          "slp1": "kartaraH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "कर्ता",
+      "slp1": "kartA",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कर्तरौ",
+      "slp1": "kartarO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कर्तरः",
+      "slp1": "kartaraH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कर्तरम्",
+      "slp1": "kartaram",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कर्तरौ",
+      "slp1": "kartarO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कर्तॄन्",
+      "slp1": "kartFn",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कर्त्रा",
+      "slp1": "kartrA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कर्तृभ्याम्",
+      "slp1": "kartfByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कर्तृभिः",
+      "slp1": "kartfBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कर्त्रे",
+      "slp1": "kartre",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कर्तृभ्याम्",
+      "slp1": "kartfByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कर्तृभ्यः",
+      "slp1": "kartfByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कर्तुः",
+      "slp1": "kartuH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कर्तृभ्याम्",
+      "slp1": "kartfByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कर्तृभ्यः",
+      "slp1": "kartfByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कर्तुः",
+      "slp1": "kartuH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कर्त्रोः",
+      "slp1": "kartroH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कर्तॄणाम्",
+      "slp1": "kartFRAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कर्तरि",
+      "slp1": "kartari",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कर्त्रोः",
+      "slp1": "kartroH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कर्तृषु",
+      "slp1": "kartfzu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कर्तः",
+      "slp1": "kartaH",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कर्तरौ",
+      "slp1": "kartarO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कर्तरः",
+      "slp1": "kartaraH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "mArga",
+    "deva": "मार्ग",
+    "iast": "mārga"
+  },
+  "linga": {
+    "key": "pum",
+    "sa": "पुल्लिङ्ग",
+    "en": "Masculine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मार्गः",
+          "iast": "mārgaḥ",
+          "slp1": "mArgaH"
+        },
+        "dvi": {
+          "deva": "मार्गौ",
+          "iast": "mārgau",
+          "slp1": "mArgO"
+        },
+        "bahu": {
+          "deva": "मार्गाः",
+          "iast": "mārgāḥ",
+          "slp1": "mArgAH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मार्गम्",
+          "iast": "mārgam",
+          "slp1": "mArgam"
+        },
+        "dvi": {
+          "deva": "मार्गौ",
+          "iast": "mārgau",
+          "slp1": "mArgO"
+        },
+        "bahu": {
+          "deva": "मार्गान्",
+          "iast": "mārgān",
+          "slp1": "mArgAn"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मार्गेण",
+          "iast": "mārgeṇa",
+          "slp1": "mArgeRa"
+        },
+        "dvi": {
+          "deva": "मार्गाभ्याम्",
+          "iast": "mārgābhyām",
+          "slp1": "mArgAByAm"
+        },
+        "bahu": {
+          "deva": "मार्गैः",
+          "iast": "mārgaiḥ",
+          "slp1": "mArgEH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मार्गाय",
+          "iast": "mārgāya",
+          "slp1": "mArgAya"
+        },
+        "dvi": {
+          "deva": "मार्गाभ्याम्",
+          "iast": "mārgābhyām",
+          "slp1": "mArgAByAm"
+        },
+        "bahu": {
+          "deva": "मार्गेभ्यः",
+          "iast": "mārgebhyaḥ",
+          "slp1": "mArgeByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मार्गात्",
+          "iast": "mārgāt",
+          "slp1": "mArgAt"
+        },
+        "dvi": {
+          "deva": "मार्गाभ्याम्",
+          "iast": "mārgābhyām",
+          "slp1": "mArgAByAm"
+        },
+        "bahu": {
+          "deva": "मार्गेभ्यः",
+          "iast": "mārgebhyaḥ",
+          "slp1": "mArgeByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मार्गस्य",
+          "iast": "mārgasya",
+          "slp1": "mArgasya"
+        },
+        "dvi": {
+          "deva": "मार्गयोः",
+          "iast": "mārgayoḥ",
+          "slp1": "mArgayoH"
+        },
+        "bahu": {
+          "deva": "मार्गाणाम्",
+          "iast": "mārgāṇām",
+          "slp1": "mArgARAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मार्गे",
+          "iast": "mārge",
+          "slp1": "mArge"
+        },
+        "dvi": {
+          "deva": "मार्गयोः",
+          "iast": "mārgayoḥ",
+          "slp1": "mArgayoH"
+        },
+        "bahu": {
+          "deva": "मार्गेषु",
+          "iast": "mārgeṣu",
+          "slp1": "mArgezu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "मार्ग",
+          "iast": "mārga",
+          "slp1": "mArga"
+        },
+        "dvi": {
+          "deva": "मार्गौ",
+          "iast": "mārgau",
+          "slp1": "mArgO"
+        },
+        "bahu": {
+          "deva": "मार्गाः",
+          "iast": "mārgāḥ",
+          "slp1": "mArgAH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "मार्गः",
+      "slp1": "mArgaH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मार्गौ",
+      "slp1": "mArgO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मार्गाः",
+      "slp1": "mArgAH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मार्गम्",
+      "slp1": "mArgam",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मार्गौ",
+      "slp1": "mArgO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मार्गान्",
+      "slp1": "mArgAn",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मार्गेण",
+      "slp1": "mArgeRa",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मार्गाभ्याम्",
+      "slp1": "mArgAByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मार्गैः",
+      "slp1": "mArgEH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मार्गाय",
+      "slp1": "mArgAya",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मार्गाभ्याम्",
+      "slp1": "mArgAByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मार्गेभ्यः",
+      "slp1": "mArgeByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मार्गात्",
+      "slp1": "mArgAt",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मार्गाभ्याम्",
+      "slp1": "mArgAByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मार्गेभ्यः",
+      "slp1": "mArgeByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मार्गस्य",
+      "slp1": "mArgasya",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मार्गयोः",
+      "slp1": "mArgayoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मार्गाणाम्",
+      "slp1": "mArgARAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मार्गे",
+      "slp1": "mArge",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मार्गयोः",
+      "slp1": "mArgayoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मार्गेषु",
+      "slp1": "mArgezu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "मार्ग",
+      "slp1": "mArga",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "मार्गौ",
+      "slp1": "mArgO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "मार्गाः",
+      "slp1": "mArgAH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

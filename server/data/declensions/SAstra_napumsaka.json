@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "SAstra",
+    "deva": "शास्त्र",
+    "iast": "śāstra"
+  },
+  "linga": {
+    "key": "napumsaka",
+    "sa": "नपुंसकलिङ्ग",
+    "en": "Neuter"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "शास्त्रम्",
+          "iast": "śāstram",
+          "slp1": "SAstram"
+        },
+        "dvi": {
+          "deva": "शास्त्रे",
+          "iast": "śāstre",
+          "slp1": "SAstre"
+        },
+        "bahu": {
+          "deva": "शास्त्राणि",
+          "iast": "śāstrāṇi",
+          "slp1": "SAstrARi"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "शास्त्रम्",
+          "iast": "śāstram",
+          "slp1": "SAstram"
+        },
+        "dvi": {
+          "deva": "शास्त्रे",
+          "iast": "śāstre",
+          "slp1": "SAstre"
+        },
+        "bahu": {
+          "deva": "शास्त्राणि",
+          "iast": "śāstrāṇi",
+          "slp1": "SAstrARi"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "शास्त्रेण",
+          "iast": "śāstreṇa",
+          "slp1": "SAstreRa"
+        },
+        "dvi": {
+          "deva": "शास्त्राभ्याम्",
+          "iast": "śāstrābhyām",
+          "slp1": "SAstrAByAm"
+        },
+        "bahu": {
+          "deva": "शास्त्रैः",
+          "iast": "śāstraiḥ",
+          "slp1": "SAstrEH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "शास्त्राय",
+          "iast": "śāstrāya",
+          "slp1": "SAstrAya"
+        },
+        "dvi": {
+          "deva": "शास्त्राभ्याम्",
+          "iast": "śāstrābhyām",
+          "slp1": "SAstrAByAm"
+        },
+        "bahu": {
+          "deva": "शास्त्रेभ्यः",
+          "iast": "śāstrebhyaḥ",
+          "slp1": "SAstreByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "शास्त्रात्",
+          "iast": "śāstrāt",
+          "slp1": "SAstrAt"
+        },
+        "dvi": {
+          "deva": "शास्त्राभ्याम्",
+          "iast": "śāstrābhyām",
+          "slp1": "SAstrAByAm"
+        },
+        "bahu": {
+          "deva": "शास्त्रेभ्यः",
+          "iast": "śāstrebhyaḥ",
+          "slp1": "SAstreByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "शास्त्रस्य",
+          "iast": "śāstrasya",
+          "slp1": "SAstrasya"
+        },
+        "dvi": {
+          "deva": "शास्त्रयोः",
+          "iast": "śāstrayoḥ",
+          "slp1": "SAstrayoH"
+        },
+        "bahu": {
+          "deva": "शास्त्राणाम्",
+          "iast": "śāstrāṇām",
+          "slp1": "SAstrARAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "शास्त्रे",
+          "iast": "śāstre",
+          "slp1": "SAstre"
+        },
+        "dvi": {
+          "deva": "शास्त्रयोः",
+          "iast": "śāstrayoḥ",
+          "slp1": "SAstrayoH"
+        },
+        "bahu": {
+          "deva": "शास्त्रेषु",
+          "iast": "śāstreṣu",
+          "slp1": "SAstrezu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "शास्त्र",
+          "iast": "śāstra",
+          "slp1": "SAstra"
+        },
+        "dvi": {
+          "deva": "शास्त्रे",
+          "iast": "śāstre",
+          "slp1": "SAstre"
+        },
+        "bahu": {
+          "deva": "शास्त्राणि",
+          "iast": "śāstrāṇi",
+          "slp1": "SAstrARi"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "शास्त्रम्",
+      "slp1": "SAstram",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "शास्त्रे",
+      "slp1": "SAstre",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "शास्त्राणि",
+      "slp1": "SAstrARi",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "शास्त्रम्",
+      "slp1": "SAstram",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "शास्त्रे",
+      "slp1": "SAstre",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "शास्त्राणि",
+      "slp1": "SAstrARi",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "शास्त्रेण",
+      "slp1": "SAstreRa",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "शास्त्राभ्याम्",
+      "slp1": "SAstrAByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "शास्त्रैः",
+      "slp1": "SAstrEH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "शास्त्राय",
+      "slp1": "SAstrAya",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "शास्त्राभ्याम्",
+      "slp1": "SAstrAByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "शास्त्रेभ्यः",
+      "slp1": "SAstreByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "शास्त्रात्",
+      "slp1": "SAstrAt",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "शास्त्राभ्याम्",
+      "slp1": "SAstrAByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "शास्त्रेभ्यः",
+      "slp1": "SAstreByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "शास्त्रस्य",
+      "slp1": "SAstrasya",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "शास्त्रयोः",
+      "slp1": "SAstrayoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "शास्त्राणाम्",
+      "slp1": "SAstrARAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "शास्त्रे",
+      "slp1": "SAstre",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "शास्त्रयोः",
+      "slp1": "SAstrayoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "शास्त्रेषु",
+      "slp1": "SAstrezu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "शास्त्र",
+      "slp1": "SAstra",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "शास्त्रे",
+      "slp1": "SAstre",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "शास्त्राणि",
+      "slp1": "SAstrARi",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

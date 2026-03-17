@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "BUmi",
+    "deva": "भूमि",
+    "iast": "bhūmi"
+  },
+  "linga": {
+    "key": "stri",
+    "sa": "स्त्रीलिङ्ग",
+    "en": "Feminine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भूमिः",
+          "iast": "bhūmiḥ",
+          "slp1": "BUmiH"
+        },
+        "dvi": {
+          "deva": "भूमी",
+          "iast": "bhūmī",
+          "slp1": "BUmI"
+        },
+        "bahu": {
+          "deva": "भूमयः",
+          "iast": "bhūmayaḥ",
+          "slp1": "BUmayaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भूमिम्",
+          "iast": "bhūmim",
+          "slp1": "BUmim"
+        },
+        "dvi": {
+          "deva": "भूमी",
+          "iast": "bhūmī",
+          "slp1": "BUmI"
+        },
+        "bahu": {
+          "deva": "भूमीः",
+          "iast": "bhūmīḥ",
+          "slp1": "BUmIH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भूम्या",
+          "iast": "bhūmyā",
+          "slp1": "BUmyA"
+        },
+        "dvi": {
+          "deva": "भूमिभ्याम्",
+          "iast": "bhūmibhyām",
+          "slp1": "BUmiByAm"
+        },
+        "bahu": {
+          "deva": "भूमिभिः",
+          "iast": "bhūmibhiḥ",
+          "slp1": "BUmiBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भूम्यै",
+          "iast": "bhūmyai",
+          "slp1": "BUmyE"
+        },
+        "dvi": {
+          "deva": "भूमिभ्याम्",
+          "iast": "bhūmibhyām",
+          "slp1": "BUmiByAm"
+        },
+        "bahu": {
+          "deva": "भूमिभ्यः",
+          "iast": "bhūmibhyaḥ",
+          "slp1": "BUmiByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भूम्याः",
+          "iast": "bhūmyāḥ",
+          "slp1": "BUmyAH"
+        },
+        "dvi": {
+          "deva": "भूमिभ्याम्",
+          "iast": "bhūmibhyām",
+          "slp1": "BUmiByAm"
+        },
+        "bahu": {
+          "deva": "भूमिभ्यः",
+          "iast": "bhūmibhyaḥ",
+          "slp1": "BUmiByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भूम्याः",
+          "iast": "bhūmyāḥ",
+          "slp1": "BUmyAH"
+        },
+        "dvi": {
+          "deva": "भूम्योः",
+          "iast": "bhūmyoḥ",
+          "slp1": "BUmyoH"
+        },
+        "bahu": {
+          "deva": "भूमीनाम्",
+          "iast": "bhūmīnām",
+          "slp1": "BUmInAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भूम्याम्",
+          "iast": "bhūmyām",
+          "slp1": "BUmyAm"
+        },
+        "dvi": {
+          "deva": "भूम्योः",
+          "iast": "bhūmyoḥ",
+          "slp1": "BUmyoH"
+        },
+        "bahu": {
+          "deva": "भूमिषु",
+          "iast": "bhūmiṣu",
+          "slp1": "BUmizu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भूमे",
+          "iast": "bhūme",
+          "slp1": "BUme"
+        },
+        "dvi": {
+          "deva": "भूमी",
+          "iast": "bhūmī",
+          "slp1": "BUmI"
+        },
+        "bahu": {
+          "deva": "भूमयः",
+          "iast": "bhūmayaḥ",
+          "slp1": "BUmayaH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "भूमिः",
+      "slp1": "BUmiH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भूमी",
+      "slp1": "BUmI",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भूमयः",
+      "slp1": "BUmayaH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भूमिम्",
+      "slp1": "BUmim",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भूमी",
+      "slp1": "BUmI",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भूमीः",
+      "slp1": "BUmIH",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भूम्या",
+      "slp1": "BUmyA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भूमिभ्याम्",
+      "slp1": "BUmiByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भूमिभिः",
+      "slp1": "BUmiBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भूम्यै",
+      "slp1": "BUmyE",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भूमिभ्याम्",
+      "slp1": "BUmiByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भूमिभ्यः",
+      "slp1": "BUmiByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भूम्याः",
+      "slp1": "BUmyAH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भूमिभ्याम्",
+      "slp1": "BUmiByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भूमिभ्यः",
+      "slp1": "BUmiByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भूम्याः",
+      "slp1": "BUmyAH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भूम्योः",
+      "slp1": "BUmyoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भूमीनाम्",
+      "slp1": "BUmInAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भूम्याम्",
+      "slp1": "BUmyAm",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भूम्योः",
+      "slp1": "BUmyoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भूमिषु",
+      "slp1": "BUmizu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भूमे",
+      "slp1": "BUme",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भूमी",
+      "slp1": "BUmI",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भूमयः",
+      "slp1": "BUmayaH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

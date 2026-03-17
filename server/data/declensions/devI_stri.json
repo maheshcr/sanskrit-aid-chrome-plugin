@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "devI",
+    "deva": "देवी",
+    "iast": "devī"
+  },
+  "linga": {
+    "key": "stri",
+    "sa": "स्त्रीलिङ्ग",
+    "en": "Feminine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "देवीः",
+          "iast": "devīḥ",
+          "slp1": "devIH"
+        },
+        "dvi": {
+          "deva": "देव्यौ",
+          "iast": "devyau",
+          "slp1": "devyO"
+        },
+        "bahu": {
+          "deva": "देव्यः",
+          "iast": "devyaḥ",
+          "slp1": "devyaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "देवीम्",
+          "iast": "devīm",
+          "slp1": "devIm"
+        },
+        "dvi": {
+          "deva": "देव्यौ",
+          "iast": "devyau",
+          "slp1": "devyO"
+        },
+        "bahu": {
+          "deva": "देवीः",
+          "iast": "devīḥ",
+          "slp1": "devIH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "देव्या",
+          "iast": "devyā",
+          "slp1": "devyA"
+        },
+        "dvi": {
+          "deva": "देवीभ्याम्",
+          "iast": "devībhyām",
+          "slp1": "devIByAm"
+        },
+        "bahu": {
+          "deva": "देवीभिः",
+          "iast": "devībhiḥ",
+          "slp1": "devIBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "देव्यै",
+          "iast": "devyai",
+          "slp1": "devyE"
+        },
+        "dvi": {
+          "deva": "देवीभ्याम्",
+          "iast": "devībhyām",
+          "slp1": "devIByAm"
+        },
+        "bahu": {
+          "deva": "देवीभ्यः",
+          "iast": "devībhyaḥ",
+          "slp1": "devIByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "देव्याः",
+          "iast": "devyāḥ",
+          "slp1": "devyAH"
+        },
+        "dvi": {
+          "deva": "देवीभ्याम्",
+          "iast": "devībhyām",
+          "slp1": "devIByAm"
+        },
+        "bahu": {
+          "deva": "देवीभ्यः",
+          "iast": "devībhyaḥ",
+          "slp1": "devIByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "देव्याः",
+          "iast": "devyāḥ",
+          "slp1": "devyAH"
+        },
+        "dvi": {
+          "deva": "देव्योः",
+          "iast": "devyoḥ",
+          "slp1": "devyoH"
+        },
+        "bahu": {
+          "deva": "देवीनाम्",
+          "iast": "devīnām",
+          "slp1": "devInAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "देव्याम्",
+          "iast": "devyām",
+          "slp1": "devyAm"
+        },
+        "dvi": {
+          "deva": "देव्योः",
+          "iast": "devyoḥ",
+          "slp1": "devyoH"
+        },
+        "bahu": {
+          "deva": "देवीषु",
+          "iast": "devīṣu",
+          "slp1": "devIzu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "देवि",
+          "iast": "devi",
+          "slp1": "devi"
+        },
+        "dvi": {
+          "deva": "देव्यौ",
+          "iast": "devyau",
+          "slp1": "devyO"
+        },
+        "bahu": {
+          "deva": "देव्यः",
+          "iast": "devyaḥ",
+          "slp1": "devyaH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "देवीः",
+      "slp1": "devIH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "देव्यौ",
+      "slp1": "devyO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "देव्यः",
+      "slp1": "devyaH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "देवीम्",
+      "slp1": "devIm",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "देव्यौ",
+      "slp1": "devyO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "देवीः",
+      "slp1": "devIH",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "देव्या",
+      "slp1": "devyA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "देवीभ्याम्",
+      "slp1": "devIByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "देवीभिः",
+      "slp1": "devIBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "देव्यै",
+      "slp1": "devyE",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "देवीभ्याम्",
+      "slp1": "devIByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "देवीभ्यः",
+      "slp1": "devIByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "देव्याः",
+      "slp1": "devyAH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "देवीभ्याम्",
+      "slp1": "devIByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "देवीभ्यः",
+      "slp1": "devIByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "देव्याः",
+      "slp1": "devyAH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "देव्योः",
+      "slp1": "devyoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "देवीनाम्",
+      "slp1": "devInAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "देव्याम्",
+      "slp1": "devyAm",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "देव्योः",
+      "slp1": "devyoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "देवीषु",
+      "slp1": "devIzu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "देवि",
+      "slp1": "devi",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "देव्यौ",
+      "slp1": "devyO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "देव्यः",
+      "slp1": "devyaH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

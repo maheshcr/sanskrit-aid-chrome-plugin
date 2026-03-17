@@ -1,14 +1,15 @@
 {
   "manifest_version": 3,
   "name": "Sanskrit Learner",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Sanskrit word analysis with declension families and grammatical visualization",
   "permissions": [
     "activeTab",
     "storage"
   ],
   "host_permissions": [
-    "https://sanskrit-parser.appspot.com/*"
+    "https://sanskrit-parser.appspot.com/*",
+    "https://dharmamitra.org/*"
   ],
   "action": {
     "default_popup": "popup/popup.html",
@@ -33,7 +34,9 @@
       "resources": [
         "data/*.json",
         "content/transliterate.js",
-        "content/declension.js"
+        "content/declension.js",
+        "feedback/feedback.html",
+        "feedback/feedback.js"
       ],
       "matches": ["<all_urls>"]
     }

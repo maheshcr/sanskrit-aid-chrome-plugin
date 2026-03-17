@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "candra",
+    "deva": "चन्द्र",
+    "iast": "candra"
+  },
+  "linga": {
+    "key": "pum",
+    "sa": "पुल्लिङ्ग",
+    "en": "Masculine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "चन्द्रः",
+          "iast": "candraḥ",
+          "slp1": "candraH"
+        },
+        "dvi": {
+          "deva": "चन्द्रौ",
+          "iast": "candrau",
+          "slp1": "candrO"
+        },
+        "bahu": {
+          "deva": "चन्द्राः",
+          "iast": "candrāḥ",
+          "slp1": "candrAH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "चन्द्रम्",
+          "iast": "candram",
+          "slp1": "candram"
+        },
+        "dvi": {
+          "deva": "चन्द्रौ",
+          "iast": "candrau",
+          "slp1": "candrO"
+        },
+        "bahu": {
+          "deva": "चन्द्रान्",
+          "iast": "candrān",
+          "slp1": "candrAn"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "चन्द्रेण",
+          "iast": "candreṇa",
+          "slp1": "candreRa"
+        },
+        "dvi": {
+          "deva": "चन्द्राभ्याम्",
+          "iast": "candrābhyām",
+          "slp1": "candrAByAm"
+        },
+        "bahu": {
+          "deva": "चन्द्रैः",
+          "iast": "candraiḥ",
+          "slp1": "candrEH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "चन्द्राय",
+          "iast": "candrāya",
+          "slp1": "candrAya"
+        },
+        "dvi": {
+          "deva": "चन्द्राभ्याम्",
+          "iast": "candrābhyām",
+          "slp1": "candrAByAm"
+        },
+        "bahu": {
+          "deva": "चन्द्रेभ्यः",
+          "iast": "candrebhyaḥ",
+          "slp1": "candreByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "चन्द्रात्",
+          "iast": "candrāt",
+          "slp1": "candrAt"
+        },
+        "dvi": {
+          "deva": "चन्द्राभ्याम्",
+          "iast": "candrābhyām",
+          "slp1": "candrAByAm"
+        },
+        "bahu": {
+          "deva": "चन्द्रेभ्यः",
+          "iast": "candrebhyaḥ",
+          "slp1": "candreByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "चन्द्रस्य",
+          "iast": "candrasya",
+          "slp1": "candrasya"
+        },
+        "dvi": {
+          "deva": "चन्द्रयोः",
+          "iast": "candrayoḥ",
+          "slp1": "candrayoH"
+        },
+        "bahu": {
+          "deva": "चन्द्राणाम्",
+          "iast": "candrāṇām",
+          "slp1": "candrARAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "चन्द्रे",
+          "iast": "candre",
+          "slp1": "candre"
+        },
+        "dvi": {
+          "deva": "चन्द्रयोः",
+          "iast": "candrayoḥ",
+          "slp1": "candrayoH"
+        },
+        "bahu": {
+          "deva": "चन्द्रेषु",
+          "iast": "candreṣu",
+          "slp1": "candrezu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "चन्द्र",
+          "iast": "candra",
+          "slp1": "candra"
+        },
+        "dvi": {
+          "deva": "चन्द्रौ",
+          "iast": "candrau",
+          "slp1": "candrO"
+        },
+        "bahu": {
+          "deva": "चन्द्राः",
+          "iast": "candrāḥ",
+          "slp1": "candrAH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "चन्द्रः",
+      "slp1": "candraH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "चन्द्रौ",
+      "slp1": "candrO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "चन्द्राः",
+      "slp1": "candrAH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "चन्द्रम्",
+      "slp1": "candram",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "चन्द्रौ",
+      "slp1": "candrO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "चन्द्रान्",
+      "slp1": "candrAn",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "चन्द्रेण",
+      "slp1": "candreRa",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "चन्द्राभ्याम्",
+      "slp1": "candrAByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "चन्द्रैः",
+      "slp1": "candrEH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "चन्द्राय",
+      "slp1": "candrAya",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "चन्द्राभ्याम्",
+      "slp1": "candrAByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "चन्द्रेभ्यः",
+      "slp1": "candreByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "चन्द्रात्",
+      "slp1": "candrAt",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "चन्द्राभ्याम्",
+      "slp1": "candrAByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "चन्द्रेभ्यः",
+      "slp1": "candreByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "चन्द्रस्य",
+      "slp1": "candrasya",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "चन्द्रयोः",
+      "slp1": "candrayoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "चन्द्राणाम्",
+      "slp1": "candrARAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "चन्द्रे",
+      "slp1": "candre",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "चन्द्रयोः",
+      "slp1": "candrayoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "चन्द्रेषु",
+      "slp1": "candrezu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "चन्द्र",
+      "slp1": "candra",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "चन्द्रौ",
+      "slp1": "candrO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "चन्द्राः",
+      "slp1": "candrAH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

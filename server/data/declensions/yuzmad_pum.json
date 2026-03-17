@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "yuzmad",
+    "deva": "युष्मद्",
+    "iast": "yuṣmad"
+  },
+  "linga": {
+    "key": "pum",
+    "sa": "पुल्लिङ्ग",
+    "en": "Masculine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "त्वम्",
+          "iast": "tvam",
+          "slp1": "tvam"
+        },
+        "dvi": {
+          "deva": "युवाम्",
+          "iast": "yuvām",
+          "slp1": "yuvAm"
+        },
+        "bahu": {
+          "deva": "यूयम्",
+          "iast": "yūyam",
+          "slp1": "yUyam"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "त्वाम्",
+          "iast": "tvām",
+          "slp1": "tvAm"
+        },
+        "dvi": {
+          "deva": "युवाम्",
+          "iast": "yuvām",
+          "slp1": "yuvAm"
+        },
+        "bahu": {
+          "deva": "युष्मान्",
+          "iast": "yuṣmān",
+          "slp1": "yuzmAn"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "त्वया",
+          "iast": "tvayā",
+          "slp1": "tvayA"
+        },
+        "dvi": {
+          "deva": "युवाभ्याम्",
+          "iast": "yuvābhyām",
+          "slp1": "yuvAByAm"
+        },
+        "bahu": {
+          "deva": "युष्माभिः",
+          "iast": "yuṣmābhiḥ",
+          "slp1": "yuzmABiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "तुभ्यम्",
+          "iast": "tubhyam",
+          "slp1": "tuByam"
+        },
+        "dvi": {
+          "deva": "युवाभ्याम्",
+          "iast": "yuvābhyām",
+          "slp1": "yuvAByAm"
+        },
+        "bahu": {
+          "deva": "युष्मभ्यम्",
+          "iast": "yuṣmabhyam",
+          "slp1": "yuzmaByam"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "त्वत्",
+          "iast": "tvat",
+          "slp1": "tvat"
+        },
+        "dvi": {
+          "deva": "युवाभ्याम्",
+          "iast": "yuvābhyām",
+          "slp1": "yuvAByAm"
+        },
+        "bahu": {
+          "deva": "युष्मत्",
+          "iast": "yuṣmat",
+          "slp1": "yuzmat"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "तव",
+          "iast": "tava",
+          "slp1": "tava"
+        },
+        "dvi": {
+          "deva": "युवयोः",
+          "iast": "yuvayoḥ",
+          "slp1": "yuvayoH"
+        },
+        "bahu": {
+          "deva": "युष्माकम्",
+          "iast": "yuṣmākam",
+          "slp1": "yuzmAkam"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "त्वयि",
+          "iast": "tvayi",
+          "slp1": "tvayi"
+        },
+        "dvi": {
+          "deva": "युवयोः",
+          "iast": "yuvayoḥ",
+          "slp1": "yuvayoH"
+        },
+        "bahu": {
+          "deva": "युष्मासु",
+          "iast": "yuṣmāsu",
+          "slp1": "yuzmAsu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "त्व",
+          "iast": "tva",
+          "slp1": "tva"
+        },
+        "dvi": {
+          "deva": "युवाम्",
+          "iast": "yuvām",
+          "slp1": "yuvAm"
+        },
+        "bahu": {
+          "deva": "यूयम्",
+          "iast": "yūyam",
+          "slp1": "yUyam"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "त्वम्",
+      "slp1": "tvam",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "युवाम्",
+      "slp1": "yuvAm",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "यूयम्",
+      "slp1": "yUyam",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "त्वाम्",
+      "slp1": "tvAm",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "युवाम्",
+      "slp1": "yuvAm",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "युष्मान्",
+      "slp1": "yuzmAn",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "त्वया",
+      "slp1": "tvayA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "युवाभ्याम्",
+      "slp1": "yuvAByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "युष्माभिः",
+      "slp1": "yuzmABiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "तुभ्यम्",
+      "slp1": "tuByam",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "युवाभ्याम्",
+      "slp1": "yuvAByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "युष्मभ्यम्",
+      "slp1": "yuzmaByam",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "त्वत्",
+      "slp1": "tvat",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "युवाभ्याम्",
+      "slp1": "yuvAByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "युष्मत्",
+      "slp1": "yuzmat",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "तव",
+      "slp1": "tava",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "युवयोः",
+      "slp1": "yuvayoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "युष्माकम्",
+      "slp1": "yuzmAkam",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "त्वयि",
+      "slp1": "tvayi",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "युवयोः",
+      "slp1": "yuvayoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "युष्मासु",
+      "slp1": "yuzmAsu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "त्व",
+      "slp1": "tva",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "युवाम्",
+      "slp1": "yuvAm",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "यूयम्",
+      "slp1": "yUyam",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

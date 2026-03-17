@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "kAla",
+    "deva": "काल",
+    "iast": "kāla"
+  },
+  "linga": {
+    "key": "pum",
+    "sa": "पुल्लिङ्ग",
+    "en": "Masculine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कालः",
+          "iast": "kālaḥ",
+          "slp1": "kAlaH"
+        },
+        "dvi": {
+          "deva": "कालौ",
+          "iast": "kālau",
+          "slp1": "kAlO"
+        },
+        "bahu": {
+          "deva": "कालाः",
+          "iast": "kālāḥ",
+          "slp1": "kAlAH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कालम्",
+          "iast": "kālam",
+          "slp1": "kAlam"
+        },
+        "dvi": {
+          "deva": "कालौ",
+          "iast": "kālau",
+          "slp1": "kAlO"
+        },
+        "bahu": {
+          "deva": "कालान्",
+          "iast": "kālān",
+          "slp1": "kAlAn"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कालेन",
+          "iast": "kālena",
+          "slp1": "kAlena"
+        },
+        "dvi": {
+          "deva": "कालाभ्याम्",
+          "iast": "kālābhyām",
+          "slp1": "kAlAByAm"
+        },
+        "bahu": {
+          "deva": "कालैः",
+          "iast": "kālaiḥ",
+          "slp1": "kAlEH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कालाय",
+          "iast": "kālāya",
+          "slp1": "kAlAya"
+        },
+        "dvi": {
+          "deva": "कालाभ्याम्",
+          "iast": "kālābhyām",
+          "slp1": "kAlAByAm"
+        },
+        "bahu": {
+          "deva": "कालेभ्यः",
+          "iast": "kālebhyaḥ",
+          "slp1": "kAleByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कालात्",
+          "iast": "kālāt",
+          "slp1": "kAlAt"
+        },
+        "dvi": {
+          "deva": "कालाभ्याम्",
+          "iast": "kālābhyām",
+          "slp1": "kAlAByAm"
+        },
+        "bahu": {
+          "deva": "कालेभ्यः",
+          "iast": "kālebhyaḥ",
+          "slp1": "kAleByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कालस्य",
+          "iast": "kālasya",
+          "slp1": "kAlasya"
+        },
+        "dvi": {
+          "deva": "कालयोः",
+          "iast": "kālayoḥ",
+          "slp1": "kAlayoH"
+        },
+        "bahu": {
+          "deva": "कालानाम्",
+          "iast": "kālānām",
+          "slp1": "kAlAnAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "काले",
+          "iast": "kāle",
+          "slp1": "kAle"
+        },
+        "dvi": {
+          "deva": "कालयोः",
+          "iast": "kālayoḥ",
+          "slp1": "kAlayoH"
+        },
+        "bahu": {
+          "deva": "कालेषु",
+          "iast": "kāleṣu",
+          "slp1": "kAlezu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "काल",
+          "iast": "kāla",
+          "slp1": "kAla"
+        },
+        "dvi": {
+          "deva": "कालौ",
+          "iast": "kālau",
+          "slp1": "kAlO"
+        },
+        "bahu": {
+          "deva": "कालाः",
+          "iast": "kālāḥ",
+          "slp1": "kAlAH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "कालः",
+      "slp1": "kAlaH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कालौ",
+      "slp1": "kAlO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कालाः",
+      "slp1": "kAlAH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कालम्",
+      "slp1": "kAlam",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कालौ",
+      "slp1": "kAlO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कालान्",
+      "slp1": "kAlAn",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कालेन",
+      "slp1": "kAlena",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कालाभ्याम्",
+      "slp1": "kAlAByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कालैः",
+      "slp1": "kAlEH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कालाय",
+      "slp1": "kAlAya",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कालाभ्याम्",
+      "slp1": "kAlAByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कालेभ्यः",
+      "slp1": "kAleByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कालात्",
+      "slp1": "kAlAt",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कालाभ्याम्",
+      "slp1": "kAlAByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कालेभ्यः",
+      "slp1": "kAleByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कालस्य",
+      "slp1": "kAlasya",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कालयोः",
+      "slp1": "kAlayoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कालानाम्",
+      "slp1": "kAlAnAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "काले",
+      "slp1": "kAle",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कालयोः",
+      "slp1": "kAlayoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कालेषु",
+      "slp1": "kAlezu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "काल",
+      "slp1": "kAla",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कालौ",
+      "slp1": "kAlO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कालाः",
+      "slp1": "kAlAH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

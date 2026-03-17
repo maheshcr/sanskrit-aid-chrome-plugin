@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "cetas",
+    "deva": "चेतस्",
+    "iast": "cetas"
+  },
+  "linga": {
+    "key": "napumsaka",
+    "sa": "नपुंसकलिङ्ग",
+    "en": "Neuter"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "चेतः",
+          "iast": "cetaḥ",
+          "slp1": "cetaH"
+        },
+        "dvi": {
+          "deva": "चेतसी",
+          "iast": "cetasī",
+          "slp1": "cetasI"
+        },
+        "bahu": {
+          "deva": "चेतांसि",
+          "iast": "cetāṃsi",
+          "slp1": "cetAMsi"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "चेतः",
+          "iast": "cetaḥ",
+          "slp1": "cetaH"
+        },
+        "dvi": {
+          "deva": "चेतसी",
+          "iast": "cetasī",
+          "slp1": "cetasI"
+        },
+        "bahu": {
+          "deva": "चेतांसि",
+          "iast": "cetāṃsi",
+          "slp1": "cetAMsi"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "चेतसा",
+          "iast": "cetasā",
+          "slp1": "cetasA"
+        },
+        "dvi": {
+          "deva": "चेतोभ्याम्",
+          "iast": "cetobhyām",
+          "slp1": "cetoByAm"
+        },
+        "bahu": {
+          "deva": "चेतोभिः",
+          "iast": "cetobhiḥ",
+          "slp1": "cetoBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "चेतसे",
+          "iast": "cetase",
+          "slp1": "cetase"
+        },
+        "dvi": {
+          "deva": "चेतोभ्याम्",
+          "iast": "cetobhyām",
+          "slp1": "cetoByAm"
+        },
+        "bahu": {
+          "deva": "चेतोभ्यः",
+          "iast": "cetobhyaḥ",
+          "slp1": "cetoByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "चेतसः",
+          "iast": "cetasaḥ",
+          "slp1": "cetasaH"
+        },
+        "dvi": {
+          "deva": "चेतोभ्याम्",
+          "iast": "cetobhyām",
+          "slp1": "cetoByAm"
+        },
+        "bahu": {
+          "deva": "चेतोभ्यः",
+          "iast": "cetobhyaḥ",
+          "slp1": "cetoByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "चेतसः",
+          "iast": "cetasaḥ",
+          "slp1": "cetasaH"
+        },
+        "dvi": {
+          "deva": "चेतसोः",
+          "iast": "cetasoḥ",
+          "slp1": "cetasoH"
+        },
+        "bahu": {
+          "deva": "चेतसाम्",
+          "iast": "cetasām",
+          "slp1": "cetasAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "चेतसि",
+          "iast": "cetasi",
+          "slp1": "cetasi"
+        },
+        "dvi": {
+          "deva": "चेतसोः",
+          "iast": "cetasoḥ",
+          "slp1": "cetasoH"
+        },
+        "bahu": {
+          "deva": "चेतस्सु",
+          "iast": "cetassu",
+          "slp1": "cetassu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "चेतः",
+          "iast": "cetaḥ",
+          "slp1": "cetaH"
+        },
+        "dvi": {
+          "deva": "चेतसी",
+          "iast": "cetasī",
+          "slp1": "cetasI"
+        },
+        "bahu": {
+          "deva": "चेतांसि",
+          "iast": "cetāṃsi",
+          "slp1": "cetAMsi"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "चेतः",
+      "slp1": "cetaH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "चेतसी",
+      "slp1": "cetasI",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "चेतांसि",
+      "slp1": "cetAMsi",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "चेतः",
+      "slp1": "cetaH",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "चेतसी",
+      "slp1": "cetasI",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "चेतांसि",
+      "slp1": "cetAMsi",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "चेतसा",
+      "slp1": "cetasA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "चेतोभ्याम्",
+      "slp1": "cetoByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "चेतोभिः",
+      "slp1": "cetoBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "चेतसे",
+      "slp1": "cetase",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "चेतोभ्याम्",
+      "slp1": "cetoByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "चेतोभ्यः",
+      "slp1": "cetoByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "चेतसः",
+      "slp1": "cetasaH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "चेतोभ्याम्",
+      "slp1": "cetoByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "चेतोभ्यः",
+      "slp1": "cetoByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "चेतसः",
+      "slp1": "cetasaH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "चेतसोः",
+      "slp1": "cetasoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "चेतसाम्",
+      "slp1": "cetasAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "चेतसि",
+      "slp1": "cetasi",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "चेतसोः",
+      "slp1": "cetasoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "चेतस्सु",
+      "slp1": "cetassu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "चेतः",
+      "slp1": "cetaH",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "चेतसी",
+      "slp1": "cetasI",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "चेतांसि",
+      "slp1": "cetAMsi",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

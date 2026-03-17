@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "kfzRa",
+    "deva": "कृष्ण",
+    "iast": "kṛṣṇa"
+  },
+  "linga": {
+    "key": "pum",
+    "sa": "पुल्लिङ्ग",
+    "en": "Masculine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कृष्णः",
+          "iast": "kṛṣṇaḥ",
+          "slp1": "kfzRaH"
+        },
+        "dvi": {
+          "deva": "कृष्णौ",
+          "iast": "kṛṣṇau",
+          "slp1": "kfzRO"
+        },
+        "bahu": {
+          "deva": "कृष्णाः",
+          "iast": "kṛṣṇāḥ",
+          "slp1": "kfzRAH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कृष्णम्",
+          "iast": "kṛṣṇam",
+          "slp1": "kfzRam"
+        },
+        "dvi": {
+          "deva": "कृष्णौ",
+          "iast": "kṛṣṇau",
+          "slp1": "kfzRO"
+        },
+        "bahu": {
+          "deva": "कृष्णान्",
+          "iast": "kṛṣṇān",
+          "slp1": "kfzRAn"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कृष्णेन",
+          "iast": "kṛṣṇena",
+          "slp1": "kfzRena"
+        },
+        "dvi": {
+          "deva": "कृष्णाभ्याम्",
+          "iast": "kṛṣṇābhyām",
+          "slp1": "kfzRAByAm"
+        },
+        "bahu": {
+          "deva": "कृष्णैः",
+          "iast": "kṛṣṇaiḥ",
+          "slp1": "kfzREH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कृष्णाय",
+          "iast": "kṛṣṇāya",
+          "slp1": "kfzRAya"
+        },
+        "dvi": {
+          "deva": "कृष्णाभ्याम्",
+          "iast": "kṛṣṇābhyām",
+          "slp1": "kfzRAByAm"
+        },
+        "bahu": {
+          "deva": "कृष्णेभ्यः",
+          "iast": "kṛṣṇebhyaḥ",
+          "slp1": "kfzReByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कृष्णात्",
+          "iast": "kṛṣṇāt",
+          "slp1": "kfzRAt"
+        },
+        "dvi": {
+          "deva": "कृष्णाभ्याम्",
+          "iast": "kṛṣṇābhyām",
+          "slp1": "kfzRAByAm"
+        },
+        "bahu": {
+          "deva": "कृष्णेभ्यः",
+          "iast": "kṛṣṇebhyaḥ",
+          "slp1": "kfzReByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कृष्णस्य",
+          "iast": "kṛṣṇasya",
+          "slp1": "kfzRasya"
+        },
+        "dvi": {
+          "deva": "कृष्णयोः",
+          "iast": "kṛṣṇayoḥ",
+          "slp1": "kfzRayoH"
+        },
+        "bahu": {
+          "deva": "कृष्णानाम्",
+          "iast": "kṛṣṇānām",
+          "slp1": "kfzRAnAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कृष्णे",
+          "iast": "kṛṣṇe",
+          "slp1": "kfzRe"
+        },
+        "dvi": {
+          "deva": "कृष्णयोः",
+          "iast": "kṛṣṇayoḥ",
+          "slp1": "kfzRayoH"
+        },
+        "bahu": {
+          "deva": "कृष्णेषु",
+          "iast": "kṛṣṇeṣu",
+          "slp1": "kfzRezu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कृष्ण",
+          "iast": "kṛṣṇa",
+          "slp1": "kfzRa"
+        },
+        "dvi": {
+          "deva": "कृष्णौ",
+          "iast": "kṛṣṇau",
+          "slp1": "kfzRO"
+        },
+        "bahu": {
+          "deva": "कृष्णाः",
+          "iast": "kṛṣṇāḥ",
+          "slp1": "kfzRAH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "कृष्णः",
+      "slp1": "kfzRaH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कृष्णौ",
+      "slp1": "kfzRO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कृष्णाः",
+      "slp1": "kfzRAH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कृष्णम्",
+      "slp1": "kfzRam",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कृष्णौ",
+      "slp1": "kfzRO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कृष्णान्",
+      "slp1": "kfzRAn",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कृष्णेन",
+      "slp1": "kfzRena",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कृष्णाभ्याम्",
+      "slp1": "kfzRAByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कृष्णैः",
+      "slp1": "kfzREH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कृष्णाय",
+      "slp1": "kfzRAya",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कृष्णाभ्याम्",
+      "slp1": "kfzRAByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कृष्णेभ्यः",
+      "slp1": "kfzReByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कृष्णात्",
+      "slp1": "kfzRAt",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कृष्णाभ्याम्",
+      "slp1": "kfzRAByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कृष्णेभ्यः",
+      "slp1": "kfzReByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कृष्णस्य",
+      "slp1": "kfzRasya",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कृष्णयोः",
+      "slp1": "kfzRayoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कृष्णानाम्",
+      "slp1": "kfzRAnAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कृष्णे",
+      "slp1": "kfzRe",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कृष्णयोः",
+      "slp1": "kfzRayoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कृष्णेषु",
+      "slp1": "kfzRezu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कृष्ण",
+      "slp1": "kfzRa",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कृष्णौ",
+      "slp1": "kfzRO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कृष्णाः",
+      "slp1": "kfzRAH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

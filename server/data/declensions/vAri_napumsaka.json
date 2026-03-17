@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "vAri",
+    "deva": "वारि",
+    "iast": "vāri"
+  },
+  "linga": {
+    "key": "napumsaka",
+    "sa": "नपुंसकलिङ्ग",
+    "en": "Neuter"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "वारि",
+          "iast": "vāri",
+          "slp1": "vAri"
+        },
+        "dvi": {
+          "deva": "वारिणी",
+          "iast": "vāriṇī",
+          "slp1": "vAriRI"
+        },
+        "bahu": {
+          "deva": "वारीणि",
+          "iast": "vārīṇi",
+          "slp1": "vArIRi"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "वारि",
+          "iast": "vāri",
+          "slp1": "vAri"
+        },
+        "dvi": {
+          "deva": "वारिणी",
+          "iast": "vāriṇī",
+          "slp1": "vAriRI"
+        },
+        "bahu": {
+          "deva": "वारिणि",
+          "iast": "vāriṇi",
+          "slp1": "vAriRi"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "वारिणा",
+          "iast": "vāriṇā",
+          "slp1": "vAriRA"
+        },
+        "dvi": {
+          "deva": "वारिभ्याम्",
+          "iast": "vāribhyām",
+          "slp1": "vAriByAm"
+        },
+        "bahu": {
+          "deva": "वारिभिः",
+          "iast": "vāribhiḥ",
+          "slp1": "vAriBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "वारिणे",
+          "iast": "vāriṇe",
+          "slp1": "vAriRe"
+        },
+        "dvi": {
+          "deva": "वारिभ्याम्",
+          "iast": "vāribhyām",
+          "slp1": "vAriByAm"
+        },
+        "bahu": {
+          "deva": "वारिभ्यः",
+          "iast": "vāribhyaḥ",
+          "slp1": "vAriByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "वारिणः",
+          "iast": "vāriṇaḥ",
+          "slp1": "vAriRaH"
+        },
+        "dvi": {
+          "deva": "वारिभ्याम्",
+          "iast": "vāribhyām",
+          "slp1": "vAriByAm"
+        },
+        "bahu": {
+          "deva": "वारिभ्यः",
+          "iast": "vāribhyaḥ",
+          "slp1": "vAriByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "वारिणः",
+          "iast": "vāriṇaḥ",
+          "slp1": "vAriRaH"
+        },
+        "dvi": {
+          "deva": "वारिणोः",
+          "iast": "vāriṇoḥ",
+          "slp1": "vAriRoH"
+        },
+        "bahu": {
+          "deva": "वारीणाम्",
+          "iast": "vārīṇām",
+          "slp1": "vArIRAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "वारिणि",
+          "iast": "vāriṇi",
+          "slp1": "vAriRi"
+        },
+        "dvi": {
+          "deva": "वारिणोः",
+          "iast": "vāriṇoḥ",
+          "slp1": "vAriRoH"
+        },
+        "bahu": {
+          "deva": "वारिषु",
+          "iast": "vāriṣu",
+          "slp1": "vArizu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "वारि",
+          "iast": "vāri",
+          "slp1": "vAri"
+        },
+        "dvi": {
+          "deva": "वारिणी",
+          "iast": "vāriṇī",
+          "slp1": "vAriRI"
+        },
+        "bahu": {
+          "deva": "वारीणि",
+          "iast": "vārīṇi",
+          "slp1": "vArIRi"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "वारि",
+      "slp1": "vAri",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "वारिणी",
+      "slp1": "vAriRI",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "वारीणि",
+      "slp1": "vArIRi",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "वारि",
+      "slp1": "vAri",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "वारिणी",
+      "slp1": "vAriRI",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "वारिणि",
+      "slp1": "vAriRi",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "वारिणा",
+      "slp1": "vAriRA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "वारिभ्याम्",
+      "slp1": "vAriByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "वारिभिः",
+      "slp1": "vAriBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "वारिणे",
+      "slp1": "vAriRe",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "वारिभ्याम्",
+      "slp1": "vAriByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "वारिभ्यः",
+      "slp1": "vAriByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "वारिणः",
+      "slp1": "vAriRaH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "वारिभ्याम्",
+      "slp1": "vAriByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "वारिभ्यः",
+      "slp1": "vAriByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "वारिणः",
+      "slp1": "vAriRaH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "वारिणोः",
+      "slp1": "vAriRoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "वारीणाम्",
+      "slp1": "vArIRAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "वारिणि",
+      "slp1": "vAriRi",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "वारिणोः",
+      "slp1": "vAriRoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "वारिषु",
+      "slp1": "vArizu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "वारि",
+      "slp1": "vAri",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "वारिणी",
+      "slp1": "vAriRI",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "वारीणि",
+      "slp1": "vArIRi",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

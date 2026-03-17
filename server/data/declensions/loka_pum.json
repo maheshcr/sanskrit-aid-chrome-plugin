@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "loka",
+    "deva": "लोक",
+    "iast": "loka"
+  },
+  "linga": {
+    "key": "pum",
+    "sa": "पुल्लिङ्ग",
+    "en": "Masculine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "लोकः",
+          "iast": "lokaḥ",
+          "slp1": "lokaH"
+        },
+        "dvi": {
+          "deva": "लोकौ",
+          "iast": "lokau",
+          "slp1": "lokO"
+        },
+        "bahu": {
+          "deva": "लोकाः",
+          "iast": "lokāḥ",
+          "slp1": "lokAH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "लोकम्",
+          "iast": "lokam",
+          "slp1": "lokam"
+        },
+        "dvi": {
+          "deva": "लोकौ",
+          "iast": "lokau",
+          "slp1": "lokO"
+        },
+        "bahu": {
+          "deva": "लोकान्",
+          "iast": "lokān",
+          "slp1": "lokAn"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "लोकेन",
+          "iast": "lokena",
+          "slp1": "lokena"
+        },
+        "dvi": {
+          "deva": "लोकाभ्याम्",
+          "iast": "lokābhyām",
+          "slp1": "lokAByAm"
+        },
+        "bahu": {
+          "deva": "लोकैः",
+          "iast": "lokaiḥ",
+          "slp1": "lokEH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "लोकाय",
+          "iast": "lokāya",
+          "slp1": "lokAya"
+        },
+        "dvi": {
+          "deva": "लोकाभ्याम्",
+          "iast": "lokābhyām",
+          "slp1": "lokAByAm"
+        },
+        "bahu": {
+          "deva": "लोकेभ्यः",
+          "iast": "lokebhyaḥ",
+          "slp1": "lokeByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "लोकात्",
+          "iast": "lokāt",
+          "slp1": "lokAt"
+        },
+        "dvi": {
+          "deva": "लोकाभ्याम्",
+          "iast": "lokābhyām",
+          "slp1": "lokAByAm"
+        },
+        "bahu": {
+          "deva": "लोकेभ्यः",
+          "iast": "lokebhyaḥ",
+          "slp1": "lokeByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "लोकस्य",
+          "iast": "lokasya",
+          "slp1": "lokasya"
+        },
+        "dvi": {
+          "deva": "लोकयोः",
+          "iast": "lokayoḥ",
+          "slp1": "lokayoH"
+        },
+        "bahu": {
+          "deva": "लोकानाम्",
+          "iast": "lokānām",
+          "slp1": "lokAnAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "लोके",
+          "iast": "loke",
+          "slp1": "loke"
+        },
+        "dvi": {
+          "deva": "लोकयोः",
+          "iast": "lokayoḥ",
+          "slp1": "lokayoH"
+        },
+        "bahu": {
+          "deva": "लोकेषु",
+          "iast": "lokeṣu",
+          "slp1": "lokezu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "लोक",
+          "iast": "loka",
+          "slp1": "loka"
+        },
+        "dvi": {
+          "deva": "लोकौ",
+          "iast": "lokau",
+          "slp1": "lokO"
+        },
+        "bahu": {
+          "deva": "लोकाः",
+          "iast": "lokāḥ",
+          "slp1": "lokAH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "लोकः",
+      "slp1": "lokaH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "लोकौ",
+      "slp1": "lokO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "लोकाः",
+      "slp1": "lokAH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "लोकम्",
+      "slp1": "lokam",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "लोकौ",
+      "slp1": "lokO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "लोकान्",
+      "slp1": "lokAn",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "लोकेन",
+      "slp1": "lokena",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "लोकाभ्याम्",
+      "slp1": "lokAByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "लोकैः",
+      "slp1": "lokEH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "लोकाय",
+      "slp1": "lokAya",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "लोकाभ्याम्",
+      "slp1": "lokAByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "लोकेभ्यः",
+      "slp1": "lokeByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "लोकात्",
+      "slp1": "lokAt",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "लोकाभ्याम्",
+      "slp1": "lokAByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "लोकेभ्यः",
+      "slp1": "lokeByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "लोकस्य",
+      "slp1": "lokasya",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "लोकयोः",
+      "slp1": "lokayoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "लोकानाम्",
+      "slp1": "lokAnAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "लोके",
+      "slp1": "loke",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "लोकयोः",
+      "slp1": "lokayoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "लोकेषु",
+      "slp1": "lokezu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "लोक",
+      "slp1": "loka",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "लोकौ",
+      "slp1": "lokO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "लोकाः",
+      "slp1": "lokAH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

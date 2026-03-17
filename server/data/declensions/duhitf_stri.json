@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "duhitf",
+    "deva": "दुहितृ",
+    "iast": "duhitṛ"
+  },
+  "linga": {
+    "key": "stri",
+    "sa": "स्त्रीलिङ्ग",
+    "en": "Feminine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "दुहिता",
+          "iast": "duhitā",
+          "slp1": "duhitA"
+        },
+        "dvi": {
+          "deva": "दुहितरौ",
+          "iast": "duhitarau",
+          "slp1": "duhitarO"
+        },
+        "bahu": {
+          "deva": "दुहितरः",
+          "iast": "duhitaraḥ",
+          "slp1": "duhitaraH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "दुहितरम्",
+          "iast": "duhitaram",
+          "slp1": "duhitaram"
+        },
+        "dvi": {
+          "deva": "दुहितरौ",
+          "iast": "duhitarau",
+          "slp1": "duhitarO"
+        },
+        "bahu": {
+          "deva": "दुहितॄः",
+          "iast": "duhitṝḥ",
+          "slp1": "duhitFH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "दुहित्रा",
+          "iast": "duhitrā",
+          "slp1": "duhitrA"
+        },
+        "dvi": {
+          "deva": "दुहितृभ्याम्",
+          "iast": "duhitṛbhyām",
+          "slp1": "duhitfByAm"
+        },
+        "bahu": {
+          "deva": "दुहितृभिः",
+          "iast": "duhitṛbhiḥ",
+          "slp1": "duhitfBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "दुहित्रे",
+          "iast": "duhitre",
+          "slp1": "duhitre"
+        },
+        "dvi": {
+          "deva": "दुहितृभ्याम्",
+          "iast": "duhitṛbhyām",
+          "slp1": "duhitfByAm"
+        },
+        "bahu": {
+          "deva": "दुहितृभ्यः",
+          "iast": "duhitṛbhyaḥ",
+          "slp1": "duhitfByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "दुहितुः",
+          "iast": "duhituḥ",
+          "slp1": "duhituH"
+        },
+        "dvi": {
+          "deva": "दुहितृभ्याम्",
+          "iast": "duhitṛbhyām",
+          "slp1": "duhitfByAm"
+        },
+        "bahu": {
+          "deva": "दुहितृभ्यः",
+          "iast": "duhitṛbhyaḥ",
+          "slp1": "duhitfByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "दुहितुः",
+          "iast": "duhituḥ",
+          "slp1": "duhituH"
+        },
+        "dvi": {
+          "deva": "दुहित्रोः",
+          "iast": "duhitroḥ",
+          "slp1": "duhitroH"
+        },
+        "bahu": {
+          "deva": "दुहितॄणाम्",
+          "iast": "duhitṝṇām",
+          "slp1": "duhitFRAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "दुहितरि",
+          "iast": "duhitari",
+          "slp1": "duhitari"
+        },
+        "dvi": {
+          "deva": "दुहित्रोः",
+          "iast": "duhitroḥ",
+          "slp1": "duhitroH"
+        },
+        "bahu": {
+          "deva": "दुहितृषु",
+          "iast": "duhitṛṣu",
+          "slp1": "duhitfzu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "दुहितः",
+          "iast": "duhitaḥ",
+          "slp1": "duhitaH"
+        },
+        "dvi": {
+          "deva": "दुहितरौ",
+          "iast": "duhitarau",
+          "slp1": "duhitarO"
+        },
+        "bahu": {
+          "deva": "दुहितरः",
+          "iast": "duhitaraḥ",
+          "slp1": "duhitaraH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "दुहिता",
+      "slp1": "duhitA",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "दुहितरौ",
+      "slp1": "duhitarO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "दुहितरः",
+      "slp1": "duhitaraH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "दुहितरम्",
+      "slp1": "duhitaram",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "दुहितरौ",
+      "slp1": "duhitarO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "दुहितॄः",
+      "slp1": "duhitFH",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "दुहित्रा",
+      "slp1": "duhitrA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "दुहितृभ्याम्",
+      "slp1": "duhitfByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "दुहितृभिः",
+      "slp1": "duhitfBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "दुहित्रे",
+      "slp1": "duhitre",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "दुहितृभ्याम्",
+      "slp1": "duhitfByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "दुहितृभ्यः",
+      "slp1": "duhitfByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "दुहितुः",
+      "slp1": "duhituH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "दुहितृभ्याम्",
+      "slp1": "duhitfByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "दुहितृभ्यः",
+      "slp1": "duhitfByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "दुहितुः",
+      "slp1": "duhituH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "दुहित्रोः",
+      "slp1": "duhitroH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "दुहितॄणाम्",
+      "slp1": "duhitFRAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "दुहितरि",
+      "slp1": "duhitari",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "दुहित्रोः",
+      "slp1": "duhitroH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "दुहितृषु",
+      "slp1": "duhitfzu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "दुहितः",
+      "slp1": "duhitaH",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "दुहितरौ",
+      "slp1": "duhitarO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "दुहितरः",
+      "slp1": "duhitaraH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

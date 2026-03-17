@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "Bartf",
+    "deva": "भर्तृ",
+    "iast": "bhartṛ"
+  },
+  "linga": {
+    "key": "pum",
+    "sa": "पुल्लिङ्ग",
+    "en": "Masculine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भर्ता",
+          "iast": "bhartā",
+          "slp1": "BartA"
+        },
+        "dvi": {
+          "deva": "भर्तरौ",
+          "iast": "bhartarau",
+          "slp1": "BartarO"
+        },
+        "bahu": {
+          "deva": "भर्तरः",
+          "iast": "bhartaraḥ",
+          "slp1": "BartaraH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भर्तरम्",
+          "iast": "bhartaram",
+          "slp1": "Bartaram"
+        },
+        "dvi": {
+          "deva": "भर्तरौ",
+          "iast": "bhartarau",
+          "slp1": "BartarO"
+        },
+        "bahu": {
+          "deva": "भर्तॄन्",
+          "iast": "bhartṝn",
+          "slp1": "BartFn"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भर्त्रा",
+          "iast": "bhartrā",
+          "slp1": "BartrA"
+        },
+        "dvi": {
+          "deva": "भर्तृभ्याम्",
+          "iast": "bhartṛbhyām",
+          "slp1": "BartfByAm"
+        },
+        "bahu": {
+          "deva": "भर्तृभिः",
+          "iast": "bhartṛbhiḥ",
+          "slp1": "BartfBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भर्त्रे",
+          "iast": "bhartre",
+          "slp1": "Bartre"
+        },
+        "dvi": {
+          "deva": "भर्तृभ्याम्",
+          "iast": "bhartṛbhyām",
+          "slp1": "BartfByAm"
+        },
+        "bahu": {
+          "deva": "भर्तृभ्यः",
+          "iast": "bhartṛbhyaḥ",
+          "slp1": "BartfByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भर्तुः",
+          "iast": "bhartuḥ",
+          "slp1": "BartuH"
+        },
+        "dvi": {
+          "deva": "भर्तृभ्याम्",
+          "iast": "bhartṛbhyām",
+          "slp1": "BartfByAm"
+        },
+        "bahu": {
+          "deva": "भर्तृभ्यः",
+          "iast": "bhartṛbhyaḥ",
+          "slp1": "BartfByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भर्तुः",
+          "iast": "bhartuḥ",
+          "slp1": "BartuH"
+        },
+        "dvi": {
+          "deva": "भर्त्रोः",
+          "iast": "bhartroḥ",
+          "slp1": "BartroH"
+        },
+        "bahu": {
+          "deva": "भर्तॄणाम्",
+          "iast": "bhartṝṇām",
+          "slp1": "BartFRAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भर्तरि",
+          "iast": "bhartari",
+          "slp1": "Bartari"
+        },
+        "dvi": {
+          "deva": "भर्त्रोः",
+          "iast": "bhartroḥ",
+          "slp1": "BartroH"
+        },
+        "bahu": {
+          "deva": "भर्तृषु",
+          "iast": "bhartṛṣu",
+          "slp1": "Bartfzu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "भर्तः",
+          "iast": "bhartaḥ",
+          "slp1": "BartaH"
+        },
+        "dvi": {
+          "deva": "भर्तरौ",
+          "iast": "bhartarau",
+          "slp1": "BartarO"
+        },
+        "bahu": {
+          "deva": "भर्तरः",
+          "iast": "bhartaraḥ",
+          "slp1": "BartaraH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "भर्ता",
+      "slp1": "BartA",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भर्तरौ",
+      "slp1": "BartarO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भर्तरः",
+      "slp1": "BartaraH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भर्तरम्",
+      "slp1": "Bartaram",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भर्तरौ",
+      "slp1": "BartarO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भर्तॄन्",
+      "slp1": "BartFn",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भर्त्रा",
+      "slp1": "BartrA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भर्तृभ्याम्",
+      "slp1": "BartfByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भर्तृभिः",
+      "slp1": "BartfBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भर्त्रे",
+      "slp1": "Bartre",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भर्तृभ्याम्",
+      "slp1": "BartfByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भर्तृभ्यः",
+      "slp1": "BartfByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भर्तुः",
+      "slp1": "BartuH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भर्तृभ्याम्",
+      "slp1": "BartfByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भर्तृभ्यः",
+      "slp1": "BartfByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भर्तुः",
+      "slp1": "BartuH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भर्त्रोः",
+      "slp1": "BartroH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भर्तॄणाम्",
+      "slp1": "BartFRAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भर्तरि",
+      "slp1": "Bartari",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भर्त्रोः",
+      "slp1": "BartroH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भर्तृषु",
+      "slp1": "Bartfzu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "भर्तः",
+      "slp1": "BartaH",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "भर्तरौ",
+      "slp1": "BartarO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "भर्तरः",
+      "slp1": "BartaraH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

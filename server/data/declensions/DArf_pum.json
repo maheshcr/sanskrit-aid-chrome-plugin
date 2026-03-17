@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "DArf",
+    "deva": "धारृ",
+    "iast": "dhārṛ"
+  },
+  "linga": {
+    "key": "pum",
+    "sa": "पुल्लिङ्ग",
+    "en": "Masculine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "धारा",
+          "iast": "dhārā",
+          "slp1": "DArA"
+        },
+        "dvi": {
+          "deva": "धाररौ",
+          "iast": "dhārarau",
+          "slp1": "DArarO"
+        },
+        "bahu": {
+          "deva": "धाररः",
+          "iast": "dhāraraḥ",
+          "slp1": "DAraraH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "धाररम्",
+          "iast": "dhāraram",
+          "slp1": "DAraram"
+        },
+        "dvi": {
+          "deva": "धाररौ",
+          "iast": "dhārarau",
+          "slp1": "DArarO"
+        },
+        "bahu": {
+          "deva": "धारॄन्",
+          "iast": "dhārṝn",
+          "slp1": "DArFn"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "धारा",
+          "iast": "dhārā",
+          "slp1": "DArA"
+        },
+        "dvi": {
+          "deva": "धारृभ्याम्",
+          "iast": "dhārṛbhyām",
+          "slp1": "DArfByAm"
+        },
+        "bahu": {
+          "deva": "धारृभिः",
+          "iast": "dhārṛbhiḥ",
+          "slp1": "DArfBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "धारे",
+          "iast": "dhāre",
+          "slp1": "DAre"
+        },
+        "dvi": {
+          "deva": "धारृभ्याम्",
+          "iast": "dhārṛbhyām",
+          "slp1": "DArfByAm"
+        },
+        "bahu": {
+          "deva": "धारृभ्यः",
+          "iast": "dhārṛbhyaḥ",
+          "slp1": "DArfByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "धारुः",
+          "iast": "dhāruḥ",
+          "slp1": "DAruH"
+        },
+        "dvi": {
+          "deva": "धारृभ्याम्",
+          "iast": "dhārṛbhyām",
+          "slp1": "DArfByAm"
+        },
+        "bahu": {
+          "deva": "धारृभ्यः",
+          "iast": "dhārṛbhyaḥ",
+          "slp1": "DArfByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "धारुः",
+          "iast": "dhāruḥ",
+          "slp1": "DAruH"
+        },
+        "dvi": {
+          "deva": "धारोः",
+          "iast": "dhāroḥ",
+          "slp1": "DAroH"
+        },
+        "bahu": {
+          "deva": "धारॄणाम्",
+          "iast": "dhārṝṇām",
+          "slp1": "DArFRAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "धाररि",
+          "iast": "dhārari",
+          "slp1": "DArari"
+        },
+        "dvi": {
+          "deva": "धारोः",
+          "iast": "dhāroḥ",
+          "slp1": "DAroH"
+        },
+        "bahu": {
+          "deva": "धारृषु",
+          "iast": "dhārṛṣu",
+          "slp1": "DArfzu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "धारः",
+          "iast": "dhāraḥ",
+          "slp1": "DAraH"
+        },
+        "dvi": {
+          "deva": "धाररौ",
+          "iast": "dhārarau",
+          "slp1": "DArarO"
+        },
+        "bahu": {
+          "deva": "धाररः",
+          "iast": "dhāraraḥ",
+          "slp1": "DAraraH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "धारा",
+      "slp1": "DArA",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "धाररौ",
+      "slp1": "DArarO",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "धाररः",
+      "slp1": "DAraraH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "धाररम्",
+      "slp1": "DAraram",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "धाररौ",
+      "slp1": "DArarO",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "धारॄन्",
+      "slp1": "DArFn",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "धारा",
+      "slp1": "DArA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "धारृभ्याम्",
+      "slp1": "DArfByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "धारृभिः",
+      "slp1": "DArfBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "धारे",
+      "slp1": "DAre",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "धारृभ्याम्",
+      "slp1": "DArfByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "धारृभ्यः",
+      "slp1": "DArfByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "धारुः",
+      "slp1": "DAruH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "धारृभ्याम्",
+      "slp1": "DArfByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "धारृभ्यः",
+      "slp1": "DArfByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "धारुः",
+      "slp1": "DAruH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "धारोः",
+      "slp1": "DAroH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "धारॄणाम्",
+      "slp1": "DArFRAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "धाररि",
+      "slp1": "DArari",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "धारोः",
+      "slp1": "DAroH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "धारृषु",
+      "slp1": "DArfzu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "धारः",
+      "slp1": "DAraH",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "धाररौ",
+      "slp1": "DArarO",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "धाररः",
+      "slp1": "DAraraH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

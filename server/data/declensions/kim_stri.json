@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "kim",
+    "deva": "किम्",
+    "iast": "kim"
+  },
+  "linga": {
+    "key": "stri",
+    "sa": "स्त्रीलिङ्ग",
+    "en": "Feminine"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "का",
+          "iast": "kā",
+          "slp1": "kA"
+        },
+        "dvi": {
+          "deva": "के",
+          "iast": "ke",
+          "slp1": "ke"
+        },
+        "bahu": {
+          "deva": "काः",
+          "iast": "kāḥ",
+          "slp1": "kAH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "काम्",
+          "iast": "kām",
+          "slp1": "kAm"
+        },
+        "dvi": {
+          "deva": "के",
+          "iast": "ke",
+          "slp1": "ke"
+        },
+        "bahu": {
+          "deva": "काः",
+          "iast": "kāḥ",
+          "slp1": "kAH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कया",
+          "iast": "kayā",
+          "slp1": "kayA"
+        },
+        "dvi": {
+          "deva": "काभ्याम्",
+          "iast": "kābhyām",
+          "slp1": "kAByAm"
+        },
+        "bahu": {
+          "deva": "काभिः",
+          "iast": "kābhiḥ",
+          "slp1": "kABiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कस्यै",
+          "iast": "kasyai",
+          "slp1": "kasyE"
+        },
+        "dvi": {
+          "deva": "काभ्याम्",
+          "iast": "kābhyām",
+          "slp1": "kAByAm"
+        },
+        "bahu": {
+          "deva": "काभ्यः",
+          "iast": "kābhyaḥ",
+          "slp1": "kAByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कस्याः",
+          "iast": "kasyāḥ",
+          "slp1": "kasyAH"
+        },
+        "dvi": {
+          "deva": "काभ्याम्",
+          "iast": "kābhyām",
+          "slp1": "kAByAm"
+        },
+        "bahu": {
+          "deva": "काभ्यः",
+          "iast": "kābhyaḥ",
+          "slp1": "kAByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कस्याः",
+          "iast": "kasyāḥ",
+          "slp1": "kasyAH"
+        },
+        "dvi": {
+          "deva": "कयोः",
+          "iast": "kayoḥ",
+          "slp1": "kayoH"
+        },
+        "bahu": {
+          "deva": "कासाम्",
+          "iast": "kāsām",
+          "slp1": "kAsAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "कस्याम्",
+          "iast": "kasyām",
+          "slp1": "kasyAm"
+        },
+        "dvi": {
+          "deva": "कयोः",
+          "iast": "kayoḥ",
+          "slp1": "kayoH"
+        },
+        "bahu": {
+          "deva": "कासु",
+          "iast": "kāsu",
+          "slp1": "kAsu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "के",
+          "iast": "ke",
+          "slp1": "ke"
+        },
+        "dvi": {
+          "deva": "के",
+          "iast": "ke",
+          "slp1": "ke"
+        },
+        "bahu": {
+          "deva": "काः",
+          "iast": "kāḥ",
+          "slp1": "kAH"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "का",
+      "slp1": "kA",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "के",
+      "slp1": "ke",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "काः",
+      "slp1": "kAH",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "काम्",
+      "slp1": "kAm",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "के",
+      "slp1": "ke",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "काः",
+      "slp1": "kAH",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कया",
+      "slp1": "kayA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "काभ्याम्",
+      "slp1": "kAByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "काभिः",
+      "slp1": "kABiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कस्यै",
+      "slp1": "kasyE",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "काभ्याम्",
+      "slp1": "kAByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "काभ्यः",
+      "slp1": "kAByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कस्याः",
+      "slp1": "kasyAH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "काभ्याम्",
+      "slp1": "kAByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "काभ्यः",
+      "slp1": "kAByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कस्याः",
+      "slp1": "kasyAH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कयोः",
+      "slp1": "kayoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कासाम्",
+      "slp1": "kAsAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "कस्याम्",
+      "slp1": "kasyAm",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "कयोः",
+      "slp1": "kayoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "कासु",
+      "slp1": "kAsu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "के",
+      "slp1": "ke",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "के",
+      "slp1": "ke",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "काः",
+      "slp1": "kAH",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}

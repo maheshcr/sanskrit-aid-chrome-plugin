@@ -1,0 +1,352 @@
+{
+  "stem": {
+    "slp1": "Siras",
+    "deva": "शिरस्",
+    "iast": "śiras"
+  },
+  "linga": {
+    "key": "napumsaka",
+    "sa": "नपुंसकलिङ्ग",
+    "en": "Neuter"
+  },
+  "vibhaktis": [
+    {
+      "vibhakti": {
+        "key": "prathamā",
+        "sa": "प्रथमा",
+        "en": "Nominative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "शिरः",
+          "iast": "śiraḥ",
+          "slp1": "SiraH"
+        },
+        "dvi": {
+          "deva": "शिरसी",
+          "iast": "śirasī",
+          "slp1": "SirasI"
+        },
+        "bahu": {
+          "deva": "शिरांसि",
+          "iast": "śirāṃsi",
+          "slp1": "SirAMsi"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "dvitīyā",
+        "sa": "द्वितीया",
+        "en": "Accusative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "शिरः",
+          "iast": "śiraḥ",
+          "slp1": "SiraH"
+        },
+        "dvi": {
+          "deva": "शिरसी",
+          "iast": "śirasī",
+          "slp1": "SirasI"
+        },
+        "bahu": {
+          "deva": "शिरांसि",
+          "iast": "śirāṃsi",
+          "slp1": "SirAMsi"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "tṛtīyā",
+        "sa": "तृतीया",
+        "en": "Instrumental"
+      },
+      "forms": {
+        "eka": {
+          "deva": "शिरसा",
+          "iast": "śirasā",
+          "slp1": "SirasA"
+        },
+        "dvi": {
+          "deva": "शिरोभ्याम्",
+          "iast": "śirobhyām",
+          "slp1": "SiroByAm"
+        },
+        "bahu": {
+          "deva": "शिरोभिः",
+          "iast": "śirobhiḥ",
+          "slp1": "SiroBiH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "caturthī",
+        "sa": "चतुर्थी",
+        "en": "Dative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "शिरसे",
+          "iast": "śirase",
+          "slp1": "Sirase"
+        },
+        "dvi": {
+          "deva": "शिरोभ्याम्",
+          "iast": "śirobhyām",
+          "slp1": "SiroByAm"
+        },
+        "bahu": {
+          "deva": "शिरोभ्यः",
+          "iast": "śirobhyaḥ",
+          "slp1": "SiroByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "pañcamī",
+        "sa": "पञ्चमी",
+        "en": "Ablative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "शिरसः",
+          "iast": "śirasaḥ",
+          "slp1": "SirasaH"
+        },
+        "dvi": {
+          "deva": "शिरोभ्याम्",
+          "iast": "śirobhyām",
+          "slp1": "SiroByAm"
+        },
+        "bahu": {
+          "deva": "शिरोभ्यः",
+          "iast": "śirobhyaḥ",
+          "slp1": "SiroByaH"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "ṣaṣṭhī",
+        "sa": "षष्ठी",
+        "en": "Genitive"
+      },
+      "forms": {
+        "eka": {
+          "deva": "शिरसः",
+          "iast": "śirasaḥ",
+          "slp1": "SirasaH"
+        },
+        "dvi": {
+          "deva": "शिरसोः",
+          "iast": "śirasoḥ",
+          "slp1": "SirasoH"
+        },
+        "bahu": {
+          "deva": "शिरसाम्",
+          "iast": "śirasām",
+          "slp1": "SirasAm"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "saptamī",
+        "sa": "सप्तमी",
+        "en": "Locative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "शिरसि",
+          "iast": "śirasi",
+          "slp1": "Sirasi"
+        },
+        "dvi": {
+          "deva": "शिरसोः",
+          "iast": "śirasoḥ",
+          "slp1": "SirasoH"
+        },
+        "bahu": {
+          "deva": "शिरस्सु",
+          "iast": "śirassu",
+          "slp1": "Sirassu"
+        }
+      }
+    },
+    {
+      "vibhakti": {
+        "key": "sambodhana",
+        "sa": "सम्बोधन",
+        "en": "Vocative"
+      },
+      "forms": {
+        "eka": {
+          "deva": "शिरः",
+          "iast": "śiraḥ",
+          "slp1": "SiraH"
+        },
+        "dvi": {
+          "deva": "शिरसी",
+          "iast": "śirasī",
+          "slp1": "SirasI"
+        },
+        "bahu": {
+          "deva": "शिरांसि",
+          "iast": "śirāṃsi",
+          "slp1": "SirAMsi"
+        }
+      }
+    }
+  ],
+  "all_forms": [
+    {
+      "deva": "शिरः",
+      "slp1": "SiraH",
+      "vibhakti": "prathamā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "शिरसी",
+      "slp1": "SirasI",
+      "vibhakti": "prathamā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "शिरांसि",
+      "slp1": "SirAMsi",
+      "vibhakti": "prathamā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "शिरः",
+      "slp1": "SiraH",
+      "vibhakti": "dvitīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "शिरसी",
+      "slp1": "SirasI",
+      "vibhakti": "dvitīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "शिरांसि",
+      "slp1": "SirAMsi",
+      "vibhakti": "dvitīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "शिरसा",
+      "slp1": "SirasA",
+      "vibhakti": "tṛtīyā",
+      "vacana": "eka"
+    },
+    {
+      "deva": "शिरोभ्याम्",
+      "slp1": "SiroByAm",
+      "vibhakti": "tṛtīyā",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "शिरोभिः",
+      "slp1": "SiroBiH",
+      "vibhakti": "tṛtīyā",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "शिरसे",
+      "slp1": "Sirase",
+      "vibhakti": "caturthī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "शिरोभ्याम्",
+      "slp1": "SiroByAm",
+      "vibhakti": "caturthī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "शिरोभ्यः",
+      "slp1": "SiroByaH",
+      "vibhakti": "caturthī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "शिरसः",
+      "slp1": "SirasaH",
+      "vibhakti": "pañcamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "शिरोभ्याम्",
+      "slp1": "SiroByAm",
+      "vibhakti": "pañcamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "शिरोभ्यः",
+      "slp1": "SiroByaH",
+      "vibhakti": "pañcamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "शिरसः",
+      "slp1": "SirasaH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "शिरसोः",
+      "slp1": "SirasoH",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "शिरसाम्",
+      "slp1": "SirasAm",
+      "vibhakti": "ṣaṣṭhī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "शिरसि",
+      "slp1": "Sirasi",
+      "vibhakti": "saptamī",
+      "vacana": "eka"
+    },
+    {
+      "deva": "शिरसोः",
+      "slp1": "SirasoH",
+      "vibhakti": "saptamī",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "शिरस्सु",
+      "slp1": "Sirassu",
+      "vibhakti": "saptamī",
+      "vacana": "bahu"
+    },
+    {
+      "deva": "शिरः",
+      "slp1": "SiraH",
+      "vibhakti": "sambodhana",
+      "vacana": "eka"
+    },
+    {
+      "deva": "शिरसी",
+      "slp1": "SirasI",
+      "vibhakti": "sambodhana",
+      "vacana": "dvi"
+    },
+    {
+      "deva": "शिरांसि",
+      "slp1": "SirAMsi",
+      "vibhakti": "sambodhana",
+      "vacana": "bahu"
+    }
+  ]
+}
