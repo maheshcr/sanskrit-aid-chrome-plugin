@@ -49,20 +49,20 @@ description_tokenizer = AutoTokenizer.from_pretrained(
 
 VOICE_PRESETS = {
     "slow_clear_male": (
-        "A male speaker delivers very clear speech with slow speed and moderate pitch. "
-        "Very high quality recording with the speaker's voice sounding clear and very close up."
+        "Aryan speaks at a slow pace with a moderate pitch, captured clearly "
+        "in a close-sounding environment with excellent recording quality."
     ),
     "clear_female": (
-        "A female speaker delivers clear, slightly expressive speech with moderate speed and pitch. "
-        "Very high quality recording with the speaker's voice sounding clear and very close up."
+        "Divya speaks at a moderate pace with a slightly expressive tone. "
+        "The recording is clear, with a close sound and only minimal ambient noise."
     ),
     "clear_male": (
-        "A male speaker delivers clear, slightly expressive speech with moderate speed and pitch. "
-        "Very high quality recording with the speaker's voice sounding clear and very close up."
+        "Rohit speaks at a moderate pace with a slightly expressive tone. "
+        "The recording is clear, with a close sound and only minimal ambient noise."
     ),
     "expressive_female": (
-        "A female speaker delivers highly expressive and animated speech with varied pitch and speed. "
-        "Very high quality recording with the speaker's voice sounding clear and very close up."
+        "Rani speaks with an expressive and animated tone with varied pitch and speed. "
+        "The recording is clear, with a close sound and excellent recording quality."
     ),
 }
 
