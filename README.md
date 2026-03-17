@@ -1,10 +1,10 @@
 # Sanskrit Learner Chrome Extension
 
-A Chrome extension for Sanskrit learners that provides word-level analysis, declension families, and grammatical relationship visualization.
+A Chrome extension for Sanskrit learners that provides word-level analysis, declension families, audio pronunciation, and compound splitting.
 
-**Core Insight:** Don't just teach the specific declension in context - show its family. The learner sees the word in its full paradigm.
+**Core Insight:** Don't just teach the specific declension in context — show its family. The learner sees the word in its full paradigm.
 
-![Version](https://img.shields.io/badge/version-0.1.0-orange)
+![Version](https://img.shields.io/badge/version-0.2.0-orange)
 ![Manifest](https://img.shields.io/badge/manifest-v3-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -12,10 +12,12 @@ A Chrome extension for Sanskrit learners that provides word-level analysis, decl
 
 Select any Sanskrit word (in Devanagari script) on a webpage and get:
 
-- **Word Analysis** - Stem identification, gender, case, and number
-- **Declension Table** - All 24 forms (8 cases × 3 numbers) with your selected form highlighted
-- **Multiple Analyses** - When a word could have multiple interpretations, alternatives are shown
-- **Works Everywhere** - Runs on any webpage with Sanskrit text
+- **Declension Families** — All 24 forms (8 cases x 3 numbers) with your form highlighted. Powered by Vidyut (Paninian grammar engine), covering 120+ paradigms and 1,700+ word forms.
+- **Audio Pronunciation** — Click the speaker icon to hear native-quality Sanskrit pronunciation via ai4bharat/indic-parler-tts (99.79% Native Speaker Score).
+- **Sandhi & Compound Splitting** — Two-tier splitting: sanskrit-parser for simple splits, Dharmamitra for deep compounds like तपस्वाध्यायनिरतम्.
+- **Grammatical Analysis** — Stem identification, gender, case, number, and suffix.
+- **Feedback System** — Report corrections or missing analyses. Stored locally, exportable as JSON.
+- **Works Everywhere** — Runs on any webpage with Devanagari text.
 
 ## Screenshots
 
@@ -52,78 +54,92 @@ Select any Sanskrit word (in Devanagari script) on a webpage and get:
 
 2. Select a Sanskrit word (e.g., रामः, सीता, वनम्)
 
-3. A popup appears showing the grammatical analysis and full declension table
+3. A popup appears showing grammatical analysis and full declension table
 
-4. Click outside the popup or press Escape to dismiss
+4. Click the speaker icon to hear the pronunciation
 
-## What Works (v0.1.0)
+5. Click outside the popup or press Escape to dismiss
+
+## What's in v0.2.0
 
 - [x] Devanagari text detection
 - [x] Word analysis via sanskrit_parser API
 - [x] Grammatical tag parsing (gender, case, number)
-- [x] Declension table generation for common stem types:
-  - a-stem masculine (राम → रामः, रामौ, रामाः...)
-  - a-stem neuter (फल → फलम्, फले, फलानि...)
-  - ā-stem feminine (सीता → सीता, सीते, सीताः...)
-  - i-stem, u-stem, ī-stem, ū-stem paradigms
-  - Consonant stems (an-stem)
+- [x] Vidyut-generated declension data (120 paradigms, 1,722 forms)
 - [x] Current form highlighting in declension table
+- [x] Sandhi/compound splitting (sanskrit-parser + Dharmamitra fallback)
+- [x] Audio pronunciation (indic-parler-tts via CF Worker + R2 cache)
+- [x] User feedback form with local storage and export
 - [x] Enable/disable toggle in extension popup
 - [x] Response caching for faster repeated lookups
+- [x] Test suite (31 tests passing)
 
-## In Progress / Known Issues
-
-- [ ] Declension endings need review by Sanskrit scholars (some forms may be incorrect)
-- [ ] Verb conjugation tables not yet supported
-- [ ] Sandhi splitting display not fully implemented
-- [ ] Better icons needed (currently placeholder)
-- [ ] Debug console.log statements still in code
-
-## Planned Features
-
-### Phase 2: Sentence-Level Graph View
-- Transformer-style attention visualization
-- Grammatical relationships (कारक relations)
-- Which words agree in gender/number/case
-
-### Phase 3: Sentence Families
-- Example sentences for each declension variation
-- "Sentence families" organized by paradigm
-- Builds intuition for usage patterns
-
-### Other Ideas
-- IAST transliteration support
-- Offline mode with local morphological data
-- User-customizable themes (light/dark)
-- Bookmarking/saving analyzed words
-- Spaced repetition integration
-
-## Technical Details
-
-- **Manifest V3** Chrome extension
-- **API:** [sanskrit_parser](https://github.com/kmadathil/sanskrit_parser) REST API
-- **No build step** - Pure vanilla JavaScript
-- **Permissions:** activeTab, storage, host_permissions for API
-
-## Project Structure
+## Architecture
 
 ```
 extension/
-├── manifest.json           # Extension configuration
+├── manifest.json              # Extension configuration (Manifest V3)
 ├── content/
-│   └── content.js          # Text selection & popup logic
+│   └── content.js             # Text selection, popup, audio playback
 ├── background/
-│   └── service-worker.js   # API proxy with caching
+│   └── service-worker.js      # API proxy, caching, transliteration
 ├── popup/
-│   ├── popup.html          # Settings UI
-│   └── popup.js            # Settings logic
+│   ├── popup.html             # Settings UI
+│   └── popup.js               # Settings logic
+├── feedback/
+│   ├── feedback.html          # Feedback form UI
+│   └── feedback.js            # Feedback storage and export
 ├── styles/
-│   └── content.css         # Popup styling
+│   └── content.css            # Popup and audio button styling
 ├── data/
-│   ├── nominal-endings.json    # Declension paradigms
-│   └── slp1-devanagari.json    # Transliteration maps
-└── icons/                  # Extension icons
+│   ├── declensions-bundle.json    # Vidyut-generated paradigms (335KB)
+│   └── slp1-devanagari.json       # Transliteration maps
+└── icons/                     # Extension icons
+
+server/
+├── hf-space/                  # HuggingFace Space (TTS model)
+│   └── app.py                 # indic-parler-tts inference
+├── cf-worker/                 # Cloudflare Worker (TTS cache)
+│   └── src/index.js           # R2 cache + HF Space proxy
+├── generate_declensions.py    # Vidyut declension data generator
+├── batch_generate_audio.py    # Batch TTS pre-generation
+└── data/                      # Generated declension data
 ```
+
+### TTS Pipeline
+
+```
+Extension  →  CF Worker (R2 cache)  →  HF Space (ZeroGPU)
+              cache hit? serve.         ai4bharat/indic-parler-tts
+              cache miss? generate,     Speaker: "Aryan" (Sanskrit)
+              cache, serve.             float32 precision
+```
+
+## Development
+
+```bash
+# Install dependencies
+pnpm install
+
+# Run tests
+pnpm test
+
+# Watch mode
+pnpm test:watch
+```
+
+## Planned
+
+- [ ] Chrome Web Store submission
+- [ ] Firefox / Brave support
+- [ ] Verb conjugation tables
+- [ ] Sentence-level grammatical visualization
+- [ ] IAST transliteration toggle
+- [ ] Spaced repetition integration
+
+## Privacy
+
+No personal data collected. No accounts, no tracking, no analytics. Selected words are sent to third-party APIs (sanskrit-parser, Dharmamitra) for analysis only. See [Privacy Policy](docs/PRIVACY-POLICY.md).
 
 ## Contributing
 
@@ -135,13 +151,19 @@ Contributions welcome! Especially:
 
 ## Resources
 
-- [Sanskrit Heritage Site](https://sanskrit.inria.fr/) - Gérard Huet's comprehensive tools
-- [Digital Corpus of Sanskrit](http://www.sanskrit-linguistics.org/dcs/)
-- [sanskrit_parser](https://github.com/kmadathil/sanskrit_parser) - The API we use
+- [Vidyut](https://github.com/ambuda-org/vidyut) — Paninian grammar engine (declension data source)
+- [ai4bharat/indic-parler-tts](https://huggingface.co/ai4bharat/indic-parler-tts) — Sanskrit TTS model
+- [Sanskrit Heritage Site](https://sanskrit.inria.fr/) — Gerard Huet's comprehensive tools
+- [Dharmamitra](https://dharmamitra.org) — BDRC's Sanskrit analysis tools
+- [sanskrit_parser](https://github.com/kmadathil/sanskrit_parser) — Sandhi splitting API
 
 ## License
 
-MIT License - See [LICENSE](LICENSE) for details
+MIT License — See [LICENSE](LICENSE) for details.
+
+## Contact
+
+hello@maheshcr.com
 
 ---
 
