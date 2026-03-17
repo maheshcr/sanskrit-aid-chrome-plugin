@@ -15,7 +15,7 @@
  */
 
 export default {
-  async fetch(request, env) {
+  async fetch(request, env, ctx) {
     // CORS preflight
     if (request.method === "OPTIONS") {
       return corsResponse(new Response(null, { status: 204 }));
@@ -30,7 +30,7 @@ export default {
 
     // Main TTS endpoint
     if (url.pathname === "/tts") {
-      return corsResponse(await handleTTS(request, env, url));
+      return corsResponse(await handleTTS(request, env, ctx, url));
     }
 
     // Cache stats (optional, for debugging)
@@ -49,7 +49,7 @@ export default {
 // TTS handler
 // ---------------------------------------------------------------------------
 
-async function handleTTS(request, env, url) {
+async function handleTTS(request, env, ctx, url) {
   const text = url.searchParams.get("text")?.trim();
   const voice = url.searchParams.get("voice") || env.DEFAULT_VOICE;
 
@@ -84,8 +84,7 @@ async function handleTTS(request, env, url) {
   const cached = await env.TTS_CACHE.get(r2Key);
 
   if (cached) {
-    // Cache HIT — stream directly from R2
-    // (Compare to S3: no pre-signed URLs, no GetObject SDK call)
+    ctx.waitUntil(recordUsage(env, "hit"));
     return new Response(cached.body, {
       headers: {
         "Content-Type": "audio/wav",
@@ -107,8 +106,9 @@ async function handleTTS(request, env, url) {
     );
   }
 
-  // Store in R2 (non-blocking — don't wait for write to complete before responding)
-  // This is like S3 putObject but... just this. No SDK. No credentials.
+  ctx.waitUntil(recordUsage(env, "miss", text));
+
+  // Store in R2
   const r2Promise = env.TTS_CACHE.put(r2Key, audioBytes.slice(0), {
     httpMetadata: { contentType: "audio/wav" },
     customMetadata: { text, voice, generatedAt: new Date().toISOString() },
@@ -241,14 +241,100 @@ async function checkRateLimit(env, clientIP) {
 }
 
 // ---------------------------------------------------------------------------
+// Usage tracking (anonymous, aggregate counters stored in R2)
+// ---------------------------------------------------------------------------
+
+function todayKey() {
+  return new Date().toISOString().slice(0, 10); // YYYY-MM-DD
+}
+
+/**
+ * Record a usage event. Fire-and-forget — never blocks the response.
+ * Stores daily counters as stats/YYYY-MM-DD.json in R2.
+ * No user identifiers, no IPs, no cookies. Just counts.
+ */
+async function recordUsage(env, cacheResult, word) {
+  try {
+    const date = todayKey();
+    const statsKey = `stats/${date}.json`;
+
+    const existing = await env.TTS_CACHE.get(statsKey);
+    const stats = existing ? await existing.json() : {
+      date,
+      requests: 0,
+      hits: 0,
+      misses: 0,
+      uniqueWords: [],
+    };
+
+    stats.requests++;
+    if (cacheResult === "hit") stats.hits++;
+    if (cacheResult === "miss") stats.misses++;
+
+    // Track unique words generated (not cached) — cap at 500 to bound size
+    if (word && cacheResult === "miss" && stats.uniqueWords.length < 500) {
+      if (!stats.uniqueWords.includes(word)) {
+        stats.uniqueWords.push(word);
+      }
+    }
+
+    await env.TTS_CACHE.put(statsKey, JSON.stringify(stats), {
+      httpMetadata: { contentType: "application/json" },
+    });
+  } catch {
+    // Never let analytics break the main flow
+  }
+}
+
+// ---------------------------------------------------------------------------
 // Stats endpoint
 // ---------------------------------------------------------------------------
 
 async function handleStats(env) {
-  const list = await env.TTS_CACHE.list({ prefix: "audio/", limit: 1000 });
+  const url_date = arguments.length > 1 ? arguments[1] : null;
+
+  // Cache stats
+  const audioList = await env.TTS_CACHE.list({ prefix: "audio/", limit: 1000 });
+
+  // Usage stats: today + recent days
+  const today = todayKey();
+  const todayStats = await env.TTS_CACHE.get(`stats/${today}.json`);
+  const todayData = todayStats ? await todayStats.json() : null;
+
+  // Collect last 7 days
+  const daily = [];
+  for (let i = 0; i < 7; i++) {
+    const d = new Date();
+    d.setDate(d.getDate() - i);
+    const dateStr = d.toISOString().slice(0, 10);
+    const obj = await env.TTS_CACHE.get(`stats/${dateStr}.json`);
+    if (obj) {
+      const data = await obj.json();
+      daily.push({
+        date: data.date,
+        requests: data.requests,
+        hits: data.hits,
+        misses: data.misses,
+        uniqueWords: data.uniqueWords?.length || 0,
+      });
+    }
+  }
+
   return Response.json({
-    cachedAudioFiles: list.objects.length,
-    truncated: list.truncated,
+    cache: {
+      audioFiles: audioList.objects.length,
+      truncated: audioList.truncated,
+    },
+    today: todayData ? {
+      requests: todayData.requests,
+      hits: todayData.hits,
+      misses: todayData.misses,
+      uniqueWords: todayData.uniqueWords?.length || 0,
+      hitRate: todayData.requests > 0
+        ? `${Math.round((todayData.hits / todayData.requests) * 100)}%`
+        : "n/a",
+    } : null,
+    daily,
   });
 }
 
