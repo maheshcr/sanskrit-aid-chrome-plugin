@@ -259,6 +259,10 @@ function hidePopup() {
  */
 async function analyzeWord(word) {
   return new Promise((resolve, reject) => {
+    if (!chrome.runtime?.sendMessage) {
+      reject(new Error('Extension context invalidated'));
+      return;
+    }
     chrome.runtime.sendMessage({ type: 'FETCH_TAGS', word }, (response) => {
       if (chrome.runtime.lastError) {
         reject(new Error(chrome.runtime.lastError.message));
@@ -278,6 +282,10 @@ async function analyzeWord(word) {
  */
 async function fetchSplits(word) {
   return new Promise((resolve, reject) => {
+    if (!chrome.runtime?.sendMessage) {
+      reject(new Error('Extension context invalidated'));
+      return;
+    }
     chrome.runtime.sendMessage({ type: 'FETCH_SPLITS', word }, (response) => {
       if (chrome.runtime.lastError) {
         reject(new Error(chrome.runtime.lastError.message));
@@ -297,6 +305,10 @@ async function fetchSplits(word) {
  */
 async function fetchDharmamitraSplits(word) {
   return new Promise((resolve, reject) => {
+    if (!chrome.runtime?.sendMessage) {
+      reject(new Error('Extension context invalidated'));
+      return;
+    }
     chrome.runtime.sendMessage({ type: 'FETCH_DHARMAMITRA_SPLITS', word }, (response) => {
       if (chrome.runtime.lastError) {
         reject(new Error(chrome.runtime.lastError.message));
