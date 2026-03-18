@@ -1,4 +1,4 @@
-// Content script for Sanskrit Learner extension
+// Content script for Sanskrit Aid extension
 // Detects Devanagari text selection and shows analysis popup
 
 // State
@@ -80,7 +80,7 @@ async function playAudio(word, button) {
 
     await audio.play();
   } catch (error) {
-    console.error('Sanskrit Learner: TTS error:', error);
+    console.error('Sanskrit Aid: TTS error:', error);
     currentAudio = null;
     resetAudioButton(button);
   }
@@ -104,7 +104,7 @@ async function checkEnabled() {
     try {
       chrome.runtime.sendMessage({ type: 'GET_SETTINGS' }, (response) => {
         if (chrome.runtime.lastError) {
-          console.warn('Sanskrit Learner: Could not get settings:', chrome.runtime.lastError.message);
+          console.warn('Sanskrit Aid: Could not get settings:', chrome.runtime.lastError.message);
           isEnabled = true; // Default to enabled
           resolve(true);
           return;
@@ -113,7 +113,7 @@ async function checkEnabled() {
         resolve(isEnabled);
       });
     } catch (e) {
-      console.warn('Sanskrit Learner: Error checking settings:', e);
+      console.warn('Sanskrit Aid: Error checking settings:', e);
       isEnabled = true;
       resolve(true);
     }
@@ -223,7 +223,7 @@ async function showPopup(word, selection) {
     const analysis = await analyzeWord(word);
     renderAnalysis(content, word, analysis);
   } catch (error) {
-    console.error('Sanskrit Learner: Analysis error:', error);
+    console.error('Sanskrit Aid: Analysis error:', error);
     if (error.message?.includes('Extension context invalidated')) {
       content.innerHTML = `
         <div class="sanskrit-error">

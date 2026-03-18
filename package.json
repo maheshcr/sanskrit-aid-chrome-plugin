@@ -1,7 +1,7 @@
 {
   "name": "sanskrit-aid-chrome-plugin",
   "version": "0.1.0",
-  "description": "Chrome extension for Sanskrit learners - word analysis, declension families, grammatical visualization",
+  "description": "Sanskrit Aid - Chrome extension for word analysis, declension families, pronunciation, and sandhi splitting",
   "type": "module",
   "scripts": {
     "dev": "echo 'TODO: Add build tooling'",

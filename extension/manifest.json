@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Sanskrit Learner",
+  "name": "Sanskrit Aid",
   "version": "0.2.0",
   "description": "Sanskrit word analysis with declension families and grammatical visualization",
   "permissions": [

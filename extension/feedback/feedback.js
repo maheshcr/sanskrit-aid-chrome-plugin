@@ -1,4 +1,4 @@
-// Feedback form for Sanskrit Learner extension
+// Feedback form for Sanskrit Aid extension
 // Stores feedback in chrome.storage.local and allows export
 
 const STORAGE_KEY = 'tester_feedback';
@@ -52,7 +52,7 @@ function renderHistory(items) {
 
 function formatForExport(items) {
   return {
-    extension: 'Sanskrit Learner',
+    extension: 'Sanskrit Aid',
     exportDate: new Date().toISOString(),
     feedbackCount: items.length,
     items: items.map(item => ({

@@ -1,10 +1,10 @@
-# Privacy Policy — Sanskrit Learner Chrome Extension
+# Privacy Policy — Sanskrit Aid Chrome Extension
 
 **Last updated:** 2026-03-17
 
 ## Summary
 
-Sanskrit Learner does not collect, store, or transmit any personal data. All user preferences and feedback are stored locally on your device.
+Sanskrit Aid does not collect, store, or transmit any personal data. All user preferences and feedback are stored locally on your device.
 
 ## Data the Extension Accesses
 

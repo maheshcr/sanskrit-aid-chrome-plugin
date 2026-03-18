@@ -1,14 +1,14 @@
 # Chrome Web Store Listing
 
 ## Title
-Sanskrit Learner — Word Analysis & Pronunciation
+Sanskrit Aid — Word Analysis & Pronunciation
 
 ## Short Description (132 chars max)
 Hover over any Sanskrit word for instant declension tables, sandhi splitting, grammatical analysis, and native pronunciation audio.
 
 ## Detailed Description
 
-Sanskrit Learner helps you read Sanskrit texts on the web by providing instant word-level analysis. Select any Devanagari word on any webpage to see:
+Sanskrit Aid helps you read Sanskrit texts on the web by providing instant word-level analysis. Select any Devanagari word on any webpage to see:
 
 **Declension Families**
 See the complete paradigm for any noun — all cases, all numbers. Not just the form in context, but its entire family. Powered by Vidyut, a Paninian grammar engine, covering 120+ paradigms and 1,700+ word forms.

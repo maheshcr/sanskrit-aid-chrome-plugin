@@ -1,4 +1,4 @@
-# Sanskrit Learner Chrome Extension
+# Sanskrit Aid Chrome Extension
 
 A Chrome extension for Sanskrit learners that provides word-level analysis, declension families, audio pronunciation, and compound splitting.
 

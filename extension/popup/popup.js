@@ -1,4 +1,4 @@
-// Popup script for Sanskrit Learner extension settings
+// Popup script for Sanskrit Aid extension settings
 
 document.addEventListener('DOMContentLoaded', async () => {
   const enabledToggle = document.getElementById('enabled-toggle');

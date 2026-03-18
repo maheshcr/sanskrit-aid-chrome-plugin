@@ -1,4 +1,4 @@
-// Service worker for Sanskrit Learner extension
+// Service worker for Sanskrit Aid extension
 // Handles API proxying to sanskrit_parser and Dharmamitra (CORS workaround) and caching
 
 const API_BASE = 'https://sanskrit-parser.appspot.com/sanskrit_parser/v1';
@@ -355,4 +355,4 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
 });
 
 // Log when service worker starts
-console.log('Sanskrit Learner service worker initialized');
+console.log('Sanskrit Aid service worker initialized');

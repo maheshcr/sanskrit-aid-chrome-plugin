@@ -1,4 +1,4 @@
-# Sanskrit Learner Plugin — Reddit Feedback Tasks
+# Sanskrit Aid Plugin — Reddit Feedback Tasks
 
 Date: 2026-03-05
 Source: r/sanskrit community feedback on the plugin post

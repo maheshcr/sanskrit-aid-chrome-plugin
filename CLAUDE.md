@@ -1,6 +1,6 @@
-# Sanskrit Learner Chrome Plugin
+# Sanskrit Aid Chrome Plugin
 
-A Chrome extension for Sanskrit learners that provides word-level analysis, declension families, and grammatical relationship visualization.
+A Chrome extension for Sanskrit learners that provides word-level analysis, declension families, audio pronunciation, and sandhi splitting.
 
 ## Project Vision
 
