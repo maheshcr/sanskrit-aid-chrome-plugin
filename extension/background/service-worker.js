@@ -353,6 +353,3 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
     return true;
   }
 });
-
-// Log when service worker starts
-console.log('Sanskrit Aid service worker initialized');
