@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy — Sanskrit Aid Chrome Extension</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: system-ui, -apple-system, sans-serif;
+      line-height: 1.7;
+      color: #1a1a1a;
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 3rem 1.5rem;
+    }
+    h1 {
+      font-size: 1.75rem;
+      font-weight: 700;
+      margin-bottom: 0.25rem;
+    }
+    h2 {
+      font-size: 1.2rem;
+      font-weight: 600;
+      margin-top: 2.5rem;
+      margin-bottom: 0.75rem;
+      border-bottom: 1px solid #e5e5e5;
+      padding-bottom: 0.4rem;
+    }
+    h3 {
+      font-size: 1rem;
+      font-weight: 600;
+      margin-top: 1.5rem;
+      margin-bottom: 0.5rem;
+    }
+    p, li { margin-bottom: 0.6rem; }
+    .updated {
+      color: #666;
+      font-size: 0.9rem;
+      margin-bottom: 2rem;
+    }
+    .summary {
+      background: #f7f7f5;
+      border-left: 3px solid #c85d1a;
+      padding: 1rem 1.25rem;
+      margin-bottom: 2rem;
+      border-radius: 0 4px 4px 0;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1rem 0;
+      font-size: 0.92rem;
+    }
+    th, td {
+      text-align: left;
+      padding: 0.6rem 0.75rem;
+      border-bottom: 1px solid #e5e5e5;
+    }
+    th {
+      font-weight: 600;
+      background: #fafafa;
+    }
+    ul { padding-left: 1.5rem; }
+    a { color: #c85d1a; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    code {
+      background: #f3f3f3;
+      padding: 0.15rem 0.4rem;
+      border-radius: 3px;
+      font-size: 0.88em;
+    }
+    .contact {
+      margin-top: 2.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #e5e5e5;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Privacy Policy</h1>
+  <p class="updated">Sanskrit Aid Chrome Extension &mdash; Last updated: 2026-03-20</p>
+
+  <div class="summary">
+    <strong>Summary:</strong> Sanskrit Aid does not collect, store, or transmit any personal data. All user preferences and feedback are stored locally on your device.
+  </div>
+
+  <h2>Data the Extension Accesses</h2>
+
+  <h3>Page Content</h3>
+  <p>The extension reads text on web pages you visit to detect Sanskrit (Devanagari) words when you select them. This text is processed locally in your browser and is never sent to any server, except as described below for word analysis and pronunciation.</p>
+
+  <h3>Selected Words</h3>
+  <p>When you select a Sanskrit word, the extension may send it to the following third-party services for analysis:</p>
+
+  <table>
+    <thead>
+      <tr><th>Service</th><th>Purpose</th><th>Data Sent</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Sanskrit Parser</td>
+        <td>Sandhi/compound splitting</td>
+        <td>The selected Sanskrit word</td>
+      </tr>
+      <tr>
+        <td>Dharmamitra</td>
+        <td>Deep compound analysis (fallback)</td>
+        <td>The selected word in IAST transliteration</td>
+      </tr>
+      <tr>
+        <td>Sanskrit TTS (self-hosted)</td>
+        <td>Audio pronunciation</td>
+        <td>The selected word in Devanagari</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>No personal information, browsing history, URLs, or page content beyond the individual selected word is ever transmitted.</p>
+
+  <h3>Audio Pronunciation</h3>
+  <p>When you click the speaker icon, the selected word is sent to a Cloudflare Worker, which either serves a cached audio file or generates one via a HuggingFace Space running the ai4bharat/indic-parler-tts model. Generated audio is cached for future use. Only the Sanskrit word and voice preset name are transmitted &mdash; no user identifiers.</p>
+
+  <h2>Data Storage</h2>
+
+  <h3>Local Only</h3>
+  <ul>
+    <li><strong>Extension preferences</strong> (enabled/disabled state): stored via Chrome's <code>chrome.storage.local</code> API, on your device only.</li>
+    <li><strong>Feedback submissions</strong>: stored via <code>chrome.storage.local</code> on your device. You can export feedback as JSON or clear it at any time. Feedback is never automatically transmitted anywhere.</li>
+  </ul>
+
+  <h3>No Accounts, No Tracking</h3>
+  <ul>
+    <li>No user accounts or sign-in required</li>
+    <li>No cookies set by the extension</li>
+    <li>No analytics, telemetry, or tracking of any kind</li>
+    <li>No advertising</li>
+  </ul>
+
+  <h2>Permissions Explained</h2>
+
+  <table>
+    <thead>
+      <tr><th>Permission</th><th>Why</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><code>activeTab</code></td>
+        <td>Read selected text on the current page to analyze Sanskrit words</td>
+      </tr>
+      <tr>
+        <td><code>storage</code></td>
+        <td>Save your preferences and feedback locally</td>
+      </tr>
+      <tr>
+        <td>Host permissions</td>
+        <td>Send selected words to sanskrit-parser and dharmamitra.org for grammatical analysis</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h2>Third-Party Services</h2>
+  <p>The extension relies on these third-party services. Their privacy policies apply to data they receive:</p>
+  <ul>
+    <li><strong>Sanskrit Parser</strong> (sanskrit-parser.appspot.com) &mdash; Open-source Sanskrit analysis tool</li>
+    <li><strong>Dharmamitra</strong> (dharmamitra.org) &mdash; Buddhist Digital Resource Center's Sanskrit analysis API</li>
+    <li><strong>Cloudflare</strong> (workers.dev) &mdash; Hosts the TTS caching layer. Subject to <a href="https://www.cloudflare.com/privacypolicy/">Cloudflare's privacy policy</a></li>
+    <li><strong>HuggingFace</strong> (hf.space) &mdash; Hosts the TTS model. Subject to <a href="https://huggingface.co/privacy">HuggingFace's privacy policy</a></li>
+  </ul>
+
+  <h2>Children's Privacy</h2>
+  <p>This extension does not knowingly collect any information from children under 13.</p>
+
+  <h2>Changes</h2>
+  <p>If this policy changes, the updated version will be published in the extension's GitHub repository and the Chrome Web Store listing.</p>
+
+  <div class="contact">
+    <h2 style="border: none; margin-top: 0; padding: 0;">Contact</h2>
+    <p>For questions about this privacy policy:</p>
+    <ul>
+      <li>GitHub: <a href="https://github.com/maheshcr/sanskrit-aid-chrome-plugin">github.com/maheshcr/sanskrit-aid-chrome-plugin</a></li>
+      <li>Email: <a href="mailto:hello@maheshcr.com">hello@maheshcr.com</a></li>
+    </ul>
+  </div>
+
+</body>
+</html>
